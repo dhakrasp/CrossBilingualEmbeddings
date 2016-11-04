@@ -1,0 +1,1001 @@
+ID	Value
+htd10000	दिसंबर\N_NN और\CC_CCD जनवरी\N_NN के\PSP बीच\N_NN बर्फ\N_NN गिरने\V_VM से\PSP यहाँ\PR_PRP का\PSP वातावरण\N_NN बेहद\RP_INTF सर्द\JJ होता\V_VM है\V_VAUX ।\RD_PUNC 
+htd9001	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP अंडमान\N_NNP जिले\N_NN में\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd9002	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 281.50\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9003	अंडमान\N_NNP द्वीप\N_NNP समूह\N_NNP की\PSP राजधानी\N_NN पोर्टब्लेयर\N_NNP जो\PR_PRL हवाई\N_NN अड्डा\N_NN भी\RP_RPD है\V_VAUX और\CC_CCD जहाँ\PR_PRL बंदरगाह\N_NN भी\RP_RPD है\V_VAUX ,\RD_PUNC उद्यान\N_NN से\PSP 20\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9004	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP समुद्री\JJ तटों\N_NN पर\PSP पाँच\QT_QTC प्रजाति\N_NN के\PSP कछुवे\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9005	समुद्र\N_NN तटों\N_NN पर\PSP पाये\V_VM जाने\V_VAUX वाले\N_NN ये\DM_DMD कछुए\N_NN हैं\V_VM -\RD_PUNC ग्रीन\N_NNP सी\N_NNP टर्टल\N_NNP ,\RD_PUNC हौक्साविल\N_NNP टर्टल\N_NNP ,\RD_PUNC लागरहेड\N_NNP टर्टल\N_NNP और\CC_CCD लेदर\N_NNP बैंक\N_NNP टर्टल\N_NNP ।\RD_PUNC
+htd9006	जंगली\N_NN सुअर\N_NN ,\RD_PUNC जलगोह\N_NN ,\RD_PUNC डॉल्फिन\N_NN ,\RD_PUNC बहुत\QT_QTF प्रकार\N_NN के\PSP सर्प\N_NN मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP अन्य\JJ वन्य\N_NN प्राणी\N_NN हैं\V_VM ।\RD_PUNC
+htd9007	पक्षियों\N_NN में\PSP सफेद\JJ वक्षस्थल\N_NN की\PSP समुद्री\JJ चील\N_NN ,\RD_PUNC अंडमानी\JJ वन\N_NN कबूतर\N_NN ,\RD_PUNC अंडमानी\JJ चैती\N_NN (\RD_SYM टील\N_NN )\RD_SYM हरियल\N_NN ,\RD_PUNC मोर\N_NN ,\RD_PUNC तोते\N_NN ,\RD_PUNC किलकिला\N_NN आदि\RP_RPD हैं\V_VAUX ।\RD_PUNC
+htd9008	यहाँ\PR_PRI की\PSP मूँगे\N_NN की\PSP चट्‍टानें\N_NN और\CC_CCD मछलियाँ\N_NN पर्यटकों\N_NN के\PSP आकर्षण\N_NN के\PSP केंद्र\N_NN हैं\V_VM ।\RD_PUNC
+htd9009	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP भ्रमण\V_VM के\PSP लिए\PSP दिसंबर\N_NNP से\PSP मार्च\N_NNP -\RD_PUNC अप्रैल\N_NNP तक\PSP के\PSP माह\N_NN उपयुक्‍त\N_NN हैं\V_VM ।\RD_PUNC
+htd9010	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP अरूणाचल\N_NNP प्रदेश\N_NNP के\PSP पूर्वी\N_NNP सियांग\N_NNP जिले\N_NN मे\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd9011	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 483\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd9012	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\N_NN नगर\N_NN ’\RD_PUNC पासघाट\N_NNP ’\RD_PUNC 16\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9013	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NNP मोरकोंगसेलक\N_NNP 36\QT_QTC किलोमीटर\N_NN दूर\JJ और\CC_CCD हवाई\N_NN अड्‍डा\N_NN लीलाबाड़ी\N_NNP लगभग\JJ 230\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9014	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP वर्षा\N_NNP ऋतु\N_NNP जुलाई\N_NNP से\PSP अक्‍टूबर\N_NNP तक\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9015	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्‍णकटिबंधीय\JJ अर्द्ध-सदाबहार\JJ वनों\N_NN से\PSP आच्छादित\N_NN है\V_VM ।\RD_PUNC
+htd9016	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VM वाले\N_NN वन्य\JJ पशुओं\N_NN में\PSP प्रमुख\N_NN बाघ\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC हिम\JJ तेंदुआ\N_NN ,\RD_PUNC हाथी\N_NN ,\RD_PUNC जंगली\JJ भैंस\N_NN ,\RD_PUNC बारहसिंगा\N_NN ,\RD_PUNC पांडा\N_NN ,\RD_PUNC काकड़\N_NN ,\RD_PUNC अजगर\N_NN साँप\N_NN हैं\V_VM ।\RD_PUNC
+htd9017	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP विभिन्न\JJ प्रकार\N_NN के\PSP पक्षी\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX जिनमें\PR_PRL धनेश\N_NNP प्रमुख\N_NN है\V_VAUX ।\RD_PUNC
+htd9018	मौलिंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP सैर\V_VM के\PSP लिए\PSP नवम्‍बर\N_NNP से\PSP अप्रैल\N_NNP तक\PSP का\PSP समय\N_NN अच्छा\JJ है\V_VM ।\RD_PUNC
+htd9019	नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उत्तर\N_NNP पूर्वी\N_NNP हिमालय\N_NNP में\PSP अरूणाचल\N_NNP प्रदेश\N_NNP के\PSP तरीप\N_NNP जिले\N_NN में\PSP 1985.23\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP विस्तृत\N_NN है\V_VM ।\RD_PUNC
+htd9020	नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF नजदीकी\JJ शहर\N_NN मार्गरीटा\N_NNP 62\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9021	नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN 90\QT_QTC किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC लेडो\N_NNP ’\RD_PUNC में\PSP है\V_VM और\CC_CCD हवाई\N_NN अड्डा\N_NN 140\QT_QTC किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC डिब्रूगढ़\N_NNP ’\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9022	नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\N_NN वन्य\JJ पशु\N_NN बाघ\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC बादली\N_NN तेंदुआ\N_NN (\RD_SYM लम\N_NN चिता\N_NN )\RD_SYM ,\RD_PUNC हिम\N_NN तेंदुआ\N_NN ,\RD_PUNC जंगली\N_NN भैंस\N_NN ,\RD_PUNC गौर\N_NN ,\RD_PUNC हाथी\N_NN ,\RD_PUNC भालू\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC काकड़\N_NN ,\RD_PUNC शर्मीली-बिल्ली\N_NN ,\RD_PUNC हुलाक\N_NN गिब्बन\N_NN ,\RD_PUNC लालपांडा\N_NN ,\RD_PUNC भालू-बिल्ली\N_NN तथा\N_NN कस्तूरी\N_NN मृग\N_NN गोरल\N_NN और\CC_CCD ताकिन\N_NN जैसे\JJ दुर्लभ\N_NN पशु\N_NN हैं\N_NN ।\RD_PUNC
+htd9023	नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP विविध\JJ प्रकार\N_NN के\PSP पक्षियों\N_NN का\PSP वासस्थल\N_NN है\V_VM ।\RD_PUNC
+htd9024	नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\N_NN पैजेंट\N_NN पक्षियों\N_NN में\PSP मोनाल\N_NN ,\RD_PUNC कलीज\N_NN और\CC_CCD मोर\N_NN प्रमुख\JJ हैं\V_VM ।\RD_PUNC
+htd9025	धनेश\N_NNP पक्षी\N_NN भी\RP_RPD नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP बहुलता\N_NN हैं\V_VM ।\RD_PUNC
+htd9026	बाघ\N_NNP परियोजना\N_NNP के\PSP अन्तर्गत\N_NN नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ’\RD_PUNC बाघ\N_NN रिजर्व\N_NN ’\RD_PUNC भी\RP_RPD है\V_VM इसलिए\CC_CCD बाघों\N_NN को\PSP यहाँ\PR_PRI विशेष\JJ संरक्षण\N_NN प्राप्‍त\V_VM है\V_VAUX ।\RD_PUNC
+htd9027	नवम्‍बर\N_NNP से\PSP मार्च\N_NNP तक\PSP के\PSP माह\N_NN नमदफा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP सैर\V_VM के\PSP लिए\PSP उपयुक्‍त\N_NN हैं\V_VM ।\RD_PUNC
+htd9028	असम\N_NNP का\PSP ’\RD_PUNC काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ’\RD_PUNC संकटापन्न\N_NNP एक\QT_QTC सींगवाले\JJ गैंडे\N_NN के\PSP प्रमुख\JJ वास-स्थल\N_NN के\PSP रूप\N_NN में\PSP विख्यात\JJ है\V_VM ।\RD_PUNC
+htd9029	यद्यपि\CC_CCS काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP वनारण्‍य\N_NN के\PSP रूप\N_NN में\PSP 1950\QT_QTC में\PSP स्थापित\N_NN किया\V_VAUX गया\V_VAUX था\V_VAUX किन्तु\CC_CCS 1974\QT_QTC में\PSP इसको\PR_PRI राष्‍ट्रीय\JJ उद्यान\N_NN के\PSP रूप\N_NN में\PSP परिवर्तित\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd9030	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 430\QT_QTC वर्ग\N_NN किलोमीटर\N_NN के\PSP क्षेत्र\N_NN में\PSP जोरहाट\N_NNP और\CC_CCD नौगाँव\N_NNP जिलों\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd9031	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP दक्षिण\N_NNP में\PSP मिकिर\N_NNP की\PSP पहाड़ियाँ\N_NN हैं\V_VAUX और\CC_CCD उत्तर\N_NNP में\PSP यह\PR_PRP ब्रह्मपुत्र\N_NNP नदी\N_NNP से\PSP घिरा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9032	दूसरा\QT_QTO निकटवर्ती\N_NN शहर\N_NN वोकेघाट\N_NNP है\V_VAUX जो\PR_PRL काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 23\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9033	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP निकटतम\N_NN हवाई\N_NN अड्डा\N_NN जोरहाट\N_NNP 96\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9034	इसके\PR_PRP लिए\PSP रेल\N_NN शीर्ष\N_NN ’\RD_PUNC मरियानी\N_NNP ’\RD_PUNC है\V_VM जो\PR_PRL काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 115\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9035	दुर्भाग्यवश\N_NN काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP इस\PR_PRP समय\N_NN अवैध\JJ ढंग\N_NN से\PSP आखेट\N_NN बढ़\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9036	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP चारों\QT_QTC ओर\N_NN घनी\JJ आबादी\N_NN के\PSP क्षेत्र\N_NN हैं\V_VAUX ।\RD_PUNC
+htd9037	चाय\N_NN ,\RD_PUNC धान\N_NN की\PSP खेती\N_NN ,\RD_PUNC और\CC_CCD झूम\N_NN की\PSP खेती\N_NN उद्यान\N_NN की\PSP सीमा\N_NN तक\PSP हो\V_VM रही\V_VAUX है\V_VAUX जिससे\PR_PRL काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP अतिक्रमण\N_NN हो\V_VM रहा\N_NN है\V_VAUX और\CC_CCD पारिस्थिति\N_NN का\PSP ह्रास\N_NN हो\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9038	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP एक\QT_QTC सींग\N_NN वाले\RP_RPD भारतीय\JJ गैंडों\N_NN और\CC_CCD जंगली\JJ भैंसों\N_NN के\PSP लिए\PSP प्रसिद्ध\N_NN है\V_VM और\CC_CCD उनके\PR_PRP कारण\N_NN आकर्षण\N_NN का\PSP केन्द्र\N_NN है\V_VM ।\RD_PUNC
+htd9039	ये\PR_PRP दोनों\QT_QTC पशु\N_NN प्रजातियाँ\N_NN संकटापन्न\N_NN हैं\V_VM और\CC_CCD उनकी\PR_PRP संख्या\N_NN में\PSP कमी\N_NN रोकने\V_VM के\PSP लिए\PSP काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP प्रयास\N_NN किए\V_VM जा\V_VAUX रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9040	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 1991\QT_QTC की\PSP गणना\N_NN के\PSP अनुसार\N_NN 1129\QT_QTC और\CC_CCD 1993\QT_QTC की\PSP गणना\N_NN के\PSP अनुसार\N_NN 1164\QT_QTC गैंडे\N_NN थे\V_VAUX जो\PR_PRL देश\N_NN में\PSP गैंडों\N_NN की\PSP कुल\N_NN संख्या\N_NN के\PSP 70\QT_QTC प्रतिशत\N_NN हैं\V_VM ।\RD_PUNC
+htd9041	संकटापन्न\JJ गैंडे\N_NN के\PSP सींग\N_NN के\PSP विषय\N_NN में\PSP एक\QT_QTC मिथ्या\N_NN धारणा\N_NN है\V_VAUX कि\CC_CCD उसके\PR_PRP सींग\N_NN से\PSP शक्‍तिवर्द्धक\JJ चूर्ण\N_NN औषधि\N_NN प्राप्‍त\V_VM होती\V_VAUX है\V_VAUX जिसके\PR_PRL कारण\N_NN उसके\PR_PRP सींग\N_NN की\PSP बहुत\QT_QTF माँग\N_NN है\V_VM ।\RD_PUNC
+htd9042	अंतर्राष्‍ट्रीय\N_NN बाजार\N_NN में\PSP संकटापन्न\JJ गैंडे\N_NN के\PSP सींग\N_NN की\PSP बहुत\QT_QTC कीमत\N_NN है\V_VM ।\RD_PUNC
+htd9043	अत:\CC_CCD गैंडों\N_NN को\PSP उसके\PR_PRP सींग\N_NN के\PSP अवैध\JJ व्यापार\N_NN के\PSP लिए\PSP बड़ी\JJ निर्दयता\N_NN से\PSP चोरी\N_NN छिपे\N_NN मारा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9044	अतएव\CC_CCD संकटापन्न\JJ गैंडे\N_NN का\PSP संरक्षण\N_NN करना\V_VAUX एक\QT_QTC समस्या\N_NN बन\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9045	काजीरंगा\N_NNP उद्यान\N_NNP के\PSP अंदर\PSP मोटर\N_NN मार्ग\N_NN है\V_VM और\CC_CCD सवारी\N_NN के\PSP लिए\PSP हाथी\N_NN उपलब्ध\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9046	काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP विश्रामगृह\N_NN भी\RP_RPD बने\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9047	काजीरंगा\N_NNP उद्यान\N_NNP के\PSP भ्रमण\N_NN के\PSP लिए\PSP नवम्‍बर\N_NN से\PSP मार्च\N_NN तक\PSP के\PSP माह\N_NN उपयुक्‍त\JJ हैं\V_VM ।\RD_PUNC
+htd9048	कामरूप\N_NNP गोलपाड़ा\N_NNP जिलों\N_NN में\PSP स्थित\V_VM मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 500\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9049	दक्षिण\N_NN में\PSP ब्रह्मपुत्र\N_NNP और\CC_CCD उत्तर\N_NN में\PSP मानस\N_NNP नदियों\N_NN के\N_NST बीच\N_NST में\PSP मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP बहुत\QT_QTF ही\RP_RPD शांत\N_NN ,\RD_PUNC प्राकृतिक\JJ सौंदर्य\N_NN से\PSP भरपूर\JJ और\CC_CCD मनमोहक\JJ है\V_VM ।\RD_PUNC
+htd9050	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP धरातल\N_NN एक\QT_QTC सार\N_NN और\CC_CCD उत्तर\N_NN से\PSP दक्षिण\N_NN की\PSP ओर\N_NN थोड़ा\QT_QTF ढलुवाँ\N_NN है\V_VM ।\RD_PUNC
+htd9051	’\RD_PUNC मानस\N_NNP ’\RD_PUNC तथा\CC_CCD उसकी\PR_PRP सहायक\JJ नदियाँ\N_NN ’\N_NN वेकी\N_NNP ’\RD_PUNC और\CC_CCD ’\RD_PUNC हकुवा\N_NNP ’\RD_PUNC मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP को\PSP उत्तर\N_NN दिशा\N_NN में\PSP भूटान\N_NNP राज्य\N_NNP से\PSP अलग\N_NN करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9052	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP सबसे\QT_QTF निकट\JJ हवाई\N_NN अड्‍डा\N_NN गुवाहाटी\N_NNP 180\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9053	रेल\N_NN शीर्ष\N_NN वाड़पेटा\N_NNP रोड\N_NNP है\V_VM जहाँ\PR_PRL से\PSP मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP सीमा\N_NN तक\PSP मोटर\N_NN मार्ग\N_NN है\V_VM ।\RD_PUNC
+htd9054	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP भारी\JJ वर्षा\N_NN वाले\RP_RPD क्षेत्र\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd9055	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\N_NN है\V_VM और\CC_CCD यहाँ\DM_DMD के\PSP वन\N_NN ,\RD_PUNC नम\JJ मिश्रित\N_NN पर्णपाती\N_NN व\CC_CCD अर्द्ध\JJ सदाहरित\N_NN हैं\V_VM ।\RD_PUNC
+htd9056	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP इन\DM_DMD वनों\N_NN के\N_NST बीच\N_NST में\PSP पानी\N_NN के\PSP दलदल\N_NN हैं\V_VM ।\RD_PUNC
+htd9057	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP इन\DM_DMD वनों\N_NN में\PSP साल\N_NN के\PSP अतिरिक्‍त\N_NN खैर\N_NN ,\RD_PUNC शीशम\N_NN और\CC_CCD घास\N_NN से\PSP लेकर\PSP अर्द्ध\JJ सदारहित\JJ प्रजाति\N_NN के\PSP पेड़\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9058	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP इन\DM_DMD वनों\N_NN में\PSP जगह-जगह\N_NN पर\PSP पतझड़\N_NN वाले\RP_RPD वृक्ष\N_NN ,\RD_PUNC दलदल\N_NN वाले\RP_RPD नरकुल\N_NN आदि\N_NN वनस्पतियाँ\N_NN मिलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9059	सघन\JJ और\CC_CCD संपन्न\JJ वनस्पतियों\N_NN के\N_NST बीच\N_NST में\PSP यहाँ\DM_DMD विविध\JJ प्रकार\N_NN के\PSP पशु\N_NN -\RD_PUNC पक्षी\N_NN वास\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9060	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन्य\JJ जीवों\N_NN में\PSP हाथी\N_NN ,\RD_PUNC बाघ\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC बादली\N_NN तेंदुआ\N_NN ,\RD_PUNC गौर\N_NN ,\RD_PUNC जंगली\N_NN भैंस\N_NN ,\RD_PUNC गैंडा\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC बारहसिंगा\N_NN ,\RD_PUNC पाड़ा\N_NN कट्‍टास\N_NN ,\RD_PUNC भालू\N_NN ,\RD_PUNC गिलहरी\N_NN वन्य\N_NN सुअर\N_NN ,\RD_PUNC सुनहरा\N_NN लंगूर\N_NN ,\RD_PUNC टोपीयुक्‍त\N_NN बंदर\N_NN ,\RD_PUNC घड़ियाल\N_NN ,\RD_PUNC अजगर\N_NN ,\RD_PUNC ऊदबिलाव\N_NN ,\RD_PUNC गोह\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9061	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उत्तर\N_NN पूर्व\N_NN में\PSP सर्वाधिक\QT_QTF हाथियों\N_NN का\PSP वासस्थल\N_NN है\V_VM ।\RD_PUNC
+htd9062	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP दृढ़लोमी\N_NN खरगोश\N_NN और\CC_CCD बौना\N_NN सुअर\N_NN दो\QT_QTC दुर्लभ\JJ पशु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9063	काला\JJ और\CC_CCD बादामी\JJ तेंदुआ\N_NN व\CC_CCD सुनहरा\JJ लंगूर\N_NN जैसे\N_NN दुर्लभ\JJ श्रेणी\N_NN के\PSP पशु\N_NN भी\RP_RPD मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9064	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP चोरी\N_NN छिपे\N_NN हाथियों\N_NN को\PSP उनके\PR_PRP दाँतो\N_NN के\PSP लिए\PSP ,\RD_PUNC बाघों\N_NN को\PSP उनकी\PR_PRP हड्डियों\N_NN ,\RD_PUNC दाँत\N_NN ,\RD_PUNC खाल\N_NN आदि\N_NN के\PSP लिए\PSP और\CC_CCD गैंडों\N_NN को\PSP उनके\PR_PRP सींगों\N_NN के\PSP लिए\PSP मारा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9065	बाघों\N_NN की\PSP सुरक्षा\N_NN के\PSP लिए\PSP मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP बाघ\N_NNP रिजर्व\N_NNP परियोजना\N_NNP क्रियान्वित\N_NN की\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9066	बाघ\N_NNP रिजर्व\N_NNP परियोजना\N_NNP के\PSP कारण\N_NN बाघ\N_NN की\PSP सुरक्षा\N_NN के\PSP साथ-साथ\N_NN हाथी\N_NN ,\RD_PUNC गैंडा\N_NN और\CC_CCD अन्य\N_NN दुर्लभ\N_NN पशुओं\N_NN के\PSP संरक्षण\N_NN को\PSP भी\RP_RPD बल\N_NN मिल\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9067	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP सैर\N_NN के\PSP लिए\PSP जनवरी\N_NN -\RD_PUNC फरवरी\N_NN के\PSP माह\N_NN सर्वोत्तम\N_NN हैं\V_VM ।\RD_PUNC
+htd9068	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP ’\RD_PUNC वनशारी\N_NNP ’\RD_PUNC और\CC_CCD ’\RD_PUNC मोतागुड़ी\N_NNP ’\RD_PUNC में\PSP विश्राम\JJ गृह\N_NN हैं\V_VM ।\RD_PUNC
+htd9069	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP दृश्यों\N_NN का\PSP अवलोकन\N_NN करने\V_VM के\PSP लिए\PSP यहाँ\DM_DMD कैंप\N_NN भी\RP_RPD बनाए\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9070	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP आंध्र\N_NNP प्रदेश\N_NNP राज्य\N_NN के\PSP चित्तूर\N_NNP और\CC_CCD कुडप्पा\N_NNP जिलों\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9071	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 352.62\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9072	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP तिरुपति\N_NNP रेल-शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9073	तिरुपति\N_NNP में\PSP हवाई\N_NN अड्डा\N_NN भी\RP_RPD है\V_VM जो\PR_PRL श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 50\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9074	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंध\N_NN में\PSP आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9075	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN उष्णकटिबंधीय\JJ शुष्‍क\JJ पर्णपाती\JJ हैं\V_VM ।\RD_PUNC
+htd9076	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP ’\RD_PUNC रेड\N_NN सैडर्स\N_NN ’\RD_PUNC बहुमूल्‍य\JJ पेड़\N_NN है\V_VM ।\RD_PUNC
+htd9077	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD वन्य\JJ पशु\N_NN बाघ\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC भालू\N_NN ,\RD_PUNC वन्य\N_NN सुअर\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC चौसिंग\N_NN ,\RD_PUNC जंगली\N_NN कुत्ते\N_NN ,\RD_PUNC भेड़िया\N_NN ,\RD_PUNC गीदड़\N_NN ,\RD_PUNC लोमड़ी\N_NN ,\RD_PUNC लंगूर\N_NN ,\RD_PUNC बंदर\N_NN ,\RD_PUNC गिलहरी\N_NN हैं\V_VM ।\RD_PUNC
+htd9078	पक्षियों\N_NN में\PSP तीतर\N_NN ,\RD_PUNC बटेर\N_NN ,\RD_PUNC मोर\N_NN ,\RD_PUNC वन\N_NN मुर्गी\N_NN ,\RD_PUNC कबूतर\N_NN आदि\N_NN श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9079	श्रीवैंकटेश्‍वर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP पर्यटन\N_NN के\PSP लिए\PSP नवम्‍बर\N_NN से\PSP फरवरी\N_NN तक\PSP के\PSP माह\N_NN उपयुक्‍त\N_NN हैं\V_VM ।\RD_PUNC
+htd9080	फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1981\QT_QTC में\PSP की\V_VM गई\V_VAUX ।\RD_PUNC
+htd9081	फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP चमोली\N_NNP जिले\N_NN में\PSP 87.50\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd9082	कोनाकार\JJ आकृति\N_NN में\PSP अकेले\N_NN फूलों\N_NN की\PSP घाटी\N_NN (\RD_SYM वैली\N_NN आफ\N_NN फ्लावर्स\N_NN )\RD_SYM 10\QT_QTC किलोमीटर\N_NN लंबी\N_NN और\CC_CCD 2\QT_QTC किलोमीटर\N_NN चौड़ी\N_NN है\V_VAUX ।\RD_PUNC
+htd9083	ऋषिकेश\N_NNP -\RD_PUNC बद्रीनाथ\N_NNP मुख्य\JJ मोटर\N_NN मार्ग\N_NN पर\PSP स्थित\N_NN जोशीमठ\N_NNP नगर\N_NNP से\PSP फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 34\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9084	जोशीमठ\N_NNP से\PSP 18\QT_QTC किलोमीटर\N_NN दूर\N_NN गोविंद\N_NNP घाट\N_NNP है\V_VM जहाँ\PR_PRL से\PSP 16\QT_QTC किलोमीटर\N_NN ट्रैकिंग\N_NN के\PSP बाद\N_NST इस\DM_DMD फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP प्रवेश\N_NN किया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9085	ऋषिकेश\N_NNP ,\RD_PUNC जो\PR_PRL फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल-शीर्ष\N_NN है\V_VM ,\RD_PUNC उद्यान\N_NN से\PSP लगभग\JJ 300\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9086	फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP निकटतम\JJ हवाई\N_NN अड्डा\N_NN लगभग\JJ 310\QT_QTC किलोमीटर\N_NN दूर\N_NN देहरादून\N_NNP (\RD_SYM जौलीग्रांट\N_NNP )\RD_SYM में\PSP है\V_VM ।\RD_PUNC
+htd9087	फूलों\N_NNP की\N_NNP घाटी\N_NNP को\RP_RPD वर्ष\N_NN 1931\QT_QTF में\PSP फ्रैंक\N_NNP स्माइथ\N_NNP और\CC_CCD होल्डसवर्थ\N_NNP पर्वतरोहियों\N_NN ने\PSP संयोगवश\N_NN ,\RD_PUNC अपनी\PR_PRF सफल\N_NN कामेत\N_NNP हिम\N_NNP यात्रा\N_NN से\PSP लौटते\V_VM हुए\V_VAUX खोजा\V_VM था\V_VAUX और\CC_CCD विश्‍व\N_NN की\PSP इस\DM_DMD दर्शनीय\JJ घाटी\N_NN को\PSP ,\RD_PUNC जो\PR_PRL बाहरी\JJ दुनिया\N_NN से\PSP छिपी\V_VM हुई\V_VAUX थी\V_VAUX ,\RD_PUNC उजागर\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9088	फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN शीतकटिबंधीय\JJ (\RD_SYM एल्पाइन\JJ )\RD_SYM है\V_VM ।\RD_PUNC
+htd9089	फूलों\N_NNP की\N_NNP घाटी\N_NNP उद्यान\N_NNP की\PSP ऊँचाई\N_NN समुद्रतल\N_NN से\PSP 3\QT_QTC ,\RD_PUNC 350\QT_QTC मीटर\N_NN तक\PSP है\V_VM ।\RD_PUNC
+htd9090	’\RD_PUNC पुष्पावती\N_NNP नदी\N_NNP ’\RD_PUNC फूलों\N_NNP की\N_NNP घाटी\N_NNP उद्यान\N_NNP के\PSP पास\N_NN से\PSP होकर\V_VM बहती\V_VM है\V_VAUX और\CC_CCD हिमालय\N_NNP की\PSP ’\RD_PUNC रतवन\N_NNP ’\RD_PUNC चोटी\N_NN इसके\PR_PRP पृष्‍ठ\N_NN भाग\N_NN में\PSP भव्य\JJ रूप\N_NN से\PSP खड़ी\N_NN है\V_VM ।\RD_PUNC
+htd9091	जब\PR_PRL जून\N_NN में\PSP बर्फ\N_NN पिघल\V_VM जाती\V_VAUX है\V_VAUX तो\PR_PRL फूलों\N_NNP की\N_NNP घाटी\N_NNP में\PSP जुलाई\N_NN -\RD_PUNC अगस्त\N_NN के\PSP महीनों\N_NN में\PSP विविध\JJ प्रकार\N_NN के\PSP असंख्य\JJ फूल\N_NN खिल\V_VM उठते\V_VAUX हैं\V_VAUX जिनकी\PR_PRL छटा\N_NN पर्यटकों\N_NN को\PSP मंत्रमुग्ध\N_NN कर\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9092	फूलों\N_NNP की\N_NNP घाटी\N_NNP के\PSP इन\DM_DMD फूलों\N_NN में\PSP रोडोडेड्रम\N_NN ,\RD_PUNC प्राइमलस\N_NN और\CC_CCD पोटंटिलाज\N_NN प्रमुख\N_NN हैं\V_VM ।\RD_PUNC
+htd9093	फूलों\N_NNP की\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP मुख्य\JJ वन्य\JJ पशु\N_NN भूरा\JJ भालू\N_NN ,\RD_PUNC काला\JJ भालू\N_NN ,\RD_PUNC हिम\JJ तेंदुआ\N_NN ,\RD_PUNC भरल\N_NN ,\RD_PUNC कस्तूरी\JJ मृग\N_NN हैं\V_VM ।\RD_PUNC
+htd9094	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP चमोली\N_NNP जिले\N_NN में\PSP 630\QT_QTC किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9095	एक\QT_QTC समय\N_NN था\V_VAUX जब\PR_PRL नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP असंख्य\QT_QTF पैदल\JJ यात्री\N_NN ,\RD_PUNC पर्वतारोही\N_NN और\CC_CCD प्रकृतिप्रेमी\N_NN आते\V_VM थे\V_VAUX किन्तु\CC_CCD यहाँ\DM_DMD के\PSP पर्यावरण\N_NN में\PSP तेजी\RB से\PSP क्षति\N_NN हुई\V_VM इसलिए\CC_CCD इस\PR_PRP प्रतिकूल\RB प्रभाव\N_NN को\PSP रोकने\V_VM के\PSP लिए\PSP 1982\QT_QTC में\PSP इसको\PR_PRP वनारण्य\N_NN से\PSP उद्यान\N_NN बना\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd9096	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ऋषिकेश\N_NNP रेल\N_NN शीर्ष\N_NN से\PSP 291\QT_QTC किलोमीटर\N_NN दूर\JJ है\V_VM ।\RD_PUNC
+htd9097	ऋषिकेश\N_NNP -\RD_PUNC बद्रीनाथ\N_NNP मुख्य\JJ मोटर\N_NN मार्ग\N_NN पर\N_NN स्थित\N_NN जोशीमठ\N_NNP नगर\N_NNP ऋषिकेश\N_NNP से\PSP 250\QT_QTC किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9098	जोशीमठ\N_NNP से\PSP नंदादेवी\N_NNP उद्यान\N_NNP 41\QT_QTC किलोमीटर\N_NN दूर\JJ है\V_VM ।\RD_PUNC
+htd9099	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटस्थ\JJ हवाई\N_NN अड्डा\N_NN लगभग\JJ 310\QT_QTC किलोमीटर\N_NN दूर\JJ देहरादून\N_NNP (\RD_SYM जौलीग्रांट\N_NNP )\RD_SYM में\PSP है\V_VM ।\RD_PUNC
+htd9100	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP समुद्र\N_NN तल\N_NN से\PSP औसत\N_NN ऊँचाई\N_NN 4\QT_QTC ,\RD_PUNC 500\QT_QTC मीटर\N_NN है\V_VM ।\RD_PUNC
+htd9101	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP लगभग\JJ 70\QT_QTC ऊँची\JJ हिम\N_NN चोटियों\N_NN से\PSP घिरा\V_VM हुआ\V_VAUX है\V_VAUX जिनमे\PR_PRL नंदादेवी\N_NNP की\PSP चोटी\N_NN 7\QT_QTC ,\RD_PUNC \RD_PUNC 817\QT_QTC मीटर\N_NN सबसे\RP_INTF ऊँची\JJ है\V_VM ।\RD_PUNC
+htd9102	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP वास\N_NN करने\V_VM वाले\RP_RPD वन्य\JJ पशु\N_NN हिम\JJ तेंदुआ\N_NN ,\RD_PUNC जंगली\JJ सुअर\N_NN ,\RD_PUNC भूरा\JJ और\CC_CCD काला\JJ हिमालयी\JJ भालू\N_NN ,\RD_PUNC भरल\N_NN ,\RD_PUNC थार\N_NN ,\RD_PUNC सेराव\N_NN ,\RD_PUNC गोरल\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC कस्तूरी\N_NN मृग\N_NN हैं\V_VM ।\RD_PUNC
+htd9103	मई\N_NN से\PSP सितंबर\N_NN तक\PSP नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP सैर\N_NN के\PSP लिए\PSP सुविधाजनक\JJ मौसम\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9104	नंदा\N_NNP देवी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वर्तमान\JJ स्थिति\N_NN को\PSP देखते\V_VM हुए\V_VAUX पर्यटकों\N_NN व\CC_CCD पर्वतरोहियों\N_NN के\PSP लिए\PSP बंद\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9105	गोविंद\N_NNP पशु-विहार\N_NNP उत्तरकाशी\N_NNP जिले\N_NN में\PSP 472\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP विस्तृत\N_NN है\V_VM ।\RD_PUNC
+htd9106	देहरादून\N_NNP इस\DM_DMD गोविंद\N_NNP पशु-विहार\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ हवाई\N_NN अड्डा\N_NN और\CC_CCD रेल\N_NN शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9107	मोटर\N_NN मार्ग\N_NN द्वारा\PSP देहरादून\N_NNP से\PSP मसूरी\N_NNP होते\V_VM हुए\V_VAUX गोविंद\N_NNP पशु-विहार\N_NNP की\PSP दूरी\N_NN 180\QT_QTC किलोमीटर\N_NN है\V_VM और\CC_CCD विकास\N_NNP नगर\N_NNP होते\V_VM हुए\V_VAUX 200\QT_QTC किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9108	गोविंद\N_NNP पशु-विहार\N_NNP के\PSP वन्य\JJ पशु\N_NN हिम\JJ तेंदुआ\N_NN ,\RD_PUNC भूरा\JJ व\CC_CCD काला\JJ भालू\N_NN ,\RD_PUNC कस्तूरी\JJ मृग\N_NN ,\RD_PUNC थार\N_NN ,\RD_PUNC भरल\N_NN ,\RD_PUNC सेराब\N_NN ,\RD_PUNC पारा\N_NN हैं\V_VM ।\RD_PUNC
+htd9109	गोविंद\N_NNP पशु-विहार\N_NNP का\PSP भ्रमण\N_NN करने\V_VM के\PSP लिए\PSP अप्रैल\N_NN से\PSP मध्य\JJ जून\N_NN और\CC_CCD सितंबर\N_NN -\RD_PUNC अक्‍टूबर\N_NN के\PSP महीने\N_NN उपयुक्‍त\N_NN हैं\V_VM ।\RD_PUNC
+htd9110	गोविंद\N_NNP पशु-विहार\N_NNP में\PSP पर्यटकों\N_NN के\PSP ठहरने\V_VM के\PSP लिए\PSP नैटवार\N_NNP ,\RD_PUNC तालुका\N_NNP ,\RD_PUNC ओसला\N_NNP ,\RD_PUNC हरि\N_NNP की\N_NNP दून\N_NNP ,\RD_PUNC जखोल\N_NNP ,\RD_PUNC दूनी\N_NNP में\PSP वन\N_NN विभाग\N_NN के\PSP विश्राम\N_NN गृह\N_NN हैं\V_VM ।\RD_PUNC
+htd9111	गंगोत्री\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ,\RD_PUNC उत्तरकाशी\N_NNP जिले\N_NN में\PSP 2\QT_QTC ,\RD_PUNC 390\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9112	गंगोत्री\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटस्थ\JJ कस्बा\N_NN हरसिल\N_NNP 30\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9113	उत्तरकाशी\N_NNP नगर\N_NNP ,\RD_PUNC जो\PR_PRL जिले\N_NN का\PSP मुख्यालय\N_NN है\V_VM ,\RD_PUNC गंगोत्री\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 100\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9114	गंगोत्री\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD वन्य\JJ पशु\N_NN -\RD_PUNC भूरा\JJ भालू\N_NN ,\RD_PUNC भरल\V_VAUX सेराव\N_NN हैं\V_VM ।\RD_PUNC
+htd9115	गंगोत्री\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD पक्षियों\N_NN में\PSP मोनाल\N_NN ,\RD_PUNC चीर\N_NN फैजेंट\N_NN ,\RD_PUNC चकीर\N_NN हैं\V_VM ।\RD_PUNC
+htd9116	गंगोत्री\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP भ्रमण\N_NN करने\V_VM के\PSP लिए\PSP मई\N_NN से\PSP अक्‍टूबर\N_NN तक\PSP के\PSP महीने\N_NN सुविधाजनक\JJ हैं\V_VM ।\RD_PUNC
+htd9117	गढ़वाल\N_NNP मंडल\N_NN विकास\N_NN निगम\N_NN के\PSP उत्तरकाशी\N_NNP ,\RD_PUNC भैंरोघाटी\N_NNP ,\RD_PUNC लंका\N_NNP ,\RD_PUNC गंगोत्री\N_NNP और\CC_CCD भोजवासा\N_NNP में\PSP पर्यटक\JJ गृह\N_NN हैं\V_VM ।\RD_PUNC
+htd9118	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहले\N_NN ’\RD_PUNC हेली\N_NNP नेशनल\N_NNP पार्क\N_NNP ’\RD_PUNC के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9119	सन्\N_NN 1935\QT_QTC में\PSP तत्कालीन\JJ गवर्नर\N_NN सर\N_NNP मलकाम\N_NNP हेली\N_NNP ने\PSP कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP को\PSP स्थापित\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9120	भारत\N_NNP के\PSP स्वतंत्र\N_NN होने\V_VM के\PSP पश्‍चात\N_NN इसको\PR_PRP ’\RD_PUNC रामगंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ’\RD_PUNC नाम\N_NN दिया\V_VM गया\V_VAUX और\CC_CCD अंत\N_NN में\PSP इसका\PR_PRP पुन:\QT_QTF नामकरण\N_NN सुविख्यात\JJ प्रकृति\N_NN प्रेमी\N_NN जिम\N_NNP कार्बेट\N_NNP के\PSP नाम\N_NN पर\PSP कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9121	जिम\N_NNP कार्बेट\N_NNP ने\PSP अपने\PR_PRF जीवन\N_NN की\PSP लंबी\JJ अवधि\N_NN इसी\DM_DMD क्षेत्र\N_NN में\PSP व्यतीत\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd9122	सन्‌\N_NN 1973\QT_QTC से\PSP बाघ\N_NNP परियोजना\N_NNP के\PSP अंतर्गत\N_NN कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP बाघ\N_NN रिजर्व\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9123	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 521\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9124	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP गढ़वाल\N_NNP और\CC_CCD नैनीताल\N_NNP जिलों\N_NN के\PSP कालागढ़\N_NNP और\CC_CCD रामनगर\N_NNP वन\N_NN खंडों\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9125	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF समीप\JJ शहर\N_NN रामनगर\N_NNP 3\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9126	रामनगर\N_NNP रेल\N_NN शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9127	सबसे\RP_INTF नजदीकी\JJ हवाई\N_NN अड्डा\N_NN कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 80\QT_QTC किलोमीटर\N_NN दूर\N_NN फूलबाग\N_NNP (\RD_SYM नैनीताल\N_NNP )\RD_SYM में\PSP है\V_VM ।\RD_PUNC
+htd9128	दिल्ली\N_NNP से\PSP रेल\N_NN द्वारा\PSP रामनगर\N_NNP 240\QT_QTC किलोमीटर\N_NN और\CC_CCD मोटर\N_NN मार्ग\N_NN द्वारा\PSP 290\QT_QTC किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9129	दंतकथाओं\N_NN से\PSP घिरी\V_VM हुई\V_VAUX जिम\N_NNP कार्बेट\N_NNP की\PSP यह\DM_DMD कर्म\JJ स्थली\N_NN प्रकृति\N_NN प्रेमियों\N_NN के\PSP लिए\PSP स्वर्ग\N_NN है\V_VM ।\RD_PUNC
+htd9130	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP बाघों\N_NN की\PSP धरती\N_NN के\PSP नाम\N_NN से\PSP भी\RP_RPD लोकप्रिय\JJ है\V_VM ।\RD_PUNC
+htd9131	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP हिमालय\N_NNP की\PSP भव्य\JJ पर्वतमालाओं\N_NN ,\RD_PUNC \RD_PUNC रामगंगा\N_NNP नदी\N_NN के\PSP तटों\N_NN पर\N_NN फैले\V_VM हुए\V_VAUX पतलीदून\N_NNP और\CC_CCD ढलवे\N_NNP शिवालिक\N_NNP की\PSP श्रृंखलाओं\N_NN से\PSP मिले\V_VM हुए\V_VAUX सपाट\N_NN ,\RD_PUNC \RD_PUNC चौरस\N_NN घास\N_NN के\PSP मैदानों\N_NN ,\RD_PUNC \RD_PUNC जिन्हें\PR_PRL ’\RD_PUNC चौड़\N_NN ’\RD_PUNC कहते\V_VM है\V_VAUX में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9132	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP बाघों\N_NN की\PSP अनुमानित\JJ संख्या\N_NN 250\QT_QTC है\V_VM ।\RD_PUNC
+htd9133	बाघों\N_NN को\PSP संरक्षण\N_NN देने\V_VM के\PSP लिए\PSP कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP बाघ\N_NN रिजर्व\N_NN बनाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9134	बाघ\N_NN के\PSP अतिरिक्‍त\JJ जिम\N_NNP कार्बेट\N_NNP के\PSP वन्य\JJ पशु\N_NN हाथी\N_NN ,\RD_PUNC तेंदुआ\N_NN (\RD_SYM लैपर्ड\N_NN व\CC_CCD पैंथर\N_NN )\RD_SYM जंगली\JJ सुअर\N_NN ,\RD_PUNC भालू\N_NN ,\RD_PUNC चिता\N_NN -\RD_PUNC बिल्ली\N_NN ,\RD_PUNC जंगली\JJ बिल्ली\N_NN ,\RD_PUNC नील\JJ गाय\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC चीतल\N_NN ,\RD_PUNC पाड़ा\N_NN ,\RD_PUNC काकड़\N_NN ,\RD_PUNC बारहसिंगा\N_NN ,\RD_PUNC साही\N_NN ,\RD_PUNC बंदर\N_NN ,\RD_PUNC लंगूर\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9135	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP कई\QT_QTF प्रकार\N_NN के\PSP साँप\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX जिनमें\PR_PRL अजगर\N_NN और\CC_CCD किंग\N_NN कोबरा\N_NN विशेष\N_NN हैं\V_VM ।\RD_PUNC
+htd9136	कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 600\QT_QTC से\PSP भी\RP_RPD अधिक\JJ पक्षियों\N_NN की\PSP प्रजातियाँ\N_NN मिलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9137	जाड़ों\N_NN में\PSP प्रवासी\JJ पक्षी\N_NN कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP बड़ी\JJ संख्या\N_NN में\PSP आ\V_VM बसते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9138	जिला\N_NN ’\RD_PUNC खेरी\N_NNP ’\RD_PUNC में\PSP स्थित\N_NN इस\DM_DMD दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1968\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9139	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 488\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9140	दुधवा\N_NNP शहर\N_NN इस\DM_DMD दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 4\QT_QTC किलोमीटर\N_NN दूर\N_NN स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9141	दुधवा\N_NNP शहर\N_NN उद्यान\N_NN के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9142	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सबसे\RP_INTF निकट\N_NN का\PSP हवाई\N_NN अड्डा\N_NN लखनऊ\N_NNP (\RD_SYM अमौसी\N_NNP )\RD_SYM में\PSP है\V_VM जो\PR_PRL लगभग\JJ 250\N_NN किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9143	लखनऊ\N_NNP से\PSP दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP रेल\N_NN मार्ग\N_NN से\PSP 338\QT_QTC किलोमीटर\N_NN और\CC_CCD दिल्ली\N_NNP से\PSP 422\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9144	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वनभूमि\N_NN के\PSP 80\QT_QTC प्रतिशत\N_NN भाग\N_NN में\PSP साल\N_NN वृक्ष\N_NN हैं\V_VM और\CC_CCD 20\QT_QTC प्रतिशत\N_NN नम\JJ भूमि\N_NN में\PSP घास\N_NN के\PSP मैदान\N_NN ,\RD_PUNC झील\N_NN ,\RD_PUNC तालाब\N_NN और\CC_CCD नदियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd9145	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP जंगली\JJ क्षेत्र\N_NN कठोर\JJ हैं\V_VAUX और\CC_CCD घास\N_NN के\PSP मैदानों\N_NN के\PSP क्षेत्र\N_NN दलदली\JJ व\CC_CCD मुलायम\JJ हैं\V_VM ।\RD_PUNC
+htd9146	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP घास\N_NN के\PSP मैदान\N_NN चपटे\JJ -\RD_PUNC सपाट\JJ और\CC_CCD दलदली\JJ हैं\V_VM ।\RD_PUNC
+htd9147	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP मुलायम\JJ भूमि\N_NN पर\PSP चलने\V_VM वाले\RP_RPD बारहसिंगा\N_NN की\PSP संरक्षण\JJ स्थली\N_NN है\V_VM ।\RD_PUNC
+htd9148	इन\PR_PRP संकटापन्न\JJ बारहसिंगों\N_NN के\PSP लिए\PSP दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP विशेष\JJ संरक्षण\N_NN दिया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9149	एक\QT_QTC सदी\N_NN पूर्व\QT_QTF भारती\JJ गैंडा\N_NN दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP लुप्‍त\N_NN हो\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9150	एक\QT_QTC योजना\N_NN के\PSP अन्तर्गत\N_NN असम\N_NNP और\CC_CCD नेपाल\N_NNP से\PSP 1984\QT_QTC -\RD_PUNC 85\QT_QTC में\PSP गैंडों\N_NN को\PSP लाकर\V_VM दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पुन:\QT_QTF बसाया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9151	अब\N_NN दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP उनकी\PR_PRP वृद्धि\N_NN हो\V_VM रही\V_VAUX है\V_VAUX और\CC_CCD बाघ\N_NN के\PSP साथ-साथ\N_NN इस\DM_DMD उद्यान\N_NN में\PSP गैंडे\N_NN आकर्षण\N_NN के\PSP केंद्र\N_NN हैं\V_VM ।\RD_PUNC
+htd9152	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD अन्य\QT_QTF वन्य\JJ पशु\N_NN तेंदुआ\N_NN ,\RD_PUNC जंगली\JJ सुअर\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC चीतल\N_NN ,\RD_PUNC पाड़ा\N_NN ,\RD_PUNC काकड़\N_NN ,\RD_PUNC साही\N_NN ,\RD_PUNC अजगर\N_NN ,\RD_PUNC लोमड़ी\N_NN ,\RD_PUNC गीदड़\N_NN हैं\V_VM ।\RD_PUNC
+htd9153	दुधवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 400\QT_QTC प्रजातियों\N_NN के\PSP पक्षी\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9154	दुधवा\N_NNP उद्यान\N_NNP में\PSP मोर\N_NN ,\RD_PUNC जंगली\JJ मुर्गी\N_NN ,\RD_PUNC तीतर\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9155	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP हरिद्वार\N_NNP और\CC_CCD पौड़ी\N_NNP -\RD_PUNC गढ़वाल\N_NNP जिलों\N_NN की\PSP शिवालिक\N_NNP पहाड़ियों\N_NN में\PSP 820\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9156	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहले\QT_QTF से\PSP बने\V_VM हुए\V_VAUX राजाजी\N_NNP ,\RD_PUNC मोतीचूर\N_NNP और\CC_CCD चीला\N_NNP वनारण्यों\N_NN को\PSP मिलाकर\V_VM संगठित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9157	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN हरिद्वार\N_NNP 6\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ,\RD_PUNC जो\PR_PRL उद्यान\N_NN तक\PSP पहुँचने\V_VM के\PSP लिए\PSP रेलशीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9158	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP कम\JJ से\PSP कम\JJ 20\QT_QTC स्तनधारी\JJ वन्य\N_NN पशु\N_NN और\CC_CCD 300\QT_QTC से\PSP अधिक\QT_QTC अन्य\JJ पशु\N_NN प्रजातियाँ\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9159	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP उत्तर\JJ भारत\N_NN के\PSP सबसे\RP_INTF अधिक\QT_QTF (\RD_SYM 300\QT_QTC से\PSP 400\QT_QTC )\RD_SYM तक\PSP हाथी\N_NN वास\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9160	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP पारिप्रणाली\N_NN को\PSP उसके\PR_PRP अंदर\N_NN तथा\CC_CCD सीमा\N_NN से\PSP लगी\V_VM हुई\V_VAUX मनुष्य\N_NN की\PSP आबादी\N_NN से\PSP क्षति\N_NN पहुँच\V_VM रही\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9161	राजाजी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP गूजर\N_NN ,\RD_PUNC टोंगिया\N_NN और\CC_CCD गोठिया\N_NN लोग\N_NN तो\RP_RPD निवास\N_NN कर\V_VM ही\RP_RPD रहे\V_VAUX हैं\V_VAUX यहाँ\DM_DMD सैनिक\N_NN ठिकाने\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd9162	चीला\N_NNP पावर\N_NNP स्टेशन\N_NNP भी\RP_RPD राजाजी\N_NNP उद्यान\N_NNP के\PSP अंदर\N_NN बना\V_VM है\V_VAUX और\CC_CCD टिहरी\N_NNP डैम\N_NNP के\PSP विस्थापितों\N_NN को\PSP भी\RP_RPD बसाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9163	इस\DM_DMD प्रकार\N_NN की\PSP आबादी\N_NN और\CC_CCD उनकी\PR_PRP गतिविधियाँ\N_NN निश्‍चय\N_NN ही\RP_RPD जानवरों\N_NN के\PSP जीवन\N_NN व\CC_CCD स्वभाव\N_NN पर\PSP प्रतिकूल\N_NN प्रभाव\N_NN डाल\V_VM रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9164	उड़ीसा\N_NNP राज्य\N_NN का\PSP उत्तर\N_NNP सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1980\QT_QTC में\PSP मयूरभंज\N_NNP जिले\N_NN में\PSP 845.70\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9165	उत्तर\N_NNP सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटस्थ\JJ शहर\N_NN ’\RD_PUNC बारीपदा\N_NNP ’\RD_PUNC 17\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9166	’\RD_PUNC बारीपदा\N_NNP ’\RD_PUNC सिमलीपाल\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9167	’\RD_PUNC बारीपदा\N_NNP ’\RD_PUNC से\PSP कलकत्ता\N_NNP हवाई\N_NNP अड्डा\N_NNP 240\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9168	सिमलीपाल\N_NNP में\PSP उष्णकटिबंधीय\N_NN जलवायु\N_NN है\V_VM ।\RD_PUNC
+htd9169	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP उष्णकटिबंधीय\JJ नम\JJ प्रायद्वीपीय\JJ साल\N_NN वन\N_NN ,\RD_PUNC नम\JJ मिश्रित\JJ ,\RD_PUNC पर्णपाती\JJ साल\N_NN सहित\JJ वन\N_NN और\CC_CCD शुष्क\V_VAUX मिश्रित\JJ (\RD_SYM साल\N_NN रहित\JJ )\RD_SYM पर्णपाती\JJ वन\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9170	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP विस्तृत\JJ पर्वतों\N_NN और\CC_CCD समुद्र\N_NN घाटियों\N_NN से\PSP भरा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9171	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP जगह\N_NN -\RD_PUNC जगह\N_NN पानी\N_NN के\PSP सोते\N_NN ,\RD_PUNC \RD_PUNC झरने\N_NN व\CC_CCD नदियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd9172	प्रचुर\JJ मात्रा\N_NN में\PSP जल\N_NN के\PSP कारण\N_NN सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वन\N_NN संपदा\N_NN हरी\JJ -\RD_PUNC भरी\JJ रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd9173	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP अच्छे\JJ वनों\N_NN के\PSP कारण\N_NN भूगर्भ\N_NN में\PSP विशाल\JJ भंडार\N_NN हैं\V_VM ।\RD_PUNC
+htd9174	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP हाथियों\N_NN और\CC_CCD गाती\N_NN हुई\N_NN ’\RD_PUNC पहाड़ी\JJ मैना\N_NN ’\RD_PUNC के\PSP लिए\PSP प्रसिद्ध\N_NN है\V_VM ।\RD_PUNC
+htd9175	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP अन्य\QT_QTF वन्य\JJ पशुओं\N_NN में\PSP बाघ\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC साल\N_NN ,\RD_PUNC भालू\N_NN ,\RD_PUNC भेड़िया\N_NN ,\RD_PUNC जंगली\JJ कुत्ते\N_NN ,\RD_PUNC गौर\N_NN ,\RD_PUNC सांभर\N_NN चीतल\N_NN ,\RD_PUNC पाड़ा\N_NN चौसिंगा\N_NN ,\RD_PUNC जंगली\JJ सुअर\N_NN ,\RD_PUNC उड़न\JJ गिलहरी\N_NN ,\RD_PUNC मगर\N_NN ,\RD_PUNC अजगर\N_NN ,\RD_PUNC लंगूर\N_NN और\CC_CCD लघु\JJ पुच्छ\N_NN वानर\N_NN हैं\V_VM ।\RD_PUNC
+htd9176	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP मुरदारखोर\JJ जानवरों\N_NN में\PSP लकड़बग्घा\N_NN ,\RD_PUNC लोमड़ी\N_NN और\CC_CCD गिद्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd9177	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD कई\QT_QTF प्रकार\N_NN के\PSP पक्षियों\N_NN में\PSP धनेश\N_NN ,\RD_PUNC मोर\N_NN ,\RD_PUNC और\CC_CCD वन\JJ मुर्गी\N_NN हैं\V_VM ।\RD_PUNC
+htd9178	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP सैर\N_NN करने\V_VM के\PSP लिए\PSP अक्‍टूबर\N_NN से\PSP जून\N_NN तक\PSP के\PSP माह\N_NN उत्तम\JJ हैं\V_VM ।\RD_PUNC
+htd9179	सिमलीपाल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP चार\QT_QTC विश्राम\JJ गृह\N_NN हैं\V_VM ।\RD_PUNC
+htd9180	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP कटक\N_NNP जिले\N_NN में\PSP 367\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9181	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF समीप\JJ शहर\N_NN चांदवली\N_NNP 35\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9182	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN ’\RD_PUNC भद्रक\N_NNP ’\RD_PUNC है\V_VAUX जो\PR_PRL 87\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM और\CC_CCD हवाई\N_NN अड्डा\N_NN भुवनेश्‍वर\N_NNP में\PSP है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP 190\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9183	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN प्रायद्वीपीय\JJ है\V_VM ।\RD_PUNC
+htd9184	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वनस्पति\N_NN समुद्रतटीय\JJ है\V_VM जो\PR_PRL समुद्री\JJ लहरों\N_NN से\PSP धुलती\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9185	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP मैंग्रोव\N_NN वृक्षों\N_NN और\CC_CCD खारे\JJ पानी\N_NN में\PSP पनपने\V_VM वाले\RP_RPD मिश्रित\JJ जाति\N_NN के\PSP वृक्षों\N_NN के\PSP वन\N_NN हैं\V_VM ।\RD_PUNC
+htd9186	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP देश\N_NN का\PSP सबसे\RP_INTF बड़ा\JJ मैंग्रोव\N_NN वृक्ष\N_NN वन\N_NN है\V_VM जिसमें\PR_PRL मैंग्रोव\N_NN की\PSP 62\QT_QTC प्रजातियाँ\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9187	भित्तरकनिका\N_NNP उद्यान\N_NNP के\PSP ये\DM_DMD वृक्ष\N_NN समुद्रतटीय\JJ भूमि\N_NN को\PSP समुद्री\JJ लहरों\N_NN के\PSP प्रभाव\N_NN से\PSP बचाते\V_VM हैं\V_VAUX और\CC_CCD समुद्री\JJ तूफान\N_NN को\PSP रोकते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9188	भित्तरकनिका\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD कछुओं\N_NN की\PSP चार\QT_QTC प्रजातियाँ\N_NN -\RD_PUNC अरिलव\N_NN रिडले\N_NN ,\RD_PUNC ग्रीन\N_NN सी\N_NN टर्टल\N_NN ,\RD_PUNC हौक्सविल\N_NN और\CC_CCD लेदर\N_NN बैंक\N_NN हैं\V_VM ।\RD_PUNC
+htd9189	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP सरीसृप\N_NN -\RD_PUNC अजगर\N_NN ,\RD_PUNC कोबरा\N_NN ,\RD_PUNC साल्वातोर\N_NN गोह\N_NN हैं\V_VM मत्स्यभक्षी\JJ बिल्ली\N_NN और\CC_CCD गांगेय\JJ डॉल्फिन\N_NN संकटापन्न\JJ प्रजातियों\N_NN में\PSP से\PSP हैं\V_VM ।\RD_PUNC
+htd9190	शीत\N_NN ऋतु\N_NN के\PSP माह\N_NN नवम्‍बर\N_NN से\PSP फरवरी\N_NN तक\PSP भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP भ्रमण\N_NN के\PSP लिए\PSP उपयुक्‍त\JJ हैं\V_VM ।\RD_PUNC
+htd9191	भित्तरकनिका\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP विश्राम\JJ -\RD_PUNC गृह\N_NN भी\RP_RPD उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd9192	बंदीपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1974\QT_QTC में\PSP मैसूर\N_NNP जिले\N_NN में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9193	बंदीपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 874\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9194	बंदीपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सबसे\RP_INTF पास\N_NN का\PSP शहर\N_NN गुंडुलपेट\N_NNP 20\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9195	बंदीपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटस्थ\JJ रेल\N_NN शीर्ष\N_NN नंजनगुड\N_NNP 55\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9196	बंदीपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP हवाई\N_NN अड्डा\N_NN मैसूर\N_NNP में\PSP 80\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9197	वनरघट्‍टा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1974\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9198	वनरघट्‍टा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP बंगलौर\N_NNP जिले\N_NN में\PSP 104\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9199	वनरघट्‍टा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सबसे\RP_INTF समीप\N_NN बसा\V_VM हुआ\V_VAUX नगर\N_NN 19\QT_QTC किलोमीटर\N_NN दूर\N_NN `\RD_PUNC आरेकल\N_NNP `\RD_PUNC है\V_VM ।\RD_PUNC
+htd9200	बंगलौर\N_NNP जो\PR_PRL वनरघट्‍टा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP केवल\RP_INTF 25\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ,\RD_PUNC उद्यान\N_NN तक\PSP पहुँचने\V_VM के\PSP लिए\PSP हवाई\N_NN अड्डा\N_NN और\CC_CCD रेल\N_NN शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9201	कोदागू\N_NNP और\CC_CCD मैसूर\N_NNP जिलों\N_NN में\PSP स्थित\N_NN नगरहोल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 644\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9202	नगरहोल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटस्थ\JJ शहर\N_NN कुट्‍टा\N_NNP 7\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9203	नगरहोल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\N_NN शीर्ष\N_NN मैसूर\N_NNP शहर\N_NN 90\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP और\CC_CCD हवाई\N_NN अड्डा\N_NN 220\QT_QTC किलोमीटर\N_NN दूर\N_NN बंगलौर\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9204	किसी\QT_QTF समय\N_NN नगरहोल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP एक\QT_QTC भाग\N_NN मैसूर\N_NNP के\PSP महाराजाओं\N_NN के\PSP आखेट\N_NN के\PSP लिए\PSP सुरक्षित\N_NN था\V_VM ।\RD_PUNC
+htd9205	नगरहोल\N_NNP वन\N_NN क्षेत्र\N_NN में\PSP 1890\QT_QTC से\PSP 1971\QT_QTC तक\PSP वन्य\JJ हाथियों\N_NN को\PSP पकड़ने\V_VM के\PSP लिए\PSP ’\RD_PUNC खेड़ा\N_NN ’\RD_PUNC अभियान\N_NN किए\V_VM जाते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd9206	इस\DM_DMD अवधि\N_NN में\PSP जो\PR_PRL ’\RD_PUNC खेड़ा\N_NN ’\RD_PUNC किए\V_VM गए\V_VAUX उनमें\PR_PRP 1536\QT_QTC हाथी\N_NN पकड़े\V_VM गए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd9207	कुद्रेमुख\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP दक्षिण\N_NNP कनादा\N_NNP और\CC_CCD चिकमंगलूर\N_NNP जिलों\N_NN में\PSP 600\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्रफल\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9208	चिकमंगलूर\N_NNP शहर\N_NN कुद्रेमुख\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP 40\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9209	निकटवर्ती\JJ रेल\N_NN शीर्ष\N_NN व\CC_CCD हवाई\N_NN अड्डा\N_NN मंगलौर\N_NNP शहर\N_NN में\PSP है\V_VM जो\PR_PRL कुद्रेमुख\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 180\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9210	कुद्रेमुख\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM ।\RD_PUNC
+htd9211	कुद्रेमुख\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN अर्द्ध\JJ सदाहरित\N_NN और\CC_CCD नम\JJ पर्णपाती\N_NN हैं\V_VM ।\RD_PUNC
+htd9212	कुद्रेमुख\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP भूमि\N_NN पहाड़ी\JJ और\CC_CCD ढलुवाँ\JJ है\V_VM ।\RD_PUNC
+htd9213	अंशी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उत्तर\N_NN कनादा\N_NNP जिले\N_NN में\PSP 250\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP विस्तृत\N_NN है\V_VM ।\RD_PUNC
+htd9214	अंशी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 60\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP डंडेली\N_NNP शहर\N_NN सबसे\RP_INTF नजदीक\JJ पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd9215	डंडेली\N_NNP ही\RP_RPD अंशी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\N_NN शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9216	सबसे\RP_INTF निकटवर्ती\JJ हवाई\N_NN अड्डा\N_NN बेलगाम\N_NNP में\PSP है\V_VM जो\PR_PRL अंशी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 150\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9217	एरविकुलम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN वर्ष\N_NN 1978\QT_QTC में\PSP इडुक्की\N_NNP जिले\N_NN में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9218	एरविकुलम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 97\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9219	कोचीन\N_NNP शहर\N_NN एरविकुलम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 140\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM जो\PR_PRL यहाँ\DM_DMD पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN और\CC_CCD हवाई\N_NN अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd9220	एरविकुलम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP उपोष्ण\JJ कटिबंधीय\JJ ,\RD_PUNC चौड़ी\JJ पत्तियों\N_NN वाले\RP_RPD और\CC_CCD घास\JJ बहुल\JJ वन\N_NN है\V_VM ।\RD_PUNC
+htd9221	एरविकुलम\N_NNP उद्यान\N_NNP में\PSP सागवान\N_NN वृक्ष\N_NN मुख्य\JJ रूप\N_NN से\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9222	एरविकुलम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD प्रमुख\JJ वन्य\JJ पशु\N_NN हाथी\N_NN ,\RD_PUNC बाघ\N_NN ,\RD_PUNC मलवारी\N_NN कट्टास\N_NN ,\RD_PUNC जंगली\JJ सुअर\N_NN ,\RD_PUNC नीलगिरी\JJ थार\N_NN ,\RD_PUNC गौर\N_NN ,\RD_PUNC नीलगाय\N_NN ,\RD_PUNC सांभर\N_NN ,\RD_PUNC काकड़\N_NN ,\RD_PUNC जंगली\JJ कुत्ता\N_NN ,\RD_PUNC मलवारी\JJ गिलहरी\N_NN ,\RD_PUNC शर्मीली\JJ बिल्ली\N_NN ,\RD_PUNC अजगर\N_NN हैं\V_VM ।\RD_PUNC
+htd9223	एरविकुलम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सामान्य\JJ पक्षी\N_NN धनेश\N_NN ,\RD_PUNC मोर\N_NN ,\RD_PUNC शाही\N_NN ,\RD_PUNC कबूतर\N_NN ,\RD_PUNC भूरी\N_NN जंगली\JJ मुर्गियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd9224	शांत\N_NNP घाटी\N_NNP (\RD_SYM साइलैंट\N_NNP वैली\N_NNP )\RD_SYM राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1984\QT_QTC में\PSP पालघाट\N_NNP जिले\N_NN में\PSP 89.52\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9225	शांत\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकट\N_NN शहर\N_NN 57\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP ’\RD_PUNC मन्नारघाट\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9226	शांत\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP रेल\N_NN द्वारा\PSP पहुँचने\V_VM के\PSP लिए\PSP निकटतम\JJ रेल\N_NN शीर्ष\N_NN पालघाट\N_NNP है\V_VM ।\RD_PUNC
+htd9227	शांत\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP निकट\JJ हवाई\N_NN अड्डा\N_NN कोयम्बटूर\N_NNP है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP 155\QT_QTC किलोमीटर\N_NN दूर\N_NN पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd9228	शांत\N_NNP घाटी\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ (\RD_SYM मानसूनी\JJ )\RD_SYM है\V_VM ।\RD_PUNC
+htd9229	शांत\N_NNP घाटी\N_NNP उद्यान\N_NNP के\PSP वन\N_NN नम\JJ सदाहरित\JJ ,\RD_PUNC अर्द्ध\JJ सदारहित\JJ और\CC_CCD नम\JJ पर्णपाती\JJ हैं\V_VM ।\RD_PUNC
+htd9230	पेरियार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1950\QT_QTC में\PSP इडुक्की\N_NNP जिले\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9231	पेरियार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 350\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9232	पेरियार\N_NNP नदी\N_NN इस\DM_DMD उद्यान\N_NN से\PSP होकर\V_VM बहती\V_VM है\V_VAUX इसलिए\CC_CCD इस\DM_DMD उद्यान\N_NN का\PSP नामकरण\N_NN इस\DM_DMD नदी\N_NN के\PSP नाम\N_NN पर\PSP किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9233	पेरियार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकट\JJ नगर\N_NN 4\QT_QTF किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC कमिली\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9234	पेरियार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\N_NN शीर्ष\N_NN 114\QT_QTC किलोमीटर\N_NN कोट्‍टायम\N_NNP है\V_VM और\CC_CCD हवाई\N_NN अड्डा\N_NN 200\QT_QTC किलोमीटर\N_NN दूर\N_NN कोचीन\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9235	पेरियार\N_NNP उद्यान\N_NNP के\PSP अंदर\N_NN एक\QT_QTC विशाल\JJ झील\N_NN है\V_VM ,\RD_PUNC जिसको\PR_PRL कभी\QT_QTF सिंचाई\N_NN के\PSP प्रयोजन\N_NN से\PSP बनाया\V_VM गया\V_VAUX था\V_VAUX और\CC_CCD अब\QT_QTF यह\PR_PRI उद्यान\N_NN का\PSP प्रमुख\JJ अंग\N_NN है\V_VM ।\RD_PUNC
+htd9236	गिर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN गुजरात\N_NNP के\PSP सौराष्‍ट्र\N_NNP क्षेत्र\N_NN में\PSP 1975\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9237	गिर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP जूनागढ़\N_NNP जिले\N_NN में\PSP 258.71\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9238	गिर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF समीप\JJ शहर\N_NN बेरावल\N_NNP है\V_VM ,\RD_PUNC जो\PR_PRL उद्यान\N_NN से\PSP 42\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9239	गिर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN ’\RD_PUNC सासन्\N_NNP गाँव\N_NN ’\RD_PUNC उद्यान\N_NN के\PSP बिल्कुल\RP_INTF निकट\N_NN है\V_VM ।\RD_PUNC
+htd9240	गिर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP हवाई\N_NN अड्डा\N_NN 80\QT_QTC किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC केशोड\N_NNP ’\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9241	बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN वुलसर\N_NNP जिले\N_NN में\PSP 1976\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9242	बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 24\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9243	बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF नजदीकी\JJ शहर\N_NN ’\RD_PUNC डाधी\N_NNP ’\RD_PUNC है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP केवल\QT_QTF 3\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9244	डाधी\N_NNP शहर\N_NN बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9245	बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP हवाई\N_NN मार्ग\N_NN द्वारा\PSP पहुँचने\V_VM के\PSP लिए\PSP निकटतम\JJ हवाई\N_NN अड्डा\N_NN बड़ोदरा\N_NNP में\PSP 249\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9246	बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंधीय\JJ जलवायु\N_NN क्षेत्र\N_NN में\PSP आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9247	बंसदा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN नम\JJ पर्णपाती\JJ हैं\V_VM ।\RD_PUNC
+htd9248	बंसदा\N_NNP उद्यान\N_NNP में\PSP सागवान\N_NN के\PSP वृक्ष\N_NN व\CC_CCD कँटीले\JJ पौधे\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9249	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP जामनगर\N_NNP जिले\N_NN में\PSP कच्छ\N_NNP की\N_NNP खाड़ी\N_NNP में\PSP 163\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9250	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1982\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9251	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटस्थ\JJ शहर\N_NN जामनगर\N_NNP केवल\QT_QTF 7\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9252	भगवान\N_NNP महावीर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_SYM गोवा\N_NNP )\RD_SYM की\PSP स्थापना\N_NN सन्‌\N_NN 1978\N_NN में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9253	भगवान\N_NNP महावीर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 107\QT_QTC वर्ग\N_NN किलोमीटर\N_NN के\PSP क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9254	भगवान\N_NNP महावीर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकट\JJ शहर\N_NN ’\RD_PUNC पोंडा\N_NNP ’\RD_PUNC 25\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9255	भगवान\N_NNP महावीर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\N_NN शीर्ष\N_NN ’\RD_PUNC कोलेम\N_NNP ’\RD_PUNC 5\QT_QTC किलोमीटर\N_NN दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9256	डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN सन्\N_NN 1981\QT_QTC में\PSP जम्मू\N_NNP और\CC_CCD कश्‍मीर\N_NNP के\PSP श्रीनगर\N_NNP जिले\N_NN में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9257	डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 141\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9258	डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकट\JJ शहर\N_NN यहाँ\DM_DMD से\PSP 32\QT_QTC किलोमीटर\N_NN दूर\N_NN श्रीनगर\N_NNP है\V_VM ।\RD_PUNC
+htd9259	श्रीनगर\N_NNP इस\DM_DMD डाचीगाम\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP हवाई\N_NN अड्डा\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9260	डाचीगाम\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN 315\QT_QTC किलोमीटर\N_NN दूर\N_NN जम्मू\N_NNP शहर\N_NN है\V_VM ।\RD_PUNC
+htd9261	जम्मू\N_NNP में\PSP सड़क\N_NN द्वारा\PSP डाचीगाम\N_NNP उद्यान\N_NNP तक\PSP पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9262	डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पश्‍चिमी\JJ हिमालय\N_NNP के\PSP ऊँचे\JJ सतह\N_NN वाले\RP_RPD उपक्षेत्र\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd9263	डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN शीतोष्ण\JJ है\V_VM ।\RD_PUNC
+htd9264	समुद्र\N_NN की\PSP सतह\N_NN से\PSP डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP औसत\JJ ऊँचाई\N_NN 2\QT_QTC ,\RD_PUNC 990\QT_QTC मीटर\N_NN है\V_VM ।\RD_PUNC
+htd9265	डाचीगाम\N_NNP उद्यान\N_NNP में\PSP हिमालयी\JJ नम\JJ शीतोष्ण\JJ ,\RD_PUNC नम\JJ पर्णपाती\JJ और\CC_CCD झाड़दार\JJ पेड़\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9266	डाचीगाम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वृक्षों\N_NN में\PSP देवदार\N_NN ,\RD_PUNC चीड़\N_NN और\CC_CCD बांझ\N_NN सम्मिलित\N_NN हैं\V_VM ।\RD_PUNC
+htd9267	किश्‍तवार\N_NNP जिले\N_NN में\PSP स्थापित\N_NN किश्‍तवार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 310\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9268	यहाँ\DM_DMD से\PSP 60\QT_QTC किलोमीटर\N_NN दूर\N_NN किश्‍तवार\N_NNP नगर\N_NNP उद्यान\N_NNP के\PSP सबसे\RP_INTF निकट\N_NN पड़ने\V_VM वाला\N_NN शहर\N_NN है\V_VM ।\RD_PUNC
+htd9269	किश्‍तवार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP सबसे\RP_INTF निकट\JJ का\PSP रेल\N_NN शीर्ष\N_NN और\CC_CCD हवाई\N_NN अड्डा\N_NN जम्मू\N_NNP में\PSP है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP 245\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9270	किश्‍तवार\N_NNP उद्यान\N_NNP पश्‍चिमी\JJ हिमालय\N_NNP में\PSP है\V_VM और\CC_CCD इसकी\PR_PRP समुद्र\N_NN तल\N_NN से\PSP औसत\JJ ऊँचाई\N_NN 4000\QT_QTC मीटर\N_NN है\V_VM ।\RD_PUNC
+htd9271	किश्‍तवार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN शीतोष्ण\JJ है\V_VM और\CC_CCD यहाँ\DM_DMD के\PSP वन\N_NN शुष्क\JJ शीतोष्ण\JJ तथा\CC_CCD चौड़ी\JJ पत्तियों\N_NN और\CC_CCD शंकुल\JJ वृक्षों\N_NN वाले\RP_RPD हैं\V_VM
+htd9272	किश्‍तवार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP देवदार\N_NN ,\RD_PUNC चीड़\N_NN आदि\N_NN के\PSP वृक्ष\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX
+htd9273	लेह\N_NNP जिले\N_NN में\PSP सन्\N_NN 1981\QT_QTC में\PSP स्थापित\N_NN `\RD_PUNC हेमिस\N_NNP हाड़\N_NNP आल्टीट्यूड\N_NNP (\RD_SYM उच्चस्‍त्तरीय\N_NNP )\RD_SYM राष्‍ट्रीय\N_NNP उद्यान\N_NNP ’\RD_PUNC का\PSP क्षेत्रफल\N_NN 350\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9274	हेमिस\N_NNP हाड़\N_NNP आल्टीट्‍यूड\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN लेह\N_NNP यहाँ\DM_DMD से\PSP 30\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9275	लेह\N_NNP में\PSP हवाई\N_NN अड्डा\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9276	हेमिस\N_NNP हाड़\N_NNP आल्टीट्‍यूड\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ रेल\N_NN शीर्ष\N_NN 695\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP जम्मू\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9277	हेमिस\N_NNP हाड़\N_NNP उद्यान\N_NNP की\PSP समुद्र\JJ तल\N_NN से\PSP ऊँचाई\JJ 140\QT_QTC से\PSP 840\QT_QTC मीटर\N_NN तक\PSP है\V_VM और\CC_CCD सामान्य\JJ ऊँचाई\N_NN 500\QT_QTC मीटर\N_NN है\V_VM ।\RD_PUNC
+htd9278	हेमिस\N_NNP हाड़\N_NNP आल्टीट्‍यूड\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP तापमान\N_NN -40\QT_QTC डिग्री\N_NN सेल्सियस\N_NN से\PSP 20\QT_QTC डिग्री\N_NN सेल्सियस\N_NN तक\PSP है\V_VM ।\RD_PUNC
+htd9279	ऐसी\DM_DMD शीतोष्ण\JJ जलवायु\N_NN में\PSP हेमिस\N_NNP हाड़\N_NNP उद्यान\N_NNP में\PSP एल्पाइन\N_NN वन\N_NN मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9280	हेमिस\N_NNP हाड़\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP शीत\N_NN को\PSP सहन\V_VM करने\V_VAUX वाले\RP_RPD कुछ\QT_QTF विशेष\JJ प्रकार\N_NN के\PSP पशु\N_NN -\RD_PUNC पक्षी\N_NN ही\RP_RPD वास\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9281	सिटी\N_NNP फॉरेस्ट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP श्रीनगर\N_NNP शहर\N_NN के\PSP निकट\JJ 9\N_NN वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\QT_QTC में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9282	सिटी\N_NNP फॉरेस्ट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP हवाई\N_NN अड्डा\N_NN श्रीनगर\N_NNP में\PSP उद्यान\N_NN से\PSP लगभग\JJ 12\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9283	सिटी\N_NNP फॉरेस्ट\N_NNP उद्यान\N_NNP का\PSP रेल\N_NN शीर्ष\N_NN जम्मू\N_NNP 200\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9284	सिटी\N_NNP फॉरेस्ट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN हिमालयी\JJ नम\JJ शीतोष्ण\JJ है\V_VM ।\RD_PUNC
+htd9285	सिटी\N_NNP फॉरेस्ट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\RP_RPD वन्य\JJ पशुओं\N_NN में\PSP हंगुल\N_NN ,\RD_PUNC सेराव\N_NN है\V_VM ।\RD_PUNC
+htd9286	सिटी\N_NNP फॉरेस्ट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP चकोर\N_NN ,\RD_PUNC \RD_PUNC मोनाल\N_NN ,\RD_PUNC \RD_PUNC हिम\N_NN -\RD_PUNC मुर्ग\N_NN पक्षी\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9287	अप्रैल\N_NN से\PSP अक्‍टूबर\N_NN तक\PSP का\PSP समय\N_NN सिटी\N_NNP फॉरेस्ट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP भ्रमण\N_NN के\PSP लिए\PSP अनुकूल\JJ है\V_VM ।\RD_PUNC
+htd9288	चेन्नई\N_NNP जिले\N_NN में\PSP 1976\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX गुइंडी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 2.82\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9289	चेन्नई\N_NNP शहर\N_NN ही\RP_RPD गुइंडी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN और\CC_CCD हवाई\N_NN अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd9290	मेरिन\N_NNP राष्‍ट्रीय\N_NNP सामुद्रिक\N_NNP उद्यान\N_NNP ,\RD_PUNC \RD_PUNC मन्नार\N_NNP की\N_NNP खाड़ी\N_NNP में\PSP ’\RD_PUNC तिरुनेलवेली\N_NNP ’\RD_PUNC और\CC_CCD ’\RD_PUNC रामानाथपुरम\N_NNP ’\RD_PUNC जिलों\N_NN के\PSP 21\QT_QTC द्वीपों\N_NN में\PSP 6.25\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9291	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN और\CC_CCD रेल\N_NN शीर्ष\N_NN ’\RD_PUNC तूतीकोरिन\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9292	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP हवाई\N_NN अड्डा\N_NN मदुरई\N_NNP है\V_VM ।\RD_PUNC
+htd9293	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ऊष्णकटिबंध\JJ में\PSP आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9294	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP तटीय\JJ वनों\N_NN में\PSP झाड़दार\JJ पौधे\N_NN हैं\V_VM जो\PR_PRL झुंडों\N_NN में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9295	मेरिन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP कुछ\QT_QTF द्वीपों\N_NN में\PSP कृत्रिम\JJ उपायों\N_NN से\PSP बबूल\N_NN उगाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9296	इंदिरा\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP कोयम्बटूर\N_NNP जिले\N_NN में\PSP 117\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9297	इंदिरा\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN 35\QT_QTC किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC पोलची\N_NNP ’\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9298	इंदिरा\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN अर्द्ध\JJ सदाहरित\JJ हैं\V_VM जिनमें\PR_PRL सागवान\N_NN रोजउड\N_NN आदि\N_NN के\PSP वृक्ष\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9299	भारत\N_NNP के\PSP ये\DM_DMD समुद्र\JJ तट\N_NN कुछ\QT_QTF खास\JJ हैं\V_VM ।\RD_PUNC
+htd9300	हमारे\PR_PRP देश\N_NN की\PSP हजारों\N_NN मील\N_NN लंबी\JJ कोस्टलाइन\N_NN पर\PSP सैकड़ों\N_NN मनोरम\JJ बीच\N_NN हैं\V_VM ।\RD_PUNC
+htd9301	पर्यटन\N_NN की\PSP दृष्‍टि\N_NN से\PSP ये\DM_DMD सभी\QT_QTC बीच\N_NN मौजमस्ती\N_NN के\PSP आदर्श\JJ ठिकाने\N_NN हैं\V_VM ।\RD_PUNC
+htd9302	इन\PR_PRP बीचों\N_NN पर\PSP पहुँच\V_VM कर\V_VAUX सैलानी\N_NN सागर\N_NN की\PSP लहरों\N_NN से\PSP अठखेलियाँ\N_NN करना\V_VM सुनहरी\JJ बालू\N_NN पर\PSP चहलकदमी\N_NN करना\V_VM तथा\CC_CCD समुद्री\JJ हवाओं\N_NN का\PSP आनन्द\N_NN उठाना\V_VM चाहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9303	यही\DM_DMD गातिविधियाँ\N_NN सैलानियों\N_NN की\PSP छुट्‍टियों\N_NN को\PSP यादगार\N_NN बना\V_VM देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9304	इनमें\DM_DMI से\PSP कुछ\QT_QTF ऐसे\DM_DMD बीच\N_NN हैं\V_VM जो\PR_PRL अन्य\QT_QTF तटों\N_NN से\PSP कुछ\QT_QTF अलग\N_NN हैं\V_VM ।\RD_PUNC
+htd9305	उन\PR_PRP समुद्र\JJ तटों\N_NN की\PSP अपनी\PR_PRF कई\QT_QTF खास\JJ विशेषताएँ\N_NN हैं\V_VM ।\RD_PUNC
+htd9306	गोवा\N_NNP हमारे\PR_PRP देश\N_NN का\PSP ऐसा\DM_DMI राज्य\N_NN है\V_VM जिसे\PR_PRL समुद्र\JJ तटों\N_NN का\PSP राजा\N_NN भी\RP_RPD कहा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9307	इस\DM_DMD छोटे\JJ से\RP_RPD राज्य\N_NN गोवा\N_NNP की\PSP तटरेखा\N_NN पर\PSP करीब\QT_QTF 30\QT_QTC शानदर\JJ बीच\N_NN हैं\V_VM ।\RD_PUNC
+htd9308	इनमें\DM_DMD से\PSP कुछ\QT_QTF समुद्र\JJ तटों\N_NN पर\PSP हर\QT_QTF समय\N_NN सैलानियों\N_NN का\PSP हुजूम\N_NN देखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9309	गोवा\N_NNP का\PSP ऐसा\DM_DMI ही\RP_RPD एक\QT_QTC बीच\N_NN है\V_VM ’\RD_PUNC आरामबोल\N_NNP बीच\N_NNP ’\RD_PUNC इस\DM_DMD बीच\N_NN की\PSP सबसे\RP_INTF बड़ी\JJ विशेषता\N_NN यह\PR_PRI है\V_VAUX कि\CC_CCS यह\PR_PRI विदेशी\JJ सैलानियों\N_NN का\PSP पसंदीदा\JJ बीच\N_NN है\V_VM ।\RD_PUNC
+htd9310	’\RD_PUNC आरामबोल\N_NNP बीच\N_NNP ’\RD_PUNC की\PSP गिनती\N_NN विश्‍व\N_NN के\PSP 10\QT_QTC सुंदरतम\JJ समुद्रतटों\N_NN में\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9311	इन\PR_PRP रिव्यू\N_NN की\PSP संख्या\N_NN के\PSP आधार\N_NN पर\PSP ’\RD_PUNC आरामबोल\N_NNP बीच\N_NNP ’\RD_PUNC का\PSP नाम\N_NN विश्‍व\N_NN के\PSP दस\QT_QTC मनोहारी\JJ तटों\N_NN की\PSP सूची\N_NN में\PSP शुमार\N_NN हैं\V_VM ।\RD_PUNC
+htd9312	यही\DM_DMI कारण\N_NN है\V_VM कि\CC_CCS गोवा\N_NNP के\PSP इस\DM_DMD ’\RD_PUNC आरामबोल\N_NNP बीच\N_NNP ’\RD_PUNC पर\PSP विदेशी\JJ सैलानी\N_NN बहुत\RP_INTF अधिक\JJ आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9313	आरामबोल\N_NNP बीच\N_NNP पणजी\N_NNP से\PSP लगभग\JJ 50\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9314	तिरुवनंतपुरम\N_NNP के\PSP समीप\JJ स्थित\N_NN कोवलम\N_NNP बीच\N_NNP भी\RP_RPD देश\N_NN का\PSP एक\QT_QTC नयनाभिराम\JJ बीच\N_NN है\V_VM ।\RD_PUNC
+htd9315	कोवलम\N_NNP बीच\N_NNP की\PSP खूबसूरती\N_NN और\CC_CCD भौगोलिक\JJ स्थिति\N_NN ने\PSP इस\DM_DMD बीच\N_NN को\PSP छुट्‍टियाँ\N_NN मनाने\N_NN वाले\RP_RPD सैलानियों\N_NN का\PSP स्वर्ग\N_NN बना\V_VM दिया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9316	आज\N_NN बहुत\RP_INTF कम\JJ लोगो\N_NN को\PSP ज्ञात\N_NN है\V_VM कि\CC_CCS कोवलम\N_NNP बीच\N_NNP देश\N_NN का\PSP सबसे\RP_INTF पहला\QT_QTO अंतर्राष्‍ट्रीय\N_NN स्तर\N_NN का\PSP बीच\N_NN है\V_VM ।\RD_PUNC
+htd9317	विदेशी\JJ पर्यटकों\N_NN के\PSP बढ़ते\N_NN आकर्षण\N_NN को\PSP देख\V_VM 1970\QT_QTC के\PSP दशक\N_NN में\PSP कोवलम\N_NNP बीच\N_NNP के\PSP आस-पास\N_NN विश्‍व\N_NN स्तर\N_NN की\PSP सुविधाओं\N_NN को\PSP जुटाया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9318	उसके\PR_PRP साथ\N_NN ही\RP_RPD विश्‍व\JJ पर्यटन\JJ मानचित्र\JJ पर\PSP एक\QT_QTC खास\JJ पहचान\N_NN बनाने\V_VM वाला\RP_RPD कोवलम\N_NNP बीच\N_NNP देश\N_NN का\PSP पहला\QT_QTO समुद्र\JJ तट\N_NN बन\V_VM गया\V_VAUX ।\RD_PUNC
+htd9319	’\RD_PUNC सन्\N_NN सैंड\N_NN और\CC_CCD सर्फ\N_NN ’\RD_PUNC के\PSP शौकीन\JJ पर्यटकों\N_NN के\PSP लिए\PSP आज\N_NN यह\PR_PRI तट\N_NN किसी\QT_QTF स्वप्नलोक\N_NN के\PSP समान\N_NN है\V_VM ।\RD_PUNC
+htd9320	कोवलम\N_NNP बीच\N_NNP का\PSP स्वरूप\N_NN तीन\QT_QTC छोटी\JJ -\RD_PUNC छोटी\JJ खाड़ियों\N_NN के\PSP रूप\N_NN में\PSP हर\QT_QTF किसी\N_NN को\PSP आकर्षित\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd9321	इनमें\DM_DMD लाइटहाउस\N_NN और\CC_CCD कोवलम\N_NNP अशोक\N_NNP बीच\N_NNP रिजॉर्ट\N_NNP के\PSP मध्य\N_NN स्थित\N_NN दो\QT_QTC खाड़ियाँ\N_NN प्रमुख\N_NN हैं\V_VM ।\RD_PUNC
+htd9322	खजूर\N_NN और\CC_CCD ताड़\N_NN के\PSP वृक्षों\N_NN से\PSP घिरा\V_VM कोवलम\N_NNP बीच\N_NNP वास्तव\N_NN में\PSP देश\N_NN का\PSP सुंदरतम\JJ बीच\N_NN प्रतीत\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9323	भारत\N_NN के\PSP धुर\JJ दक्षिण\N_NN में\PSP स्थित\N_NN कन्याकुमारी\N_NNP एक\QT_QTC तटीय\JJ नगर\N_NN है\V_VM ।\RD_PUNC
+htd9324	सबसे\RP_INTF पहली\QT_QTO बात\N_NN तो\RP_RPD यह\DM_DMI कि\CC_CCS कन्याकुमारी\N_NNP हमारे\PR_PRP देश\N_NN के\PSP दक्षिणी\JJ छोर\N_NN पर\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9325	कन्याकुमारी\N_NNP में\PSP अरब\N_NNP सागर\N_NNP हिन्द\N_NNP महासागर\N_NNP और\CC_CCD बंगाल\N_NNP की\CC_CCD खाड़ी\N_NNP अर्थात\CC_CCS तीन\QT_QTC सागरों\N_NN का\PSP संगम\N_NN है\V_VM ।\RD_PUNC
+htd9326	कन्याकुमारी\N_NNP में\PSP समुद्र\JJ तट\N_NN से\PSP करीब\QT_QTF 400\QT_QTC मीटर\N_NN दूर\N_NN एक\QT_QTC विशाल\JJ चट्‍टान\N_NN पर\PSP विवेकानंद\N_NNP मेमोरियल\N_NNP है\V_VM ।\RD_PUNC
+htd9327	बोट\N_NN द्वारा\PSP विवेकानंद\N_NNP मेमोरियल\N_NNP जाना\V_VM और\CC_CCD वहाँ\DM_DMD से\PSP तीन\QT_QTC सागरों\N_NN का\PSP मिलन\N_NN देखना\V_VM भी\RP_RPD कम\QT_QTF रोचक\N_NN नहीं\RP_NEG है\V_VAUX ।\RD_PUNC
+htd9328	कन्याकुमारी\N_NNP के\PSP समुद्र\JJ तट\N_NN से\PSP सूर्योदय\N_NN के\PSP अलावा\N_NN साल\N_NN में\PSP कुछ\QT_QTF माह\N_NN सूर्यास्त\N_NN का\PSP नजारा\N_NN भी\RP_RPD देखने\V_VM को\PSP मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd9329	कन्याकुमारी\N_NNP के\PSP तट\N_NN के\PSP बारे\N_NN में\PSP एक\QT_QTC विशेष\JJ बात\N_NN और\N_NN है\V_VAUX जिसे\PR_PRL बहुत\RP_INTF कम\JJ लोग\N_NN जानते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9330	पूर्णिमा\N_NN के\PSP दिन\N_NN कन्याकुमारी\N_NNP के\PSP तट\N_NN पर\PSP कभी\RB -\RD_PUNC कभी\RB पर्यटकों\N_NN को\PSP एक\QT_QTC अनोखा\JJ अनुभव\N_NN होता\V_VM है\V_VAUX जब\PR_PRL पश्‍चिम\N_NN में\PSP सूर्यास्त\N_NN होते\V_VM ही\RP_RPD पूर्व\N_NN से\PSP चंद्रोदय\N_NN हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9331	यानी\CC_CCD एक\QT_QTC ओर\N_NN सूर्य\N_NN समुद्र\N_NN में\PSP समाता\V_VM है\V_VAUX तो\RP_RPD दूसरी\QT_QTO ओर\N_NN पूर्ण\JJ चंद्र\N_NN समुद्र\N_NN से\PSP उभरने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9332	यह\PR_PRI वास्तव\N_NN में\PSP एक\QT_QTC दुर्लभ\JJ दृश्य\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9333	क्‍या\PR_PRQ आपने\PR_PRP कभी\QT_QTF पनडुब्बी\N_NN के\PSP अंदर\N_NN की\PSP दुनिया\N_NN देखी\V_VM है\V_VAUX ?\RD_PUNC
+htd9334	विशाखापट्नम\N_NNP के\PSP रामकृष्‍ण\N_NNP बीच\N_NNP पर\PSP आपकी\PR_PRP यह\PR_PRI इच्छा\N_NN पूरी\N_NN हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9335	रामकृष्ण\N_NNP बीच\N_NNP पर\PSP एक\QT_QTC पनडुब्बी\N_NN को\PSP संग्रहालय\N_NN का\PSP रूप\N_NN दिया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9336	देश\N_NN का\PSP यह\PR_PRI एकमात्र\QT_QTF ऐसा\DM_DMI संग्रहालय\N_NN है\V_VM ।\RD_PUNC
+htd9337	इन\PR_PRP जलसीमा\JJ प्रहरियों\N_NN को\PSP हम\PR_PRP प्राय:\QT_QTF फिल्म\N_NN या\CC_CCD टेलीविजन\N_NN पर\PSP देख\V_VM पाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9338	लेकिन\CC_CCD विशाखापट्‍नम\N_NNP के\PSP रामकृष्‍ण\N_NNP बीच\N_NNP में\PSP पनडुब्बी\N_NN रूपी\N_NN इस\DM_DMD संग्रहालय\N_NN में\PSP सैलानी\N_NN अंदर\N_NN जाकर\V_VM इसे\DM_DMD देख\V_VM पाते\N_NN हैं\V_VAUX ।\RD_PUNC
+htd9339	पनडुब्बी\N_NN के\PSP अंदर\N_NN पहुँच\V_VM कर\V_VAUX पनडुब्बी\N_NN की\PSP कार्यप्रणाली\N_NN को\PSP समझना\V_VM एक\QT_QTC अनोखा\JJ और\CC_CCD रोमांचक\JJ अनुभव\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9340	यह\PR_PRI एक\QT_QTC अद्वितीय\JJ संग्रहालय\N_NN है\V_VAUX जो\PR_PRL केवल\QT_QTF विशाखापट्नम\N_NNP में\PSP ही\RP_RPD है\V_VM ।\RD_PUNC
+htd9341	इसके\DM_DMI दक्षिणी\JJ छोर\N_NN पर\PSP ’\RD_PUNC डॉलफिन\N_NN नोज\N_NN ’\RD_PUNC नामक\N_NN छोटी\JJ सी\RP_RPD पहाड़ी\N_NN भी\RP_RPD रामकृष्‍ण\N_NNP बीच\N_NNP का\PSP एक\QT_QTC दर्शनीय\JJ स्थान\N_NN है\V_VM ।\RD_PUNC
+htd9342	तमिलनाडु\N_NNP की\PSP वास्तुकला\N_NN स्थापत्य\JJ शैली\N_NN की\PSP द्रविड़\JJ शैली\N_NN बड़ी\JJ ही\RP_RPD अद्‍भुत\JJ है\V_VM ।\RD_PUNC
+htd9343	तमिलनाडु\N_NNP में\PSP निर्मित\N_NN कुम्भकोणम\N_NN ,\RD_PUNC कांच\N_NN ,\RD_PUNC रामेश्‍वर\N_NN ,\RD_PUNC महाबलीपुरम\N_NN ,\RD_PUNC मिचि\N_NN आदि\N_NN मंदिरों\N_NN की\PSP अनोखी\JJ स्थापत्य\JJ शैली\N_NN का\PSP नमूना\N_NN अन्यत्र\QT_QTF दिखाई\V_VM नहीं\RP_NEG देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9344	1960\QT_QTC ई.\N_NN के\PSP पुनर्गठन\N_NN के\PSP फलस्वरूप\CC_CCS 1969\QT_QTC ई.\N_NN में\PSP ’\RD_PUNC मद्रास\N_NNP राज्य\N_NN ’\RD_PUNC का\PSP नाम\N_NN बदल\V_VM कर\V_VAUX तमिलनाडु\N_NNP प्रदेश\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd9345	तमिलनाडु\N_NNP प्रदेश\N_NN में\PSP विश्‍व\N_NN के\PSP अद्वितीय\JJ मंदिरों\N_NN की\PSP भरमार\N_NN होने\V_VM के\PSP कारण\N_NN इसे\PR_PRP मंदिरों\N_NN की\PSP नगरी\N_NN भी\RP_RPD कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9346	तमिलनाडु\N_NNP के\PSP लोग\N_NN धर्मावलम्बी\JJ होने\N_NN के\PSP साथ\RB -\RD_PUNC साथ\RB शिष्‍ट\JJ और\CC_CCD कर्त्तव्यपरायण\JJ भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd9347	पोंगल\N_NN को\PSP तमिल\N_NN निवासी\N_NN राष्‍ट्रीय\N_NN पर्व\N_NN की\PSP भाँति\N_NN मनाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9348	विश्‍वविख्यात\JJ भरतनाट्यम\N_NN और\CC_CCD कर्नाटक\N_NN संगीत\N_NN तमिलनाडु\N_NNP के\PSP सांस्कृतिक\JJ जीवन\N_NN के\PSP अभिन्न\JJ अंग\N_NN हैं\V_VM ।\RD_PUNC
+htd9349	तमिलनाडु\N_NNP की\PSP भोजन\N_NN शैली\N_NN विविधता\N_NN लिये\V_VM होते\V_VAUX हुए\V_VAUX भी\RP_RPD पौष्‍टिक\JJ सस्ती\JJ सुपाच्य\JJ है\V_VM ।\RD_PUNC
+htd9350	एक\QT_QTC पुर्तगाली\JJ सौदागर\N_NN दल\N_NN के\PSP मुखिया\N_NN का\PSP नाम\N_NN मैड्रा\N_NNP था\V_VAUX और\CC_CCD उसके\PR_PRP नाम\N_NN पर\PSP ही\RP_RPD इस\DM_DMD शहर\N_NN का\PSP नाम\N_NN मद्रास\N_NNP पड़ा\V_VM ।\RD_PUNC
+htd9351	मद्रास\N_NNP को\PSP अब\N_NN चेन्नई\N_NNP कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9352	मद्रास\N_NNP के\PSP निवासी\N_NN सीधे\JJ सरल\JJ स्वभाव\N_NN के\PSP हैं\V_VM और\CC_CCD स्वाभाविक\JJ रूप\N_NN से\PSP मेहमाननवाज\JJ भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd9353	मद्रास\N_NNP में\PSP पर्यटक\N_NN अपनी\PR_PRF खरीदारी\N_NN का\PSP शौक\N_NN पेरिस\N_NNP कॉर्नर\N_NNP ,\RD_PUNC सुभाष\N_NNP रोड\N_NNP आदि\N_NN स्थल\N_NN पर\PSP पूरा\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9354	मद्रास\N_NNP के\PSP अभूषणों\N_NN व\CC_CCD वस्त्रों\N_NN में\PSP यहाँ\DM_DMD की\PSP संस्कृति\N_NN की\PSP छाप\N_NN स्पष्‍ट\JJ रूप\N_NN से\PSP दृष्‍टिगोचर\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9355	पोंगल\N_NN मद्रास\N_NNP का\PSP विशेष\JJ पर्व\N_NN है\V_VM ।\RD_PUNC
+htd9356	जिसे\PR_PRL मद्रास\N_NNP के\PSP लोग\N_NN पूरे\N_NN जोर\JJ -\RD_PUNC शोर\JJ और\CC_CCD हर्ष\JJ से\PSP मनाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9357	मद्रास\N_NNP घूमने\V_VM के\PSP शौकीनों\N_NN के\PSP लिए\PSP यहाँ\DM_DMD काफी\QT_QTF कुछ\N_NN है\V_VM जिनमें\PR_PRL से\PSP ’\RD_PUNC फोर्ट\N_NNP सेण्ट\N_NNP जॉर्ज\N_NNP ’\RD_PUNC एक\QT_QTC भव्य\JJ महल\N_NN है\V_VM ।\RD_PUNC
+htd9358	फोर्ट\N_NNP सेण्‍ट\N_NNP जार्ज\N_NNP भव्य\JJ महल\N_NN 20\QT_QTC फीट\N_NN ऊँची\JJ प्राचीर\N_NN से\PSP सुरक्षित\N_NN है\V_VM ।\RD_PUNC
+htd9359	8वीं\QT_QTO शताब्दी\N_NN में\PSP पल्लव\N_NN राजाओं\N_NN द्वारा\PSP निर्मित\N_NN पार्थसारथी\N_NNP का\N_NNP मंदिर\N_NNP (\RD_SYM कृष्‍ण\N_NN मंदिर\N_NN )\RD_SYM की\PSP स्थापत्य\JJ कला\N_NN बेजोड़\N_NN है\V_VM ।\RD_PUNC
+htd9360	केरल\N_NNP के\PSP रचनाकारों\N_NN ने\PSP तमिल\JJ कवि\N_NN तोरुवल्लूवर\N_NNP की\PSP याद\N_NN में\PSP ’\RD_PUNC बल्लूर\N_NNP कोट्‍टायम\N_NNP मंदिर\N_NNP ’\RD_PUNC का\PSP निर्माण\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9361	षड्‍यंत्रकारियों\N_NN के\PSP प्राणों\N_NN की\PSP रक्षा\N_NN के\PSP लिए\PSP क्राइस्ट\N_NNP के\PSP विशेष\JJ शिष्य\N_NN ’\RD_PUNC सेण्‍ट\N_NNP टाउस\N_NNP ’\RD_PUNC ने\PSP दी\N_NNP लिटिल\N_NNP माउंट\N_NNP गुफा\N_NNP में\PSP आश्रय\N_NN लिया\V_VM था\V_VAUX ।\RD_PUNC
+htd9362	विक्टोरिया\N_NNP मेमोरियल\N_NNP की\PSP तर्ज\N_NN पर\PSP मद्रास\N_NNP की\PSP इस\DM_DMD आर्ट\N_NN गैलरी\N_NN का\PSP निर्माण\N_NN हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd9363	1861\QT_QTC ई.\N_NN में\PSP मद्रास\N_NNP में\PSP इस\DM_DMD म्यूजियम\N_NN की\PSP स्थापना\N_NN हुई\V_VM ।\RD_PUNC
+htd9364	इस\DM_DMD म्यूजियम\N_NN में\PSP दक्षिण\JJ भारतीय\JJ कांस्य\JJ शिल्प\N_NN का\PSP अनूठा\JJ संग्रह\N_NN विद्यमान\N_NN है\V_VM ।\RD_PUNC
+htd9365	मद्रास\N_NNP में\PSP पैराम्बूर\N_NNP इण्‍टेग्रल\N_NNP कोच\N_NNP फैक्टरी\N_NNP उत्तर-पश्‍चिम\N_NN रेल\N_NN डिब्बे\N_NN बनाने\V_VM का\PSP कारखाना\N_NN है\V_VM ।\RD_PUNC
+htd9366	मद्रास\N_NNP की\PSP थिओसोफिकल\N_NN सोसाइटी\N_NN का\PSP उद्‍देश्य\N_NN सत्य\N_NN की\PSP खोज\V_VM करना\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9367	महाबलीपुरम\N_NNP पौराणिक\N_NN शहर\N_NN की\PSP स्थापना\N_NN अठारवीं\QT_QTO शताब्दी\N_NN में\PSP हुई\V_VM ।\RD_PUNC
+htd9368	महाबलीपुरम\N_NNP के\PSP बारे\N_NN में\PSP किंवदन्ती\N_NN है\V_VM की\CC_CCS दानवीर\JJ असुर\JJ राजा\N_NNP महाबली\N_NNP के\PSP यश\JJ प्रताप\N_NN से\PSP देवराज\N_NNP इंद्र\N_NNP को\PSP खतरा\N_NN महसूस\N_NN होने\V_VM लगा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9369	देवराज\N_NNP इंद्र\N_NNP को\PSP लगा\V_VM कि\CC_CCS कहीं\DM_DMD महाबली\N_NN उनका\PR_PRP सिंहासन्\N_NN ही\RP_RPD हथिया\V_VM ले\V_VAUX ।\RD_PUNC
+htd9370	इसलिए\CC_CCD घबराकर\V_VM इंद्र\N_NNP ने\PSP भगवान\N_NNP विष्‍णु\N_NNP से\PSP प्रार्थना\V_VM की\V_VAUX और\CC_CCD दयालु\JJ भगवान\N_NN विष्‍णु\N_NNP जी\N_NNP वामन\JJ रूप\N_NN धरकर\V_VM महाबली\N_NNP के\PSP समक्ष\N_NN प्रकट\N_NN हुए\V_VM और\CC_CCD उससे\PR_PRP भिक्षा\N_NN में\PSP तीन\QT_QTC पग\N_NN भूमि\N_NN माँगी\V_VM ।\RD_PUNC
+htd9371	महाबली\N_NNP ने\PSP भूमि\N_NN देने\V_VM का\PSP वादा\N_NN किया\V_VM ,\RD_PUNC वादा\N_NN करते\V_VM ही\RP_RPD भगवान\N_NNP विष्‍णु\N_NNP ने\PSP अपना\PR_PRF आकार\N_NN महाविराट\N_NN कर\V_VM लिया\V_VAUX और\CC_CCD दो\QT_QTC ही\RP_RPD पग\N_NN में\PSP पूरी\QT_QTF धरती\N_NN को\PSP माप\N_NN लिया\V_VM ।\RD_PUNC
+htd9372	जब\PR_PRL तीसरे\QT_QTO कदम\N_NN के\PSP लिए\PSP भगवान\N_NNP विष्णु\N_NNP ने\PSP धरती\N_NN माँगी\V_VM तो\RP_RPD महाबली\N_NNP ने\PSP अपना\PR_PRF सिर\N_NN उनके\PR_PRP कदमों\N_NN में\PSP रख\V_VM दिया\V_VAUX ।\RD_PUNC
+htd9373	और\CC_CCD भगवान\N_NNP विष्णु\N_NNP को\PSP तीन\QT_QTC पग\N_NN धरती\N_NN प्रदान\N_NN की\V_VM ।\RD_PUNC
+htd9374	उस\PR_PRP दानी\JJ वीर\JJ महाबली\N_NNP के\PSP नाम\N_NN पर\PSP ही\RP_RPD इस\DM_DMD शहर\N_NN का\PSP नाम\N_NN महाबलीपुरम\N_NNP पड़ा\V_VM ।\RD_PUNC
+htd9375	महेन्द्र\N_NNP वर्मन\N_NNP जैन\N_NN धर्म\N_NN त्यागकर\N_NN हिन्दू\N_NN धर्मावलम्बी\N_NN हुए\V_VM और\CC_CCD भगवान\N_NNP आशुतोष\N_NNP शिव\N_NNP शंकर\N_NNP व\CC_CCD भगवान\N_NNP विष्‍णु\N_NNP के\PSP मंदिरों\N_NN के\PSP निर्माण\N_NN का\PSP पवित्रतम\JJ कार्य\N_NN उन्होंने\PR_PRP किया\V_VM ।\RD_PUNC
+htd9376	मंदिरों\N_NN के\PSP अलावा\N_NN महाबलीपुरम\N_NNP में\PSP क्रोक्रोडाइल\N_NN बैंक\N_NN ,\RD_PUNC परमाणु\N_NN अनुसंधान\N_NN केन्द्र\N_NN आदि\N_NN भी\RP_RPD देखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9377	वेल्लोर\N_NNP नगर\N_NN ऐतिहासिक\JJ उठापटक\N_NN के\PSP मूक\JJ साक्षी\JJ महल\N_NN के\PSP लिए\PSP प्रख्यात\N_NN है\V_VM ।\RD_PUNC
+htd9378	वेल्लोर\N_NNP के\PSP इस\DM_DMD किले\N_NN का\PSP निर्माण\N_NN विजयनगर\N_NNP के\PSP राजा\N_NN के\PSP सामंत\N_NN सिन्ना\N_NNP बोम्मी\N_NNP नायक\N_NNP के\PSP द्वारा\PSP हुआ\V_VM ।\RD_PUNC
+htd9379	किले\N_NN के\PSP निकट\N_NN ही\RP_RPD महीन\JJ कलाकारी\N_NN व\CC_CCD अद्‍भुत\JJ स्थापत्य\JJ शैली\N_NN में\PSP निर्मित\N_NN जलाकण्‍ठेश्‍वर\N_NNP शिव\N_NNP मंदिर\N_NNP भी\RP_RPD देखने\V_VM के\PSP योग्य\N_NN है\V_VM ।\RD_PUNC
+htd9380	इतना\DM_DMI ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC 1990\QT_QTC ई.\N_NN में\PSP अमेरिकी\JJ मिशनरी\N_NN द्वारा\PSP निर्मित\N_NN भव्य\JJ अस्पताल\N_NN भी\RP_RPD वेल्लोर\N_NNP क्षेत्र\N_NN के\PSP आकर्षण\N_NN का\PSP कारण\N_NN है\V_VM ।\RD_PUNC
+htd9381	अमेरिकी\JJ मिशनरी\N_NN द्वारा\PSP निर्मित\N_NN भव्य\JJ अस्पताल\N_NN में\PSP असाध्य\JJ रोगों\N_NN का\PSP उपचार\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9382	साथ\CC_CCD ही\RP_RPD रत्‍नागिरि\N_NNP में\PSP निर्मित\N_NN कार्तिकेय\N_NNP मंदिर\N_NNP भी\RP_RPD श्रद्धालुओं\N_NN को\PSP अपनी\PR_PRF ओर\N_NN आकर्षित\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd9383	कांचीपुरम\N_NNP को\PSP मोक्ष\JJ प्रदायिनी\JJ नगर\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9384	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS मथुरा\N_NNP ,\RD_PUNC उज्जैन\N_NNP ,\RD_PUNC हरिद्वार\N_NNP ,\RD_PUNC द्वारका\N_NNP ,\RD_PUNC वाराणसी\N_NNP ,\RD_PUNC अयोध्या\N_NNP की\PSP तरह\N_NN कांचीपुरम\N_NNP में\PSP भी\RP_RPD अंतिम\JJ साँसें\N_NN लेने\JJ वाला\JJ जीव\N_NN फिर\CC_CCS जन्म\N_NN -\RD_PUNC मरण\N_NN के\PSP चक्कर\N_NN में\PSP नहीं\RP_NEG पड़ता\V_VM ।\RD_PUNC
+htd9385	कांचीपुरम\N_NNP के\PSP मुख्य\JJ उपास्य\JJ देवता\N_NN आदि\N_NNP शिव\N_NNP और\CC_CCD पालनकर्ता\JJ भगवान\N_NNP विष्‍णु\N_NNP हैं\V_VM ।\RD_PUNC
+htd9386	सम्पूर्ण\JJ कांचीपुरम\N_NNP मंदिरों\N_NN से\PSP आच्छादित\N_NN है\V_VM और\CC_CCD प्रत्येक\QT_QTF मंदिर\N_NN पहले\QT_QTO मंदिर\N_NN से\PSP कहीं\DM_DMI बढ़कर\RP_INTF सुंदर\JJ व\CC_CCD अद्‌भुत\JJ प्रतीत\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9387	7वीं\QT_QTO शताब्दी\N_NN में\PSP राजा\N_NN नन्दी\N_NNP वर्मन\N_NNP द्वारा\PSP निर्मित\N_NN कांचीपुरम\N_NNP का\PSP श्री\N_NNP वैकुण्‍ड\N_NNP पैरुमल\N_NNP मंदिर\N_NNP में\PSP भगवान\N_NNP विष्‍णु\N_NNP की\PSP मूर्ति\N_NN अधिष्‍ठित\N_NN है\V_VM ।\RD_PUNC
+htd9388	अपनी\PR_PRF महारानी\N_NN के\PSP कहने\V_VM पर\PSP पल्लव\JJ राजा\N_NN रायसिंह\N_NNP ने\PSP कैलाशनाथ\N_NNP मंदिर\N_NNP का\PSP निर्माण\N_NN 700\QT_QTC ई.\N_NN में\PSP करवाया\V_VM था\V_VAUX ।\RD_PUNC
+htd9389	कांचीपुरम\N_NNP के\PSP देवराजास्वामी\N_NNP मंदिर\N_NNP में\PSP भगवान\N_NN विष्‍णु\N_NNP अधिष्‍ठित\N_NN हैं\V_VM ।\RD_PUNC
+htd9390	मंदिरों\N_NN की\PSP नगरी\N_NN कांचीपुरम\N_NNP वाणिज्यिक\JJ दृष्‍टि\N_NN से\PSP भी\RP_RPD पीछे\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd9391	यहाँ\DM_DMD निर्मित\N_NN कांजीवरम\JJ सिल्क\N_NN की\PSP साड़ियाँ\N_NN देश\N_NN -\RD_PUNC विदेश\N_NN में\PSP बड़ी\JJ प्रचलित\N_NN हैं\V_VM ।\RD_PUNC
+htd9392	चिदम्बरम\N_NNP में\PSP भगवान\N_NN शिव\N_NNP का\PSP एक\QT_QTC रूप\N_NN नटराज\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9393	भगवान\N_NN का\PSP नटराज\N_NN रूप\N_NN नृत्य\N_NN करने\JJ वाले\JJ कलाकारों\N_NN में\PSP विशेष\JJ रूप\N_NN से\PSP पूजनीय\N_NN है\V_VM ।\RD_PUNC
+htd9394	शिव\N_NNP का\PSP तांडव\JJ नृत्य\N_NN तो\RP_RPD विश्‍वविख्यात\JJ है\V_VM ।\RD_PUNC
+htd9395	नटराज\N_NNP मंदिर\N_NNP और\CC_CCD अन्नामलाई\N_NNP विश्‍वविद्यालय\N_NNP चिदम्बरम\N_NNP नगर\N_NN की\PSP शान\N_NN हैं\V_VM ।\RD_PUNC
+htd9396	चिदम्बरम\N_NNP का\PSP नटराज\N_NNP मंदिर\N_NNP ग्रेनाइट\N_NN पत्थर\N_NN से\PSP निर्मित\N_NN है\V_VM ।\RD_PUNC
+htd9397	नटराज\N_NNP मंदिर\N_NNP में\PSP आराध्य\JJ देव\N_NN भगवान\N_NN शिव\N_NNP की\PSP मूर्ति\N_NN पंच\JJ धातु\N_NN की\PSP बनी\V_VM है\V_VAUX ।\RD_PUNC
+htd9398	पवित्र\JJ हिन्दू\JJ तीर्थ\N_NN ’\RD_PUNC मयूरम\N_NNP ’\RD_PUNC भी\RP_RPD चिदम्बरम\N_NNP में\PSP ही\RP_RPD है\V_VM ।\RD_PUNC
+htd9399	साथ\CC_CCD ही\RP_RPD मुस्लिम\JJ तीर्थ\JJ स्थल\N_NN नागौर\N_NNP भी\RP_RPD चिदम्बरम\N_NNP की\PSP पवित्र\JJ भूमि\N_NN पर\PSP ही\RP_RPD है\V_VM ।\RD_PUNC
+htd9400	दर्शनार्थियों\N_NN को\PSP विशेषकर\RB तंजौर\N_NNP का\PSP श्री\N_NNP वृहदेश्‍वर\N_NNP मंदिर\N_NNP आकर्षित\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd9401	श्री\N_NNP वृहदेश्‍वर\N_NNP मंदिर\N_NNP की\PSP स्थापत्य\JJ शैली\N_NN ,\RD_PUNC अद्‌भुत\JJ वास्तुकला\N_NN पर्यटकों\N_NN को\PSP चौंका\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9402	श्री\N_NNP वृहदेश्‍वर\N_NNP मंदिर\N_NNP में\PSP शिवजी\N_NNP अधिष्‍ठित\N_NN हैं\V_VM उनकी\PR_PRP सावरी\N_NN नन्दी\N_NNP भी\RP_RPD उनके\PR_PRP द्वार\N_NN के\PSP समक्ष\N_NN विराजित\N_NN हैं\V_VM जो\PR_PRL काले\JJ पत्थर\N_NN के\PSP हैं\V_VM ।\RD_PUNC
+htd9403	श्री\N_NNP वृहदेश्‍वर\N_NNP मंदिर\N_NNP का\PSP निर्माण\N_NN का\PSP 11वीं\QT_QTO शताब्दी\N_NN के\PSP चोल\JJ राजाओं\N_NN द्वारा\PSP हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd9404	निकट\N_NN ही\RP_RPD केन्द्रायाणि\N_NNP किला\N_NNP व\CC_CCD स्कूअर्ट\N_NNP चर्च\N_NNP भी\RP_RPD देख\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9405	मन\N_NN को\PSP भाने\N_NN वाले\N_NN प्राकृतिक\JJ दृश्यों\N_NN और\CC_CCD नयनाभिराम\JJ दृश्यावली\N_NN के\PSP कारण\N_NN प्रसिद्ध\N_NN ’\RD_PUNC कोडाइकनाल\N_NNP ’\RD_PUNC हिल\N_NN स्टेशन\N_NN पलानी\N_NNP पहाड़ी\N_NNP पर\PSP दक्षिणी\JJ भाग\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9406	मनोहारी\JJ मौसम\N_NN से\PSP मालामाल\N_NN ’\RD_PUNC कोडाइकनाल\N_NNP ’\RD_PUNC के\PSP पहाड़ी\JJ परिवेश\N_NN को\PSP ’\RD_PUNC बेरिजाम\N_NNP लेक\N_NNP ’\RD_PUNC और\CC_CCD चार\QT_QTC चाँद\N_NN लगा\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9407	’\RD_PUNC कोडाइकनाल\N_NNP ’\RD_PUNC पहाड़ी\N_NN पर\PSP पिलर\JJ रॉक\N_NN काकरस\N_NN ,\RD_PUNC आदि\N_NN भी\RP_RPD देखने\V_VM के\PSP योग्य\N_NN हैं\V_VM ।\RD_PUNC
+htd9408	’\RD_PUNC कोडाइकनाल\N_NNP ’\RD_PUNC पिकनिक\N_NN स्थल\N_NN में\PSP ठहरने\V_VM के\PSP इच्छुक\N_NN पर्यटक\N_NN होटल\N_NNP सनराइज\N_NNP ,\RD_PUNC होटल\N_NNP कोडाई\N_NNP इंटरनेशनल\N_NNP होलीडे\N_NNP होम\N_NNP ,\RD_PUNC यूथ\N_NN हॉस्टल\N_NN इत्यादि\N_NN में\PSP आप\PR_PRP अपनी\PR_PRF सुविधानुसार\N_NN ठहर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9409	तिरुचिरापल्ली\N_NNP नगर\N_NN कावेरी\N_NNP नदी\N_NN के\PSP तट\N_NN पर\PSP बसा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9410	तिरुचिरापल्ली\N_NNP का\PSP गुफा\JJ मंदिर\N_NN ,\RD_PUNC गोल्डेन\JJ रॉक\N_NN ,\RD_PUNC रॉक\N_NNP पोर्ट\N_NNP ,\RD_PUNC म्यूजियम\N_NN ,\RD_PUNC श्रीरंगनाथ\N_NNP मंदिर\N_NNP ,\RD_PUNC जम्बुकेश्‍वर\N_NNP मंदिर\N_NNP पर्यटकों\N_NN को\PSP बरबस\RB ही\RP_RPD अपनी\PR_PRF ओर\N_NN आकर्षित\N_NN कर\V_VM लेते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9411	जम्बुकेश्‍वर\N_NNP मंदिर\N_NNP में\PSP भगवान\N_NN शिव\N_NNP जल\N_NN में\PSP स्थापित\N_NN हैं\V_VM और\CC_CCD जम्बुकेश्‍वर\N_NNP के\PSP नाम\N_NN से\PSP विख्यात\N_NN हैं\V_VM ।\RD_PUNC
+htd9412	जम्बुकेश्‍वर\N_NNP मंदिर\N_NNP जामुन\N_NN के\PSP वृक्ष\N_NN के\PSP नीचे\N_NN बना\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9413	शायद\RB इसी\DM_DMD कारण\N_NN से\PSP इस\DM_DMD मंदिर\N_NN का\PSP नाम\N_NN जम्बुकेश्‍वर\N_NNP पड़\V_VM गया\V_VAUX ।\RD_PUNC
+htd9414	गोल्डेन\N_NNP रॉक\N_NNP म्यूजियम\N_NNP में\PSP ग्रेनाइट\N_NN पत्थर\N_NN व\CC_CCD काँसे\N_NN की\PSP मूर्तियों\N_NN का\PSP आकर्षक\JJ संग्रह\N_NN किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9415	गुफा\N_NNP मंदिर\N_NN के\PSP एक\QT_QTC चौकोर\JJ कक्ष\N_NN में\PSP आराध्य\JJ -\RD_PUNC मूर्ति\N_NN स्थापित\N_NN है\V_VM ।\RD_PUNC
+htd9416	गुफा\JJ मंदिर\N_NN कुल\JJ मिलाकर\V_VM सात\QT_QTC खम्भों\N_NN पर\PSP टिका\V_VM है\V_VAUX ।\RD_PUNC
+htd9417	गुफा\JJ मंदिर\N_NN की\PSP प्राचीर\N_NN खूबसूरत\JJ चित्रों\N_NN से\PSP सजी\V_VM है\V_VAUX जिससे\PR_PRL मंदिर\N_NN ने\PSP एक\QT_QTC अनोखी\JJ भव्यता\N_NN धारण\N_NN कर\V_VM रखी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9418	श्रीरंगनाथ\N_NNP स्वामी\N_NNP मंदिर\N_NN में\PSP भगवान\N_NN विष्‍णु\N_NNP रंगनाथजी\N_NNP के\PSP रूप\N_NN में\PSP पूजित\N_NN हैं\V_VM ।\RD_PUNC
+htd9419	16वीं\QT_QTO शताब्दी\N_NN में\PSP निर्मित\N_NN श्रीरंगनाथ\N_NNP स्वामी\N_NNP मंदिर\N_NNP का\PSP बुर्ज\N_NN स्वर्ण\JJ निर्मित\N_NN है\V_VM ।\RD_PUNC
+htd9420	शीर्ष\N_NN पर\PSP विष्‍णु\N_NNP जी\N_NNP की\PSP स्वर्णप्रतिमा\N_NN ,\RD_PUNC काँसे\N_NN का\PSP तालगाद\N_NN ,\RD_PUNC चार\QT_QTC स्वर्ण\JJ कलश\N_NN मंदिर\N_NN की\PSP छ्टा\N_NN को\PSP और\RP_INTF भी\RP_RPD निखार\V_VM देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9421	83\QT_QTC मी.\N_NN ऊँचे\JJ ग्रेनाइट\JJ पत्थर\N_NN के\PSP पहाड़\N_NN पर\PSP रॉक\N_NNP फोर्ट\N_NNP मंदिर\N_NNP बना\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9422	रॉक\N_NNP फोर्ट\N_NNP मंदिर\N_NNP में\PSP अन्य\QT_QTF देवों\N_NN के\PSP अलावा\N_NN भगवान\N_NN शिव\N_NNP व\CC_CCD गणपति\N_NNP मुख्य\N_NN रूप\N_NN से\PSP पूजित\N_NN हैं\V_VM ।\RD_PUNC
+htd9423	कहा\V_VM जाता\V_VAUX है\V_VAUX रॉक\N_NNP फोर्ट\N_NNP मंदिर\N_NNP का\PSP निर्माण\N_NN 18वीं\QT_QTO शताब्दी\N_NN में\PSP हुआ\V_VM था\V_VAUX व\CC_CCD
+htd9424	ठहरने\V_VM के\PSP इच्छुक\JJ श्रद्धालु\N_NN होटल\N_NNP अजन्ता\N_NNP ,\RD_PUNC होटल\N_NNP संगम\N_NNP ,\RD_PUNC होटल\N_NNP लक्ष्मी\N_NNP ,\RD_PUNC होटल\N_NNP आनन्द\N_NNP आदि\N_NN में\PSP अपनी\PR_PRF सुविधानुसार\N_NN सुगमता\N_NN से\PSP ठहर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9425	पाण्डु\JJ राजा\N_NN कुलशेखर\N_NNP ने\PSP मदुरई\N_NNP शहर\N_NN की\PSP आधारशिला\N_NN 600\QT_QTC ई.\N_NN पूर्व\N_NN में\PSP रखी\V_VM थी\V_VAUX ।\RD_PUNC
+htd9426	मदुरई\N_NNP शहर\N_NN का\PSP मुख्य\JJ आकर्षण\JJ थिरुमलाई\N_NNP नायक\N_NNP महल\N_NNP ,\RD_PUNC मारिअम्मान\N_NNP टेम्पाकूलम\N_NNP और\CC_CCD मीनाक्षी\N_NNP मंदिर\N_NNP है\V_VM ।\RD_PUNC
+htd9427	टेम्पाकूलम\N_NNP पवित्र\N_NN सरोवर\N_NN का\PSP निर्माण\N_NN 1949\QT_QTC ई.\N_NN में\PSP हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd9428	टेम्पाकूलम\N_NNP सरोवर\N_NN में\PSP पानी\N_NN का\PSP प्रवेश\N_NN निकटवर्ती\JJ बाईगाई\N_NNP नदी\N_NN से\PSP एक\QT_QTC प्राकृतिक\JJ रूप\N_NN से\PSP निर्मित\N_NN सुरंग\N_NN द्वारा\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9429	तिरुपरनकुण्‍ड्रम\N_NNP मंदिर\N_NNP के\PSP पवित्र\JJ स्थल\N_NN पर\PSP देवराज\N_NNP इंद्र\N_NNP की\PSP बेटी\N_NN व\CC_CCD शंकर\N_NNP जी\N_NNP के\PSP पुत्र\N_NN कार्तिकेय\N_NNP जी\N_NNP का\PSP विवाह\N_NN संपन्न\N_NN हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd9430	थिरुमलाई\N_NNP नायक\N_NNP महल\N_NNP का\PSP मुख्य\JJ द्वार\N_NN ,\RD_PUNC भव्य\JJ कक्ष\N_NN ,\RD_PUNC म्यूजियम\N_NN आदि\N_NN की\PSP शोभा\N_NN देखते\V_VM ही\RP_RPD बनती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9431	मीनाक्षी\N_NNP मंदिर\N_NNP में\PSP दर्शनार्थियों\N_NN को\PSP आत्मविभोर\N_NN कर\V_VM देने\V_VAUX वाली\V_VAUX सुंदरता\N_NN लिये\V_VM हुए\V_VAUX मंदिर\N_NN में\PSP दो\QT_QTC मुख्य\JJ देव\JJ स्थल\N_NN हैं\V_VM ।\RD_PUNC
+htd9432	मीनाक्षी\N_NNP मंदिर\N_NNP में\PSP दो\QT_QTC ही\RP_RPD देवों\N_NN की\PSP पूजा\N_NN की\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9433	सर्वप्रथम\RB आदिदेव\N_NNP (\RD_SYM मुण्‍डोदेश्‍वर\N_NNP )\RD_SYM और\CC_CCD शिव\N_NNP पत्‍नी\N_NN दुर्गा\N_NNP (\RD_SYM मीनाक्षी\N_NNP )\RD_SYM यह\DM_DMD दोनों\N_NN स्थल\N_NN मंदिर\N_NN की\PSP दक्षिण\JJ दिशा\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd9434	कहा\V_VM जाता\V_VAUX है\V_VAUX मीनाक्षी\N_NNP मंदिर\N_NNP की\PSP खोज\N_NN देवराज\N_NNP इंद्र\N_NNP ने\PSP की\V_VM थी\V_VAUX ।\RD_PUNC
+htd9435	इतना\DM_DMI ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC मीनाक्षी\N_NNP मंदिर\N_NNP में\PSP मूर्तियों\N_NN की\PSP प्रतिष्‍ठा\N_NN भी\RP_RPD स्वयं\PR_PRF देवराज\N_NNP इंद्र\N_NNP ने\PSP की\V_VM थी\V_VAUX ।\RD_PUNC
+htd9436	एक\QT_QTC हजार\N_NN खम्बों\N_NN पर\PSP टिके\V_VM मीनाक्षी\N_NNP मंदिर\N_NNP के\PSP हॉल\N_NN का\PSP कैलाइडस्कोप\N_NN दर्शनार्थियों\N_NN को\PSP मंत्रमुग्‍ध\N_NN कर\V_VM डालता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9437	रामेश्‍वरम\N_NNP हिन्दूओं\N_NN का\PSP एक\QT_QTC पवित्रतम\JJ तीर्थस्थल\N_NN है\V_VM ।\RD_PUNC
+htd9438	रामेश्‍वरम\N_NNP मंदिर\N_NNP का\PSP निर्माण\N_NN 12वीं\QT_QTO शताब्दी\N_NN में\PSP पूर्ण\N_NN हुआ\V_VM ।\RD_PUNC
+htd9439	रामेश्‍वरम\N_NNP मंदिर\N_NNP द्रविड़\JJ स्थापत्य\JJ शैली\N_NN में\PSP बना\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9440	रामेश्‍वरम\N_NNP मंदिर\N_NNP की\PSP छ्तों\N_NN पर\PSP सुंदर\JJ चित्रकारी\N_NN की\V_VM गई\V_VAUX है\V_VAUX तो\RP_RPD खंभों\N_NN को\PSP कारीगरी\N_NN से\PSP सजाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9441	मंदिर\N_NN के\PSP प्रांगण\N_NN में\PSP स्थित\N_NN पवित्र\JJ कुंडों\N_NN में\PSP स्नान\N_NN कर\V_VM तीर्थयात्री\N_NN पुण्‍य\N_NN के\PSP भागी\N_NN बनते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9442	रावण\N_NNP जब\PR_PRL सीता\N_NNP को\PSP हर\V_VM ले\V_VAUX गया\V_VAUX तो\RP_RPD उनको\PR_PRP छुड़ाने\V_VM के\PSP लिए\PSP श्रीराम\N_NNP को\PSP रावण\N_NNP से\PSP युद्ध\N_NN करना\V_VM पड़ा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9443	समुद्र\JJ पार\JJ श्रीलंका\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP धनुष्‍कोटी\N_NNP नामक\N_NN स्थल\N_NN पर\PSP श्रीराम\N_NNP ने\PSP एक\QT_QTC सेतु\N_NN का\PSP निर्माण\N_NN कर\V_VM लंकापति\N_NNP रावण\N_NNP पर\PSP चढ़ाई\V_VM कर\V_VAUX उसे\PR_PRP युद्ध\N_NN में\PSP पराजित\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9444	भगवान\N_NN विष्‍णु\N_NNP द्वारा\PSP कहे\V_VM अनुसार\N_NN देवराज\N_NNP इंद्र\N_NNP ने\PSP यज्ञ\N_NN किया\V_VM और\CC_CCD इसकी\PR_PRP पवित्र\JJ अग्नि\N_NN में\PSP से\PSP कन्याकुमारी\N_NNP प्रकट\N_NN हुई\V_VM ।\RD_PUNC
+htd9445	यहाँ\DM_DMD निर्मित\N_NN मंदिर\N_NN में\PSP देवी\N_NN कन्याकुमारी\N_NNP की\PSP मूर्ति\N_NN ही\RP_RPD अधिष्‍ठित\N_NN है\V_VM ।\RD_PUNC
+htd9446	शिव\N_NNP अर्द्धांगिनी\N_NN माँ\N_NN पार्वती\N_NNP ही\RP_RPD यहाँ\DM_DMD कन्याकुमारी\N_NNP के\PSP रूप\N_NN में\PSP विराजती\N_NN हैं\V_VM ।\RD_PUNC
+htd9447	मीनाक्षी\N_NNP मंदिर\N_NNP की\PSP तरह\N_NN कन्याकुमारी\N_NNP मंदिर\N_NNP में\PSP भी\RP_RPD चार\QT_QTC संगीतमय\JJ खंभे\N_NN हैं\V_VM ।\RD_PUNC
+htd9448	त्रिवेंद्रम\N_NNP से\PSP कन्याकुमारी\N_NNP की\PSP दूरी\N_NN 87\QT_QTC किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9449	कोचीन\N_NNP से\PSP कन्याकुमारी\N_NNP 300\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9450	पांडिचेरी\N_NNP से\PSP कन्याकुमारी\N_NNP 580\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9451	बंगलौर\N_NNP से\PSP कन्याकुमारी\N_NNP 675\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9452	चेन्नई\N_NNP से\PSP कन्याकुमारी\N_NNP 700\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9453	कोलकाता\N_NNP से\PSP कन्याकुमारी\N_NNP 2,380\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9454	मुम्बई\N_NNP से\PSP कन्याकुमारी\N_NNP 1,655\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9455	दिल्ली\N_NNP से\PSP कन्याकुमारी\N_NNP 2,690\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9456	शिव\N_NNP मंदिर\N_NNP शुचीन्द्रम\N_NNP स्थल\N_NN पर\PSP शापग्रस्त\JJ इंद्र\N_NNP को\PSP भगवान\N_NN शिव\N_NNP ने\PSP शापमुक्‍त\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9457	यह\DM_DMD शिव\N_NNP मंदिर\N_NNP अथाह\JJ जल\N_NN के\PSP बीचों-बीच\N_NN बना\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9458	विवेकानन्द\N_NNP शिला\N_NNP पर\PSP स्वामी\N_NNP विवेकानन्द\N_NNP ने\PSP तप\N_NN कर\V_VM सिद्धि\N_NN प्राप्‍त\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd9459	आज\N_NN यहाँ\DM_DMD विवेकानन्द\N_NNP मंदिर\N_NNP बना\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9460	मंदिर\N_NN में\PSP विवेकानन्द\N_NNP जी\N_NNP की\PSP मूर्ति\N_NN स्थापित\N_NN की\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9461	नभचर\JJ ,\RD_PUNC भूचर\JJ व\CC_CCD खेचर\JJ जीवों\N_NN के\PSP आश्रय\JJ स्थल\N_NN मधुमलाई\N_NNP वन्यजीवन\N_NNP संग्रहालय\N_NNP में\PSP वन्यजीव\N_NN प्रेमी\N_NN इन\DM_DMD सभी\QT_QTF जीवों\N_NN को\PSP देख\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9462	मधुमलाई\N_NNP वन्यजीवन\N_NNP संग्रहालय\N_NNP में\PSP भूचरों\JJ में\PSP हाथी\N_NN ,\RD_PUNC चीता\N_NN ,\RD_PUNC हिरण\N_NN ,\RD_PUNC भालू\N_NN आदि\N_NN वन्यजीव\N_NN हैं\V_VM ।\RD_PUNC
+htd9463	मधुलाई\N_NNP वन्यजीवन\N_NNP संग्रहालय\N_NNP में\PSP जलचर\JJ में\PSP मगरमच्छ\N_NN आदि\N_NN नभचर\N_NNP में\PSP रंग\JJ बिरंगे\JJ विभिन्न\QT_QTF प्रजातियों\N_NN के\PSP पक्षी\N_NN हैं\V_VM ।\RD_PUNC
+htd9464	मधुलाई\N_NNP संग्रहालय\N_NNP में\PSP यह\DM_DMD सभी\QT_QTF जीव\N_NN स्वच्छ्न्दतापूर्वक\N_NN विचरण\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9465	सन्\N_NN 1638\QT_QTC में\PSP मुगल\JJ बादशाह\N_NN शाहजहाँ\N_NNP ने\PSP अपना\PR_PRF मुख्यालय\N_NN आगरा\N_NNP से\PSP बदलने\V_VM और\CC_CCD दिल्ली\N_NNP में\PSP यमुना\N_NNP किनारे\N_NN फिरोज़ाबाद\N_NNP के\PSP पुराने\JJ खंडहरों\N_NN के\PSP पास\N_NN नया\JJ राजधानी\JJ शहर\N_NN बसाने\V_VM का\PSP निर्णय\N_NN लिया\V_VM था\V_VAUX ।\RD_PUNC
+htd9466	दिल्ली\N_NNP में\PSP लगभग\JJ आठ\QT_QTC वर्षों\N_NN में\PSP मज़बूत\JJ दीवारों\N_NN ,\RD_PUNC द्वारों\N_NN ,\RD_PUNC मीनारों\N_NN ,\RD_PUNC तथा\CC_CCD प्राचीरों\N_NN से\PSP सुसज्जित\JJ एक\QT_QTC विशाल\JJ और\CC_CCD प्रभावशाली\JJ लाल\N_NNP किले\N_NNP का\PSP निर्माण\N_NN किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9467	बादशाह\N_NN शाहजहाँ\N_NNP ने\PSP लाल\N_NNP किले\N_NNP में\PSP रहकर\N_NN यहीं\DM_DMD से\PSP शासन\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9468	यह\DM_DMD किला\N_NN अपने\PR_PRF आप\PR_PRF में\PSP शाही\N_NN नगरी\N_NN था\V_VAUX जिसमें\PR_PRL लगभग\JJ 5,000\QT_QTC व्यक्‍ति\N_NN रहते\V_VM थे\V_VAUX ।\RD_PUNC
+htd9469	लाल\N_NNP किले\N_NNP का\PSP अभिन्यास\N_NN अनूठा\JJ है\V_VM ।\RD_PUNC
+htd9470	संकल्पना\N_NN में\PSP लाल\N_NNP किला\N_NNP अष्‍टकोणीय\N_NNP है\V_VM ।\RD_PUNC
+htd9471	लाल\N_NNP किले\N_NNP के\PSP पूर्व\N_NN तथा\CC_CCD पश्‍चिम\N_NN में\PSP दो\QT_QTC लम्बी\JJ दीवारें\N_NN तथा\CC_CCD उत्तर\N_NN व\CC_CCD दक्षिण\N_NN में\PSP छोटी\JJ -\RD_PUNC छोटी\JJ छह\QT_QTC दीवारें\N_NN हैं\V_VM ।\RD_PUNC
+htd9472	लाल\N_NNP किले\N_NNP में\PSP अनेक\QT_QTF विशिष्‍ट\JJ भवन\N_NN हैं\V_VM ।\RD_PUNC
+htd9473	जिनमें\PR_PRL से\PSP दीवान-ए-आम\N_NN जनता\N_NN के\PSP दरबार\N_NN के\PSP लिए\PSP हॉल\N_NN था\V_VM ।\RD_PUNC
+htd9474	दीवान-ए-खास\N_NN प्रतिष्‍ठित\JJ व्यक्‍तियों\N_NN की\PSP बैठक\N_NN -\RD_PUNC स्थल\N_NN थी\V_VM ।\RD_PUNC
+htd9475	रंग\N_NNP -\RD_PUNC महल\N_NNP ``\RD_PUNC शाहजहाँ\N_NNP के\PSP हरम\N_NN के\PSP उत्कृष्‍ट\JJ रत्‍न\N_NN ``\RD_PUNC के\PSP रूप\N_NN में\PSP विख्यात\N_NN है\V_VM ।\RD_PUNC
+htd9476	नहर-ए-बिहिस्त\N_NNP अली\N_NNP ,\RD_PUNC मर्दन\N_NNP नहर\N_NNP की\PSP एक\QT_QTC शाखा\N_NN जो\PR_PRL कि\CC_CCS फव्वारों\N_NN एवं\CC_CCD जलप्रपातों\N_NN आदि\N_NN का\PSP स्रोत\N_NN थी\V_VM ।\RD_PUNC
+htd9477	लाल\N_NNP किले\N_NNP के\PSP शाही\JJ तथा\CC_CCD शानदार\JJ भवनों\N_NN के\PSP कारण\N_NN ही\RP_RPD फर्गुसन्\N_NNP ने\PSP इसे\N_NN ``\RD_PUNC पूर्व\N_NN का\PSP सम्भवतः\CC_CCS विश्‍व\N_NN का\PSP सर्वाधिक\RP_INTF भव्य\JJ महल\N_NN ``\RD_PUNC कहा\V_VM था\V_VAUX ।\RD_PUNC
+htd9478	लाल\N_NNP किले\N_NNP की\PSP विरासत\N_NN मात्र\QT_QTF इसके\DM_DMD अभिन्यास\N_NN की\PSP भव्यता\N_NN या\CC_CCD इसके\DM_DMD भवनों\N_NN के\PSP वैभव\N_NN या\CC_CCD इसके\DM_DMD उद्यानों\N_NN की\PSP सुंदरता\N_NN या\CC_CCD इसके\DM_DMD फव्वारों\N_NN की\PSP कल\N_NN -\RD_PUNC कल\N_NN में\PSP ही\RP_RPD निहित\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd9479	लाल\N_NNP किले\N_NNP के\PSP हर\QT_QTF पत्थर\N_NN हर\QT_QTF स्तंभ\N_NN हर\QT_QTF मंडप\N_NN चित्र\N_NN तथा\CC_CCD पगडंडी\N_NN बीते\JJ युग\N_NN की\PSP गाथा\N_NN सुनाती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9480	लाल\N_NNP किले\N_NNP की\PSP हर\QT_QTF जगह\N_NN हमें\PR_PRP बताती\V_VM हैं\V_VAUX कि\CC_CCS कैसे\PR_PRQ यह\DM_DMD महान\JJ साम्राज्य\N_NN बना\V_VM ।\RD_PUNC
+htd9481	कैसे\RP_INJ लाल\N_NNP किले\N_NNP के\PSP शानदार\JJ भवनों\N_NN में\PSP शानो-शौकत\N_NN के\PSP बेजोड़\JJ रंग\N_NN भरे\V_VM गए\V_VAUX ।\RD_PUNC
+htd9482	कैसे\RP_INJ लाल\N_NNP किला\N_NNP दया\N_NN और\CC_CCD निर्दयता\N_NN का\PSP साक्षी\N_NN रहा\V_VM ।\RD_PUNC
+htd9483	कैसे\RP_INJ एक\QT_QTC सर्वोच्च\RP_INTF शक्‍तिशाली\JJ किला\N_NN अंततः\CC_CCS अपने\PR_PRF ही\RP_RPD अहंकार\N_NN ,\RD_PUNC निष्‍क्रियता\N_NN तथा\CC_CCD भ्रम\N_NN का\PSP शिकार\N_NN हुआ\V_VM और\CC_CCD कैसे\RP_INJ यह\DM_DMD उदासीन\JJ एवं\CC_CCD स्वार्थी\JJ कंपनी\N_NN के\PSP तथा\CC_CCD बाद\N_NN में\PSP अंग्रेज\JJ शासकों\N_NN के\PSP हाथों\N_NN में\PSP चला\V_VM गया\V_VAUX ।\RD_PUNC
+htd9484	1857\QT_QTC की\PSP दुखद\JJ घटना\N_NN के\PSP बाद\N_NN अंग्रेज\JJ -\RD_PUNC सेना\N_NN ने\PSP लाल\N_NNP किले\N_NNP पर\PSP कब्ज़ा\N_NN कर\V_VM लिया\V_VAUX ।\RD_PUNC
+htd9485	अपने\PR_PRF सैनिकों\N_NN तथा\CC_CCD हथियारों\N_NN की\PSP निर्बाध\JJ आवाजाही\N_NN के\PSP लिए\PSP अंग्रेज\JJ -\RD_PUNC सेना\N_NN ने\PSP 448\QT_QTC गज़\N_NN के\PSP अर्धव्यास\N_NN में\PSP ,\RD_PUNC जिसके\PR_PRL एक\QT_QTC ओर\N_NN जामा\N_NNP मस्जिद\N_NNP व\CC_CCD चाँदनी\N_NNP चौक\N_NNP थे\V_VM और\CC_CCD दूसरी\QT_QTO तरफ\N_NN लाल\N_NNP किले\N_NNP की\PSP दीवार\N_NN थी\V_VM सभी\QT_QTF भवनों\N_NN को\PSP गिरा\V_VM दिया\V_VAUX ।\RD_PUNC
+htd9486	किंतु\CC_CCD लाल\N_NNP किले\N_NNP के\PSP आस-पास\N_NN ऐसे\DM_DMI विनाशकारी\JJ कार्यों\N_NN के\PSP बावजूद\N_NN अंग्रेज़\JJ शासक\N_NN इसकी\PR_PRP शाही\JJ परम्पराओं\N_NN की\PSP चकाचौंध\N_NN से\PSP बच\V_VM नहीं\RP_NEG पाए\V_VAUX ।\RD_PUNC
+htd9487	यह\DM_DMD शाही\JJ परम्परा\N_NN 14\QT_QTC दिसम्बर\N_NN ,\RD_PUNC 1911\QT_QTC को\PSP अपने\PR_PRF पूरे\N_NN निखार\N_NN पर\PSP थी\V_VM जब\PR_PRL किंग\N_NNP जॉर्ज\N_NNP -\RD_PUNC पंचम\N_NNP तथा\CC_CCD उनकी\PR_PRP रानी\N_NN ने\PSP चमकते\JJ हुए\JJ मुकुट\N_NN एवं\CC_CCD रंग-बिरंगी\JJ पोशाक\N_NN पहनकर\V_VM और\CC_CCD यहाँ\DM_DMD के\PSP राजा\N_NN -\RD_PUNC महाराजओं\N_NN जैसी\N_NN शानो-शौकत\N_NN के\PSP साथ\PSP लाल\N_NNP किले\N_NNP के\PSP छ्ज्जे\N_NN से\PSP लगभग\JJ पाँच\QT_QTC लाख\N_NN लोगों\N_NN का\PSP अभिवादन\N_NN स्वीकार\N_NN किया\V_VM था\V_VAUX
+htd9488	भारतीय\JJ स्वतंत्रता\JJ सेनानियों\N_NN के\PSP लिए\PSP भी\RP_RPD लाल\N_NNP किला\N_NNP शक्‍ति\N_NN का\PSP प्रतीक\N_NN बना\V_VM रहा\V_VAUX ।\RD_PUNC
+htd9489	नेताजी\N_NNP सुभाष\N_NNP चन्द्र\N_NNP बोस\N_NNP द्वारा\PSP अपनी\PR_PRF इंडियन\N_NNP नेशनल\N_NNP आर्मी\N_NNP को\PSP दिया\V_VM गया\V_VAUX नारा\N_NN ``\RD_PUNC दिल्ली\N_NNP चलो\V_VM ``\RD_PUNC था\V_VM ।\RD_PUNC
+htd9490	पंडित\N_NNP नेहरू\N_NNP ने\PSP स्वतंत्र\JJ भारत\N_NNP का\PSP प्रथम\QT_QTO ध्‍वज\N_NN भी\RP_RPD 15\QT_QTC अगस्त\N_NN ,\RD_PUNC 1947\QT_QTC को\PSP लाल\N_NNP किले\N_NNP पर\PSP ही\RP_RPD फहराया\V_VM था\V_VAUX ।\RD_PUNC
+htd9491	वर्षों\N_NN से\PSP लाल\N_NNP किले\N_NNP ने\PSP समय\N_NN के\PSP अनेक\QT_QTF थपेड़े\N_NN सहे\N_NN हैं\V_VM ।\RD_PUNC
+htd9492	इतिहास\N_NN ने\PSP लाल\N_NNP किले\N_NNP पर\PSP अपने\PR_PRF घावों\N_NN के\PSP निशान\N_NN छोड़े\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9493	लाल\N_NNP किले\N_NNP की\PSP बची-खुची\JJ ऊर्जा\N_NN भी\RP_RPD लापरवाही\N_NN के\PSP कारण\N_NN नष्‍ट\N_NN हो\V_VM गई\V_VAUX ।\RD_PUNC
+htd9494	कुछ\QT_QTF माह\N_NN पहले\N_NN तक\PSP लाल\N_NNP किले\N_NNP के\PSP अंदर\N_NN और\CC_CCD बाहर\N_NN आस-पास\N_NN के\PSP परिवेश\N_NN से\PSP यह\DM_DMD पता\N_NN चलता\V_VM है\V_VAUX कि\CC_CCS हम\PR_PRP अपनी\PR_PRF सांस्कृतिक\JJ संपदा\N_NN के\PSP प्रति\N_NN कितने\RP_INJ लापरवाह\N_NN थे\V_VM ।\RD_PUNC
+htd9495	संस्कृति\JJ व\CC_CCD पर्यटन\JJ मंत्री\N_NN बनने\V_VM के\PSP बाद\N_NST जब\PR_PRL मैंने\PR_PRP लाल\N_NNP किले\N_NNP का\PSP गहन\JJ अध्ययन\N_NN करने\V_VM के\PSP लिए\PSP किले\N_NN का\PSP दौरा\N_NN किया\V_VM तो\RP_RPD वहाँ\DM_DMD मैंने\PR_PRP अनेक\QT_QTF जीर्ण-शीर्ण\JJ संरचनाएँ\N_NN देखीं\V_VM ।\RD_PUNC
+htd9496	लाल\N_NNP किले\N_NNP की\PSP पूर्वी\JJ दिशा\N_NN में\PSP गंदगी\N_NN भरी\V_VM बस्ती\N_NN थी\V_VAUX ,\RD_PUNC \RD_PUNC जहाँ\PR_PRL ``\RD_PUNC \RD_PUNC चोर\JJ बाज़ार\N_NN ``\RD_PUNC ,\RD_PUNC खुले\V_VM मूत्रालय\N_NN तथा\CC_CCD अवरूद्ध\JJ नालियाँ\N_NN थीं\V_VM ।\RD_PUNC
+htd9497	इनके\DM_DMD स्थान\N_NN पर\PSP अब\N_NN रमणीय\JJ पार्क\N_NN बना\V_VM दिया\V_VAUX गया\V_VAUX है\V_VAUX जो\PR_PRL कि\CC_CCS लाल\N_NNP किले\N_NNP के\PSP उत्तरी\N_NNP छोर\N_NN से\PSP लेकर\N_NN राजघाट\N_NNP के\PSP सामने\N_NN तक\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9498	रात\N_NN को\PSP यहाँ\DM_DMD का\PSP नज़ारा\N_NN बहुत\RP_INTF सुंदर\JJ लगता\V_VM है\V_VAUX जब\PR_PRL लाल\N_NNP किले\N_NNP की\PSP दीवारें\N_NN ,\RD_PUNC शहरी\JJ प्राचीर\N_NN तथा\CC_CCD उनके\PR_PRP सामने\N_NN हरे-भरे\JJ उद्यान\N_NN सुरूचिपूर्ण\JJ प्रकाश\JJ -\RD_PUNC व्यवस्था\N_NN में\PSP आनन्दमय\JJ वातावरण\N_NN का\PSP सृजन\N_NN करते\V_VM हैं\V_VAUX
+htd9499	इसी\DM_DMD प्रकार\N_NN चाँदनी\N_NNP चौक\N_NNP की\PSP ओर\N_NN फैले\V_VM ऊँचे-नीचे\JJ एवं\CC_CCD उपेक्षित\JJ पड़े\N_NN क्षेत्र\N_NN को\PSP भी\RP_RPD सँवारा\V_VM गया\V_VAUX है\V_VAUX ,\RD_PUNC जिसे\PR_PRL सुंदर\JJ राष्‍ट्रीय\N_NN पार्क\N_NN -\RD_PUNC ``\RD_PUNC 15\N_NNP अगस्त\N_NNP पार्क\N_NNP ``\RD_PUNC के\PSP रूप\N_NN में\PSP परिवर्तित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9500	लाल\N_NNP किले\N_NNP के\PSP दोनों\QT_QTO ओर\N_NN बनाए\V_VM गए\V_VAUX हरे-भरे\JJ उद्यानों\N_NN से\PSP भविष्य\N_NN में\PSP इसकी\PR_PRP छटा\N_NN और\QT_QTF निखरेगी\V_VM ।\RD_PUNC
+htd9501	इसके\N_NN साथ\N_NN लाल\JJ किले\N_NN के\PSP समस्त\QT_QTF भू-चिन्हों\N_NN का\PSP पुनरुत्थान\N_NN और\CC_CCD संरक्षण\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ,\RD_PUNC तथा\CC_CCD उन्हें\PR_PRP सुदृढ़\JJ बनाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9502	लाल\N_NNP किले\N_NNP की\PSP दीवारों\N_NN की\PSP 21,219\QT_QTC वर्ग\N_NN मीटर\N_NN की\PSP पूरी\JJ सतह\N_NN को\PSP अच्छी\JJ प्रकार\N_NN धोया\V_VM गया\V_VAUX और\CC_CCD रसायनों\N_NN से\PSP साफ\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9503	वर्षों\N_NN से\PSP कीचड़\N_NN से\PSP भरी\V_VM लाल\N_NNP किले\N_NNP की\PSP 1.7\QT_QTC कि.मी.\N_NN लम्बी\JJ खाई\N_NN को\PSP साफ\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9504	लाल\N_NNP किले\N_NNP में\PSP से\PSP 23,000\QT_QTC क्यूबिक\N_NN मीटर\N_NN कूड़ा\N_NN -\RD_PUNC कचड़ा\N_NN निकला\V_VM जोकि\PR_PRL 3,500\QT_QTC ट्रकों\N_NN में\PSP भरकर\V_VM हटाया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9505	लगभग\JJ 2,220\QT_QTC वर्ग\N_NN मीटर\N_NN रास्ते\N_NN ,\RD_PUNC जो\PR_PRL कि\CC_CCS फ्लैग\N_NN स्टोन\N_NN के\PSP बने\V_VM हुए\V_VAUX थे\V_VAUX और\CC_CCD जिन्हें\PR_PRL बाद\N_NN मे\PSP क्षत-विक्षत\N_NN होने\V_VM के\PSP कारण\N_NN ’\RD_PUNC मोरम\N_NN ’\RD_PUNC से\PSP बदल\N_NN दिया\V_VM गया\V_VAUX था\V_VAUX ,\RD_PUNC को\PSP मूल\JJ डिजाइन\N_NN में\PSP पुनः\QT_QTF तैयार\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9506	लाल\N_NNP किले\N_NNP में\PSP मुमताज़\N_NNP महल\N_NNP ,\RD_PUNC रंग\N_NNP महल\N_NNP ,\RD_PUNC हमाम\N_NN की\PSP दीवारों\N_NN का\PSP शैल\JJ -\RD_PUNC प्लास्टर\N_NN उखड़\V_VM गया\V_VAUX था\V_VAUX जिसे\PR_PRL अब\N_NN पुनः\RB करवाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9507	बलुआ\JJ पत्थरों\N_NN की\PSP बनी\V_VM सभी\QT_QTF 23\QT_QTC जालीदार\JJ खिडकियाँ\N_NN टूट\V_VM चुकी\V_VAUX थीं\V_VAUX ,\RD_PUNC उन्हें\PR_PRP अब\N_NN पुनः\RB लगाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9508	लाल\N_NNP किले\N_NNP के\PSP दीवान-ए-खास\N_NN ,\RD_PUNC खास\N_NN महल\N_NN ,\RD_PUNC नौबतखाना\N_NN ,\RD_PUNC तहखाना\N_NN आदि\N_NN को\PSP भी\RP_RPD पुरानी\JJ शान\N_NN लौटा\V_VM दी\V_VAUX गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9509	लाल\N_NNP किले\N_NNP के\PSP हयात\N_NNP बख्श\N_NNP उद्यान\N_NNP और\CC_CCD उसके\PR_PRP फव्वारों\N_NN ,\RD_PUNC जलधाराओं\N_NN तथा\CC_CCD जलप्रपातों\N_NN का\PSP पुनरुद्धार\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9510	मुसम्मन\N_NNP बुर्ज\N_NNP के\PSP नीचे\N_NN से\PSP यमुना\N_NNP नदी\N_NNP के\PSP सामने\N_NN खुलने\JJ वाली\JJ पुरानी\JJ सुरंग\N_NN को\PSP साफ\JJ करके\V_VM रिंग\N_NN रोड\N_NN की\PSP तरफ\N_NN खोला\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9511	नहर-ए-बिहिस्त\N_NNP के\PSP पुनरुद्धार\N_NN के\PSP लगभग\QT_QTF असंभव\JJ लगने\JJ वाले\JJ कार्य\N_NN को\PSP पूरा\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9512	लाल\N_NNP किले\N_NNP की\PSP एक\QT_QTC अन्‍जान\JJ बावली\N_NN के\PSP पुनरुद्धार\N_NN पर\PSP भी\RP_RPD विशेष\JJ ध्यान\N_NN दिया\V_VM गया\V_VAUX है\V_VAUX ,\RD_PUNC जिससे\PR_PRL जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX हमारे\PR_PRP स्वतंत्रता\JJ संघर्ष\N_NN के\PSP इतिहास\N_NN का\PSP एक\QT_QTC छोटा\JJ सा\RP_RPD किन्तु\CC_CCD प्रेरणादायक\JJ हिस्सा\N_NN ।\RD_PUNC
+htd9513	लाल\N_NNP किले\N_NNP में\PSP भूमि\N_NN की\PSP सतह\N_NN से\PSP लगभग\JJ 28\QT_QTF फुट\N_NN नीचे\N_NN देशी\JJ डिजाइन\N_NN से\PSP बना\V_VM नहाने\V_VM का\PSP कुंड\N_NN और\CC_CCD एक\QT_QTC प्रांगण\N_NN है\V_VAUX जहाँ\PR_PRL पहुँचने\V_VM के\PSP लिए\PSP सीढ़ियाँ\N_NN बनी\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9514	अंग्रेज़\JJ -\RD_PUNC सेना\N_NN के\PSP कब्ज़े\N_NN के\PSP दौरान\N_NN इस\DM_DMD बावली\N_NN का\PSP प्रयोग\N_NN नहीं\RP_NEG हुआ\V_VM था\V_VAUX और\CC_CCD प्रांगण\N_NN के\PSP बड़े\JJ हिस्से\N_NN में\PSP जेल-कोठरियाँ\N_NN बना\V_VM दी\V_VAUX गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9515	इन\DM_DMD जेल\N_NN -\RD_PUNC कोठरियों\N_NN पर\PSP उन\PR_PRP स्वतंत्रता\JJ सेनानियों\N_NN को\PSP पूछताछ\N_NN के\PSP लिए\PSP लाया\V_VM जाता\V_VAUX था\V_VAUX जिन्हें\PR_PRL ब्रिटिश\JJ इंटेलीजेंस\N_NN खतरनाक\N_NN कैदी\N_NN मानती\V_VM थी\V_VAUX ।\RD_PUNC
+htd9516	1945\QT_QTC के\PSP बाद\N_NN लाल\N_NNP किले\N_NNP की\PSP इन\DM_DMD बावली\N_NN तथा\CC_CCD कोठरियों\N_NN को\PSP बंद\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd9517	बाद\N_NN में\PSP इनमें\DM_DMD बेकार\JJ सामान\N_NN ,\RD_PUNC कूड़ा\N_NN -\RD_PUNC कचरा\N_NN तथा\CC_CCD भवन\JJ -\RD_PUNC निर्माण\JJ सामग्री\N_NN डाल\V_VM दी\V_VAUX गई\V_VAUX ।\RD_PUNC
+htd9518	एक\QT_QTC दस्तावेज़\JJ -\RD_PUNC व\CC_CCD -\RD_PUNC सूचना\JJ व्याख्‍या\JJ केन्द्र\N_NN लाल\N_NNP किले\N_NNP पर\PSP स्थापित\N_NN किया\V_VM जा\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9519	यह\DM_DMD केन्द्र\N_NN लाल\N_NNP किले\N_NNP के\PSP संबंध\N_NN में\PSP सूचना\N_NN उपलब्ध\N_NN कराने\V_VM के\PSP अलावा\N_NN प्राचीन\JJ काल\N_NN से\PSP लेकर\N_NN वर्तमान\JJ काल\N_NN तक\PSP के\PSP इतिहास\N_NN की\PSP व्यापक\JJ जानकारी\N_NN भी\RP_RPD प्रदान\N_NN करेगा\V_VM ।\RD_PUNC
+htd9520	यह\DM_DMD केन्द्र\N_NN 16\QT_QTC अगस्त\N_NN ,\RD_PUNC 1947\QT_QTC से\PSP लेकर\N_NN आज\N_NN तक\PSP लाल\N_NNP किले\N_NNP की\PSP प्राचीर\N_NN से\PSP भारत\N_NN के\PSP प्रधानमंत्रियों\N_NN द्वारा\PSP दिए\V_VM गए\V_VAUX भाषणों\N_NN की\PSP प्रतिलिपियाँ\N_NN भी\RP_RPD प्रस्तुत\N_NN करेगा\V_VM ।\RD_PUNC
+htd9521	अमेरिका\N_NNP ,\RD_PUNC कनाडा\N_NNP और\CC_CCD दक्षिण\N_NNP अफ्रीका\N_NNP के\PSP देशों\N_NN जैसे\CC_CCD कीनिया\N_NNP ,\RD_PUNC तंजानिया\N_NNP ,\RD_PUNC आदि\N_NN में\PSP वन्य\JJ जीव\JJ पर्यटन\N_NN पर्याप्‍त\N_NN रूप\N_NN से\PSP विकसित\N_NN है\V_VM ।\RD_PUNC
+htd9522	पूर्वी\N_NNP अफ्रीका\N_NNP के\PSP देशों\N_NN में\PSP ’\RD_PUNC वन्य\JJ जीव\JJ पर्यटन\N_NN ’\RD_PUNC आमदनी\N_NN का\PSP बहुत\RP_INTF बड़ा\JJ साधन\N_NN है\V_VM ।\RD_PUNC
+htd9523	इन\DM_DMD देशों\N_NN के\PSP राष्‍ट्रीय\N_NNP उद्यानों\N_NN में\PSP प्रतिवर्ष\N_NN हजारों\N_NN पर्यटक\N_NN आते\V_VM हैं\V_VAUX और\CC_CCD यहाँ\DM_DMD की\PSP रोमांचक\JJ वन्य\JJ छ्टा\N_NN का\PSP आनन्‍द\N_NN उठाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9524	पर्यटक\N_NN वन्य\JJ -\RD_PUNC प्राणीयों\N_NN को\PSP प्राकृतिक\JJ दशा\N_NN में\PSP निहारने\V_VM का\PSP पूरा\JJ सुख\N_NN प्राप्‍त\N_NN करते\V_VM हैं\V_VAUX और\CC_CCD उनका\PR_PRP छाया\JJ चित्र\N_NN (\RD_SYM फोटो\N_NN )\RD_SYM लेते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9525	कीनिया\N_NNP के\PSP नैरोबी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP को\PSP देखने\V_VM के\PSP लिए\PSP प्रतिवर्ष\N_NN एक\QT_QTC करोड़\N_NN से\PSP अधिक\JJ पर्यटक\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9526	भारत\N_NNP में\PSP पर्यटन\JJ उद्योग\N_NN विदेशी\JJ मुद्रा\N_NN अर्जित\N_NN करने\V_VM का\PSP सबसे\RP_INTF बड़ा\JJ स्रोत\N_NN बनकर\V_VM सामने\N_NN आया\V_VM है\V_VAUX किंन्तु\CC_CCD यह\DM_DMD विश्‍व\N_NN के\PSP केवल\QT_QTF 3\QT_QTF प्रतिशत\N_NN पर्यटकों\N_NN को\PSP अपनी\PR_PRF ओर\N_NN आकर्षित\N_NN कर\V_VM पाया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9527	भारत\N_NNP पर्यटन\N_NN अभी\N_NN तक\PSP धार्मिक\JJ ,\RD_PUNC सांस्कृतिक\JJ ,\RD_PUNC ऐतिहासिक\JJ और\CC_CCD भौगोलिक\JJ महत्त्व\N_NN के\PSP स्थानों\N_NN पर\PSP केंद्रित\N_NN है\V_VM ।\RD_PUNC
+htd9528	इसीलिए\CC_CCD विदेशी\JJ पर्यटकों\N_NN को\PSP तीर्थ\JJ स्थानों\N_NN ,\RD_PUNC प्राचीन\JJ मंदिरों\N_NN ,\RD_PUNC ऐतिहासिक\JJ किलों\N_NN ,\RD_PUNC स्मारकों\N_NN ,\RD_PUNC स्तूपों\N_NN या\CC_CCD भग्नावशेषों\N_NN ,\RD_PUNC चित्रकला\JJ दीर्घाओं\N_NN ,\RD_PUNC संग्रहालयों\N_NN और\CC_CCD रमणीक\JJ शहरों\N_NN तथा\CC_CCD समुद्र\JJ तटों\N_NN में\PSP घुमाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9529	वन्य\JJ -\RD_PUNC जीवों\N_NN पर\PSP आधारित\N_NN पर्यटन\N_NN को\PSP भारत\N_NNP में\PSP अभी\N_NN तक\PSP प्राथमिकता\N_NN नहीं\RP_NEG मिली\V_VM है\V_VAUX ।\RD_PUNC
+htd9530	भारत\N_NNP में\PSP पर्यटक\N_NN एकमात्र\QT_QTF वन्य\JJ जीव\N_NN पर्यटन\N_NN के\PSP अभीमुख\N_NN होकर\V_VM नहीं\RP_NEG आते\V_VM ।\RD_PUNC
+htd9531	फिर\CC_CCD भी\RP_RPD धीरे\RB -\RD_PUNC धीरे\RB ऐतिहासिक\JJ और\CC_CCD सांस्कृतिक\JJ पर्यटन\N_NN से\PSP हटकर\V_VM मनोरंजन\JJ और\CC_CCD सौंदर्यपरक\JJ पर्यटन\N_NN की\PSP ओर\N_NN झुकाव\V_VM आया\V_VAUX है\V_VAUX और\CC_CCD इस\DM_DMD परिवर्तन\N_NN में\PSP वन्य\JJ जीव\N_NN पर्यटन\N_NN भी\RP_RPD सम्मिलित\N_NN है\V_VM ।\RD_PUNC
+htd9532	हमारे\PR_PRP देश\N_NN के\PSP राष्‍ट्रीय\JJ उद्यानों\N_NN ,\RD_PUNC वनारण्‍यों\N_NN ,\RD_PUNC बाघ\N_NN रिजर्वों\N_NN व\CC_CCD अन्य\JJ सुरक्षित\JJ क्षेत्रों\N_NN की\PSP अवस्थिति\N_NN अलग\RB -\RD_PUNC अलग\RB प्रदृश्‍यों\N_NN ,\RD_PUNC वास\JJ -\RD_PUNC स्थलों\N_NN और\CC_CCD जलवायु\N_NN क्षेत्रों\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd9533	इसलिए\CC_CCD उनमें\PR_PRP प्राणिजात\N_NN और\CC_CCD वनस्पति\JJ जात\N_NN की\PSP विभिन्नता\N_NN व\CC_CCD विविधता\N_NN है\V_VM ।\RD_PUNC
+htd9534	इन\DM_DMD सुरक्षित\JJ क्षेत्रों\N_NN में\PSP रहने\JJ वाले\JJ वन्य\JJ पशुओं\N_NN में\PSP शेर\N_NN ,\RD_PUNC बाघ\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC हिम\JJ तेंदुआ\N_NN ,\RD_PUNC हाथी\N_NN ,\RD_PUNC जंगली\JJ भैंसा\N_NN ,\RD_PUNC गौड़\N_NN कई\QT_QTF प्रकार\N_NN की\PSP मृग\N_NN प्रजातियाँ\N_NN जंगली\JJ भेड़\N_NN व\CC_CCD बकरियाँ\N_NN ,\RD_PUNC लंगूर\N_NN ,\RD_PUNC बंदर\N_NN ,\RD_PUNC गिलहरियाँ\N_NN ,\RD_PUNC घड़ियाल\N_NN ,\RD_PUNC मछलियाँ\N_NN ,\RD_PUNC जंगली\JJ बिल्लियाँ\N_NN ,\RD_PUNC जंगली\JJ कुत्ते\N_NN ,\RD_PUNC रीछ\N_NN ,\RD_PUNC भालू\N_NN आदि\N_NN के\PSP साथ\N_NN रंग-बिरंगे\JJ पक्षी\N_NN पर्यटकों\N_NN के\PSP स्वाभाविक\RB आकर्षण\N_NN हैं\V_VM ।\RD_PUNC
+htd9535	अफ्रीका\N_NNP के\PSP राष्‍ट्रीय\JJ उद्यान\N_NN आकार\N_NN में\PSP विस्तृत\N_NN हैं\V_VM और\CC_CCD उनमें\PR_PRP एक\QT_QTC साथ\N_NN काफी\RP_INTF बड़ी\JJ संख्या\N_NN में\PSP पर्यटकों\N_NN के\PSP प्रवेश\N_NN करने\V_VM से\PSP उनको\PR_PRP क्षति\N_NN नहीं\RP_NEG होती\V_VM ।\RD_PUNC
+htd9536	अफ्रीका\N_NNP के\PSP शेर\N_NN जैसे\CC_CCD वन्य\JJ जीव\N_NN ,\RD_PUNC दर्शकों\N_NN के\PSP प्रति\N_NN सहनशील\JJ होते\V_VM हैं\V_VAUX जबकि\CC_CCS भारत\N_NNP के\PSP राष्‍ट्रीय\JJ उद्यानों\N_NN में\PSP रहने\JJ वाले\JJ बाघ\N_NN जैसे\JJ पशु\N_NN शर्मीले\JJ होते\V_VM हैं\V_VAUX और\CC_CCD दर्शकों\N_NN से\PSP दूर\N_NN रहना\V_VM पसंद\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9537	यह\DM_DMD भी\RP_RPD ध्यान\N_NN देने\V_VM की\PSP बात\N_NN है\V_VM ,\RD_PUNC कि\CC_CCS अफ्रीकी\JJ उद्यानों\N_NN के\PSP दर्शक\N_NN बहुधा\QT_QTF विदेशी\N_NN होते\V_VM हैं\V_VAUX जो\PR_PRL अनुशासित\N_NN होते\V_VM हैं\V_VM और\CC_CCD नियम\N_NN तथा\CC_CCD आदेशों\N_NN का\PSP सतर्कता\N_NN से\PSP पालन\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9538	भारत\N_NNP के\PSP उद्यानों\N_NN में\PSP दर्शक\N_NN आमतौर\N_NN पर\PSP स्थानीय\JJ लोग\N_NN होते\V_VM हैं\V_VAUX जो\PR_PRL अभी\N_NN तक\PSP ऐसी\DM_DMD प्रवृत्ति\N_NN विकसित\N_NN नहीं\RP_NEG कर\V_VM सके\V_VAUX हैं\V_VAUX जो\PR_PRL उद्यान\N_NN की\PSP नियमावली\N_NN का\PSP पालन\N_NN करने\V_VM के\PSP अनुरूप\N_NN हो\V_VM ।\RD_PUNC
+htd9539	इसलिए\N_NN हमारे\PR_PRP देश\N_NN में\PSP वन्य\JJ -\RD_PUNC जीव\N_NN पर्यटन\N_NN को\PSP चलाने\V_VM के\PSP लिए\PSP अपनी\PR_PRF परिस्थितियों\N_NN के\PSP अनुसार\N_NN तौर-तरीके\N_NN ,\RD_PUNC नियम\N_NN और\CC_CCD आचारसंहिता\N_NN बनानी\V_VM पड़ेगी\V_VAUX ।\RD_PUNC
+htd9540	हमारे\N_NNP राष्‍ट्रीय\JJ उद्यानों\N_NN में\PSP दर्शकों\N_NN को\PSP व्यवस्थित\N_NN व\CC_CCD नियमित\N_NN करने\V_VM के\PSP लिए\PSP अधिक\JJ सतर्कता\N_NN बरतने\V_VM की\PSP आवश्यकता\N_NN है\V_VM ।\RD_PUNC
+htd9541	यह\DM_DMD अनुमान\N_NN लगाया\V_VM गया\V_VAUX है\V_VAUX कि\CC_CCS देश\N_NN के\PSP पर्यटकों\N_NN में\PSP पाँच\QT_QTC प्रतिशत\N_NN पर्यटक\N_NN राष्‍ट्रीय\JJ उद्यानों\N_NN और\CC_CCD वनारण्‍यों\N_NN का\PSP भ्रमण\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9542	भारत\N_NNP के\PSP उन\DM_DMD उद्यानों\N_NN में\PSP जहाँ\PR_PRL सुगमता\N_NN से\PSP पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX और\CC_CCD जिन्हें\PR_PRL प्रसिद्धि\N_NN मिल\V_VM चुकी\V_VAUX है\V_VAUX ,\RD_PUNC वहाँ\DM_DMD वन्य\JJ जीव\N_NN पर्यटन\N_NN में\PSP वृद्धि\N_NN हुई\V_VM है\V_VAUX ।\RD_PUNC
+htd9543	इन\DM_DMD उद्यानों\N_NN में\PSP काजीरंगा\N_NNP ,\RD_PUNC मानस\N_NNP ,\RD_PUNC सुंदरवन\N_NNP ,\RD_PUNC गिर\N_NNP ,\RD_PUNC कॉर्बेट\N_NNP ,\RD_PUNC सुलतानपुर\N_NNP ,\RD_PUNC तडोवा\N_NNP ,\RD_PUNC संजय\N_NNP गांधी\N_NNP ,\RD_PUNC केवलादेव\N_NNP ,\RD_PUNC सरिस्का\N_NNP ,\RD_PUNC कान्हा\N_NNP ,\RD_PUNC बंदीपुर\N_NNP ,\RD_PUNC मदुमलय\N_NNP ,\RD_PUNC नगरहोल\N_NNP ,\RD_PUNC बनरघट्‍टी\N_NNP ,\RD_PUNC पेरियार\N_NNP प्रमुख\N_NN हैं\V_VM ।\RD_PUNC
+htd9544	इन\DM_DMD सभी\QT_QTF राष्‍ट्रीय\JJ उद्यानों\N_NN में\PSP प्रतिवर्ष\N_NN भ्रमण\N_NN करने\V_VM वाले\RP_RPD पर्यटकों\N_NN के\PSP नवीनतम\JJ आँकड़े\N_NN उपलब्ध\N_NN नहीं\RP_NEG हैं\V_VM ।\RD_PUNC
+htd9545	फिर\CC_CCD भी\RP_RPD यह\DM_DMD अनुमानित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX कि\CC_CCS गिर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 90,000\QT_QTC तक\PSP और\CC_CCD काजीरंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP प्रतिवर्ष\QT_QTF 70,000\QT_QTC पर्यटक\N_NN पहुँचते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9546	मानस\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP भी\RP_RPD 63\QT_QTC -\RD_PUNC 70,000\QT_QTC के\PSP लगभग\JJ पर्यटक\N_NN आते\V_VM जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9547	जबकि\CC_CCD पेरियार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP प्रतिवर्ष\QT_QTF 2\QT_QTC लाख\N_NN पर्यटकों\N_NN को\PSP आकर्षित\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd9548	संजय\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP बोरिवली\N_NNP ,\RD_PUNC मुंबई\N_NNP महानगर\N_NNP के\PSP बिल्कुल\JJ निकट\N_NN है\V_VAUX और\CC_CCD यहाँ\DM_DMD प्रतिवर्ष\QT_QTF 30\QT_QTC लाख\N_NN से\PSP अधिक\N_NN पर्यटक\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9549	सारे\QT_QTF एशिया\N_NNP में\PSP किसी\QT_QTF वन्य\JJ जीव\JJ सुरक्षित\JJ क्षेत्र\N_NN में\PSP प्रवेश\V_VM करने\V_VAUX वालों\N_NN की\PSP यह\DM_DMD अधिकतम\QT_QTF संख्या\N_NN है\V_VAUX ।\RD_PUNC
+htd9550	बेटला\N_NNP ,\RD_PUNC कॉर्बेट\N_NNP और\CC_CCD कन्हा\N_NNP राष्‍ट्रीय\N_NNP उद्यानों\N_NNP में\PSP लगभग\JJ 45,000\QT_QTC पर्यटक\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9551	सुल्तानपुर\N_NNP ,\RD_PUNC केवलादेव\N_NNP और\CC_CCD तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यानों\N_NNP के\PSP पर्यटकों\N_NN की\PSP संख्या\N_NN प्रतिवर्ष\QT_QTF 60\QT_QTC से\PSP 65,000\QT_QTC तक\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9552	सरिस्का\N_NNP ,\RD_PUNC बांदीपुर\N_NNP ,\RD_PUNC सुंदरवन\N_NNP ,\RD_PUNC वनरघटटा\N_NNP और\CC_CCD नगरहोल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 30,000\QT_QTC से\PSP 35,000\QT_QTC तक\PSP पर्यटक\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9553	मध्य\N_NNP प्रदेश\N_NNP के\PSP माधव\N_NNP और\CC_CCD बांधवगढ़\N_NNP राष्‍ट्रीय\N_NNP उद्यानों\N_NNP में\PSP पर्यटकों\N_NN की\PSP संख्या\N_NN 5,000\QT_QTC से\PSP 10,000\QT_QTC के\PSP आस-पास\N_NN है\V_VM ।\RD_PUNC
+htd9554	डाचीगाम\N_NNP ,\RD_PUNC फूलों\N_NNP की\N_NNP घाटी\N_NNP ,\RD_PUNC नामदफा\N_NNP ,\RD_PUNC इंद्रावती\N_NNP ,\RD_PUNC केइबुल\N_NNP लम्जाओ\N_NNP ,\RD_PUNC पिन\N_NNP घाटी\N_NNP ,\RD_PUNC ग्रेट\N_NNP हिमालय\N_NNP राष्‍ट्रीय\JJ उद्यानों\N_NN में\PSP जो\PR_PRL दूर\JJ या\CC_CCD अगम्य\JJ हैं\V_VM ,\RD_PUNC बहुत\RP_INTF कम\JJ पर्यटक\N_NN पहुँचते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9555	किंतु\CC_CCD इसमे\PR_PRP कोई\QT_QTF संदेह\N_NN नहीं\RP_NEG कि\CC_CCS इन\PR_PRP उद्यानों\N_NN में\PSP जाने\JJ वाले\JJ पर्यटकों\N_NN की\PSP संख्या\N_NN में\PSP निरंतर\JJ वृद्धि\N_NN हो\V_VM रही\V_VAUX है\V_VAUX और\CC_CCD भविष्य\N_NN में\PSP भारत\N_NNP में\PSP वन्य\JJ पर्यटन\N_NN के\PSP विस्तृत\N_NN होने\V_VM की\PSP बहुत\QT_QTF संभावनाएँ\N_NN है\V_VM ।\RD_PUNC
+htd9556	इसलिए\CC_CCD इन\PR_PRP उद्यानों\N_NN के\PSP प्रबंधकों\N_NN के\PSP लिए\PSP यह\DM_DMD आवश्यक\JJ है\V_VAUX कि\CC_CCS वे\PR_PRP उत्तरोत्तर\N_NN बढ़ती\V_VM हुई\JJ पर्यटकों\N_NN की\PSP समस्या\N_NN को\PSP सुलझाने\V_VM के\PSP लिए\PSP पूर्व\N_NN योजनाएँ\N_NN बनाएँ\V_VM ।\RD_PUNC
+htd9557	जब\PR_PRL हम\PR_PRP वन्य\N_NN जीव\N_NN पर्यटन\N_NN की\PSP बात\N_NN करते\N_NN हैं\V_VAUX तो\RP_RPD यह\DM_DMD कहना\V_VM भी\RP_RPD अप्रासंगिक\JJ नहीं\RP_NEG होगा\V_VM कि\CC_CCS कुछ\QT_QTF पर्यटक\N_NN इन\PR_PRP अतिथिगृहों\N_NN का\PSP दुरुपयोग\N_NN करने\V_VM से\PSP नहीं\RP_NEG चूकते\V_VM ।\RD_PUNC
+htd9558	वे\PR_PRP अपने\PR_PRF वैभव\N_NN का\PSP प्रदर्शन\N_NN करते\V_VM हुए\V_VAUX उद्यानों\N_NN की\PSP शांति\N_NN भंग\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9559	इन\DM_DMD राष्‍ट्रीय\JJ उद्यानों\N_NN पर\PSP ट्रांजिस्टर\N_NN और\CC_CCD टेपरिकार्डर\N_NN चलाकर\V_VM तथा\CC_CCD गाना\N_NN बजाना\N_NN करके\V_VM शोर-गुल\N_NN करते\V_VM हैं\V_VAUX जो\PR_PRL इन\DM_DMD अभ्यारण्‍यों\N_NN में\PSP वर्जित\N_NN है\V_VM ।\RD_PUNC
+htd9560	ऐसे\DM_DMD लोग\N_NN अपने\PR_PRF पदों\N_NN के\PSP प्रभाव\N_NN या\CC_CCD धन\N_NN का\PSP प्रलोभन\N_NN देकर\V_VM विश्रामगृहों\N_NN के\PSP कर्मचारियों\N_NN को\PSP उद्यान\N_NN के\PSP अनुशासन्\N_NN और\CC_CCD नियमों\N_NN की\PSP अनदेखी\N_NN करने\V_VM के\PSP लिए\PSP प्रेरित\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9561	हमारे\PR_PRP देश\N_NN में\PSP प्राय:\QT_QTF सभी\QT_QTF उद्यानों\N_NN में\PSP अतिथि\N_NN विश्रामगृह\N_NN बने\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9562	उद्यान\N_NN में\PSP पहुँचने\V_VM पर\PSP निवास\N_NN की\PSP कठिनाई\N_NN न\RP_NEG हो\V_VM इसके\DM_DMI लिए\PSP इन\PR_PRP अतिथिगृह\N_NN में\PSP पहले\QT_QTO से\PSP ही\RP_RPD आरक्षण\N_NN करवा\V_VM लेना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd9563	ये\DM_DMD उद्यान\N_NN प्राय:\RB उषाकाल\N_NN से\PSP सूर्यास्त\N_NN तक\PSP सैर\N_NN के\PSP लिए\PSP खुले\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9564	कई\QT_QTF उद्यान\N_NN वर्ष\N_NN के\PSP विशेष\JJ भाग\N_NN जैसे\CC_CCS वर्षा\N_NN ऋतु\N_NN में\PSP यात्रियों\N_NN के\PSP लिए\PSP बंद\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9565	उद्यानों\N_NN में\PSP प्रवेश\N_NN ,\RD_PUNC आवास\N_NN ,\RD_PUNC आहार\N_NN ,\RD_PUNC कैमरों\N_NN ,\RD_PUNC मार्गदर्शकों\N_NN ,\RD_PUNC सवारियों\N_NN ,\RD_PUNC निजी\JJ वाहनों\N_NN के\PSP लिए\PSP अलग\JJ -\RD_PUNC अलग\JJ शुल्क\N_NN निर्धारित\V_VM किया\V_VAUX जाता\N_NNP है\V_VAUX ।\RD_PUNC
+htd9566	उद्यान\N_NN के\PSP अंदर\N_NN अग्नि\JJ हथियार\N_NN ले\V_VM जाने\V_VAUX पर\PSP प्रतिबंध\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9567	पर्यटकों\N_NN को\PSP उद्यान\N_NN के\PSP अंदर\N_NN शांति\N_NN व\CC_CCD सुरक्षा\N_NN बनाए\V_VM रखने\V_VAUX के\PSP लिए\PSP कुछ\QT_QTF नियमों\N_NN का\PSP पालन\N_NN करना\V_VM अनिवार्य\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9568	पर्यटन\N_NN मुख्यतया\RB मनोरंजन\N_NN के\PSP लिए\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd9569	मनोरंजन\N_NN के\PSP साथ\N_NN ऐतिहासिक\JJ और\CC_CCD धार्मिक\JJ पर्यटन\N_NN का\PSP ज्ञान\N_NN भी\RP_RPD मिल\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9570	किंतु\CC_CCD वन्य\JJ जीव\N_NN पर्यटन\N_NN का\PSP एक\QT_QTC अलग\JJ उद्‍देश्य\N_NN भी\RP_RPD है\V_VM और\CC_CCD वह\PR_PRP है\V_VM पर्यावरण\N_NN की\PSP सुरक्षा\N_NN व\CC_CCD संवर्द्धन\N_NN के\PSP प्रति\N_NN जागरुकता\N_NN पैदा\V_VM करना\V_VAUX ।\RD_PUNC
+htd9571	पर्यावरण\N_NN की\PSP विकृति\N_NN के\PSP इस\DM_DMD दौर\N_NN में\PSP पर्यावरण\N_NN में\PSP सुधार\N_NN करने\V_VM का\PSP संदेश\N_NN बुहत\JJ महत्त्व\N_NN रखता\V_VM है\V_VAUX ।\RD_PUNC
+htd9572	इस\DM_DMD संदेश\N_NN को\PSP पर्यटकों\N_NN तक\PSP पहुँचाने\V_VM के\PSP लिए\PSP उद्यान\N_NN निश्‍चित\JJ भूमिका\N_NN निभा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9573	पर्यटकों\N_NN को\PSP उद्यान\N_NN के\PSP परिसर\N_NN में\PSP सैर\N_NN करते\V_VM हुए\V_VAUX बहुत\JJ सावधानी\N_NN व\CC_CCD सतर्कता\N_NN बरतनी\V_VM चाहिए\V_VAUX क्योंकि\CC_CCS किसी\QT_QTF असावधानी\N_NN से\PSP पर्यटक\N_NN और\CC_CCD वन्य\JJ पशु\N_NN के\PSP टकराव\N_NN के\PSP दु:खद\JJ परिणाम\N_NN हो\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9574	इस\DM_DMD संबंध\N_NN में\PSP डेविड\N_NNP हंट\N_NNP नाम\N_NN के\PSP एक\QT_QTC ब्रिटिश\JJ पक्षी-प्रेमी\N_NN के\PSP 20\QT_QTC जनवरी\N_NN 1985\QT_QTC को\PSP कार्बेट\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP इसी\DM_DMD प्रकार\N_NN के\PSP टकराव\N_NN में\PSP मृत्यु\N_NN हो\V_VM जाने\V_VAUX की\PSP घटना\N_NN की\PSP याद\N_NN दिलाना\V_VM अप्रासंगिक\N_NN नहीं\RP_NEG होगा\V_VM ।\RD_PUNC
+htd9575	डेविड\N_NNP हंट\N_NNP ढिकाला\N_NNP वन\N_NNP रेंज\N_NNP में\PSP अकेले\JJ एक\QT_QTC उल्लू\N_NN का\PSP पीछा\N_NN करते\V_VM -\RD_PUNC करते\V_VM एक\QT_QTC ऐसे\DM_DMI निर्जन\JJ स्थान\N_NN पर\PSP पहुँच\V_VM गया\V_VAUX जहाँ\PR_PRL उसको\PR_PRP एक\QT_QTC जंगली\JJ जानवर\N_NN ने\PSP मार\V_VM खाया\V_VAUX ।\RD_PUNC
+htd9576	राष्‍ट्रीय\JJ उद्यान\N_NN के\PSP परिसर\N_NN में\PSP यातायात\N_NN पर्यटन\N_NN का\PSP महत्त्वपूर्ण\JJ अंग\N_NN है\V_VM और\CC_CCD उस\PR_PRP पर\PSP भी\RP_RPD विचार\N_NN किया\V_VM जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd9577	उद्यान\N_NN के\PSP अंदर\N_NN वाहनों\N_NN की\PSP गति\N_NN से\PSP उत्पन्न\N_NN धूल\N_NN और\CC_CCD वाहनों\N_NN की\PSP ध्वनि\N_NN से\PSP जंगली\JJ जानवर\N_NN विचलित\N_NN हो\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9578	अत:\CC_CCD उनकी\PR_PRP गति\N_NN और\CC_CCD प्रयोग\N_NN को\PSP नियंत्रित\N_NN किया\V_VM जाना\V_VAUX आवश्यक\N_NN है\V_VM ।\RD_PUNC
+htd9579	अभी\N_NN तक\PSP हमारे\N_NNP राष्‍ट्रीय\JJ उद्यान\N_NN वन्य\JJ -\RD_PUNC जीव\N_NN की\PSP माँगों\N_NN को\PSP पूरी\N_NN करने\V_VAUX में\PSP पूर्णतया\N_NN सक्षम\N_NN नहीं\RP_NEG हैं\V_VAUX ।\RD_PUNC
+htd9580	कुछ\QT_QTF उद्यानों\N_NN में\PSP यात्री\JJ कक्ष\N_NN कोर\JJ क्षेत्र\N_NN में\PSP हैं\V_VM ,\RD_PUNC जो\PR_PRL कि\CC_CCS प्रकृति\JJ संरक्षण\N_NN के\PSP दृष्‍टिकोण\N_NN से\PSP उचित\N_NN नहीं\RP_NEG हैं\V_VM ।\RD_PUNC
+htd9581	कई\QT_QTF उद्यानों\N_NN में\PSP पर्यटकों\N_NN के\PSP लिए\PSP निर्धारित\N_NN क्षेत्र\N_NN का\PSP सीमांकन\N_NN नहीं\RP_NEG किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9582	सभी\QT_QTF उद्यानों\N_NN में\PSP दर्शकों\N_NN की\PSP सुविधा\N_NN और\CC_CCD मार्गदर्शन\N_NN के\PSP लिए\PSP ’\RD_PUNC प्रकृति\JJ व्याख्या\JJ केंद्रों\N_NN ’\RD_PUNC की\PSP स्थापना\N_NN नहीं\RP_NEG की\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9583	कुछ\QT_QTF राष्‍ट्रीय\JJ उद्यानों\N_NN में\PSP रहने\V_VM की\PSP व्यवस्था\N_NN ,\RD_PUNC परिसर\N_NN में\PSP यातायात\N_NN का\PSP प्रबंध\N_NN और\CC_CCD फोटो\N_NN खींचने\V_VM की\PSP सुविधा\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd9584	वन्य\JJ जीव\JJ पर्यटन\N_NN में\PSP कमियों\N_NN के\PSP बावजूद\N_NN उसका\PR_PRP स्तर\N_NN उठाने\V_VM पर\PSP निस्‍संदेह\JJ ध्यान\N_NN दिया\V_VM जा\JJ रहा\V_VAUX है\V_VAUX ,\RD_PUNC जिसमें\PR_PRL पर्यटकों\N_NN की\PSP आवश्यकताओं\N_NN की\PSP पूर्ति\N_NN की\PSP जा\V_VM सके\V_VAUX ।\RD_PUNC
+htd9585	वन्य\JJ -\RD_PUNC जीव\N_NN पर्यटन\N_NN को\PSP विकसित\N_NN करने\V_VM के\PSP लिए\PSP ’\RD_PUNC राष्‍ट्रीय\JJ उद्यानों\N_NN और\CC_CCD अभ्यारण्‍यों\N_NN के\PSP विकास\N_NN ’\RD_PUNC परियोजना\N_NN के\PSP अन्तर्गत\N_NN अलग\N_NN से\PSP ’\RD_PUNC वन्य\JJ -\RD_PUNC जीव\N_NN पर्यटक\N_NN ’\RD_PUNC के\PSP लिए\PSP वित्तीय\JJ सहायता\N_NN की\PSP व्यवस्था\N_NN होनी\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd9586	वर्ष\N_NN 1979\QT_QTF में\PSP स्थापित\N_NN किया\V_VM हुआ\V_VAUX सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP अंडमान\N_NNP जिले\N_NN के\PSP 32.54\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9587	सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN ’\RD_PUNC दिगलीपुर\N_NNP ’\RD_PUNC 5\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9588	पोर्टब्लेयर\N_NNP जो\PR_PRL अंडमान\N_NNP और\N_NNP निकोबार\N_NNP द्वीप\N_NNP समूह\N_NN की\PSP राजधानी\N_NN है\V_VM ,\RD_PUNC और\CC_CCD जहाँ\PR_PRL बंदरगाह\N_NN तथा\CC_CCD हवाई\JJ अड्‍डा\N_NN है\V_VM ,\RD_PUNC सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 200\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9589	इस\DM_DMD क्षेत्र\N_NN में\PSP मई\N_NN से\PSP नवम्‍बर\N_NN तक\PSP वर्षा\N_NN का\PSP मौसम\N_NN रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd9590	सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP उष्णकटिबंधीय\JJ सदाबहार\JJ वन\N_NN ,\RD_PUNC अर्द्धसदाबहार\JJ वन\N_NN और\CC_CCD नम\JJ पर्णपाती\N_NN वन\N_NN हैं\V_VM ।\RD_PUNC
+htd9591	सैडलपीक\N_NNP उद्यान\N_NNP की\PSP वनस्पति\N_NN नम\JJ -\RD_PUNC उष्‍णकटिबंधीय\JJ ,\RD_PUNC वर्षा\JJ वनों\N_NN की\PSP बहुलता\N_NN व\CC_CCD विशिष्‍टता\N_NN लिए\PSP हुए\V_VM है\V_VAUX ।\RD_PUNC
+htd9592	सैडलपीक\N_NNP उद्यान\N_NNP हरे-भरे\JJ और\CC_CCD घने\JJ वृक्षों\N_NN ,\RD_PUNC असंख्य\JJ वनस्पति\N_NN से\PSP आच्छादित\N_NN है\V_VM ।\RD_PUNC
+htd9593	सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VM वाले\JJ वन्य\JJ पशु\N_NN जंगली\JJ सुअर\N_NN और\CC_CCD चीतल\N_NN हैं\V_VM ।\RD_PUNC
+htd9594	सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP डुगोंग\N_NN ,\RD_PUNC डॉल्फिन\N_NN ,\RD_PUNC खारे\JJ पानी\N_NN का\PSP मगरमच्छ\N_NN ,\RD_PUNC घड़ियाल\N_NN ,\RD_PUNC जलगोह\N_NN ,\RD_PUNC आलिव\N_NN रिडले\N_NN कछुवा\N_NN बहुतायात\N_NN में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9595	सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP पक्षियों\N_NN में\PSP अंडमान\JJ हिल\N_NN ,\RD_PUNC मैना\N_NN और\CC_CCD शाही\JJ कबूतर\N_NN प्रमुख\JJ हैं\V_VM ।\RD_PUNC
+htd9596	सैडलपीक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP भ्रमण\N_NN के\PSP लिए\PSP नवम्‍बर\N_NN से\PSP मार्च\N_NN तक\PSP के\PSP माह\N_NN उपयुक्‍त\JJ हैं\V_VM ।\RD_PUNC
+htd9597	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1979\QT_QTC में\PSP 0.44\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP अंडमान\N_NNP जिले\N_NN के\PSP नार्थ\N_NNP वटन\N_NNP द्वीप\N_NNP में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9598	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ’\RD_PUNC लौंग\N_NNP आइलैंड\N_NNP ’\RD_PUNC शहर\N_NN से\PSP 60\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9599	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP उद्यान\N_NNP से\PSP निकटवर्ती\JJ हवाई\JJ अड्डा\N_NN पोर्टब्लेयर\N_NNP में\PSP है\V_VM जो\PR_PRL यहाँ\DM_DMD से\PSP 200\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9600	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP उद्यान\N_NNP उष्णकटिबंधीय\JJ जलवायु\N_NN में\PSP स्थित\N_NN है\V_VM जिसमें\PR_PRL उच्च\JJ तापमान\N_NN की\PSP समानता\N_NN और\CC_CCD साल\N_NN भर\RP_RPD प्रचुर\JJ मात्रा\N_NN में\PSP वर्षा\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9601	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP सदा\JJ हरित\JJ ,\RD_PUNC अर्द्ध\JJ सदाहरित\JJ ,\RD_PUNC पर्णपाती\JJ वन\N_NN लिटरोल\JJ वन\N_NN और\CC_CCD मैंग्रोव\JJ वन\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9602	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP उद्यान\N_NNP में\PSP कई\QT_QTF जातियों\N_NN के\PSP विशाल\JJ वृक्ष\N_NN तथा\CC_CCD छोटे\JJ -\RD_PUNC बड़े\JJ पादप\N_NN व\CC_CCD परस्पर\PR_PRC गुँथी\V_VM हुई\V_VAUX लताएँ\N_NN व\CC_CCD बेलें\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9603	गरजन\N_NN ,\RD_PUNC पडोक\N_NN ,\RD_PUNC सिल्वर\N_NN ग्रे\N_NN ,\RD_PUNC मार्वलउड\N_NN बादाम\N_NN ,\RD_PUNC चुगलुम\N_NN ,\RD_PUNC धूप\N_NN आदि\N_NN कई\QT_QTF प्रकार\N_NN की\PSP वृक्ष\N_NN जातियाँ\N_NN ,\RD_PUNC बड़े\JJ स्तर\N_NN पर\PSP व्यवसायिक\N_NN रूप\N_NN से\PSP उपयोगी\N_NN हैं\V_VAUX जो\PR_PRL नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP प्रचुर\JJ मात्रा\N_NN में\PSP उपलब्ध\N_NN हैं\V_VAUX ।\RD_PUNC
+htd9604	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP असंख्य\JJ जड़ी\N_NN बूटियों\N_NN का\PSP घर\N_NN है\V_VAUX ।\RD_PUNC
+htd9605	यहाँ\DM_DMD पाए\V_VM जाने\N_NNP वाले\JJ वन्य\JJ पशु\N_NN अंडमानी\JJ सुअर\N_NN ,\RD_PUNC डुगांग\N_NN ,\RD_PUNC डॉल्फिन\N_NN ,\RD_PUNC जल\JJ गोह\N_NN (\RD_PUNC वाटर\JJ मोनीटर\N_NN )\RD_PUNC कई\QT_QTF जातियों\N_NN के\PSP सर्प\N_NN व\CC_CCD सरीसृप\N_NN कछुवे\N_NN ,\RD_PUNC घाड़ियाल\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9606	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP मुख्य\JJ रूप\N_NN से\PSP हाथी\N_NN ,\RD_PUNC चीतल\N_NN ,\RD_PUNC काकड़\N_NN और\CC_CCD पाड़ा\N_NN को\PSP बसाया\V_VM गया\V_VAUX है\V_VAUX ,\RD_PUNC जो\PR_PRL बढ़\N_NN रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9607	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP चीतलों\N_NN की\PSP संख्या\N_NN बहुत\JJ बढ़\V_VM रही\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9608	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP पाक्षियों\N_NN में\PSP अंडमान\JJ टील\N_NN (\RD_PUNC चैती\N_NN )\RD_PUNC प्रमुख\N_NN है\V_VM ।\RD_PUNC
+htd9609	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP उद्यान\N_NNP के\PSP अन्य\QT_QTF पक्षी\N_NN अंडमानी\JJ कोयल\N_NN ,\RD_PUNC तोते\N_NN ,\RD_PUNC पहाड़ी\JJ मैना\N_NN ,\RD_PUNC कबूतर\N_NN ,\RD_PUNC हरियल\N_NN ,\RD_PUNC फाख्ते\N_NN ,\RD_PUNC बाज\N_NN और\CC_CCD किलकिला\N_NN हैं\V_VM ।\RD_PUNC
+htd9610	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP अनेक\QT_QTF प्रकार\N_NN की\PSP तितलियाँ\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9611	नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP दिसंबर\N_NN से\PSP अप्रैल\N_NN तक\PSP सैर\N_NN के\PSP लिए\PSP उपयुक्‍त\N_NN है\V_VM ।\RD_PUNC
+htd9612	सन्\N_NN 1979\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX ’\RD_PUNC मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ’\RD_PUNC अंडमान\N_NNP जिले\N_NN में\PSP 0.64\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9613	मिडिल\N_NN बटन\N_NNP द्वीप\N_NNP राष्ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकट\N_NN शहर\N_NN 60\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP ’\RD_PUNC लौंग\N_NNP आइलैंड\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9614	द्वीप\JJ समूह\N_NN की\PSP राजधानी\N_NN पोर्टब्लेयर\N_NNP मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NN उद्यान\N_NN से\PSP 200\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9615	पोर्टब्लेयर\N_NNP निकटस्थ\JJ विमान-पत्तन\N_NN और\CC_CCD बंदरगाह\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9616	सैडलपीक\N_NN और\CC_CCD नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यानों\N_NNP की\PSP भाँति\N_NN मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP भी\RP_RPD उष्णकटिबंधीय\JJ जलवायु\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd9617	मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN विशाल\JJ उष्णकटिबंधीय\JJ ,\RD_PUNC सदाबहार\JJ तथा\CC_CCD अन्य\QT_QTF सदाबहार\N_NN वृक्षों\N_NN व\CC_CCD वनस्पतियों\N_NN से\PSP आच्छादित\N_NN हैं\V_VM ।\RD_PUNC
+htd9618	मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्ट्रीय\N_NNP उद्यान\N_NNP की\PSP वनस्पति\N_NN जात\N_NN ,\RD_PUNC नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वनस्पतियों\N_NN के\PSP समान\N_NN है\V_VM ।\RD_PUNC
+htd9619	मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP उद्यान\N_NNP के\PSP जीव\N_NN -\RD_PUNC जन्तु\N_NN व\CC_CCD पक्षी\N_NN नार्थ\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाई\V_VM जाने\V_VAUX वाली\JJ प्रजातियाँ\N_NN ही\RP_RPD हैं\V_VM ।\RD_PUNC
+htd9620	इनमें\N_NN मुख्य\N_NN डुंगोग\N_NN ,\RD_PUNC डॉल्फिन\N_NN ,\RD_PUNC मगरमच्छ\N_NN ,\RD_PUNC घड़ियाल\N_NN ,\RD_PUNC जलगोह\N_NN ,\RD_PUNC आलिव\N_NN रिडले\N_NN कछुवे\N_NN ,\RD_PUNC जंगली\N_NN सुअर\N_NN और\CC_CCD चीतल\N_NN हैं\V_VM ।\RD_PUNC
+htd9621	समुद्री\JJ चील\N_NN ,\RD_PUNC कबूतर\N_NN ,\RD_PUNC चेती\N_NN आदि\N_NN विभिन्न\JJ प्रकार\N_NN के\PSP पक्षियों\N_NN का\PSP मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्ट्रीय\N_NNP उद्यान\N_NNP वास-स्थल\N_NN है\V_VM ।\RD_PUNC
+htd9622	अन्य\QT_QTF द्वीपों\N_NN की\PSP तरह\N_NN मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्ट्रीय\N_NNP उद्यान\N_NNP में\PSP मई\N_NN से\PSP नवम्‍बर\N_NN तक\PSP वर्षा\N_NN ऋतु\N_NN रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd9623	इसलिए\CC_CCS दिसम्‍बर\N_NN से\PSP मार्च\N_NN -\RD_PUNC अप्रैल\N_NN तक\PSP मिडिल\N_NNP बटन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP भ्रमण\N_NN सुविधाजनक\N_NN रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd9624	साउथ\N_NNP वन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN वर्ष\N_NN 1977\QT_QTC में\PSP अंडमान\N_NNP जिले\N_NN में\PSP 0.03\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP की\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9625	साउथ\N_NNP वन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN ’\RD_PUNC लौंग\N_NNP आइलैंड\N_NNP ’\RD_PUNC में\PSP है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP लगभग\JJ 60\QT_QTC किलोमीटर\N_NN दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9626	हवाई\JJ मार्ग\N_NN या\CC_CCD जलमार्ग\N_NN से\PSP साउथ\N_NNP वन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP पोर्टब्लेयर\N_NNP शहर\N_NN सबसे\RP_INTF निकट\JJ है\V_VM जो\PR_PRL लगभग\JJ 200\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9627	साउथ\N_NNP वन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM ।\RD_PUNC
+htd9628	साउथ\N_NNP वन\N_NNP द्वीप\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP लगभग\JJ वर्ष\N_NN भर\RP_RPD वर्षा\N_NN होती\V_VM रहती\V_VAUX है\V_VAUX किंतु\CC_CCD मई\N_NN से\PSP नवम्‍बर\N_NN तक\PSP का\PSP समय\N_NN वर्षा\N_NN ऋतु\N_NN का\PSP है\V_VM ।\RD_PUNC
+htd9629	जलवायु\N_NN के\PSP अनुकूल\N_NN तथा\CC_CCD मिट्‍टी\N_NN की\PSP बनावट\N_NN के\PSP अनुसार\N_NN यहाँ\DM_DMD अंडमानी\JJ उष्णकटिबंधीय\JJ सदाहरित\JJ ,\RD_PUNC अर्द्ध\JJ सदाहरित\JJ तथा\CC_CCD नम\JJ पर्णपाती\JJ वन\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9630	माउंट\N_NNP हेरियर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN अंडमान\N_NNP जिले\N_NN में\PSP वर्ष\N_NN 1979\QT_QTC में\PSP 0.46\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP की\V_VM गई\V_VAUX ।\RD_PUNC
+htd9631	माउंट\N_NNP हेरियर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ,\RD_PUNC अंडमान\N_NNP निकोबार\N_NNP द्वीप\JJ समूह\N_NN की\PSP राजधानी\N_NN पोर्टब्लेयर\N_NNP से\PSP केवल\QT_QTF 20\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9632	पोर्टब्लेयर\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP हवाई\JJ अड्‍डा\N_NN और\CC_CCD बंदरगाह\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9633	माउंट\N_NNP हेरियर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंध\JJ में\PSP पड़ता\V_VM है\V_VAUX इसीलिए\CC_CCD यहाँ\DM_DMD की\PSP जलवायु\N_NN गरम\JJ और\CC_CCD नम\JJ है\V_VM ।\RD_PUNC
+htd9634	अप्रैल\N_NN से\PSP सितंबर\N_NN तक\PSP माउंट\N_NNP हेरियर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP वर्षा\N_NN ऋतु\N_NN रहती\V_VM है\V_VM ।\RD_PUNC
+htd9635	तमिलनाडु\N_NNP राज्य\N_NN के\PSP नीलगिरि\N_NNP जिले\N_NN में\PSP स्थित\N_NN मदुमलय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 103\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9636	कर्नाटक\N_NNP राज्य\N_NN का\PSP बंदीपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP मदुमलय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP मिला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9637	मोयर\N_NNP नदी\N_NN इन\PR_PRP दोनों\QT_QTO राष्‍ट्रीय\JJ उद्यानों\N_NN के\PSP बीच\N_NN से\PSP होकर\V_VM बहती\V_VM है\V_VAUX ।\RD_PUNC
+htd9638	मदुमलय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP केरल\N_NNP के\PSP वन\N_NN भी\RP_RPD मिले\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9639	गुडालूर\N_NNP मदुमलय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP निकटस्थ\JJ शहर\N_NN है\V_VM ,\RD_PUNC जो\PR_PRL 16\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9640	ऊटकमंड\N_NNP जो\PR_PRL मदुमलय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल\N_NN शीर्ष\N_NN है\V_VM ,\RD_PUNC यहाँ\DM_DMD से\PSP 64\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9641	निकटतम\JJ हवाई\JJ अड्डा\N_NN 160\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP कोयंबटूर\N_NNP है\V_VM ।\RD_PUNC
+htd9642	97\QT_QTC किलोमीटर\N_NN दूर\N_NN कर्नाटक\N_NNP का\PSP मैसूर\N_NNP शहर\N_NN मदुमलय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सड़क\N_NN मार्ग\N_NN द्वारा\PSP जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9643	मुखुर्थी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP नीलगिरि\N_NNP जिले\N_NN में\PSP 78\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9644	गुडालूर\N_NNP मुखुर्थी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटस्थ\JJ शहर\N_NN और\CC_CCD निकटवर्ती\JJ मुख्य\JJ पर्वतीय\JJ स्थल\N_NN ऊटकमंड\N_NNP है\V_VM ।\RD_PUNC
+htd9645	इस\DM_DMD उद्यान\N_NN की\PSP जलवायु\N_NN उष्‍णकटिबंधीय\JJ है\V_VM और\CC_CCD यहाँ\DM_DMD की\PSP वनस्पति\N_NN उष्णकटिबंधीय\JJ ,\RD_PUNC सदाहरित\JJ और\CC_CCD नमपर्णपाती\JJ है\V_VM यहाँ\DM_DMD की\PSP ढलुवाँ\JJ भूमि\N_NN में\PSP भारी\JJ घास\N_NN होती\V_VM है\V_VAUX जिनमें\PR_PRL घने\JJ हरे\JJ पेड़ों\N_NN के\PSP समूह\N_NN हैं\V_VM ।\RD_PUNC
+htd9646	इंतांगकी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_PUNC नागालैंड\N_NNP )\RD_PUNC कोहिमा\N_NNP जिले\N_NN में\PSP 202\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9647	इंतांगकी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटवर्ती\JJ शहर\N_NN कोहिमा\N_NNP है\V_VM ।\RD_PUNC
+htd9648	इंतांगकी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ रेल\JJ शीर्ष\N_NN ’\RD_PUNC धनसिरीपर\N_NNP ’\RD_PUNC और\CC_CCD हवाई\JJ अड्डा\N_NN दीमापुर\N_NNP है\V_VM ।\RD_PUNC
+htd9649	सन्‌\N_NN 1978\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_PUNC पश्‍चिम\N_NNP बंगाल\N_NNP )\RD_PUNC चौबीस\N_NNP परगना\N_NNP जिले\N_NN में\PSP 1350\QT_QTC वर्ग\N_NN किलोमीटर\N_NN के\PSP क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9650	सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सबसे\JJ पास\N_NN बसा\V_VM हुआ\V_VAUX शहर\N_NN ’\RD_PUNC गोसाबा\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9651	सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\JJ शीर्ष\N_NN 106\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP केनिंग\N_NNP है\V_VM ।\RD_PUNC
+htd9652	हवाई\N_NNP अड्डा\N_NN 112\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP दमदम\N_NNP (\RD_PUNC कलकत्ता\N_NNP )\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9653	गंगा\N_NNP व\CC_CCD ब्रह्मपुत्र\N_NNP नदियों\N_NN के\PSP नद-मुख\N_NN पर\PSP बने\V_VM डेल्टा\N_NN पर\PSP स्थित\N_NN सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP देश\N_NN के\PSP प्रमुख\JJ अभ्‍यारण्यों\N_NN में\PSP से\PSP एक\QT_QTC है\V_VM ।\RD_PUNC
+htd9654	यहाँ\DM_DMD की\PSP पारिस्थितिकी\JJ नदियों\N_NN के\PSP मुहाने\N_NN पर\PSP उगे\V_VM हुए\V_VAUX मैंग्रोव\N_NN वृक्ष\N_NN -\RD_PUNC समूह\N_NN पर\PSP आधारित\N_NN है\V_VM ।\RD_PUNC
+htd9655	बंगाल\N_NNP की\N_NNP खाड़ी\N_NNP से\PSP सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP निरंतर\RB ज्वार-भाटा\N_NN आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9656	जिससे\PR_PRL सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP भूमि\N_NN नमकीन\JJ और\CC_CCD दलदली\JJ हो\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9657	किन्तु\CC_CCD सुंदर\N_NNP वन\N_NNP उद्यान\N_NNP की\PSP मिट्‍टी\N_NN पोषक\JJ ,\RD_PUNC जलवायु\N_NN के\PSP अनुकूल\N_NN और\CC_CCD संपूर्ण\JJ पारिप्रणाली\N_NN सक्रिय\N_NN व\CC_CCD जीवंत\N_NN है\V_VM ।\RD_PUNC
+htd9658	समुद्र\N_NN की\PSP लहरों\N_NN से\PSP प्रभावित\N_NN सुंदर\N_NNP वन\N_NNP उद्यान\N_NNP की\PSP उर्वरा\JJ भूमि\N_NN सघन\JJ पेड़ों\N_NN ,\RD_PUNC झाड़ियों\N_NN और\CC_CCD अन्य\QT_QTF वनस्पतियों\N_NN को\PSP संपोषित\N_NN करती\V_VM है\V_VAUX जो\PR_PRL समुद्री\JJ ज्वारीय\JJ लहरों\N_NN के\PSP थपेड़ों\N_NN को\PSP सहन\V_VM करने\V_VAUX और\CC_CCD रोकने\V_VM की\PSP शक्‍ति\N_NN रखते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9659	जिससे\PR_PRL सुंदर\N_NNP वन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP पारिप्रणाली\N_NN तथा\CC_CCD उद्यान\N_NN के\PSP निकट\JJ बसे\V_VM हुए\V_VAUX लाखों\N_NN लोगों\N_NN के\PSP जान-माल\N_NN की\PSP सुरक्षा\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9660	इस\DM_DMD प्रकार\N_NN का\PSP हरा-भरा\JJ व\CC_CCD सघन\JJ उद्यान\N_NN विभिन्न\QT_QTF प्रकार\N_NN के\PSP पशु-पक्षियों\N_NN के\PSP लिए\PSP उत्तम\JJ वास-स्थल\N_NN है\V_VM ।\RD_PUNC
+htd9661	सुंदर\N_NNP वन\N_NNP बाघ\N_NN परियोजना\N_NN के\PSP अन्तर्गत\N_NN बाघ\N_NN रिजर्व\N_NN बनाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9662	भारत\N_NST के\PSP सब\QT_QTF बाघ\N_NN रिजर्वों\N_NN में\PSP सुंदर\N_NNP वन\N_NNP बाघ\N_NNP रिजर्व\N_NNP सबसे\RP_INTF अधिक\JJ बाघों\N_NN को\PSP संपोषित\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd9663	सुंदर\N_NNP वन\N_NNP उद्यान\N_NNP के\PSP बाघों\N_NN के\PSP प्रति\N_NN यह\DM_DMD धारणा\N_NN प्रचलित\N_NN है\V_VM कि\CC_CCS वे\PR_PRP नर-भक्षी\N_NN होते\V_VM हैं\V_VAUX किन्तु\CC_CCD शोध\N_NN के\PSP आधार\N_NN पर\PSP यह\DM_DMD निष्‍कर्ष\N_NN निकाला\V_VM गया\V_VAUX है\V_VAUX कि\CC_CCS केवल\QT_QTF 25\QT_QTC प्रतिशत\N_NN बाघ\N_NN ही\RP_RPD ऐसे\N_NN हैं\V_VM जो\PR_PRL स्वभाव\N_NN या\CC_CCD प्रकृति\N_NN से\PSP नरभक्षी\JJ हैं\V_VM ।\RD_PUNC
+htd9664	नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN दार्जिलिंग\N_NNP जिले\N_NN के\PSP कालिमपोंग\N_NNP उपखंड\N_NN में\PSP 1986\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9665	नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 88\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9666	नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN कालिमपोंग\N_NNP है\V_VM और\CC_CCD रेल\JJ शीर्ष\N_NN दार्जिलिंग\N_NNP है\V_VM ।\RD_PUNC
+htd9667	नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ हवाई\JJ अड्डा\N_NN बागडोगरा\N_NNP है\V_VM ।\RD_PUNC
+htd9668	नेओरा\N_NNP घाटी\N_NNP हमारे\PR_PRP देश\N_NN की\PSP उन\PR_PRP वन-संपदाओं\N_NN में\PSP से\PSP है\V_VM जिनकी\PR_PRL प्राकृतिकता\N_NN अभी\N_NN तक\PSP प्राय:\QT_QTF अक्षत\JJ और\CC_CCD अदूषित\JJ है\V_VM ।\RD_PUNC
+htd9669	यह\DM_DMD एक\QT_QTC अनूठी\JJ परिस्थिति\N_NN है\V_VAUX जहाँ\PR_PRL उष्णकटिबंधीय\JJ ,\RD_PUNC उपोष्ण\JJ कटिबंधीय\JJ ,\RD_PUNC शीतोष्ण\JJ और\CC_CCD उप\JJ शीतोष्ण\JJ वनस्पति-प्रणाली\N_NN एक\QT_QTC साथ\N_NN है\V_VM और\CC_CCD जो\PR_PRL अछूती\JJ वनस्पति\N_NN जाति\N_NN और\CC_CCD प्राणिजाति\N_NN से\PSP संपन्न\N_NN है\V_VM ।\RD_PUNC
+htd9670	नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वनों\N_NN में\PSP मिश्रित\JJ वृक्ष\N_NN प्रजातियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd9671	नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP अनेक\QT_QTF ऑर्किड\N_NN हैं\V_VM ।\RD_PUNC
+htd9672	अनुमानत:\CC_CCD नेओरा\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP ऑर्किड\N_NN की\PSP 150\QT_QTC प्रजातियाँ\N_NN पाई\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9673	सिहंलीला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP दार्जिलिंग\N_NNP जिले\N_NN में\PSP स्थित\N_NN है\V_VM और\CC_CCD 78\QT_QTC किलोमीटर\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9674	सिहंलीला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP निकटस्थ\JJ शहर\N_NN व\CC_CCD रेल\JJ शीर्ष\N_NN दार्जिलिंग\N_NNP है\V_VM ।\RD_PUNC
+htd9675	दार्जिलिंग\N_NNP सिंहलीला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP केवल\QT_QTF 25\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9676	सिंहलीला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP हवाई\JJ यात्रा\N_NN द्वारा\PSP पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकट\JJ हवाई\JJ अड्डा\N_NN बागडोगरा\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9677	वुक्षा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP जलपाइगुड़ी\N_NNP जिले\N_NN के\PSP अंतर्गत\N_NN 117\QT_QTC किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9678	वुक्षा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP ’\RD_PUNC हसीमारा\N_NNP कस्बा\N_NNP ’\RD_PUNC 5\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9679	वुक्षा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP ’\RD_PUNC मदारीघाट\N_NNP ’\RD_PUNC रेल\N_NNP शीर्ष\N_NN एक\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9680	हसीमारा\N_NNP में\PSP हवाई\JJ पट्‍टी\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9681	बागडोगरा\N_NNP ,\RD_PUNC वुक्षा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ हवाई\JJ अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd9682	गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP जलपाइगुड़ी\N_NNP जिले\N_NN में\PSP 79\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9683	गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP रेल\JJ शीर्ष\N_NN ’\RD_PUNC चालसा\N_NNP ’\RD_PUNC 13\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9684	गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP हवाई\JJ अड्डा\N_NN बागडोगरा\N_NNP है\V_VM जो\PR_PRL 80\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9685	सब\QT_QTF से\PSP समीप\JJ बसा\V_VM हुआ\V_VAUX शहर\N_NN जलपाईगुड़ी\N_NNP गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 40\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9686	गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंद्यीय\JJ (\RD_PUNC मानसूनी\JJ )\RD_PUNC है\V_VM ।\RD_PUNC
+htd9687	गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वनस्पति\N_NN उष्णकटिबंधीय\JJ ,\RD_PUNC अर्द्ध\JJ सदाहरित\JJ है\V_VM ।\RD_PUNC
+htd9688	गोरुमारा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वनों\N_NN में\PSP साल\N_NN व\CC_CCD बाँस\N_NN के\PSP वृक्षों\N_NN का\PSP बाहुल्य\N_NN है\V_VM ।\RD_PUNC
+htd9689	बेटला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_PUNC बिहार\N_NNP )\RD_PUNC पलामू\N_NNP जिले\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9690	बेटला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 232\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9691	बेटला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP निकट\JJ का\PSP शहर\N_NN डाल्टनगंज\N_NNP 25\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9692	डाल्टनगंज\N_NNP शहर\N_NN बेटला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9693	बेटला\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP वायु\JJ मार्ग\N_NN द्वारा\PSP पहुँचने\V_VM के\PSP लिए\PSP 180\QT_QTC किलोमीटर\N_NN दूर\N_NN राँची\N_NNP हवाई\JJ अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd9694	वाल्मीकि\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 325\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्रफल\N_NN में\PSP पश्‍चिमी\N_NNP चंपारण\N_NNP जिले\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9695	वाल्मीकि\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN ’\RD_PUNC वेटिया\N_NNP ’\RD_PUNC यहाँ\DM_DMD से\PSP 80\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9696	यहाँ\DM_DMD हवाई\JJ मार्ग\N_NN द्वारा\PSP पहुँचने\V_VM के\PSP लिए\PSP निकटतम\JJ हवाई\JJ अड्डा\N_NN पटना\N_NNP है\V_VM जो\PR_PRL 295\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9697	वाल्मीकि\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\JJ शीर्ष\N_NN 5\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP ’\RD_PUNC वाल्मीकि\N_NNP नगर\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9698	वाल्मीकि\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंध\JJ (\RD_PUNC मानसूनी\JJ )\RD_PUNC जलवायु\N_NN का\PSP क्षेत्र\N_NN है\V_VM ।\RD_PUNC
+htd9699	वाल्मीकि\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP नम\JJ ,\RD_PUNC शुष्क\JJ तथा\CC_CCD दलदली\JJ पर्णपाती\N_NN वन\N_NN हैं\V_VM ।\RD_PUNC
+htd9700	वाल्मीकि\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP साल\N_NN के\PSP वन\N_NN तथा\CC_CCD बिना\N_NN साल\N_NN के\PSP मिश्रित\N_NN पतझड़\N_NN वाले\JJ पेड़-पौधे\N_NN हैं\V_VM ।\RD_PUNC
+htd9701	बालघाट\N_NNP और\CC_CCD मांडला\N_NNP जिलों\N_NN में\PSP स्थापित\N_NN कान्हा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_PUNC मध्य\N_NNP प्रदेश\N_NNP )\RD_PUNC 940\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9702	कान्हा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1955\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9703	65\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP कान्हा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ नगर\N_NN ’\RD_PUNC मांडला\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9704	जबलपुर\N_NNP कान्हा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 170\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM जो\PR_PRL इसके\PR_PRP लिए\PSP रेल\JJ शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9705	महाराष्‍ट्र\N_NNP का\PSP नागपुर\N_NNP शहर\N_NN कान्हा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP हवाई\JJ अड्डा\N_NN है\V_VM जो\PR_PRL 270\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9706	संजय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ,\RD_PUNC 1981\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9707	संजय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1938\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्रफल\N_NN में\PSP ’\RD_PUNC सिधी\N_NNP ’\RD_PUNC और\CC_CCD ’\RD_PUNC सरगुजा\N_NNP ’\RD_PUNC जिलों\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9708	संजय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN सिधी\N_NN 60\QT_QTC किलोमीटर\N_NN दूर\N_NN पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd9709	संजय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN ’\RD_PUNC डुबरी\N_NNP ’\RD_PUNC है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP लगा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9710	संजय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 65\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN सिधी\N_NN हवाई\JJ अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd9711	बड़ा\JJ हवाई\N_NNP अड्डा\N_NN खुजराहो\N_NNP में\PSP संजय\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 270\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9712	वन\N_NNP विहार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1979\QT_QTC में\PSP भोपाल\N_NNP जिले\N_NN में\PSP 4.45\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9713	वन\N_NNP विहार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP राज्य\N_NN की\PSP राजधानी\N_NN भोपाल\N_NNP केवल\QT_QTF 3\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9714	वन\N_NNP विहार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP भोपाल\N_NNP का\PSP हवाई\JJ अड्डा\N_NN 12\QT_QTC किलोमीटर\N_NN और\CC_CCD भोपाल\N_NNP रेलवे\N_NNP स्टेशन\N_NNP 7\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9715	वन\N_NNP विहार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM ।\RD_PUNC
+htd9716	वन\N_NNP विहार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN उष्णकटिबंधीय\JJ ,\RD_PUNC शुष्‍क\JJ पर्णपाती\JJ हैं\V_VM ।\RD_PUNC
+htd9717	वन\N_NNP विहार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP साल\N_NN सहित\PSP भिन्न\JJ -\RD_PUNC भिन्न\JJ प्रजाति\N_NN के\PSP पेड़\N_NN मिश्रित\JJ रूप\N_NN से\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9718	जीवाश्म\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP मांडला\N_NNP जिले\N_NN में\PSP 0.24\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9719	जीवाश्म\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1982\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9720	जीवाश्म\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP निकटतम\JJ कस्बे\N_NN शाहपुरा\N_NNP की\PSP दूरी\N_NN 13\QT_QTC किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9721	जीवाश्म\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ रेल\JJ शीर्ष\N_NN और\CC_CCD हवाई\JJ अड्डा\N_NN जबलपुर\N_NNP में\PSP हैं\V_VM ,\RD_PUNC जो\PR_PRL उद्यान\N_NN से\PSP 37\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9722	जीवाश्म\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP विशेषता\N_NN यह\DM_DMD है\V_VM कि\CC_CCS यहाँ\DM_DMD वनस्पति\N_NN जीवाश्म\N_NN है\V_VM ।\RD_PUNC
+htd9723	जीवाश्म\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP को\PSP देखने\V_VM के\PSP लिए\PSP नवम्‍बर\N_NN से\PSP मई\N_NN तक\PSP के\PSP माह\N_NN ठीक\JJ हैं\V_VM ।\RD_PUNC
+htd9724	कांगेर\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP बस्तर\N_NNP जिले\N_NN में\PSP 200\QT_QTC वर्ग\N_NN किलोमीटर\N_NN के\PSP क्षेत्र\N_NN में\PSP विस्तृत\N_NN है\V_VM ।\RD_PUNC
+htd9725	कांगेर\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1982\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9726	कांगेर\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN जगदलपुर\N_NNP है\V_VM जो\PR_PRL 30\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9727	जगदलपुर\N_NNP कांगेर\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9728	हवाई\JJ यात्रा\N_NN से\PSP कांगेर\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP निकटस्थ\JJ हवाई\JJ अड्डा\N_NN 330\QT_QTC किलोमीटर\N_NN दूर\N_NN रायपुर\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9729	पेंच\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1979\QT_QTC में\PSP जिला\N_NN सिवनी\N_NNP में\PSP 293\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP की\V_VM गई\V_VAUX ।\RD_PUNC
+htd9730	सिवनी\N_NNP ,\RD_PUNC पेंच\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटस्थ\JJ शहर\N_NN है\V_VM और\CC_CCD 50\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9731	नागपुर\N_NNP ,\RD_PUNC पेंच\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN और\CC_CCD हवाई\JJ अड्डा\N_NN है\V_VM जिसकी\PR_PRL दूरी\N_NN उद्यान\N_NN से\PSP 90\QT_QTC किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9732	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_PUNC महाराष्‍ट्र\N_NNP )\RD_PUNC सन्‌\N_NN 1955\QT_QTC में\PSP चंद्रपुर\N_NNP जिले\N_NN में\PSP 116.55\QT_QTC वर्ग\N_NN किलोमीटर\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9733	चंद्रपुर\N_NNP ,\RD_PUNC तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN है\V_VM जो\PR_PRL वहाँ\PR_PRP से\PSP 45\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9734	चंद्रपुर\N_NNP ही\RP_RPD तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\JJ शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9735	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ हवाई\JJ अड्डा\N_NN सोनपुर\N_NNP (\RD_PUNC नागपुर\N_NNP )\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9736	सोनपुर\N_NNP तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 208\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9737	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP नागपुर\N_NNP व\CC_CCD चंद्रपुर\N_NNP से\PSP महाराष्‍ट्र\N_NNP राज्य\N_NNP परिवहन\N_NNP की\PSP नियमित\N_NN बस\JJ सेवा\N_NN है\V_VM ।\RD_PUNC
+htd9738	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंधीय\JJ ,\RD_PUNC मानसूनी\JJ जलवायु\N_NN का\PSP क्षेत्र\N_NN है\V_VM ।\RD_PUNC
+htd9739	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN उष्ण\JJ व\CC_CCD शुष्क\JJ पर्णपाती\N_NN हैं\V_VM ।\RD_PUNC
+htd9740	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP ये\DM_DMD वन\N_NN घने\JJ सागवान\N_NN के\PSP वृक्षों\N_NN से\PSP ढके\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9741	साथ\PSP में\PSP अन्य\QT_QTF विभिन्न\JJ प्रकार\N_NN के\PSP पेड़\N_NN -\RD_PUNC पौधे\N_NN तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वनों\N_NN में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9742	तडोवा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP तडोवा\N_NNP झील\N_NNP है\V_VM जिसके\PR_PRL चारों\QT_QTO ओर\N_NN सघन\JJ पेड़\N_NN -पौधे\N_NN हैं\V_VM ।\RD_PUNC
+htd9743	ये\DM_DMD सघन\JJ पेड़\N_NN -\RD_PUNC पौधे\N_NN तडोवा\N_NNP उद्यान\N_NNP की\PSP पारिप्रणाली\N_NN को\PSP संजीदगी\JJ और\CC_CCD विविधता\JJ प्रदान\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9744	नवेगाँव\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP वर्ष\N_NN 1975\QT_QTC में\PSP ’\RD_PUNC भंडारा\N_NNP ’\RD_PUNC जिले\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9745	नवेगाँव\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्रफल\N_NN 134\QT_QTC वर्ग\N_NN किलोमीटर\N_NN है\V_VM ।\RD_PUNC
+htd9746	नवेगाँव\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN गोंदिया\N_NNP 100\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9747	देवलगाँव\N_NNP ,\RD_PUNC नवेगाँव\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 1\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP रेल\JJ शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9748	हवाई\JJ मार्ग\N_NN पर\PSP 130\QT_QTC किलोमीटर\N_NN दूर\N_NN सोनगाँव\N_NNP (\RD_PUNC नागपुर\N_NNP )\RD_PUNC ,\RD_PUNC नवेगाँव\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ हवाई\JJ अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd9749	नवेगाँव\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP समीप\N_NN बस\JJ -\RD_PUNC स्टेशन\N_NN ’\RD_PUNC सकोली\N_NNP ’\RD_PUNC है\V_VM जो\PR_PRL उद्यान\N_NN से\PSP 32\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9750	संजय\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1983\QT_QTC में\PSP ठाणे\N_NNP और\CC_CCD मुंबई\N_NNP जिलों\N_NN में\PSP लगभग\JJ 97\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्रफल\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9751	संजय\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP केवल\QT_QTF 3\QT_QTC किलोमीटर\N_NN दूर\N_NN बोरिवली\N_NNP नगर\N_NNP है\V_VM ।\RD_PUNC
+htd9752	बोरिवली\N_NNP ,\RD_PUNC संजय\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9753	हवाई\JJ यात्रा\N_NN से\PSP पहुँचने\V_VM के\PSP लिए\PSP हवाई\JJ अड्डा\N_NN सांताक्रुज\N_NNP (\RD_PUNC मुबंई\N_NNP )\RD_PUNC ,\RD_PUNC संजय\N_NNP गांधी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 15\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9754	गुगामल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP अमरावती\N_NNP जिले\N_NN में\PSP 361\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9755	गुगामल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP निकटस्थ\JJ बस\JJ अड्डा\N_NN 60\QT_QTC किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC परतवाडा\N_NNP ’\RD_PUNC है\V_VM ।\RD_PUNC
+htd9756	गुगामल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN 124\QT_QTC किलोमीटर\N_NN दूर\N_NN ’\RD_PUNC बडनेरा\N_NNP ’\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9757	गुगामल\N_NNP उद्यान\N_NNP के\PSP लिए\PSP हवाई\JJ अड्डा\N_NN 200\QT_QTC किलोमीटर\N_NN दूर\N_NN सोनगाँव\N_NNP (\RD_PUNC नागपुर\N_NNP )\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9758	गुगामल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंधीय\JJ जलवायु\N_NN का\PSP भाग\N_NN है\V_VM ।\RD_PUNC
+htd9759	गुगामल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN उष्णकटिबंधीय\JJ ,\RD_PUNC शुष्‍क\JJ पर्णपाती\N_NN हैं\V_VM ।\RD_PUNC
+htd9760	गुगामल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वनों\N_NN में\PSP मिली\V_VM -\RD_PUNC जुली\RD_ECH प्रजाति\N_NN तथा\CC_CCD सागवान\N_NN के\PSP वृक्ष\N_NN मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9761	केइबुल\N_NNP लाग्जाओ\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP मणिपुर\N_NNP राज्य\N_NN के\PSP इंफाल\N_NNP और\CC_CCD विष्णुपुर\N_NNP जिलों\N_NN में\PSP 40\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9762	केइबुल\N_NNP लाग्जाओ\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP स्थापना\N_NN 1975\QT_QTC में\PSP की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd9763	केइबुल\N_NNP लाग्जाओ\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकट\JJ ’\RD_PUNC कोइरंग\N_NNP ’\RD_PUNC शहर\N_NN यहाँ\DM_DMD से\PSP 10\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9764	केइबुल\N_NNP लाग्जाओ\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN 265\QT_QTC किलोमीटर\N_NN दूर\N_NN दीमापुर\N_NNP है\V_VM ।\RD_PUNC
+htd9765	जुलीलाल\N_NNP का\PSP हवाई\JJ अड्डा\N_NN केइबुल\N_NNP लाग्जाओ\N_NNP उद्यान\N_NNP से\PSP 45\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9766	इम्फाल\N_NNP केइबुल\N_NNP लाग्जाओ\N_NNP राष्‍ट्रीय\N_NNP से\PSP 45\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9767	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पूर्वी\JJ जिले\N_NN में\PSP वर्ष\N_NN 1982\QT_QTC में\PSP 41\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9768	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP जिले\N_NN के\PSP मुख्यालय\N_NN उखरूल\N_NNP से\PSP लगभग\JJ 5\QT_QTC किलोमीटर\N_NN दूर\N_NN की\PSP पहाड़ियों\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9769	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN 270\QT_QTC किलोमीटर\N_NN दूर\N_NN दीमापुर\N_NNP और\CC_CCD हवाई\JJ अड्डा\N_NN जुलीलाल\N_NNP लगभग\JJ 50\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9770	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM ।\RD_PUNC
+htd9771	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN उष्ण\JJ ,\RD_PUNC आर्द्र\JJ ,\RD_PUNC सदाबहार\JJ और\CC_CCD अर्द्ध\JJ सदाबहार\JJ हैं\V_VM ।\RD_PUNC
+htd9772	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP समुद्र\JJ तल\N_NN से\PSP औसत\JJ ऊँचाई\N_NN 2,450\QT_QTC मीटर\N_NN तक\PSP है\V_VM ।\RD_PUNC
+htd9773	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1991\QT_QTC में\PSP आईजोल\N_NNP जिले\N_NN में\PSP 200\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9774	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP आईजोल\N_NNP से\PSP 240\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9775	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटस्थ\JJ रेल\JJ शीर्ष\N_NN 180\QT_QTC किलोमीटर\N_NN दूर\N_NN सिल्चर\N_NNP है\V_VM ।\RD_PUNC
+htd9776	सिरोही\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP हवाई\JJ अड्डा\N_NN 240\QT_QTC किलोमीटर\N_NN दूर\N_NN तुइरियल\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9777	ब्लू\N_NNP माउंटेन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP छिमतुइपुई\N_NNP जिले\N_NN में\PSP 50\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP 1991\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9778	ब्लू\N_NNP माउंटेन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ,\RD_PUNC लुंगलेई\N_NNP शहर\N_NN से\PSP 137\QT_QTC वर्ग\N_NN किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9779	ब्लू\N_NNP माउंटेन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ,\RD_PUNC राजधानी\N_NN आईजोल\N_NNP से\PSP 173\QT_QTC किलोमीटर\N_NN दूर\N_NN स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9780	ब्लू\N_NNP माउंटेन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकट\JJ रेल\JJ शीर्ष\N_NN सिल्चर\N_NNP है\V_VM और\CC_CCD हवाई\JJ अड्डा\N_NN तुइरियल\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9781	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP (\RD_PUNC मेघालय\N_NNP )\RD_PUNC ,\RD_PUNC पश्‍चिमी\JJ ’\RD_PUNC गारो\N_NNP हिल\N_NNP ’\RD_PUNC जिले\N_NN में\PSP 340\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9782	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP निकटस्थ\JJ शहर\N_NN 15\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP विलियम\N_NNP नगर\N_NN है\V_VM ।\RD_PUNC
+htd9783	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP रेल\JJ शीर्ष\N_NN 160\QT_QTC किलोमीटर\N_NN दूर\N_NN गुवाहाटी\N_NNP है\V_VM ।\RD_PUNC
+htd9784	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP पहुँचने\V_VM के\PSP लिए\PSP हवाई\V_VM अड्डा\N_NN भी\RP_RPD गुवाहाटी\N_NNP है\V_VM ।\RD_PUNC
+htd9785	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM ।\RD_PUNC
+htd9786	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP अर्द्ध\JJ सदाहरित\JJ तथा\CC_CCD नम\JJ पर्णपाती\N_NN वन\N_NN हैं\V_VM ।\RD_PUNC
+htd9787	बलफक्रम\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वनों\N_NN में\PSP साल\N_NN वृक्ष\N_NN बहुलता\N_NN से\PSP प्राप्‍त\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9788	नाकरेक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP ,\RD_PUNC पश्‍चिमी\JJ गारो\N_NNP हिल\N_NNP जिले\N_NN में\PSP 47\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9789	नाकरेक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP निकटवर्ती\JJ शहर\N_NN 60\QT_QTC किलोमीटर\N_NN दूर\N_NN विलियम\N_NNP नगर\N_NN है\V_VM ।\RD_PUNC
+htd9790	गुवाहाटी\N_NNP हवाई\N_NNP अड्डा\N_NNP नाकरेक\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 210\QT_QTC किलोमीटर\N_NN दूर\N_NN पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd9791	यहाँ\DM_DMD की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM और\CC_CCD इसके\PR_PRP वन\N_NN अर्द्धसदाबहार\JJ और\CC_CCD नम\JJ पर्णपाती\N_NN हैं\V_VM ।\RD_PUNC
+htd9792	सन्‌\N_NN 1955\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX रणथंभोर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP सवाई\N_NNP माधोपुर\N_NNP जिले\N_NN में\PSP अरावली\N_NNP और\CC_CCD विंध्याचल\N_NNP पर्वतमालाओं\N_NN के\PSP संगम\N_NN पर\PSP 392\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9793	रणथंभोर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सबसे\RP_INTF निकट\JJ पड़ने\V_VM वाला\JJ शहर\N_NN व\CC_CCD रेल\JJ शीर्ष\N_NN सवाई\N_NNP माधोपुर\N_NNP है\V_VM ।\RD_PUNC
+htd9794	हवाई\JJ मार्ग\N_NN द्वारा\PSP यहाँ\DM_DMD पहुँचने\V_VM के\PSP लिए\PSP सबसे\RP_INTF निकटवर्ती\JJ हवाई\JJ अड्डा\N_NN 132\QT_QTC किलोमीटर\N_NN दूर\N_NN जयपुर\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9795	सरिस्का\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP सन्‌\N_NN 1982\QT_QTC में\PSP अलवर\N_NNP जिले\N_NN में\PSP 724\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9796	अलवर\N_NNP 36\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP सरिस्का\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP सबसे\RP_INTF निकटवर्ती\JJ शहर\N_NN व\CC_CCD रेल\JJ शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9797	सरिस्का\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP सबसे\RP_INTF अधिक\QT_QTF समीपवर्ती\JJ हवाई\JJ अड्डा\N_NN 110\QT_QTC किलोमीटर\N_NN दूर\N_NN जयपुर\N_NNP शहर\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd9798	सरिस्का\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN उष्णकटिबंधीय\JJ है\V_VM ।\RD_PUNC
+htd9799	सरिस्का\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP वन\N_NN उष्ण\JJ पर्णपाती\N_NN और\CC_CCD कँटीले\JJ हैं\V_VM ।\RD_PUNC
+htd9800	सरिस्का\N_NNP उद्यान\N_NNP में\PSP वर्षा\N_NN काफी\QT_QTF कम\JJ होती\V_VM है\V_VAUX और\CC_CCD तापमान\N_NN 490\QT_QTC सेल्सियस\N_NN तक\PSP चला\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9801	यह\DM_DMD उद्यान\N_NNP अरावली\N_NNP की\PSP पर्वतमालाओं\N_NN के\PSP बीच\N_NN की\PSP अधिपत्‍यकाओं\N_NN और\CC_CCD घाटियों\N_NN में\PSP समाया\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9802	सरिस्का\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पुराने\JJ मंदिरों\N_NN और\CC_CCD किलों\N_NN के\PSP भग्नावशेष\N_NN भी\RP_RPD देखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9803	सरिस्का\N_NNP उद्यान\N_NNP के\PSP वनों\N_NN में\PSP ढाक\N_NN ,\RD_PUNC सलाई\N_NN ,\RD_PUNC जामुन\N_NN ,\RD_PUNC अर्जुन\N_NN ,\RD_PUNC बेर\N_NN ,\RD_PUNC बहेड़ा\N_NN आदि\N_NN के\PSP मिले\JJ -\RD_PUNC जुले\RD_ECH पेड़\N_NN हैं\V_VM ।\RD_PUNC
+htd9804	यहाँ\DM_DMD के\PSP वृक्षों\N_NN की\PSP पत्तियों\N_NN और\CC_CCD घास\N_NN से\PSP यहाँ\DM_DMD के\PSP शाकाहारी\JJ पशुओं\N_NN की\PSP उदर\N_NN पूर्ति\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9805	नमी\N_NN से\PSP भरा\V_VM केवलादेव\N_NNP घाना\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP सन्‌\N_NN 1981\QT_QTC में\PSP भरतपुर\N_NNP जिले\N_NN में\PSP 29\QT_QTC वर्ग\N_NN किलिमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9806	केवलादेव\N_NNP घाना\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP भरतपुर\N_NNP शहर\N_NN दो\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9807	यहाँ\DM_DMD के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN भरतपुर\N_NNP में\PSP 8\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9808	केवलादेव\N_NNP घाना\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP हवाई\JJ मार्ग\N_NN पर\PSP आगरा\N_NNP का\PSP हवाई\JJ अड्‍डा\N_NN निकटतम\JJ है\V_VM ।\RD_PUNC
+htd9809	यह\DM_DMD हवाई\JJ अड्‍डा\N_NN केवलादेव\N_NNP घाना\N_NNP उद्यान\N_NNP से\PSP 55\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9810	मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP जैसलमेर\N_NNP जिले\N_NN में\PSP 3\QT_QTC ,\RD_PUNC 162\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9811	मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकट\JJ शहर\N_NN जैसलमेर\N_NNP 45\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9812	जैसलमेर\N_NNP ही\RP_RPD मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN है\V_VM ।\RD_PUNC
+htd9813	मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP उष्णकटिबंधीय\JJ प्रदेश\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd9814	यहाँ\DM_DMD वर्षा\N_NN बहुत\RP_INTF अल्प\JJ मात्रा\N_NN में\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd9815	मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP तापमान\N_NN 500\QT_QTC से.\N_NN तक\PSP पहुँच\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9816	मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP यह\DM_DMD सारा\QT_QTF क्षेत्र\N_NN बिना\RP_NEG जंगलों\N_NN के\PSP है\V_VM ।\RD_PUNC
+htd9817	यहाँ\DM_DMD केवल\QT_QTF कँटीली\JJ झाड़ियाँ\N_NN और\CC_CCD घास\N_NN मिलती\V_VM है\V_VAUX ।\RD_PUNC
+htd9818	इस\DM_DMD मरुस्थल\N_NNP उद्यान\N_NNP में\PSP कृष्णमृग\N_NN ,\RD_PUNC चिंकारा\N_NN ,\RD_PUNC मरुस्थलीय\N_NN बिल्ली\N_NN ,\RD_PUNC लोमड़ी\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9819	तुकदार\N_NN (\RD_PUNC हुकना\N_NN )\RD_PUNC ,\RD_PUNC मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP आम\JJ पक्षी\N_NN हैं\V_VM ।\RD_PUNC
+htd9820	सितम्बर\N_NN से\PSP फरवरी\N_NN तक\PSP मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP भ्रमण\V_VM के\PSP लिए\PSP अनुकूल\JJ समय\N_NN है\V_VM ।\RD_PUNC
+htd9821	मरुस्थल\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP कई\QT_QTF विश्राम\JJ गृह\N_NN विद्यमान\N_NN हैं\V_VM ।\RD_PUNC
+htd9822	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP सन्‌\N_NN 1977\QT_QTC में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd9823	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP सिक्किम\N_NNP के\PSP उत्तरी\JJ जिले\N_NN में\PSP 850\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9824	यहाँ\DM_DMD पहुँचने\V_VM के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN 221\QT_QTC किलोमीटर\N_NN दूर\N_NN जलपाइगुड़ी\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9825	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP निकटतम\JJ हवाई\JJ अड्डा\N_NN 221\QT_QTC किलोमीटर\N_NN दूर\N_NN बागडोगरा\N_NNP (\RD_PUNC पश्‍चिम\N_NNP बंगाल\N_NNP )\RD_PUNC में\PSP है\V_VM ।\RD_PUNC
+htd9826	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN शीतोष्ण\JJ है\V_VM ।\RD_PUNC
+htd9827	यहाँ\DM_DMD के\PSP वन\N_NN पर्वतीय\JJ नम\JJ शीतोष्ण\JJ हैं\V_VM ।\RD_PUNC
+htd9828	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP तापमान\N_NN 400\QT_QTC सें.\N_NN से\PSP 170\QT_QTC सें.\N_NN तक\PSP है\V_VM ।\RD_PUNC
+htd9829	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP वनस्पति\N_NN शंकुल\N_NN वृक्षों\N_NN ,\RD_PUNC फर\N_NN और\CC_CCD बाँझ\N_NN की\PSP है\V_VM ।\RD_PUNC
+htd9830	कंचनजंगा\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\JJ पक्षियों\N_NN में\PSP मोनाल\N_NN और\CC_CCD ट्रेगोपन\N_NN फीजैंट\N_NN ,\RD_PUNC हरियल\N_NN और\CC_CCD हिम-मुर्ग\N_NN हैं\V_VM ।\RD_PUNC
+htd9831	सुल्तानपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP गुड़गाँव\N_NNP जिले\N_NN में\PSP दिल्ली\N_NNP से\PSP लगभग\JJ 50\QT_QTC किलोमीटर\N_NN दूर\N_NN और\CC_CCD गुड़गाँव\N_NNP से\PSP 15\QT_QTC किलोमीटर\N_NN दूर\N_NN स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9832	सुल्तानपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP 1.47\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9833	इस\DM_DMD उद्यान\N_NN के\PSP लिए\PSP निकटतम\JJ रेल\JJ शीर्ष\N_NN गुड़गाँव\N_NNP में\PSP और\CC_CCD हवाई\JJ अड्डा\N_NN पालम\N_NNP दिल्ली\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9834	सुल्तानपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP का\PSP क्षेत्र\N_NN उष्णकटिबंधीय\JJ जलवायु\N_NN के\PSP अंतर्गत\N_NN आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9835	सुल्तानपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP शुष्क\JJ पर्णपाती\JJ वृक्ष\N_NN छिटके\V_VM हुए\V_VAUX हैं\V_VAUX और\CC_CCD बबूल\N_NN घास\N_NN के\PSP मैदान\N_NN हैं\V_VM ।\RD_PUNC
+htd9836	सुल्तानपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP नीलगाय\N_NN और\CC_CCD चीतल\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9837	यह\DM_DMD मुख्य\JJ रूप\N_NN से\PSP स्थाई\N_NN और\CC_CCD प्रव्राजक\JJ पक्षियों\N_NN का\PSP वासस्थल\N_NN है\V_VM ।\RD_PUNC
+htd9838	सुल्तानपुर\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 250\QT_QTC पक्षियों\N_NN की\PSP प्रजातियाँ\N_NN पहचानी\V_VM गई\V_VAUX हैं\V_VAUX ,\RD_PUNC जिनमें\PR_PRL से\PSP 90\QT_QTC प्रव्राजक\N_NN हैं\V_VAUX जो\PR_PRL भारत\N_NNP के\PSP अन्य\QT_QTF भागों\N_NN या\CC_CCD बाहर\N_NN के\PSP देशों\N_NN से\PSP यहाँ\DM_DMD आती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9839	यहाँ\DM_DMD पाई\V_VM जाने\V_VAUX वाली\JJ पक्षियों\N_NN में\PSP बत्तख\N_NN ,\RD_PUNC चैती\N_NN ,\RD_PUNC नीलसर\N_NN ,\RD_PUNC सारस\N_NN ,\RD_PUNC वोगहंस\N_NN ,\RD_PUNC गरुड़\N_NN ,\RD_PUNC गुगला\N_NN ,\RD_PUNC चमचबाज\N_NN हरियल\N_NN ,\RD_PUNC तीतर\N_NN ,\RD_PUNC बटेर\N_NN ,\RD_PUNC डोमड़ा\N_NN ,\RD_PUNC लटोरा\N_NN ,\RD_PUNC अनजान\N_NN ,\RD_PUNC किलकिला\N_NN ,\RD_PUNC धनेश\N_NN ,\RD_PUNC जलकौए\N_NN ,\RD_PUNC हवासिल\N_NN ,\RD_PUNC लगलग\N_NN ,\RD_PUNC घोघिल\N_NN ,\RD_PUNC जलपीही\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9840	ग्रेट\N_NNP हिमालयन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP कुल्लू\N_NNP जिले\N_NN में\PSP 1954\QT_QTC में\PSP 765\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9841	इस\DM_DMD उद्यान\N_NN के\PSP लिए\PSP रेल\JJ शीर्ष\N_NN जोगेंदर\N_NNP नगर\N_NNP और\CC_CCD हवाई\JJ अड्डा\N_NN कुल्लू\N_NNP में\PSP है\V_VM ।\RD_PUNC
+htd9842	जोगेंदर\N_NNP नगर\N_NNP ,\RD_PUNC ग्रेट\N_NNP हिमालयन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP 100\QT_QTC किलोमीटर\N_NN के\PSP लगभग\JJ और\CC_CCD कुल्लू\N_NNP हवाई\N_NNP अड्डा\N_NNP 50\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9843	ग्रेट\N_NNP हिमालयन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN शीतोष्ण\JJ पर्वतीय\N_NN है\V_VM ।\RD_PUNC
+htd9844	ग्रेट\N_NNP हिमालयन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP सामान्य\JJ ऊँचाई\JJ समुद्रतल\N_NN से\PSP 2,500\QT_QTC मीटर\N_NN है\V_VM
+htd9845	ग्रेट\N_NNP हिमालयन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP चीड़\N_NN व\CC_CCD देवदार\N_NN के\PSP वृक्ष\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9846	यहाँ\DM_DMD के\PSP वन्य\JJ जीवों\N_NN में\PSP तेंदुआ\N_NN ,\RD_PUNC भेड़िया\N_NN ,\RD_PUNC हिमालयी\JJ थार\N_NN ,\RD_PUNC सेराव\N_NN ,\RD_PUNC कस्तूरी\JJ मृग\N_NN ,\RD_PUNC भरल\N_NN और\CC_CCD गिलहरी\N_NN हैं\V_VM ।\RD_PUNC
+htd9847	ग्रेट\N_NNP हिमालयन\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VM वाले\JJ पक्षी\N_NN भाँति\JJ -\RD_PUNC भाँति\JJ की\PSP फीजैंट\N_NN -\RD_PUNC ट्रेगोपन\N_NN ,\RD_PUNC मोनाल\N_NN ,\RD_PUNC चील\N_NN और\CC_CCD बाज\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9848	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP हिमाचल\N_NNP प्रदेश\N_NNP के\PSP लाहौल\N_NNP और\CC_CCD स्पीति\N_NNP जीलों\N_NN की\PSP पिन\N_NNP घाटी\N_NNP में\PSP 675\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP स्थापित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9849	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP से\PSP सबसे\RP_INTF निकटवर्ती\JJ रेल\JJ शीर्ष\N_NN तथा\CC_CCD हवाई\JJ अड्डा\N_NN शिमला\N_NNP में\PSP है\V_VM ,\RD_PUNC जो\PR_PRL उद्यान\N_NN से\PSP 375\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9850	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP के\PSP सबसे\RP_INTF समीप\N_NN का\PSP नगर\N_NN ’\RD_PUNC काजा\N_NNP ’\RD_PUNC है\V_VM जो\PR_PRL 25\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9851	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP जलवायु\N_NN ठंडी\JJ और\CC_CCD पर्वतीय\JJ है\V_VM ।\RD_PUNC
+htd9852	इस\DM_DMD उद्यान\N_NN की\PSP भूमि\N_NN पहाड़ी\JJ है\V_VM ,\RD_PUNC जिसकी\PR_PRL ऊँचाई\JJ समुद्रतल\N_NN से\PSP 3\QT_QTC ,\RD_PUNC 700\QT_QTC मीटर\N_NN से\PSP 6\QT_QTF ,\RD_PUNC 600\QT_QTC मीटर\N_NN तक\PSP है\V_VM ।\RD_PUNC
+htd9853	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP 5,000\QT_QTC मीटर\N_NN से\PSP ऊपर\N_NN का\PSP भाग\N_NN सदा\RB हिमाच्छादित\JJ रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd9854	वहाँ\PR_PRP बहुत\QT_QTF कम\JJ वनस्पति\N_NN उगती\V_VM है\V_VAUX और\CC_CCD जो\PR_PRL वनस्पति\N_NN है\V_VM वह\PR_PRP शीत\JJ रेगिस्तानी\JJ है\V_VM ।\RD_PUNC
+htd9855	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP की\PSP झाड़\JJ वनस्पति\N_NN जंगली\JJ गुलाब\N_NN ,\RD_PUNC हिपोचिया\N_NN और\CC_CCD एफ्रेडा\N_NN हैं\V_VM ।\RD_PUNC
+htd9856	यहाँ\DM_DMD के\PSP वन्य\JJ जीवों\N_NN में\PSP हिम\JJ तेंदुआ\N_NN ,\RD_PUNC हिम\JJ भालू\N_NN ,\RD_PUNC भूरी\JJ लोमड़ी\N_NN ,\RD_PUNC आइवेक्स\N_NN ,\RD_PUNC भरल\N_NN ,\RD_PUNC सफेद\JJ खरगोश\N_NN ,\RD_PUNC ऊदबिलाव\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd9857	पिन\N_NNP घाटी\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP में\PSP पाए\V_VM जाने\V_VAUX वाले\JJ पक्षी\N_NN हिम\JJ मुर्गा\N_NN ,\RD_PUNC चकोर\N_NN ,\RD_PUNC पहाड़ी\JJ कबूतर\N_NN ,\RD_PUNC आरी\N_NN ,\RD_PUNC चैती\N_NN ,\RD_PUNC लालपर\N_NN हैं\V_VM ।\RD_PUNC
+htd9858	पिन\N_NNP घाटी\N_NNP उद्यान\N_NNP की\PSP सैर\N_NN के\PSP लिए\PSP मार्च\N_NN से\PSP जून\N_NN और\CC_CCD सितम्बर\N_NN -\RD_PUNC अक्टूबर\N_NN के\PSP माह\N_NN अनुकूल\N_NN हैं\V_VM ।\RD_PUNC
+htd9859	1814\QT_QTC में\PSP नेपाल\N_NNP युद्ध\N_NNP में\PSP विजयी\N_NN बने\V_VM सर\N_NNP डेविश\N_NNP आक्टरलोनी\N_NNP के\PSP नाम\N_NN पर\PSP एक\QT_QTC मीनार\N_NN बनी\V_VM ।\RD_PUNC
+htd9860	जिस\PR_PRL का\PSP नाम\N_NN बाद\N_NN में\PSP शहीद\N_NNP मीनार\N_NNP रख\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd9861	शहीद\N_NNP मीनार\N_NNP करीब\QT_QTF 48\QT_QTC मीटर\N_NN ऊँची\JJ है\V_VM ।\RD_PUNC
+htd9862	कोलकाता\N_NNP के\PSP दमदम\N_NNP एअरपोर्ट\N_NNP से\PSP भारत\N_NNP के\PSP सभी\QT_QTF स्थानों\N_NN के\PSP लिए\PSP फ्‍लाइट\N_NN हैं\V_VM ।\RD_PUNC
+htd9863	दमदम\N_NNP एअरपोर्ट\N_NNP अंतर्राष्‍ट्रीय\N_NNP स्तर\N_NN का\PSP हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9864	दमदम\N_NNP एअरपोर्ट\N_NNP दक्षिणपूर्व\JJ एशियाई\JJ देशों\N_NN और\CC_CCD आस्ट्रेलिया\N_NNP से\PSP सीधा\RB जुड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd9865	हावड़ा\N_NNP और\CC_CCD सियालदह\N_NNP रेलवे\JJ स्टेशनों\N_NN के\PSP लिए\PSP देश\N_NN के\PSP हर\QT_QTF कोने\N_NN से\PSP ट्रेनें\N_NN हैं\V_VM ।\RD_PUNC
+htd9866	यहाँ\DM_DMD लोकल\JJ ट्रेनों\N_NN ,\RD_PUNC ट्राम\N_NN ,\RD_PUNC मेट्रो\N_NN ट्रेन\N_NN ,\RD_PUNC निजी\JJ सरकारी\JJ बसें\N_NN ,\RD_PUNC मिनी\JJ बसें\N_NN ,\RD_PUNC टैक्सी\N_NN व\CC_CCD लग्जरी\JJ टैक्सियों\N_NN से\PSP दर्शनीय\JJ स्थलों\N_NN में\PSP घूमा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9867	कोलकाता\N_NNP में\PSP जल\JJ परिवहन\N_NN की\PSP भी\RP_RPD सुविधा\N_NN है\V_VM ।\RD_PUNC
+htd9868	बेलूर\N_NN मठ\N_NN ,\RD_PUNC बोटिनिकल\N_NN गार्डन\N_NN के\PSP लिए\PSP नावों\N_NN से\PSP दर्शनीय\JJ स्थलों\N_NN में\PSP जाने\V_VM के\PSP साथ\PSP जल\JJ विहार\N_NN का\PSP भी\RP_RPD मजा\N_NN उठाया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9869	कोलकाता\N_NNP में\PSP सुपर\JJ डीलक्स\JJ होटलों\N_NN में\PSP होटल\N_NNP हिंदुस्तान\N_NNP इंटरनेशनल\N_NNP ,\RD_PUNC हयात\N_NNP रीजेंसी\N_NNP ,\RD_PUNC ताज\N_NNP बंगाल\N_NNP ,\RD_PUNC आईटीसी\N_NNP सोनार\N_NNP बांग्ला\N_NNP ,\RD_PUNC शेरटन\N_NNP टावर\N_NNP ,\RD_PUNC पार्क\N_NNP होटल\N_NNP ,\RD_PUNC ग्रांड\N_NNP ओबेराय\N_NNP ,\RD_PUNC रैडिसन\N_NNP आदि\N_NN है\V_VM ।\RD_PUNC
+htd9870	सामान्य\JJ होटलों\N_NN में\PSP रायल\N_NNP गार्डन\N_NNP ,\RD_PUNC बाईपास\N_NNP स्वीमिंग\N_NNP रिसोर्ट\N_NNP ,\RD_PUNC राजस्थान\N_NNP गेस्ट\N_NNP हाउस\N_NNP ,\RD_PUNC पार्क\N_NNP पैलेस\N_NNP होटल\N_NNP भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd9871	शांतिनिकेतन\N_NNP ,\RD_PUNC बंगाल\N_NNP की\PSP संस्कृति\N_NN में\PSP कवि\N_NN रवींद्रनाथ\N_NNP ठाकुर\N_NNP की\PSP एक\QT_QTC अमिट\JJ छाप\N_NN है\V_VM ।\RD_PUNC
+htd9872	कहते\V_VM हैं\V_VAUX शांतिनिकेतन\N_NNP की\PSP हवा\N_NN में\PSP संगीत\N_NN ,\RD_PUNC नृत्य\N_NN ,\RD_PUNC नाटक\N_NN ,\RD_PUNC साहित्य\N_NN रचाबसा\N_NN है\V_VM ।\RD_PUNC
+htd9873	साथ\CC_CCD ही\RP_RPD यह\DM_DMD शिक्षा\N_NN का\PSP अंतर्राष्‍टीय\JJ केंद्र\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9874	1862\QT_QTC में\PSP देवेंद्रनाथ\N_NNP ठाकुर\N_NNP पहली\QT_QTO बार\N_NN आए\V_VM तो\RP_RPD यहाँ\DM_DMD के\PSP प्राकृतिक\JJ सौंदर्य\N_NN से\PSP प्रभावित\N_NN हो\V_VM कर\N_NN उन्होंने\PR_PRP अपने\PR_PRF लिए\PSP यहाँ\DM_DMD एक\QT_QTC छोटा\JJ सा\RP_RPD घर\N_NN बना\V_VM लिया\V_VAUX और\CC_CCD अपने\PR_PRF उस\PR_PRP घरौंदे\N_NN का\PSP नाम\N_NN ’\RD_PUNC शांतिनिकेतन\N_NNP ’\RD_PUNC रखा\V_VM था\V_VAUX ।\RD_PUNC
+htd9875	देवेंद्रनाथ\N_NNP के\PSP पुत्र\N_NN रवींद्रनाथ\N_NNP भी\RP_RPD यहाँ\DM_DMD की\PSP आबोहवा\N_NN से\PSP बहुत\QT_QTF प्रभावित\N_NN हुए\V_VM ।\RD_PUNC
+htd9876	प्रकृति\N_NN के\PSP बीच\N_NN उन\PR_PRP का\PSP मन\N_NN रमने\N_NN लगा\V_VM ।\RD_PUNC
+htd9877	प्रकृति\N_NN के\PSP बीच\N_NN सुकून\N_NN की\PSP खोज\N_NN में\PSP अकसर\RB वह\PR_PRP भी\RP_RPD यहाँ\DM_DMD चले\V_VM आते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd9878	उन\PR_PRP की\PSP साहित्य\JJ साधना\N_NN में\PSP यहाँ\DM_DMD के\PSP प्राकृतिक\JJ सौंदर्य\N_NN ने\PSP उत्प्रेरक\N_NN का\PSP काम\N_NN किया\V_VM ।\RD_PUNC
+htd9879	इस\DM_DMD के\PSP बाद\N_NN 22\QT_QTC दिसंबर\N_NN ,\RD_PUNC 1901\QT_QTC में\PSP उन्होंने\PR_PRP शांतिनिकेतन\N_NNP में\PSP एक\QT_QTC विद्यालय\N_NN की\PSP स्थापना\N_NN की\V_VM और\CC_CCD उस\PR_PRP को\PSP प्राचीनकाल\N_NN के\PSP गुरूकुल\N_NN की\PSP अवधारणा\N_NN पर\PSP चलाया\V_VM जाने\V_VAUX लगा\V_VAUX ।\RD_PUNC
+htd9880	यहाँ\DM_DMD घने\JJ छायादार\JJ पेड़ों\N_NN के\PSP नीचे\N_NN कक्षाएँ\N_NN लगा\V_VM करती\V_VAUX थीं\V_VAUX ।\RD_PUNC
+htd9881	बाद\N_NN में\PSP इस\DM_DMD का\PSP नाम\N_NN रखा\V_VM गया\V_VAUX ,\RD_PUNC विश्‍व\N_NNP भारती\N_NNP ।\RD_PUNC
+htd9882	विश्‍व\N_NNP भारती\N_NNP का\PSP 100\QT_QTC साल\N_NN से\PSP भी\RP_RPD अधिक\QT_QTF पुराना\JJ इतिहास\N_NN है\V_VM ।\RD_PUNC
+htd9883	यहाँ\DM_DMD मानवतावाद\N_NN ,\RD_PUNC समाज\N_NN -\RD_PUNC विज्ञान\N_NN ,\RD_PUNC फाइन\N_NN आर्ट्स\N_NN ,\RD_PUNC संगीत\N_NN ,\RD_PUNC नृत्य\N_NN ,\RD_PUNC मंच\N_NN कला\N_NN ,\RD_PUNC शिक्षा\N_NN ,\RD_PUNC कृषि\N_NN ,\RD_PUNC विज्ञान\N_NN और\CC_CCD ग्रामीण\N_NN पुनर्निमाण\N_NN आदि\N_NN विषयों\N_NN पर\PSP उच्च\JJ शिक्षा\N_NN की\PSP सुविधा\N_NN के\PSP लिए\PSP देशविदेश\N_NN से\PSP छात्रछात्राएँ\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9884	यहाँ\DM_DMD से\PSP प्राप्त\V_VM डिगरी\N_NN की\PSP दुनिया\N_NN भर\RP_RPD में\PSP कद्र\N_NN है\V_VM ।\RD_PUNC
+htd9885	इन\PR_PRP 100\QT_QTC सालों\N_NN में\PSP विश्‍व\N_NNP भारती\N_NNP दुनिया\N_NN के\PSP सामने\N_NN भारत\N_NNP की\PSP सांस्कृतिक\JJ विरासत\N_NN का\PSP प्रतिबिंब\N_NN बन\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9886	यही\DM_DMD वजह\N_NN है\V_VM कि\CC_CCS भारत\N_NNP आने\V_VM वाला\JJ विदेशी\JJ पर्यटक\N_NN एक\QT_QTC बार\N_NN शांतिनिकेतन\N_NNP जरूर\RB आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9887	आज\N_NN भी\RP_RPD यहाँ\DM_DMD खुली\JJ हवा\N_NN में\PSP शिक्षा\N_NN दी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9888	कला\JJ भवन\N_NN और\CC_CCD संगीत\JJ भवन\N_NN के\PSP जरिए\N_NN भारतीय\JJ शिक्षा\JJ पद्धति\N_NN में\PSP कला\N_NN को\PSP बिलकुल\QT_QTF उचित\JJ स्थान\N_NN दिया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9889	1951\QT_QTC में\PSP इसे\PR_PRP केंद्रीय\JJ विश्‍वविद्यालय\N_NN की\PSP मान्यता\N_NN दी\V_VM गई\V_VAUX ।\RD_PUNC
+htd9890	पर्यटन\N_NN के\PSP लिहाज\N_NN से\PSP दर्शनीय\N_NNP स्थलों\N_NN की\PSP बात\N_NN की\V_VM जाए\V_VAUX तो\CC_CCS विश्‍व\N_NNP भारती\N_NNP के\PSP विभिन्न\QT_QTF भवन\N_NN यहाँ\DM_DMD के\PSP मुख्य\JJ आकर्षण\N_NN हैं\V_VM ।\RD_PUNC
+htd9891	रवींद्रनाथ\N_NNP जिस\PR_PRL हिस्से\N_NN में\PSP रहा\V_VM करते\V_VAUX थे\V_VAUX वह\PR_PRP उत्तरायन\N_NNP कहलाता\V_VM है\V_VAUX ।\RD_PUNC
+htd9892	अब\N_NN यह\DM_DMD उदयन\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9893	इस\DM_DMD के\PSP अलावा\N_NN कोणार्क\N_NN ,\RD_PUNC श्‍यामली\N_NN ,\RD_PUNC पुन्शच\N_NN ,\RD_PUNC उदिची\N_NN नामक\N_NN भवन\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd9894	यहाँ\DM_DMD एक\QT_QTC भवन\N_NN विचित्रा\N_NN के\PSP नाम\N_NN से\PSP प्रसिद्ध\N_NN है\V_VM ।\RD_PUNC
+htd9895	इस\DM_DMD भवन\N_NN की\PSP डिजाइनिंग\N_NN रवींद्रनाथ\N_NNP के\PSP पुत्र\N_NN रथींद्रनाथ\N_NNP ने\PSP की\V_VM थी\V_VAUX ।\RD_PUNC
+htd9896	इसलिए\CC_CCD यह\DM_DMD रथींद्र\N_NNP भवन\N_NNP के\PSP नाम\N_NN से\PSP भी\RP_RPD जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9897	यहाँ\DM_DMD एक\QT_QTC रिसर्च\JJ इंस्टीट्यूट\N_NN और\CC_CCD म्‍यूजियम\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9898	कला\JJ भवन\N_NN की\PSP गैलरी\N_NN में\PSP बंगाल\N_NNP के\PSP प्रसिद्ध\JJ मूर्तिकार\N_NN रामकिंकर\N_NNP बैज\N_NNP की\PSP मूर्तियाँ\N_NN खास\JJ आकर्षण\N_NN का\PSP केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd9899	1922\QT_QTC में\PSP यहाँ\DM_DMD एक\QT_QTC श्रीनिकेतन\N_NNP बनाया\V_VM गया\V_VAUX ,\RD_PUNC जो\PR_PRL कि\CC_CCS ग्रामीण\JJ पुनर्निर्माण\JJ केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd9900	यहाँ\DM_DMD एक\QT_QTC कृषि\N_NN महाविद्यालय\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd9901	यह\DM_DMD स्थान\N_NN शांतिनिकेतन\N_NNP से\PSP 30\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9902	बल्लभपुर\N_NNP के\PSP नाम\N_NN से\PSP विख्‍यात\N_NN इस\DM_DMD हिरण\N_NN पार्क\N_NN में\PSP काले\JJ हिरण\N_NN ,\RD_PUNC चकत्तेदार\JJ हिरण\N_NN ,\RD_PUNC सियाल\N_NN ,\RD_PUNC लोमड़ी\N_NN के\PSP साथ\PSP विभिन्न\QT_QTF प्रकार\N_NN के\PSP पानी\N_NN में\PSP विचरण\V_VM करने\V_VAUX वाले\JJ पक्षियों\N_NN को\PSP देखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9903	शांतिनिकेतन\N_NNP से\PSP केंदुली\N_NNP लगभग\JJ 30\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9904	इस\DM_DMD स्थान\N_NN का\PSP ऐतिहासिक\JJ और\CC_CCD साहित्यिक\JJ महत्त्व\N_NN है\V_VM ।\RD_PUNC
+htd9905	यह\DM_DMD भक्‍तिकाल\N_NN के\PSP कवि\N_NN जयदेव\N_NNP की\PSP जन्मस्थली\N_NN है\V_VM ।\RD_PUNC
+htd9906	माना\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS जयदेव\N_NNP ने\PSP अपनी\PR_PRF प्रसिद्ध\JJ रचना\N_NN ’\RD_PUNC गीत\N_NNP गोविंदम\N_NNP ’\RD_PUNC का\PSP सृजन\N_NN यहीं\PR_PRI किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9907	केंदुली\N_NNP में\PSP मकर\N_NN संक्रांति\N_NN के\PSP दिन\N_NN ’\RD_PUNC बाउल\N_NNP ’\RD_PUNC मेला\N_NN लगता\V_VM है\V_VAUX जो\PR_PRL बंगाल\N_NNP का\PSP लोकगीत\N_NN है\V_VM ।\RD_PUNC
+htd9908	असम\N_NNP को\PSP पूर्वोत्तर\JJ का\PSP गेटवे\N_NN कहा\V_VM ताता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9909	प्राचीन\JJ इतिहास\N_NN के\PSP अनुसार\N_NN इस\DM_DMD का\PSP नाम\N_NN प्राग्ज्योतिषपुर\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd9910	थाईलैंड\N_NNP की\PSP अहोम\N_NN जाति\N_NN द्वारा\PSP इस\DM_DMD क्षेत्र\N_NN पर\PSP कब्जा\V_VM जमा\V_VAUX कर\V_VAUX अपना\PR_PRF राज\N_NN कायम\V_VM करने\V_VAUX के\PSP बाद\N_NN से\PSP इसे\PR_PRP असम\N_NNP या\CC_CCD आसाम\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ,\RD_PUNC इसलिए\CC_CCD यहाँ\DM_DMD थाई\JJ संस्कृति\N_NN का\PSP असर\N_NN देखने\V_VM को\PSP मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd9911	असम\N_NNP का\PSP सब\QT_QTF से\PSP बड़ा\JJ आकर्षण\N_NN हरेभरे\JJ जंगल\N_NN ,\RD_PUNC चाय\N_NN के\PSP बागान\N_NN और\CC_CCD विभिन्न\QT_QTF प्रकार\N_NN के\PSP वन्य\JJ जीवन\N_NN हैं\V_VM ।\RD_PUNC
+htd9912	असम\N_NNP राज्य\N_NN पूर्वोत्तर\JJ के\PSP सभी\QT_QTF राज्यों\N_NN से\PSP क्षेत्रफल\N_NN की\PSP दृष्‍टि\N_NN में\PSP ज्यादा\RP_INTF बड़ा\JJ है\V_VM ।\RD_PUNC
+htd9913	पूर्वोत्तर\JJ के\PSP सभी\QT_QTF प्रमुख\JJ राज्यों\N_NN में\PSP यहीं\PR_PRI से\PSP हो\V_VM कर\V_VAUX गुजरना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9914	इस\DM_DMD की\PSP जीवनधारा\N_NN मानी\V_VM जाने\V_VAUX वाली\JJ ब्रह्मपुत्र\N_NNP नदी\N_NN इस\DM_DMD के\PSP बीचोंबीच\N_NN से\PSP हो\V_VM कर\V_VAUX निकलती\V_VM है\V_VAUX ।\RD_PUNC
+htd9915	गुवाहाटी\N_NNP असम\N_NNP के\PSP पूर्वोत्तर\JJ राज्यों\N_NN की\PSP वाणिज्यिक\JJ राजधानी\N_NN है\V_VM ।\RD_PUNC
+htd9916	असमिया\N_NN में\PSP गुवा\N_NN का\PSP अर्थ\N_NN होता\V_VM है\V_VAUX अखरोट\N_NN और\CC_CCD हाटी\N_NN का\PSP अर्थ\N_NN बाजार\N_NN ।\RD_PUNC
+htd9917	हिमालय\N_NNP पर्वतमाला\N_NN के\PSP पूर्व\N_NN में\PSP स्थित\N_NN इस\DM_DMD शहर\N_NN को\PSP पूर्वोत्तर\JJ राज्यों\N_NN का\PSP दरवाजा\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9918	गुवाहाटी\N_NNP की\PSP जलवायु\N_NN सबट्रापिकल\JJ है\V_VM ।\RD_PUNC
+htd9919	यहाँ\DM_DMD गर्मियों\N_NN में\PSP तापमान\N_NN 22\QT_QTC से\PSP 39\QT_QTC डिगरी\N_NN सेल्सियस\N_NN और\CC_CCD सदियों\N_NN में\PSP 10\QT_QTC से\PSP 15\QT_QTC डिगरी\N_NN सेल्सियस\N_NN हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9920	यहाँ\DM_DMD कलाक्षेत्र\N_NNP म्यूजियम\N_NNP ,\RD_PUNC उमानंद\N_NNP ,\RD_PUNC गुवाहाटी\N_NNP तारामंडल\N_NNP ,\RD_PUNC गुवाहाटी\N_NNP चिड़ियाघर\N_NNP आदि\N_NN देखने\V_VM लायक\JJ हैं\V_VM ।\RD_PUNC
+htd9921	यहाँ\DM_DMD नगर\JJ भ्रमण\N_NN के\PSP लिए\PSP सिटी\N_NN बस\N_NN एक\QT_QTC अच्छा\JJ साधन\N_NN है\V_VM ।\RD_PUNC
+htd9922	भारत\N_NNP के\PSP पूर्वोत्तर\JJ राज्य\N_NN के\PSP मारीगाँव\N_NNP जिले\N_NN में\PSP स्थित\N_NN पोबितरा\N_NNP वन्यजीव\N_NNP अभयारण्य\N_NNP गुवाहाटी\N_NNP से\PSP 50\QT_QTC किलोमीटर\N_NN दूर\N_NN नौगाँव\N_NNP और\CC_CCD कामरूप\N_NNP जिले\N_NN की\PSP सीमा\N_NN पर\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9923	पोबितरा\N_NNP वन्यजीव\N_NNP अभयारण्य\N_NNP जाने\V_VM का\PSP सब\QT_QTF से\PSP अच्छा\JJ समय\N_NN नवंबर\N_NN से\PSP मार्च\N_NN के\PSP बीच\N_NN है\V_VM ।\RD_PUNC
+htd9924	पोबितरा\N_NNP मुख्‍य\JJ रूप\N_NN से\PSP एक\QT_QTC सींग\N_NN वाले\JJ गैंडे\N_NN के\PSP लिए\PSP प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd9925	गैंडे\N_NN के\PSP अलावा\N_NN अन्य\QT_QTF जानवरों\N_NN जैसे\CC_CCS ,\RD_PUNC एशियाई\JJ बफैलो\N_NN ,\RD_PUNC तेंदुए\N_NN ,\RD_PUNC जंगली\JJ भालू\N_NN आदि\N_NN भी\RP_RPD यहाँ\DM_DMD के\PSP निवासी\N_NN हैं\V_VM ।\RD_PUNC
+htd9926	गुवाहाटी\N_NNP से\PSP 180\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP स्थित\N_NN तेजपुर\N_NNP सोनितपुर\N_NNP जिले\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9927	तेजपुर\N_NNP का\PSP असम\N_NNP के\PSP इतिहास\N_NN में\PSP प्रमुख\JJ स्थान\N_NN है\V_VM ।\RD_PUNC
+htd9928	तेजपुर\N_NNP असम\N_NNP के\PSP खूबसूरत\JJ शहरों\N_NN में\PSP से\PSP एक\QT_QTC गिना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9929	तेजपुर\N_NNP असम\N_NNP का\PSP वह\PR_PRP छोर\N_NN है\V_VAUX जिस\PR_PRL के\PSP आगे\N_NN से\PSP अरूणाचल\N_NNP प्रदेश\N_NNP आरंभ\N_NN हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9930	यहाँ\DM_DMD का\PSP अग्निगढ़\N_NNP किला\N_NNP सब\QT_QTF से\PSP सुंदर\JJ पर्यटन\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd9931	भोमोरागुरी\N_NNP में\PSP एक\QT_QTC विशाल\JJ पत्थर\N_NN पर\PSP उकेरा\V_VM हुआ\V_VAUX शिलालेख\N_NN देखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9932	यहाँ\DM_DMD से\PSP 65\QT_QTC किलोमीटर\N_NN दूर\N_NN ओरंग\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP स्थित\N_NN है\V_VM जो\PR_PRL 72\QT_QTC वर्ग\N_NN किलोमीटर\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ,\RD_PUNC जहाँ\PR_PRL पूर्वोत्तर\JJ के\PSP मानसूनी\JJ मौसम\N_NN का\PSP पर्यटक\N_NN पूरा\QT_QTF फायदा\N_NN उठा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9933	1940\QT_QTC में\PSP वन्यजीव\JJ अभयारण्य\N_NN के\PSP तौर\N_NN पर\PSP घोषित\V_VM काजीरंगा\N_NNP पार्क\N_NNP एक\QT_QTC सींग\N_NN वाले\JJ गैंडे\N_NN के\PSP लिए\PSP प्रसिद्ध\N_NN है\V_VM ।\RD_PUNC
+htd9934	तीनों\QT_QTO एशियाई\JJ गैंडों\N_NN में\PSP यहाँ\DM_DMD पाया\V_VM जाने\V_VAUX वाला\JJ सब\QT_QTF से\PSP बड़ा\JJ गैंडा\N_NN देखने\V_VM के\PSP लिए\PSP पर्यटकों\N_NN की\PSP अच्छी-खासी\JJ भीड़\N_NN जुटती\V_VM है\V_VAUX ।\RD_PUNC
+htd9935	गुवाहाटी\N_NNP से\PSP 217\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP स्थित\N_NN यह\DM_DMD पार्क\N_NN जोरहाट\N_NNP हवाई\N_NNP अड्डे\N_NNP से\PSP 96\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd9936	इस\DM_DMD का\PSP नजदीकी\JJ रेलवे\JJ स्टेशन\N_NN फुरकटिंग\N_NNP है\V_VM ।\RD_PUNC
+htd9937	यहाँ\DM_DMD पर्यटन\N_NN के\PSP लिए\PSP सब\QT_QTF से\PSP उपयुक्‍त\JJ समय\N_NN नवंबर\N_NN से\PSP अप्रैल\N_NN का\PSP माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9938	पर्यटकों\N_NN के\PSP लिए\PSP यहाँ\DM_DMD रहने\V_VM के\PSP लिए\PSP वन\JJ विश्राम\JJ गृह\N_NN ,\RD_PUNC लॉज\N_NN ,\RD_PUNC होटल\N_NN उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd9939	काजीरंगा\N_NNP अभयारण्य\N_NNP को\PSP हाथी\N_NN पर\PSP सवार\N_NN हो\V_VM कर\V_VAUX देखा\V_VM जाता\V_VAUX है\V_VAUX साथ\CC_CCD ही\RP_RPD जीप\JJ सफारी\N_NN भी\RP_RPD उपलब्ध\N_NN हैं\V_VM जिन्हें\PR_PRL विभिन्न\QT_QTF लॉजों\N_NN द्वारा\PSP बुक\N_NN करवाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9940	680\QT_QTC मीटर\N_NN की\PSP ऊँचाई\JJ पर\PSP स्थित\N_NN हाफलांग\N_NNP गुवाहाटी\N_NNP से\PSP 345\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9941	यहाँ\DM_DMD बेहद\RP_INTF खूबसूरत\JJ हाफलांग\N_NNP झील\N_NNP है\V_VM ।\RD_PUNC
+htd9942	इस\DM_DMD झील\N_NN की\PSP खूबसूरती\N_NN के\PSP कारण\N_NN हाफलांग\N_NNP को\PSP असम\N_NNP का\PSP स्काट्लैंड\N_NNP कहा\V_VM जाता\V_VM है\V_VAUX ।\RD_PUNC
+htd9943	झील\N_NN में\PSP नौकाविहार\N_NN करना\V_VM पर्यटकों\N_NN को\PSP लुभाता\N_NN है\V_VM ।\RD_PUNC
+htd9944	इस\DM_DMD झील\N_NN के\PSP पास\N_NN ही\RP_RPD एक\QT_QTC गरम\JJ पानी\N_NN का\PSP सोता\N_NN है\V_VM जिस\PR_PRL का\PSP अपना\PR_PRF एक\QT_QTC अलग\JJ आकर्षण\N_NN है\V_VM ।\RD_PUNC
+htd9945	हाफलांग\N_NNP में\PSP पैराग्लाइडिंग\N_NN ,\RD_PUNC ग्लाइडिंग\N_NN और\CC_CCD ट्रैंकिग\N_NN की\PSP प्रमुख\JJ गतिविधियाँ\N_NN भी\RP_RPD चलाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9946	गंगटोक\N_NNP एक\QT_QTC ऐसा\CC_CCS शहर\N_NN है\V_VM जहाँ\PR_PRL सैलानी\N_NN पहाड़ों\N_NN की\PSP सदाएँ\N_NN सुन\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9947	सिक्किम\N_NNP की\PSP राजधानी\N_NN गंगटोक\N_NNP भारत\N_NNP में\PSP पूर्व\N_NN के\PSP प्रमुख\JJ पहाड़ी\JJ पर्यटन\JJ स्थलों\N_NN में\PSP एक\QT_QTC है\V_VM ।\RD_PUNC
+htd9948	गंगटोक\N_NNP में\PSP आप\PR_PRP प्रकृति\N_NN का\PSP हिस्सा\N_NN बन\V_VM सकते\V_VAUX हैं\V_VAUX और\CC_CCD बौद्ध\JJ मठों\N_NN से\PSP स्वयं\PR_PRF साक्षात्कार\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9949	फूलों\N_NN और\CC_CCD पक्षियों\N_NN की\PSP सर्वाधिक\QT_QTF किस्में\N_NN सिक्किम\N_NNP में\PSP ही\RP_RPD पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9950	ऑर्किड\N_NN की\PSP विश्‍व\N_NN भर\RP_RPD में\PSP पाई\V_VM जाने\V_VAUX वाली\JJ लगभग\JJ 5\QT_QTC हजार\N_NN प्रजातियों\N_NN में\PSP से\PSP अकेले\JJ सिक्किम\N_NNP में\PSP 650\QT_QTC से\PSP अधिक\QT_QTF प्रजातियाँ\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9951	भारत\N_NNP के\PSP पूर्वोत्‍तर\JJ में\PSP स्थित\N_NN मेघालय\N_NNP की\PSP राजधानी\N_NN शिलांग\N_NNP समुद्रतल\N_NN से\PSP 1,496\QT_QTC मीटर\N_NN की\PSP ऊँचाई\N_NN पर\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9952	शिलांग\N_NNP का\PSP मनोरम\JJ वातावरण\N_NN ,\RD_PUNC खूबसूरत\JJ नजारे\N_NN ,\RD_PUNC पर्वत\N_NN श्रृंखलाएँ\N_NN ,\RD_PUNC झरने\N_NN ,\RD_PUNC घाटियाँ\N_NN हरे-भरे\JJ मैदान\N_NN और\CC_CCD यहाँ\DM_DMD की\PSP परंपरागत\JJ संस्कृति\N_NN पर्यटकों\N_NN को\PSP बेहद\QT_QTF आकर्षित\N_NN करती\V_VM है\V_VAUX ।\RD_PUNC
+htd9953	मेघालय\N_NNP राज्य\N_NN की\PSP स्थापना\N_NN से\PSP पहले\QT_QTO तक\PSP यह\DM_DMD असम\N_NNP की\PSP राजधानी\N_NN था\V_VM ।\RD_PUNC
+htd9954	शिलांग\N_NNP का\PSP आधुनिक\JJ रूप\N_NN अंग्रेजों\N_NN की\PSP देन\N_NN है\V_VM ।\RD_PUNC
+htd9955	यह\DM_DMD घुमावदार\JJ पहाड़ों\N_NN ,\RD_PUNC खूबसूरत\JJ गिरजाघरों\N_NN ,\RD_PUNC मकानों\N_NN की\PSP शिल्पकला\N_NN और\CC_CCD सघन\N_NN चीड़\N_NN के\PSP वृक्षों\N_NN से\PSP एक\QT_QTC अद्‍भुत\JJ शहर\N_NN नजर\N_NN आता\V_VM है\V_VAUX ।\RD_PUNC
+htd9956	इस\DM_DMD शहर\N_NN में\PSP आधुनिकता\N_NN और\CC_CCD पारंपरिक\JJ संस्कृति\N_NN का\PSP मिलाजुला\N_NN रूप\N_NN देखने\V_VM को\PSP मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd9957	यहाँ\DM_DMD की\PSP ’\RD_PUNC खासी\N_NNP ’\RD_PUNC पहाड़ियों\N_NN में\PSP महिलाओं\N_NN की\PSP सामाजिक\JJ और\CC_CCD आर्थिक\JJ क्षेत्र\N_NN में\PSP भूमिका\N_NN देखी\V_VM जा\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9958	गुवाहाटी\N_NNP से\PSP शिलांग\N_NNP जाने\V_VM के\PSP रास्ते\N_NN में\PSP आप\PR_PRP को\PSP अनन्नास\N_NN व\CC_CCD केले\N_NN के\PSP घने\JJ झुरमुटों\N_NN के\PSP साए\N_NN दिखाई\V_VM देंगे\V_VAUX ।\RD_PUNC
+htd9959	मार्ग\N_NN की\PSP आधी\QT_QTF दूरी\N_NN पर\PSP नोंगपोह\N_NNP में\PSP रूक\V_VM कर\V_VAUX आप\PR_PRP सफर\N_NN की\PSP थकान\N_NN से\PSP तरोताजा\N_NN हो\V_VM कर\V_VAUX फिर\N_NN आगे\N_NN बढ़\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9960	शिलांग\N_NNP से\PSP 17\QT_QTC किलोमीटर\N_NN पहले\QT_QTO उमियाम\N_NNP में\PSP एक\QT_QTC झरने\N_NN पर\PSP हाइड्रो\JJ इलेक्ट्रिक\JJ बाँध\N_NN बनने\V_VM के\PSP बाद\N_NN एक\QT_QTC बड़ा\JJ तालाब\N_NN बन\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9961	हाल\N_NN के\PSP वर्षों\N_NN में\PSP यह\DM_DMD स्थान\N_NN पिकनिक\N_NN और\CC_CCD घूमने-फिरने\N_NN के\PSP लिए\PSP अब\N_NN काफी\JJ लोकप्रिय\N_NN है\V_VM ,\RD_PUNC जिसे\PR_PRL बड़ा\JJ पानी\N_NN के\PSP नाम\N_NN से\PSP लोग\N_NN जानते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9962	इस\DM_DMD का\PSP डिजाइन\N_NN प्रसिद्ध\JJ वास्तुविद्‍\N_NN चार्ल्स\N_NNP कोरियान\N_NNP ने\PSP तैयार\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd9963	शिलांग\N_NNP पहुँचते\V_VM ही\RP_RPD घुमावदार\JJ पहाड़ों\N_NN ,\RD_PUNC खूबसूरत\JJ गिरजाघरों\N_NN ,\RD_PUNC मकानों\N_NN की\PSP शिल्पकला\N_NN तथा\CC_CCD सघन\JJ चीड़\N_NN वृक्षों\N_NN से\PSP घिरा\V_VM एक\QT_QTC अद्‍भुत\JJ शहर\N_NN दिखाई\V_VM देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9964	शिलांग\N_NNP शहर\N_NN के\PSP बीचों-बीच\N_NN स्थित\N_NN वा्डर्स\N_NNP लेक\N_NNP एक\QT_QTC मनोरंजन\JJ पिकनिक\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd9965	यहाँ\DM_DMD नौका\N_NN विहार\N_NN का\PSP आनंद\N_NN लिया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9966	यहाँ\DM_DMD बने\V_VM लकड़ी\N_NN के\PSP पुलों\N_NN से\PSP आप\PR_PRP मछलियों\N_NN को\PSP चारा\N_NN भी\RP_RPD खिला\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9967	इस\DM_DMD के\PSP निकट\N_NN ही\RP_RPD बोटेनिकल\N_NN गार्डन\N_NN पेड़-पौधों\N_NN में\PSP रूचि\N_NN रखने\V_VM वालों\JJ के\PSP लिए\PSP दर्शनीय\JJ स्थान\N_NN है\V_VM ।\RD_PUNC
+htd9968	यह\DM_DMD गार्डन\N_NN झील\N_NN के\PSP किनारों\N_NN से\PSP नीचे\N_NN पहाड़ी\N_NN तक\PSP चला\V_VM गया\V_VAUX है\V_VAUX जहाँ\PR_PRL यह\DM_DMD गोल्फ\N_NN मैदान\N_NN से\PSP मिल\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9969	शिलांग\N_NNP की\PSP स्टेट\N_NNP सेंट्रल\N_NNP लाइब्रेरी\N_NNP में\PSP पाठकों\N_NN के\PSP लिए\PSP पुस्तकों\N_NN का\PSP खजाना\N_NN है\V_VM ।\RD_PUNC
+htd9970	यहाँ\DM_DMD स्थित\N_NN संग्रहालय\N_NN में\PSP इस\DM_DMD क्षेत्र\N_NN की\PSP विरासत\N_NN को\PSP संजो\V_VM कर\V_VAUX रखा\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9971	इस\DM_DMD क्षेत्र\N_NN में\PSP होने\V_VM वाले\RP_RPD पाऊप\N_NN और\CC_CCD राऊक\N_NN कंसर्ट\N_NN बहुत\N_NN प्रसिद्ध\JJ हैं\V_VM ,\RD_PUNC जिन\N_NN में\PSP ’\RD_PUNC खासी\N_NN ’\RD_PUNC और\CC_CCD अंग्रेजी\N_NN के\PSP गीत\N_NN गाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9972	शिलांग\N_NNP के\PSP तितली\N_NNP संग्रहालय\N_NNP में\PSP वाणिज्यिक\JJ उपयोग\N_NN के\PSP लिए\PSP अलग\JJ -\RD_PUNC अलग\JJ नस्ल\N_NN की\PSP तितलियाँ\N_NN पैदा\N_NN की\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd9973	तितली\N_NNP संग्रहालय\N_NNP में\PSP भारतीय\JJ और\CC_CCD विदेशी\JJ तितलियों\N_NN का\PSP अच्छा\JJ संग्रह\N_NN है\V_VM ।\RD_PUNC
+htd9974	इस\DM_DMD के\PSP पास\N_NN ही\RP_RPD लेडी\N_NNP हैदरी\N_NNP पार्क\N_NNP है\V_VM ,\RD_PUNC जहाँ\PR_PRL एक\QT_QTC छोटा\JJ प्राणी\JJ उद्यान\N_NN और\CC_CCD फूलों\N_NN की\PSP क्यारियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd9975	शिलांग\N_NNP का\PSP डान\N_NNP बिशप\N_NNP संग्रहालय\N_NNP पूर्वोत्तर\JJ की\PSP कलासंस्कृति\N_NN को\PSP दिखाने\V_VM वाला\JJ एक\QT_QTC अनूठा\JJ संग्रहालय\N_NN है\V_VM ।\RD_PUNC
+htd9976	यहाँ\DM_DMD आभूषणों\N_NN ,\RD_PUNC वस्त्रों\N_NN और\CC_CCD हथियारों\N_NN का\PSP संग्रह\N_NN एकसाथ\N_NN देखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9977	यह\DM_DMD संग्रहालय\N_NN सातमंजिला\JJ है\V_VAUX जिस\PR_PRL की\PSP सातों\QT_QTC मंजिलों\N_NN में\PSP अलग\JJ -\RD_PUNC अलग\JJ राज्यों\N_NN की\PSP संस्कृति\N_NN आसानी\JJ से\PSP दिखाई\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9978	शिलांग\N_NNP से\PSP चेरापूँजी\N_NNP नजदीक\JJ है\V_VM ,\RD_PUNC जो\PR_PRL सब\QT_QTF से\PSP अधिक\JJ वर्षा\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9979	इसलिए\CC_CCD पर्यटक\N_NN चेरापूँजी\N_NNP जाना\V_VM पसंद\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9980	चेरापूँजी\N_NNP में\PSP बंग्लादेश\N_NNP की\PSP सीमा\N_NN पर\PSP स्थित\N_NN नोहकालिकाई\N_NNP एक\QT_QTC सुंदर\JJ झरना\N_NN है\V_VM ।\RD_PUNC
+htd9981	शिलांग\N_NNP के\PSP आसपास\N_NN मनोहारी\JJ दृश्य\N_NN प्रदान\N_NN करने\V_VM वाले\JJ झरने\N_NN हैं\V_VM जिन्हें\PR_PRL देख\V_VM कर\V_VAUX पर्यटक\N_NN अपनी\PR_PRF यात्रा\N_NN सार्थक\N_NN समझते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9982	हैप्पी\N_NNP वैली\N_NNP के\PSP निकट\N_NN स्वीट\N_NNP फाल\N_NNP शिलांग\N_NNP के\PSP सब\QT_QTF से\PSP निकट\JJ पड़ने\V_VM वाल\JJ जलप्रपात\N_NN है\V_VM ।\RD_PUNC
+htd9983	यहाँ\DM_DMD पानी\N_NN की\PSP मोटी\JJ धारा\N_NN एक\QT_QTC गहरे\JJ तालाब\N_NN में\PSP गिरती\V_VM है\V_VAUX तो\CC_CCD उस\PR_PRP की\PSP गूँज\N_NN सारी\QT_QTF घाटी\N_NN में\PSP सुनाई\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd9984	स्वीट\N_NNP प्रपात\N_NNP की\PSP धारा\N_NN के\PSP साथ\RB -\RD_PUNC साथ\RB नीचे\N_NN तालाब\N_NN तक\PSP जाना\V_VM एक\QT_QTC सुखद\JJ अहसास\N_NN है\V_VM ।\RD_PUNC
+htd9985	इसके\PR_PRP अलावा\N_NN बिशप\N_NNP और\CC_CCD बीडन\N_NNP प्रपात\N_NNP तथा\CC_CCD शहर\N_NN से\PSP 12\QT_QTC किलोमीटर\N_NN दूर\N_NN शिलांग\N_NNP पीक\N_NNP से\PSP आगे\N_NN जा\V_VM कर\V_VAUX एलीफेंट\N_NNP प्रपात\N_NNP भी\RP_RPD प्रयटकों\N_NN को\PSP अपने\PR_PRF आकर्षण\N_NN में\PSP बाँधने\V_VM में\PSP कमी\QT_QTF नहीं\RP_NEG करते\V_VM ।\RD_PUNC
+htd9986	नोहकालिकाई\N_NNP झरना\N_NN के\PSP आगे\N_NN मोस्माई\N_NNP गुफाएँ\N_NNP कुदरत\N_NN का\PSP एक\QT_QTC खूबसूरत\JJ नजारा\N_NN दिखाती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd9987	गुफा\N_NN में\PSP पानी\N_NN के\PSP बहाव\V_VM ने\PSP पत्थरों\N_NN की\PSP बड़ी\JJ सुंदरता\N_NN से\PSP कटाई\N_NN की\V_VM है\V_VAUX ।\RD_PUNC
+htd9988	गुफा\N_NN में\PSP लगभग\JJ 500\QT_QTC -\RD_PUNC 600\QT_QTC मीटर\N_NN अंदर\N_NN जा\V_VM कर\V_VAUX दूसरी\QT_QTO ओर\N_NN से\PSP बाहर\N_NN निकलने\V_VM का\PSP रास्ता\N_NN मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd9989	मोस्माई\N_NNP गुफा\N_NNP से\PSP कुछ\QT_QTF ही\RP_RPD दूरी\N_NN पर\PSP सेवन\N_NNP सिस्टर\N_NNP फॉल्स\N_NNP हैं\V_VM ।\RD_PUNC
+htd9990	यह\DM_DMD झरनों\N_NN का\PSP समूह\N_NN पहाड़ों\N_NN की\PSP घाटी\N_NN के\PSP बीच\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd9991	इस\DM_DMD के\PSP दूसरी\N_NN ओर\N_NN बंग्लादेश\N_NNP का\PSP डेल्टा\N_NN साफ\JJ दिखाई\N_NN देता\N_NNP है\V_VM ।\RD_PUNC
+htd9992	इस\DM_DMD का\PSP अद्‍भुत\JJ प्रभाव\N_NN पर्यटकों\N_NN पर\PSP पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd9993	यहाँ\DM_DMD का\PSP सब\QT_QTF से\PSP नजदीकी\JJ रेलवे\N_NN स्टेशन\N_NN लखीमपुर\N_NNP (\RD_PUNC असम\N_NNP )\RD_PUNC है\V_VM ।\RD_PUNC
+htd9994	यह\DM_DMD ईटानगर\N_NNP से\PSP 60\QT_QTC किलोमीटर\N_NN और\CC_CCD नहरलागुन\N_NNP से\PSP 50\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9995	साइट\N_NN सीन\N_NN देखने\V_VM के\PSP लिए\PSP टूरिस्ट\N_NN डीलक्स\JJ बस\N_NN ,\RD_PUNC डायरेक्टरेट\N_NNP डिपार्टमेंट\N_NNP आफ\N_NNP टूरिज्म\N_NNP ,\RD_PUNC गवर्नमेंट\N_NNP आफ\N_NNP अरुणाचल\N_NNP प्रदेश\N_NNP नहरलागुन\N_NNP से\PSP मिलती\V_VM है\V_VAUX ।\RD_PUNC
+htd9996	असम\N_NNP का\PSP लीलाबाड़ी\N_NNP एअरपोर्ट\N_NNP ईटानगर\N_NNP से\PSP 67\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd9997	यहाँ\DM_DMD की\PSP जलवायु\N_NN में\PSP नमी\N_NN बहुत\QT_QTF है\V_VM ।\RD_PUNC
+htd9998	फिर\CC_CCD भी\RP_RPD यहाँ\DM_DMD का\PSP वातावरण\N_NN बेहद\RP_INTF अच्छा\JJ है\V_VM ।\RD_PUNC
+htd9999	गर्मियों\N_NN में\PSP यहाँ\DM_DMD चलने\V_VM वाली\JJ मंद\JJ हवा\N_NN सारे\QT_QTF क्षेत्र\N_NN को\PSP ठंडा\JJ रखती\V_VM है\V_VAUX ।\RD_PUNC

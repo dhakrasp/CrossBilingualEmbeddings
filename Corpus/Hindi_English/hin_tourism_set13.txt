@@ -1,0 +1,1001 @@
+ID	Value
+htd12001	गोरनगोरो\N_NNP नेशनल\N_NNP पार्क\N_NNP से\PSP लौटती\N_NN बार\N_NN हमारा\PR_PRP कार्यक्रम\N_NN प्रसिद्ध\JJ लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP देखने\V_VM का\PSP था\V_VAUX ।\RD_PUNC
+htd12002	इससे\DM_DMD पूर्व\N_NST गोरनगोरो\N_NNP संरक्षित\JJ क्षेत्र\N_NN में\PSP स्थित\N_NN पुरातत्त्व\JJ की\PSP दृष्‍टि\N_NN से\PSP विश्‍व\N_NNP के\PSP सर्वाधिक\RB महत्त्वपूर्ण\JJ स्थलों\N_NN में\PSP से\PSP ओल्दूवाई\N_NNP घाटी\N_NNP को\PSP देखने\N_NN का\PSP लोभ\N_NN हम\PR_PRP संवरण\N_NN न\RP_NEG कर\V_VM सके\V_VAUX ।\RD_PUNC
+htd12003	ओल्दूवाई\N_NNP घाटी\N_NNP में\PSP मानव\N_NN के\PSP लगभग\QT_QTF 1,75,0000\QT_QTC वर्ष\N_NN पुराने\JJ पूर्वज\N_NN की\PSP खोपड़ी\N_NN मिली\V_VM थी\V_VAUX जिसका\PR_PRL श्रेय\N_NN डॉ.\N_NNP लीके\N_NNP को\PSP है\V_VM ।\RD_PUNC
+htd12004	डॉ.\N_NNP लीके\N_NNP की\PSP पुरातत्त्विक\JJ खोजों\N_NN की\PSP विश्‍वभर\N_NN में\PSP ख्याति\V_VM है\V_VAUX ।\RD_PUNC
+htd12005	वह\PR_PRP खोपड़ी\N_NN आजकल\N_NN दारेस्सलाम\N_NNP के\PSP राष्‍ट्रीय\N_NNP संग्रहालय\N_NNP में\PSP संग्रहीत\V_VM है\V_VAUX ।\RD_PUNC
+htd12006	इसी\DM_DMD क्षेत्र\N_NN में\PSP वर्षों\N_NN पूर्व\N_NN विलुप्‍त\N_NN हुए\N_NN पशुओं\N_NN के\PSP खोजे\V_VM गए\V_VAUX जीवाष्मीय\N_NN अवशेष\N_NN ओल्दूवाई\N_NNP घाटी\N_NNP के\PSP निकट\N_NST बने\N_NN संग्रहालय\N_NN में\PSP संग्रहीत\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12007	यह\DM_DMD संग्रहालय\N_NN देखकर\N_NN हम\PR_PRP लाखों\N_NN वर्ष\N_NN पूर्व\N_NST वातावरण\N_NN में\PSP डूबने\V_VM लगे\V_VAUX ।\RD_PUNC
+htd12008	जीवाष्मों\N_NN को\PSP देखने\N_NN का\PSP हम\PR_PRP सभी\QT_QTF ने\PSP भरपूर\N_NN आनंद\V_VM लिया\V_VAUX ।\RD_PUNC
+htd12009	अब\N_NN हमें\PR_PRP लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP प्रविष्‍टि\N_NN की\PSP चिंता\N_NN सताने\V_VM लगी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12010	दिन\N_NN ढल\V_VM रहा\V_VAUX था\V_VAUX और\CC_CCD समय\N_NN कम\JJ था\V_VM ।\RD_PUNC
+htd12011	फिर\CC_CCS भी\RP_RPD लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP का\PSP अवलोकन\N_NN करने\N_NN की\PSP इच्छा\N_NN बलवती\V_VM हो\V_VAUX रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12012	गोरनगोरो\N_NNP पार्क\N_NNP से\PSP 19\QT_QTC किलोमीटर\QT_QTF नीचे\N_NST की\PSP तरफ\N_NN होने\N_NN के\PSP कारण\N_NN मनयारा\N_NNP पार्क\N_NNP को\PSP देखने\N_NN का\PSP सुअवसर\N_NN हम\PR_PRP निश्‍चित\V_VAUX तौर\N_NN पर\PSP नहीं\RP_NEG गँवाना\V_VM चाहते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12013	अभी\N_NN अंतिम\JJ प्रविष्‍टि\N_NN में\PSP आधा\QT_QTF घंटा\QT_QTF शेष\N_NN था\V_VM ।\RD_PUNC
+htd12014	हम\PR_PRP समय\N_NN रहते\N_NN ड्राइवर\N_NN की\PSP कृपा\N_NN से\PSP लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP पहुँच\V_VM गए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12015	जैसे\DM_DMR ही\RP_RPD जीप\N_NN ने\PSP लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP प्रवेश\V_VM किया\V_VAUX हमने\PR_PRP राहत\N_NN की\PSP साँस\V_VM ली\V_VAUX ।\RD_PUNC
+htd12016	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP ’\N_NN आरूशा\N_NNP ’\N_NN के\PSP दक्षिण\N_NST पश्‍चिम\N_NST में\PSP लगभग\QT_QTF 120\QT_QTC कि.मी.\QT_QTF दूर\N_NST स्थित\N_NN है\V_VM ।\RD_PUNC
+htd12017	यहाँ\DM_DMD से\PSP विशाल\JJ रिफ्ट\N_NNP वैली\N_NNP की\PSP 305\QT_QTC मीटर\QT_QTF ऊँची\JJ पश्‍चिमी\N_NST दीवार\N_NN का\PSP सुंदर\JJ नजारा\N_NN देखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12018	वास्तव\CC_CCS में\PSP विशाल\JJ रिफ्ट\N_NNP वैली\N_NNP ,\RD_PUNC पृथ्वी\N_NNP की\PSP ऊपरी\N_NST सतहों\N_NN में\PSP आए\N_NN अपभ्रंश\N_NN का\PSP वह\PR_PRP भाग\N_NN है\V_VM जो\PR_PRL टर्की\N_NNP से\PSP कीनिया\N_NNP तक\PSP विस्तृत\JJ क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12019	यह\DM_DMD अपभ्रंश\N_NN कीनिया\N_NNP में\PSP पूर्वी\N_NST व\CC_CCD पश्‍चिमी\N_NST भाग\N_NN में\PSP विभक्‍त\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12020	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP पूर्वी\N_NST भाग\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd12021	मनयारा\N_NNP शब्द\N_NN की\PSP उत्पत्ति\V_VM ’\N_NN यूफोरबिया\N_NNP तिरूरविया\N_NNP तिरूक्काली\N_NNP ’\N_NN नामक\N_NN पौधे\N_NN से\PSP मानी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12022	इस\DM_DMD पौधे\N_NN का\PSP प्रयोग\N_NN मसाई\N_NNP जनजाति\N_NNP के\PSP लोग\N_NN अपने\PR_PRF घरों\N_NN के\PSP चारों\N_NST तरफ\N_NST बाड़\N_NN बनाने\N_NN के\PSP लिए\PSP इस्तेमाल\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12023	कभी\PR_PRI मनयारा\N_NNP व्यावसायिक\JJ शिकारियों\N_NN की\PSP मनपसंद\JJ शिकारगाह\N_NN थी\V_VM ,\RD_PUNC परंतु\CC_CCS अब\N_NN यह\DM_DMD एक\QT_QTC सुंदर\JJ नेशनल\N_NN पार्क\N_NN में\PSP परिणत\V_VM हो\V_VAUX चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12024	यद्यपि\CC_CCS क्षेत्रफल\N_NN की\PSP दृष्‍टि\N_NN से\PSP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP मात्र\N_NN 324\QT_QTC वर्ग\QT_QTF किलोमीटर\QT_QTF में\PSP फैला\V_VM हुआ\V_VAUX है\V_VAUX लेकिन\CC_CCS यहाँ\DM_DMD की\PSP वैविध्यपूर्ण\JJ वन्य\JJ संपदा\N_NN अपना\PR_PRF अलग\N_NN ही\RP_RPD वैशिष्‍ट्य\V_VM रखती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12025	लगभग\QT_QTF 229\QT_QTC वर्गमीटर\QT_QTF क्षेत्र\N_NN में\PSP मनयारा\N_NNP झील\N_NN फैली\V_VM है\V_VAUX ।\RD_PUNC
+htd12026	मनयारा\N_NNP झील\N_NNP के\PSP किनारों\N_NST पर\PSP घने\JJ जंगल\N_NN हैं\V_VM ।\RD_PUNC
+htd12027	हम\PR_PRP कम\JJ समय\N_NN में\PSP अधिक\JJ से\PSP अधिक\JJ देख\V_VM लेना\V_VAUX चाहते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12028	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP सबसे\RB पहले\N_NST हमें\PR_PRP जंगली\JJ सुअर\N_NN व\CC_CCD जंगली\JJ बिलाव\N_NN दिखाई\V_VM दिए\V_VAUX ।\RD_PUNC
+htd12029	सुअरों\N_NN के\PSP लंबे\JJ दाँत\N_NN उन्हें\DM_DMD भयानक\N_NN बना\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12030	सुअरों\N_NN के\PSP दाँतों\N_NN में\PSP ही\RP_RPD इनकी\DM_DMD शक्‍ति\N_NN निहित\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12031	सुअर\N_NN इन\DM_DMD दाँतों\N_NN के\PSP सहारे\N_NN कई\PR_PRI अवसरों\N_NN पर\PSP शेर\N_NN से\PSP भी\RP_RPD टक्कर\N_NN लेने\N_NN की\PSP हिम्मत\N_NN जुटा\V_VM लेते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12032	मनयारा\N_NNP झील\N_NNP में\PSP पड़े\N_NN सैकड़ों\QT_QTF दरियाई\N_NN घोड़ों\N_NN को\PSP देखकर\V_VM हम\PR_PRP मंत्रमुग्ध\V_VM हो\V_VAUX गए\V_VAUX ।\RD_PUNC
+htd12033	कुछ\PR_PRI दरियाई\N_NN घोड़े\N_NN मनयारा\N_NNP झील\N_NNP के\PSP बाहर\N_NST भी\RP_RPD चहलकदमी\V_VM कर\V_VAUX रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12034	मनयारा\N_NNP पार्क\N_NNP में\PSP कुछ\PR_PRI ही\RP_RPD दूर\N_NST चलने\V_VM के\PSP बाद\N_NST झाड़ियों\N_NN में\PSP घूम\V_VM रहे\V_VAUX हाथियों\N_NN के\PSP झुंड\N_NN से\PSP सामना\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12035	मनयारा\N_NNP पार्क\N_NNP में\PSP तभी\CC_CCS एकाएक\N_NN बैबूनों\N_NN पर\PSP हमारी\PR_PRP नजर\V_VM पड़ी\V_VAUX ।\RD_PUNC
+htd12036	लेक\N_NNP मनयारा\N_NNP पार्क\N_NNP में\PSP बैबून\N_NN बहुतयात\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd12037	स्वाहिली\N_NNP में\PSP बैबूनों\N_NN को\PSP ’\N_NN न्यायी\JJ ’\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12038	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP की\PSP भौगोलिक\JJ स्थिति\N_NN के\PSP कारण\N_NN यहाँ\DM_DMD दो\QT_QTC प्रकार\N_NN की\PSP बैबून\N_NN प्रजातियाँ\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12039	पीले\JJ बैबून\N_NN तंजानिया\N_NNP के\PSP दक्षिण\N_NST पूर्व\N_NST व\CC_CCD जैतूनी\JJ बैबून\N_NN उत्‍तर\N_NST पश्‍चिम\N_NST में\PSP हैं\V_VM ।\RD_PUNC
+htd12040	लेक\N_NNP मनयारा\N_NNP पार्क\N_NNP में\PSP ऐसे\DM_DMR वर्णसंकर\JJ बैबून\N_NN मौजूद\V_VM हैं\V_VAUX जिनमें\DM_DMR उपरोक्‍त\N_NN दोनों\QT_QTO प्रजातियों\N_NN की\PSP खूबियाँ\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12041	कुछ\PR_PRI बैबूनों\N_NN को\PSP पेड़\N_NN पर\PSP ऊँची\JJ डालियों\N_NN पर\PSP चौकन्ने\JJ बैठे\N_NN देखकर\N_NN हमें\PR_PRP आश्‍चर्य\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12042	हमें\PR_PRP बताया\V_VM गया\V_VAUX कि\CC_CCD खतरा\N_NN भाँप\V_VM कर\V_VAUX बैबून\N_NN ऐसा\DM_DMR करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12043	खतरा\N_NN टलने\N_NN पर\PSP बैबून\N_NN पेड़\N_NN से\PSP नीचे\N_NST उतर\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12044	मनयारा\N_NNP पार्क\N_NNP में\PSP ये\DM_DMD बैबून\N_NN ,\RD_PUNC पेड़ों\N_NN पर\PSP सो\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12045	सोने\N_NN के\PSP लिए\PSP बैबून\N_NN अपने\PR_PRF मनपसंद\JJ पेड़\N_NN का\PSP चयन\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12046	अब\N_NN हम\PR_PRP उत्सुक\V_VM थे\V_VAUX मनयारा\N_NNP पार्क\N_NNP के\PSP पेड़ों\N_NN पर\PSP विश्राम\N_NN करते\N_NN शेरों\N_NN को\PSP देखने\V_VM के\V_VAUX लिए\V_VAUX ।\RD_PUNC
+htd12047	मैंने\PR_PRP पढ़ा\V_VM था\V_VAUX प्रसिद्ध\JJ ’\N_NN सेंरेगेटी\N_NNP नेशनल\N_NNP पार्क\N_NNP ’\N_NN की\PSP तरह\N_NN लेक\N_NNP मनयारा\N_NNP में\PSP भी\RP_RPD शेरों\N_NN व\CC_CCD चीतों\N_NN को\PSP पेड़ों\N_NN पर\PSP विश्राम\N_NN करने\N_NN की\PSP अनोखी\JJ आदत\N_NN है\V_VM जो\PR_PRL विश्‍व\N_NNP में\PSP अन्यत्र\N_NN किसी\PR_PRQ नेशनल\N_NN पार्क\N_NN में\PSP नहीं\RP_NEG पाई\V_VM जाती\V_VAUX ।\RD_PUNC
+htd12048	ਖ\RD_SYM
+htd12049	शेरों\N_NN की\PSP इस\DM_DMD आदत\N_NN के\PSP पीछे\N_NST कई\PR_PRI अवधारणाएँ\N_NN हैं\V_VM ,\RD_PUNC मक्खियों\N_NN से\PSP बचना\N_NN ,\RD_PUNC हवा\N_NN का\PSP आनंद\N_NN लेना\N_NN ,\RD_PUNC जेब्रों\N_NN या\CC_CCD भैसों\N_NN के\PSP गुजरते\N_NN झुंडों\N_NN की\PSP टोह\N_NN लेना\N_NN ,\RD_PUNC हाथियों\N_NN के\PSP झुंडों\N_NN से\PSP बचना\N_NN इसके\DM_DMD कुछ\PR_PRI कारण\N_NN गिनाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12050	पूर्वी\N_NST अफ्रीका\N_NNP के\PSP ’\N_NN कतिपय\N_NNP नेशनल\N_NNP पार्कों\N_NNP में\PSP पेड़ों\N_NN पर\PSP विश्राम\N_NN करने\N_NN की\PSP शेरों\N_NN की\PSP विचित्र\JJ आदत\N_NN के\PSP बारे\N_NN में\PSP सोच\V_VM ही\V_VAUX रहा\V_VAUX था\V_VAUX कि\CC_CCD ड्राइवर\N_NN ने\PSP एकाएक\N_NN जीप\N_NN रोककर\N_NN हमें\PR_PRP एक\QT_QTC पेड़\N_NN की\PSP ओर\N_NST इशारा\V_VM किया\V_VAUX ।\RD_PUNC
+htd12051	दो\QT_QTC लंबी\JJ -\RD_PUNC लंबी\RD_ECH पूँछों\N_NN को\PSP लटकते\N_NN देख\N_NN हमारे\PR_PRP आश्‍चर्य\N_NN का\PSP ठिकाना\V_VM न\RP_NEG रहा\V_VAUX ।\RD_PUNC
+htd12052	हमने\PR_PRP ऊपर\N_NST की\PSP ओर\N_NST गर्दन\N_NN घुमाई\N_NN तो\RP_RPD दो\QT_QTC विशालकाय\JJ शेरों\N_NN को\PSP पेड़\N_NN पर\PSP आराम\V_VM फरमाते\V_VAUX पाया\V_VAUX ।\RD_PUNC
+htd12053	दम\N_NN साधे\N_NN हम\PR_PRP कुछ\PR_PRI देर\N_NN तक\PSP इस\DM_DMD सुंदर\JJ एवं\CC_CCD रोमांचक\JJ दृश्य\N_NN का\PSP भरपूर\JJ आनंद\V_VM उठाते\V_VAUX रहे\V_VAUX ।\RD_PUNC
+htd12054	कई\PR_PRI जगह\N_NN पड़ी\N_NN खोपड़ियाँ\N_NN ,\RD_PUNC सींग\N_NN व\CC_CCD अस्थि\N_NN -\RD_PUNC पिंजर\N_NN देखकर\N_NN हमें\PR_PRP विस्मय\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12055	ये\DM_DMD हड्‍डियाँ\N_NN उन\PR_PRP जंगली\JJ जानवरों\N_NN की\PSP रही\V_VM होंगी\V_VAUX जो\PR_PRL शेरों\N_NN व\CC_CCD चीतों\N_NN का\PSP ग्रास\N_NN बने\V_VM होंगे\V_VAUX ।\RD_PUNC
+htd12056	मनयारा\N_NNP पार्क\N_NNP में\PSP शेर\N_NN अधिकांशतः\N_NN भोजन\N_NN के\PSP लिए\PSP भैसों\N_NN ,\RD_PUNC जेब्रों\N_NN व\CC_CCD वाइल्ड\JJ बीस्ट\N_NN का\PSP शिकार\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12057	मनयारा\N_NNP पार्क\N_NNP में\PSP शेर\N_NN अधिकांशत\JJ भोजन\N_NN के\PSP लिए\PSP भैंसों\N_NN ,\RD_PUNC जेब्रों\N_NN व\CC_CCD वाइल्ड\JJ बीस्टस\N_NN का\PSP शिकार\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12058	मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP भी\RP_RPD पूर्वी\N_NST अफ्रीका\N_NNP के\PSP अन्य\N_NN पार्कों\N_NN की\PSP भाँति\N_NN कई\PR_PRI स्थानों\N_NN पर\PSP दीमकों\N_NN के\PSP बड़े\JJ -\RD_PUNC बड़े\RD_ECH मिट्‍टी\N_NN के\PSP टीलेनुमा\N_NN घर\N_NN दिखाई\V_VM दिए\V_VAUX ।\RD_PUNC
+htd12059	कई\PR_PRI क्षेत्रों\N_NN में\PSP इन\DM_DMD दीमकों\N_NN को\PSP भूरी\JJ चींटी\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12060	लेकिन\CC_CCS मनयारा\N_NNP पार्क\N_NNP के\PSP ये\DM_DMD दीमक\N_NN न\RP_NEG तो\RP_RPD भूरे\JJ हैं\V_VM और\CC_CCD न\RP_NEG ही\RP_RPD चीटियाँ\N_NN ।\RD_PUNC
+htd12061	ये\DM_DMD दीमक\N_NN तो\RP_RPD कॉक्रोच\N_NN से\PSP किसी\PR_PRI न\RP_NEG किसी\PR_PRI स्तर\N_NN पर\PSP जुड़ी\N_NN कीटों\N_NN की\PSP एक\QT_QTC आदिम\JJ प्रजाति\N_NN हैं\V_VM ।\RD_PUNC
+htd12062	स्वाहिली\N_NNP में\PSP दीमकों\N_NN को\PSP मछवा\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12063	मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP की\PSP समृद्ध\JJ वन्य\N_NN पशु\N_NN संपदा\N_NN के\PSP दर्शन\N_NN करते\N_NN -\RD_PUNC करते\RD_ECH हम\PR_PRP मसासा\N_NNP व\CC_CCD केम\N_NNP नदियों\N_NN के\PSP बीच\N_NST के\PSP घासीले\JJ मैदान\N_NN में\PSP जा\V_VM पहुँचे\V_VAUX ।\RD_PUNC
+htd12064	इस\DM_DMD घासीले\JJ मैदान\N_NN में\PSP हमें\PR_PRP पुन:\N_NN जेब्रों\N_NN को\PSP देखने\N_NN का\PSP अवसर\N_NN सुलभ\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12065	सफेद\JJ शरीर\N_NN पर\PSP काली\JJ धारियों\N_NN वाले\N_NN शर्मीले\JJ प्राणी\N_NN जेब्रा\N_NN को\PSP स्वाहिली\N_NNP में\PSP पुंडा\N_NNP मिलिया\N_NNP (\RD_PUNC धारी\N_NN वाला\N_NN गधा\N_NN )\RD_PUNC कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12066	इसमें\DM_DMD संदेह\N_NN नहीं\RP_NEG कि\PSP देखने\N_NN से\PSP कहीं\PR_PRI न\RP_NEG कहीं\PR_PRI जेब्रा\N_NN की\PSP गधे\N_NN से\PSP साम्यता\N_NN प्रतीत\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12067	जेब्रा\N_NN अक्सर\N_NN शेरों\N_NN के\PSP शिकार\V_VM बनते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12068	शेरों\N_NN को\PSP जेब्रा\N_NN का\PSP मांस\N_NN सर्वाधिक\JJ प्रिय\N_NN है\V_VM ।\RD_PUNC
+htd12069	सामान्यतया\N_NN जेब्रा\N_NN 12\QT_QTC वर्षों\N_NN तक\PSP जीवित\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12070	वन्य\JJ जीव\N_NN वैज्ञानियों\N_NN के\PSP अनुसार\N_NN जेब्रा\N_NN की\PSP आयु\N_NN 30\QT_QTC वर्ष\N_NN भी\RP_RPD हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12071	पूर्वी\N_NST अफ्रीका\N_NNP का\PSP गौरव\V_VM हैं\V_VAUX जेब्रा\N_NN ।\RD_PUNC
+htd12072	उत्‍तेजित\N_NN होने\N_NN पर\PSP जेब्रा\N_NN भौंकने\N_NN की\PSP सी\N_NN आवाज\N_NN पैदा\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12073	मनयारा\N_NNP में\PSP पाए\N_NN जाने\N_NN वाले\N_NN जेब्रा\N_NN बुर्चेल\N_NN द्वारा\N_NN परिभाषित\N_NN ’\N_NN इक्वस\N_NNP बुर्चेली\N_NNP ’\N_NN प्रजाति\N_NN के\PSP हैं\V_VM ।\RD_PUNC
+htd12074	हाथी\N_NN यूँ\CC_CCS तो\RP_RPD लगभग\QT_QTF पार्क\N_NN में\PSP अनेक\N_NN स्थानों\N_NN पर\PSP मिलते\V_VM हैं\V_VAUX ,\RD_PUNC लेकिन\CC_CCS घुमंतु\JJ जीव\N_NN होने\N_NN के\PSP कारण\N_NN निकटवर्ती\N_NST ’नडाला\N_NNP नदी\N_NNP क्षेत्र’\N_NN के\PSP जंगलों\N_NN में\PSP भी\RP_RPD चले\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12075	नडाला\N_NNP नदी\N_NNP क्षेत्र\N_NN ,\RD_PUNC जहाँ\PR_PRL हाथी\N_NN शोध\N_NN कैंप\N_NN स्थित\N_NN है\V_VM ।\RD_PUNC
+htd12076	हाथी\N_NN मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP की\PSP विपुल\JJ वन्य\N_NN संपदा\N_NN का\PSP अहम\JJ भाग\N_NN हैं\V_VM ।\RD_PUNC
+htd12077	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP घूमते\N_NN हुए\N_NN हाथियों\N_NN के\PSP एक\QT_QTC झुंड\N_NN से\PSP हमारा\PR_PRP सामना\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12078	बच्चों\N_NN को\PSP हाथियों\N_NN के\PSP झुंड\N_NN के\PSP साथ\N_NN चलते\N_NN दो\QT_QTC अति\RP_INTF नन्हें\JJ हाथी\N_NN शावकों\N_NN को\PSP देखकर\N_NN बड़ा\JJ मजा\V_VM आया\V_VAUX ।\RD_PUNC
+htd12079	जन्म\N_NN के\PSP समय\N_NN हाथियों\N_NN की\PSP ऊँचाई\N_NN मात्र\N_NN 80\QT_QTC से.मी.\QT_QTF होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12080	वे\DM_DMD दो\QT_QTC नन्हें\JJ हाथी\N_NN लगभग\QT_QTF 1\QT_QTC मीटर\QT_QTF ऊँचे\JJ रहे\V_VM होंगे\V_VAUX ।\RD_PUNC
+htd12081	मात्र\N_NN कुछ\PR_PRI माह\N_NN रही\V_VM होगी\V_VAUX उन\PR_PRP नन्हें\JJ हाथियों\N_NN की\PSP आयु\N_NN ।\RD_PUNC
+htd12082	हाथी\N_NN अपने\PR_PRF बच्चों\N_NN को\PSP शेरों\N_NN व\CC_CCD अन्य\N_NN जानवरों\N_NN से\PSP बचाने\N_NN के\PSP लिए\PSP उन्हें\DM_DMD अपने\PR_PRF बीचों\N_NST -\RD_PUNC बीच\RD_ECH रखते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12083	अफ्रीकी\JJ हाथी\N_NN (\RD_PUNC लेक्सोडोंटा\N_NN अफ्रीकाना\N_NN )\RD_PUNC जिसे\PR_PRL स्वाहिली\N_NNP में\PSP ’\N_NN टेंबो\N_NN सा\N_NN डोवू\N_NN ’\N_NN कहते\V_VM हैं\V_VAUX एशियाई\JJ हाथी\N_NN से\PSP थोड़ा\QT_QTF बड़ा\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12084	अफ्रीकी\JJ हाथी\N_NN के\PSP कान\N_NN भी\RP_RPD बड़े\JJ होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12085	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP लगभग\QT_QTF 400\QT_QTC से\PSP भी\RP_RPD अधिक\JJ हाथियों\N_NN की\PSP आश्रयस्थली\V_VM है\V_VAUX ।\RD_PUNC
+htd12086	पार्क\N_NN में\PSP थोड़ी\QT_QTF दूर\N_NST चले\V_VM ही\RP_RPD थे\V_VAUX कि\CC_CCD झाड़ियों\N_NN से\PSP निकलकर\N_NN तीन\QT_QTC चार\QT_QTC हाथी\N_NN सामने\N_NN आ\V_VM खड़े\V_VAUX हुए\V_VAUX ।\RD_PUNC
+htd12087	जीप\N_NN रोक\V_VM देनी\V_VAUX पड़ी\V_VAUX लेकिन\CC_CCD इंजन\N_NN चालू\V_VM रखा\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd12088	ड्राइवर\N_NN ने\PSP बताया\V_VM हमें\PR_PRP तबतक\DM_DMR रुकना\V_VM होगा\V_VAUX जबतक\DM_DMR स्वेच्छा\N_NN से\PSP हाथी\N_NN यहाँ\DM_DMD से\PSP चले\V_VM नहीं\RP_NEG जाएँगे\V_VAUX ।\RD_PUNC
+htd12089	हम\PR_PRP मुश्‍किल\N_NN में\PSP पड़\V_VM गए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12090	शाम\N_NN गहराने\JJ लगी\V_VM थी\V_VAUX ।\RD_PUNC
+htd12091	पक्षियों\N_NN का\PSP कलरव\N_NN बढ़\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12092	पक्षी\N_NN अपने\PR_PRF घोंसलों\N_NN की\PSP ओर\N_NST लौट\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12093	सौभाग्य\N_NN से\PSP कुछ\PR_PRI ही\RP_RPD देर\N_NN बाद\N_NST हाथियों\N_NN ने\PSP मस्तानी\JJ चाल\N_NN से\PSP चलते\N_NN हुए\N_NN रास्ता\N_NN छोड़\V_VM दिया\V_VAUX ।\RD_PUNC
+htd12094	एक\QT_QTC हाथी\N_NN ने\PSP जोर\N_NN से\PSP चिंघाड़\V_VM मारी\V_VAUX ।\RD_PUNC
+htd12095	हाथियों\N_NN के\PSP बारे\N_NN में\PSP कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCD विशेष\N_NN प्रकार\N_NN की\PSP आवाजें\N_NN निकालकर\N_NN ये\DM_DMD मीलों\N_NN दूर\N_NST बैठे\N_NN अन्य\N_NN साथी\N_NN हाथियों\N_NN से\PSP संपर्क\V_VM साध\V_VAUX लेते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12096	आजकल\N_NN हाथियों\N_NN की\PSP आवाजों\N_NN पर\PSP शोध\V_VM हो\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12097	कई\PR_PRI बार\N_NN मादा\JJ हाथी\N_NN से\PSP संपर्क\N_NN बढ़ाने\N_NN को\PSP लेकर\N_NN नर\N_NN हाथियों\N_NN में\PSP धींगा\N_NN मुश्‍ती\N_NN भी\RP_RPD हो\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12098	हम\PR_PRP चुपचाप\N_NN झाड़ियों\N_NN में\PSP ओझल\N_NN होते\N_NN हाथियों\N_NN को\PSP देखते\V_VM रहे\V_VAUX ।\RD_PUNC
+htd12099	’\N_NN बागायो\N_NNP नदी\N_NNP क्षेत्र\N_NNP ’\N_NN के\PSP पास\N_NST पहुँचे\V_VM ही\RP_RPD थे\V_VAUX कि\CC_CCD हमें\PR_PRP काले\JJ गैंडे\N_NN (\RD_PUNC डाइसेरोस\N_NN बाइकोर्निस\N_NN )\RD_PUNC को\PSP देखने\N_NN का\PSP सुअवसर\N_NN प्राप्‍त\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12100	स्वाहिली\N_NNP भाषा\N_NNP में\PSP ’\N_NN किफारू\N_NNP ’\N_NN के\PSP नाम\N_NN से\PSP जाना\N_NN जाने\N_NN वाला\N_NN काला\JJ गैंडा\N_NN बागायो\N_NNP नदी\N_NNP क्षेत्र\N_NN में\PSP ही\RP_RPD नहीं\RP_NEG अपितु\N_NN पार्क\N_NN के\PSP अन्य\N_NN क्षेत्रों\N_NN में\PSP भी\RP_RPD पाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12101	दो\QT_QTC टन\N_NN वजनी\N_NN काला\JJ गैंडा\N_NN किसी\PR_PRI भी\RP_RPD समय\N_NN हिंसक\JJ हो\V_VM उठता\V_VAUX है\V_VAUX और\CC_CCD वाहनों\N_NN पर\PSP हमला\V_VM कर\N_NN उन्हें\DM_DMD नुकसान\N_NN पहुँचाने\N_NN से\PSP भी\RP_RPD गुरेज\V_VM नहीं\RP_NEG करता\V_VAUX ।\RD_PUNC
+htd12102	काले\JJ गैंडे\N_NN की\PSP श्रवण\N_NN व\CC_CCD घ्राण\N_NN शक्‍ति\N_NN तीव्र\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12103	लेकिन\CC_CCS काले\JJ गैंडे\N_NN की\PSP नेत्रदृष्‍टि\N_NN उतनी\N_NN ही\RP_RPD कमजोर\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12104	एक\QT_QTC पूर्ण\N_NN विकसित\JJ गैंडे\N_NN से\PSP जंगल\N_NN का\PSP राजा\N_NN शेर\N_NN भी\RP_RPD बचकर\N_NN निकलने\N_NN में\PSP भलाई\N_NN समझता\V_VM है\V_VAUX ।\RD_PUNC
+htd12105	सफेद\JJ गैंडे\N_NN जो\PR_PRL उत्‍तरी\N_NST पश्‍चिमी\N_NST उगांडा\N_NNP व\CC_CCD दक्षिणी\N_NST सूडान\N_NNP में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ,\RD_PUNC लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP नहीं\RP_NEG हैं\V_VM ।\RD_PUNC
+htd12106	नाम\N_NN से\PSP फ़र्क\N_NN भले\N_NN ही\RP_RPD झलकता\V_VM हो\V_VAUX ,\RD_PUNC लेकिन\CC_CCS कमोवेश\N_NN दोनों\N_NN प्रजातियों\N_NN के\PSP गैंडों\N_NN का\PSP रंग\N_NN भूरा\JJ मटमैला\JJ सा\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12107	सफेद\JJ गैंडे\N_NN का\PSP मुँह\N_NN घास\N_NN चरने\N_NN के\PSP अधिक\N_NN उपयुक्‍त\N_NN चौकोर\N_NN सा\N_NN होता\V_VM है\V_VAUX ,\RD_PUNC जबकि\CC_CCS काले\JJ गैंडे\N_NN का\PSP मुँह\N_NN (\RD_PUNC या\CC_CCD थूथन\N_NN )\RD_PUNC थोड़ा\QT_QTF पैनापन\N_NN लिए\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12108	गैंडे\N_NN के\PSP सींग\N_NN के\PSP बारे\N_NN में\PSP अफ्रीकी\JJ जनमानस\N_NN में\PSP ढेरों\N_NN दंतकथाएँ\N_NN प्रचलित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12109	सींग\N_NN ,\RD_PUNC जो\PR_PRL वास्तव\N_NN में\PSP सींग\N_NN न\RP_NEG होकर\N_NN बालों\N_NN का\PSP एक\QT_QTC कड़ा\N_NN गुच्छा\N_NN है\V_VM ,\RD_PUNC अफ्रीकियों\N_NN की\PSP राय\N_NN में\PSP दवाइयों\N_NN में\PSP प्रयुक्‍त\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12110	यद्यपि\CC_CCS वैज्ञानिकों\N_NN ने\PSP सिद्ध\V_VM किया\V_VAUX है\V_VAUX कि\CC_CCD यह\DM_DMD केवल\N_NN मिथ्या\N_NN धारणा\N_NN है\V_VM ,\RD_PUNC लेकिन\CC_CCS अतीत\N_NN में\PSP ऐसी\DM_DMR और\CC_CCD अन्य\N_NN मिथ्या\N_NN धारणाओं\N_NN के\PSP कारण\N_NN अनेक\N_NN गैंडों\N_NN को\PSP अफ्रीका\N_NNP में\PSP अपनी\PR_PRF जान\N_NN गँवानी\V_VM पड़ी\V_VAUX ।\RD_PUNC
+htd12111	अब\N_NN स्थिति\N_NN सुधरी\V_VM है\V_VAUX ।\RD_PUNC
+htd12112	50\QT_QTC से\PSP अधिक\RB काले\JJ गैंडे\N_NN लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP को\PSP समृद्ध\V_VM कर\V_VAUX रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12113	लेक\N_NNP मनयारा\N_NNP पार्क\N_NNP में\PSP एक\QT_QTC जगह\N_NN पशुमल\N_NN का\PSP बड़ा\JJ सा\N_NN ढेर\N_NN देखकर\N_NN हमें\PR_PRP आश्‍चर्य\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12114	पता\N_NN चला\N_NN यह\DM_DMD गैंडों\N_NN का\PSP मल\N_NN था\V_VM ।\RD_PUNC
+htd12115	हमें\PR_PRP बताया\V_VM गया\V_VAUX कि\PSP गैंडों\N_NN में\PSP एक\QT_QTC नियत\N_NN स्थान\N_NN पर\PSP मल\N_NN त्यागने\N_NN की\PSP अत्यंत\RB विचित्र\JJ आदत\N_NN पाई\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12116	इस\DM_DMD तथ्य\N_NN से\PSP जुड़ी\N_NN अनेक\N_NN लोककथाएँ\N_NN अफ्रीकी\JJ जनमानस\N_NN में\PSP प्रचलित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12117	बागायो\N_NNP व\CC_CCD एंडिबाश\N_NNP नदियों\N_NNP के\PSP बीच\N_NST से\PSP ऊँचाई\N_NN के\PSP कारण\N_NN लेक\N_NNP मनयारा\N_NNP का\PSP बड़ा\JJ ही\RP_RPD लुभावना\JJ दृश्य\N_NN दिखाई\V_VM देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12118	हम\PR_PRP मंत्रमुग्ध\JJ लेक\N_NNP मनयारा\N_NNP के\PSP सुंदर\JJ दृश्य\N_NN को\PSP निहार\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12119	समुद्रतल\N_NN से\PSP 945\QT_QTC मीटर\QT_QTF की\PSP ऊँचाई\N_NN के\PSP कारण\N_NN पर\PSP स्थित\N_NN 229\QT_QTC वर्ग\QT_QTF किलोमीटर\QT_QTF क्षेत्र\N_NN में\PSP फैली\N_NN मनयारा\N_NNP लेक\N_NNP प्रकृति\N_NN प्रेमियों\N_NN का\PSP स्वर्ग\N_NN है\V_VM ।\RD_PUNC
+htd12120	मनयारा\N_NNP लेक\N_NNP का\PSP जलस्तर\N_NN प्रतिवर्ष\N_NN घटता\V_VM -\RD_PUNC बढ़ता\RD_ECH रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12121	मनयारा\N_NNP लेक\N_NNP में\PSP नाना\N_NN प्रकार\N_NN की\PSP मछलियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd12122	मनयारा\N_NNP लेक\N_NNP में\PSP कैटफिश\N_NN ,\RD_PUNC क्लारियस\N_NN ,\RD_PUNC ब्रीम\N_NN व\CC_CCD तिलापिया\N_NN प्रमुख\N_NN हैं\V_VM ।\RD_PUNC
+htd12123	लेक\N_NNP मनयारा\N_NNP के\PSP किनारे\N_NST -\RD_PUNC किनारे\RD_ECH ढेरों\JJ शंख\N_NN व\CC_CCD सीपियाँ\N_NN पड़ी\V_VM हुई\V_VAUX थीं\V_VAUX ।\RD_PUNC
+htd12124	बिना\JJ पॉलिश\N_NN किया\V_VM हुआ\V_VAUX ,\RD_PUNC लेक\N_NNP मनयारा\N_NNP के\PSP तट\N_NN से\PSP लिया\N_NN गया\N_NN एक\QT_QTC शंख\N_NN अपने\PR_PRF मूलरूप\N_NN में\PSP आज\N_NN भी\RP_RPD मेरे\PR_PRP पास\N_NN विद्यमान\N_NN है\V_VM और\CC_CCD उन\PR_PRP सुनहरे\JJ क्षणों\N_NN की\PSP याद\N_NN दिलाता\V_VM है\V_VAUX ।\RD_PUNC
+htd12125	पृथ्वी\N_NNP का\PSP सबसे\RB ऊँचा\JJ प्राणी\N_NN ज़िराफ\N_NN को\PSP देखने\N_NN की\PSP तमन्ना\N_NN पूर्ण\V_VM नहीं\RP_NEG हुई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12126	लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP ज़िराफों\N_NN की\PSP अच्छी\JJ खासी\N_NN संख्या\N_NN है\V_VM ।\RD_PUNC
+htd12127	मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP से\PSP हम\PR_PRP लौटने\N_NN को\PSP ही\RP_RPD थे\V_VM कि\CC_CCD हमारी\PR_PRP साध\N_NN पूरी\N_NN हो\V_VM गई\V_VAUX ।\RD_PUNC
+htd12128	कुछ\PR_PRI ज़िराफ\N_NN अपनी\PR_PRF लंबी\JJ जीभ\N_NN निकाल\N_NN निकटवर्ती\N_NN पेड़ों\N_NN की\PSP पत्‍तियों\N_NN से\PSP अपनी\PR_PRF उदरक्षुधा\N_NN शांत\V_VM करने\V_VAUX में\V_VAUX लगे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12129	तंजानिया\N_NNP के\PSP सुंदर\JJ राष्‍ट्रीय\N_NN पशु\N_NN ज़िराफ\N_NN को\PSP देखकर\N_NN मुझे\PR_PRP असीम\JJ तृप्‍ति\V_VM मिली\V_VAUX ।\RD_PUNC
+htd12130	बच्चों\N_NN की\PSP खुशी\N_NN का\PSP ठिकाना\N_NN न\RP_NEG था\V_VM ।\RD_PUNC
+htd12131	वस्तुत:\CC_CCS हम\PR_PRP सभी\N_NN ने\PSP पहली\N_NN बार\N_NN ज़िराफ\N_NN देखा\V_VM था\V_VAUX ।\RD_PUNC
+htd12132	लेक\N_NNP मनयारा\N_NNP में\PSP पाए\N_NN जाने\N_NN वाले\N_NN ज़िराफ\N_NN के\PSP शरीर\N_NN पर\PSP तारेनुमा\JJ धब्बे\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12133	जबकि\CC_CCS दक्षिणी\N_NST कीनिया\N_NNP व\CC_CCD अन्यत्र\N_NN पाए\N_NN जाने\N_NN वाले\N_NN ज़िराफों\N_NN के\PSP शरीर\N_NN पर\PSP जालीनुमा\JJ धब्बे\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12134	ज़िराफ\N_NN (\RD_PUNC ज़िराफ\N_NN केमिलोपारडालिस\N_NN )\RD_PUNC को\PSP स्वाहिली\N_NNP में\PSP ट्‍वीगा\N_NNP कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12135	इसके\DM_DMD जैविक\JJ नामकरण\N_NN के\PSP बारे\N_NN में\PSP जीव\JJ विज्ञानियों\N_NN का\PSP कहना\V_VM है\V_VAUX कि\CC_CCS ज़िराफ\N_NN संभवत:\N_NN ऊँट\N_NN व\CC_CCD तेंदुए\N_NN के\PSP मेल\N_NN से\PSP बनी\N_NN संकर\N_NN प्रजाति\N_NN है\V_VM ।\RD_PUNC
+htd12136	ऊँट\N_NN की\PSP तरह\N_NN चलते\N_NN हुए\N_NN ज़िराफ\N_NN एक\QT_QTC तरफ\N_NN से\PSP दोनों\QT_QTO पाँवों\N_NN को\PSP साथ\N_NN उठाते\N_NN व\CC_CCD आगे\N_NST ले\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12137	ज़िराफ\N_NN की\PSP अत्याधिक\RB लंबी\JJ गर्दन\N_NN इन्हें\DM_DMD अकेसिया\JJ वृक्षों\N_NN की\PSP ऊँचाई\N_NN पर\PSP स्थित\N_NN पत्‍तियों\N_NN को\PSP खाने\N_NN में\PSP सहायता\V_VM करती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12138	जन\N_NN विश्‍वास\N_NN के\PSP विपरीत\N_NN ज़िराफ\N_NN लेटकर\N_NN सोता\V_VM है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS गर्दन\N_NN उठी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12139	हम\PR_PRP लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP की\PSP यात्रा\N_NN के\PSP अंतिम\N_NST चरण\N_NN में\PSP ’\N_NN माजी\N_NNP मोटो\N_NNP ’\N_NN पहुँच\V_VM गए\V_VAUX ।\RD_PUNC
+htd12140	माजी\N_NNP मोटो\N_NNP में\PSP गर्म\JJ पानी\N_NN के\PSP चश्मे\N_NN हैं\V_VM ।\RD_PUNC
+htd12141	60\QT_QTC डिग्री\QT_QTF सेंटीग्रेड\QT_QTF तापमान\QT_QTF पर\PSP धरती\N_NN के\PSP गर्भ\N_NN से\PSP निकलता\N_NN पानी\N_NN प्रकृति\N_NN की\PSP अद्‍भुत\N_NN शक्‍तियों\N_NN का\PSP प्रतीक\V_VM है\V_VAUX ।\RD_PUNC
+htd12142	पृथ्वी\N_NN की\PSP अतल\N_NN गहराइयों\N_NN में\PSP से\PSP चट्‍टानों\N_NN के\PSP अपभ्रंश\N_NN के\PSP माध्यम\N_NN से\PSP गर्म\JJ पानी\N_NN बाहर\V_VM आता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12143	मुझे\PR_PRP अपने\PR_PRF देश\N_NN के\PSP सोहना\N_NNP उष्ण\N_NNP जलप्रपात\N_NNP व\CC_CCD तत्‍तापानी\N_NNP उष्ण\N_NNP जलप्रताप\N_NNP की\PSP याद\V_VM हो\V_VAUX आई\V_VAUX ।\RD_PUNC
+htd12144	गर्म\JJ पानी\N_NN में\PSP विकसित\N_NN विभिन्न\N_NN प्रकार\N_NN की\PSP एल्गी\N_NN (\RD_PUNC काई\N_NN )\RD_PUNC देखकर\N_NN हमें\PR_PRP बहुत\JJ आश्‍चर्य\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12145	हम\PR_PRP लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP के\PSP दक्षिणी\N_NST छोर\N_NST पर\PSP थे\V_VM ।\RD_PUNC
+htd12146	पार्क\N_NN के\PSP दक्षिणी\N_NST छोर\N_NST में\PSP निकास\N_NN द्वार\N_NN नहीं\RP_NEG था\V_VM ।\RD_PUNC
+htd12147	अत:\CC_CCS हमें\PR_PRP उत्‍तरी\N_NST निकास\N_NN द्वार\N_NN की\PSP ओर\N_NST लौटना\V_VM था\V_VAUX ।\RD_PUNC
+htd12148	मनयारा\N_NNP की\PSP अति\N_NN समृद्ध\N_NN वन\N_NN -\RD_PUNC पशु\N_NN -\RD_PUNC संपदा\N_NN की\PSP मनोरम\JJ झाँकी\N_NN अंतरंग\N_NN में\PSP सँजोए\N_NN हम\PR_PRP लौट\V_VM पड़े\V_VAUX ।\RD_PUNC
+htd12149	शाम\N_NN जवान\V_VM हो\V_VAUX रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12150	सूरज\N_NN डूबने\V_VM को\PSP था\V_VAUX ।\RD_PUNC
+htd12151	डूबते\JJ सूरज\N_NN की\PSP सुनहरी\JJ किरणें\N_NN मनयारा\N_NNP झील\N_NNP के\PSP पानी\N_NN को\PSP लालिमा\DM_DMD प्रदान\V_VM कर\V_VAUX रही\V_VAUX थीं\V_VAUX ।\RD_PUNC
+htd12152	मनयारा\N_NNP झील\N_NNP का\PSP यह\DM_DMD बड़ा\N_NN ही\RP_RPD विहंगम\JJ दृश्य\N_NN था\V_VM न\RP_NEG भुलाया\N_NN जा\N_NN सकने\N_NN वाला\N_NN ।\RD_PUNC
+htd12153	मनयारा\N_NNP झील\N_NNP के\PSP पानी\N_NN से\PSP बाहर\N_NST झाँकती\N_NN या\CC_CCD उछलती\N_NN मछलियों\N_NN पर\PSP पड़ती\N_NN किरणें\N_NN उन्हें\DM_DMD अलौकिक\JJ अरुणिम\JJ आभा\N_NN प्रदान\V_VM कर\V_VAUX रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12154	उस\PR_PRP अकल्पनीय\JJ दृश्य\N_NN को\PSP मैं\PR_PRP पूर्णत:\N_NN आत्मसात\V_VM कर\V_VAUX लेना\V_VAUX चाहता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12155	समय\N_NN समाप्‍त\V_VM हो\V_VAUX रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12156	लौटते\N_NN -\RD_PUNC लौटते\RD_ECH सूर्य\N_NNP देव\N_NNP अस्त\V_VM हो\V_VAUX गए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12157	धीरे\RB -\RD_PUNC धीरे\RD_ECH अँधेरा\N_NN घिरने\V_VM लगा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12158	अब\N_NN मनयारा\N_NNP पार्क\N_NNP के\PSP अंदर\N_NST रहना\N_NN खतरे\N_NN से\PSP खाली\N_NN न\RP_NEG था\V_VM ।\RD_PUNC
+htd12159	सात\N_NN बजे\N_NN के\PSP बाद\N_NN पर्यटकों\N_NN का\PSP पार्क\N_NN के\PSP अंदर\N_NST रहना\N_NN पूर्णत:\JJ प्रतिबंधित\V_VM है\V_VAUX ।\RD_PUNC
+htd12160	लौटते\N_NN बार\N_NN हमने\PR_PRP पक्षियों\N_NN की\PSP भी\RP_RPD अनेक\N_NN प्रजातियों\N_NN को\PSP देखा\V_VM ।\RD_PUNC
+htd12161	विभिन्न\JJ प्रजातियों\N_NN के\PSP सारस\N_NN ,\RD_PUNC बतखें\N_NN ,\RD_PUNC कठफोड़वों\N_NN सहित\N_NN अनेक\N_NN पक्षी\N_NN भी\RP_RPD प्रसिद्ध\JJ लेक\N_NN मनयार\N_NNP पार्क\N_NNP का\PSP अभिन्न\N_NN भाग\N_NN हैं\V_VM ।\RD_PUNC
+htd12162	हम\PR_PRP निकास\N_NN द्वार\N_NN की\PSP तरफ\N_NN बढ़\V_VM रहे\V_VAUX थे\V_VAUX कि\CC_CCD ’\N_NN इंपाला\N_NNP ’\N_NN प्रजाति\N_NNP के\PSP हिरणों\N_NN की\PSP डार\N_NN (\RD_PUNC कतार\N_NN )\RD_PUNC देखकर\N_NN मन\N_NN बल्लियों\N_NN उछलने\V_VM लगा\V_VAUX ।\RD_PUNC
+htd12163	अंतिम\N_NST चरण\N_NN में\PSP ऐसा\DM_DMR सौभाग्य\N_NN विरले\N_NN ही\RP_RPD मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd12164	स्वाहिली\N_NNP भाषा\N_NNP में\PSP ’\N_NN स्वालापाला\N_NNP ’\N_NN के\PSP नाम\N_NN से\PSP जाना\N_NN जाने\N_NN वाला\N_NN यह\DM_DMD सुंदर\JJ पशु\N_NN इस\DM_DMD पार्क\N_NN के\PSP सौंदर्य\N_NN को\PSP द्वीगुणित\V_VM कर\V_VAUX रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12165	इंपाला\N_NNP प्रजाति\N_NNP का\PSP यह\DM_DMD हिरण\N_NN चरता\V_VM भी\V_VAUX है\V_VAUX व\CC_CCD पत्‍तियाँ\N_NN -\RD_PUNC कोंपले\RD_ECH भी\RP_RPD खाता\V_VM है\V_VAUX ।\RD_PUNC
+htd12166	दक्षिणी\N_NST व\CC_CCD पूर्वी\N_NST अफ्रीका\N_NNP में\PSP पाया\N_NN जाने\N_NN वाला\N_NN यह\DM_DMD सुंदर\JJ हिरण\N_NN लंबी\JJ छलांग\N_NN लगाने\N_NN में\PSP माहिर\V_VM है\V_VAUX ।\RD_PUNC
+htd12167	दक्षिण\N_NNP अफ्रीका\N_NNP में\PSP इस\DM_DMD हिरण\N_NN को\PSP ’\N_NN जुलू\N_NNP ’\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12168	जुलू\N_NNP 10\QT_QTC फुट\QT_QTF ऊँची\JJ व\CC_CCD 30\QT_QTC फुट\QT_QTF लंबी\JJ कुदान\N_NN भरने\N_NN में\PSP सक्षम\V_VM है\V_VAUX ।\RD_PUNC
+htd12169	प्रवेश\N_NN द्वार\N_NN की\PSP ओर\N_NST आते\N_NN हुए\N_NN मैं\PR_PRP चुपचाप\N_NN कुँलाचे\N_NN भरते\N_NN ’स्वाला\N_NNP पाला\N_NNP ’\N_NN या\CC_CCD जुलू\N_NNP नामक\N_NN इस\DM_DMD सुंदरतम\JJ वन्य\N_NN प्राणी\N_NN को\PSP निहार\V_VM रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12170	अंतिम\N_NST बार\N_NN लेक\N_NNP मनयारा\N_NNP पार्क\N_NNP की\PSP ओर\N_NST दृष्‍टिपात\N_NN कर\N_NN भारी\JJ मन\N_NN से\PSP हम\PR_PRP पार्क\N_NN के\PSP बाहर\N_NST निकले\V_VM ।\RD_PUNC
+htd12171	रात\N_NN गहरा\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12172	इस\DM_DMD प्रसिद्ध\JJ एवं\CC_CCD मनोहारी\JJ दृश्यावलियों\N_NN से\PSP भरपूर\N_NN लेक\N_NNP मनयारा\N_NNP नेशनल\N_NNP पार्क\N_NNP की\PSP सौंदर्य\N_NN सरिता\N_NN में\PSP स्नान\N_NN कर\N_NN हम\PR_PRP भीगे\JJ मन\N_NN से\PSP वापिस\N_NN लौट\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12173	मैं\PR_PRP सोच\V_VM रहा\V_VAUX था\V_VAUX प्रकृति\N_NN ने\PSP पूर्वी\N_NST अफ्रीका\N_NNP के\PSP इस\DM_DMD अपेक्षाकृत\N_NN गरीब\N_NN मगर\N_NN सुदृढ़\JJ अर्थव्यवस्था\N_NN वाले\N_NN देश\N_NN को\PSP प्राकृतिक\JJ संपदा\N_NN का\PSP अनमोल\JJ खजाना\N_NN जी\N_NN भर\N_NN कर\N_NN दिया\V_VM है\V_VAUX ।\RD_PUNC
+htd12174	जीप\N_NN तेजी\N_NN से\PSP आरूशा\N_NNP की\PSP ओर\N_NST दौड़\V_VM रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12175	एक\QT_QTC विचित्र\JJ भावुकता\N_NN से\PSP मेरा\PR_PRP मन\N_NN भर\V_VM आया\V_VAUX ।\RD_PUNC
+htd12176	पलकें\N_NN गीली\V_VM हो\V_VAUX गई\V_VAUX ।\RD_PUNC
+htd12177	जीप\N_NN की\PSP खिड़की\N_NN के\PSP शीशे\N_NN नीचे\N_NST कर\V_VM लिए\V_VAUX मैंने\PR_PRP ।\RD_PUNC
+htd12178	ठंडी\JJ हवा\N_NN के\PSP झोंकों\N_NN से\PSP मेरी\PR_PRP थकी\JJ व\CC_CCD बोझिल\JJ पलकें\N_NN मुँदने\V_VM लगीं\V_VAUX ।\RD_PUNC
+htd12179	जीप\N_NN के\PSP साथ\N_NN -\RD_PUNC साथ\RD_ECH मेरा\N_NN मन\N_NN भी\RP_RPD तीव्र\JJ गति\N_NN से\PSP दौड़\V_VM रहा\V_VAUX था\V_VAUX ,\RD_PUNC लग\V_VM रहा\V_VAUX था\V_VAUX जैसे\DM_DMR कहीं\PR_PRI कुछ\PR_PRI पीछे\N_NST रह\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12180	किसी\PR_PRI साहसिक\JJ काम\N_NN में\PSP हिस्सा\N_NN लेना\N_NN चाहे\N_NN वह\PR_PRP किसी\PR_PRI मैराथन\N_NN दौड़\N_NN में\PSP हिस्सा\N_NN लेना\N_NN ही\RP_RPD क्यों\PR_PRQ न\RP_NEG हो\N_NN ,\RD_PUNC आज\N_NN की\PSP एडवेंचर\N_NN लाइफस्टाइल\N_NN का\PSP हिस्सा\N_NN बन\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12181	वास्तविक\N_NN एडवेंचर\N_NN यदि\CC_CCS न\RP_NEG हो\N_NN तो\RP_RPD भी\RP_RPD मोबाइल\N_NN ,\RD_PUNC कंप्यूटर\N_NN और\CC_CCD वीडियो\N_NN गेम\N_NN के\PSP माध्यम\N_NN से\PSP एडवेंचर\N_NN का\PSP लुत्फ़\N_NN उठाने\N_NN से\PSP लोग\N_NN नहीं\RP_NEG चूकते\V_VM ।\RD_PUNC
+htd12182	चाहे\CC_CCS वास्तविक\N_NN हो\N_NN या\CC_CCD वर्चुअल\N_NN ,\RD_PUNC एडवेंचर\N_NN के\PSP मौकों\N_NN की\PSP कोई\PR_PRI कमी\N_NN भी\RP_RPD नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12183	हम\PR_PRP कहते\V_VM हैं\V_VAUX कि\PSP एडवेंचर\N_NN होना\N_NN बहुत\RB अच्छी\JJ बात\N_NN है\V_VM ।\RD_PUNC
+htd12184	इस\DM_DMD बात\N_NN के\PSP पक्ष\N_NN में\PSP हम\PR_PRP उन\PR_PRP लोगों\N_NN के\PSP नाम\N_NN गिनवाना\V_VM भी\RP_RPD नहीं\RP_NEG भूलते\V_VAUX ,\RD_PUNC जो\PR_PRL ट्रेकिंग\N_NN ,\RD_PUNC पैराग्लाइडिंग\N_NN ,\RD_PUNC स्काईडाइविंग\N_NN ,\RD_PUNC बेसजंपिंग\N_NN ,\RD_PUNC सर्फिंग\N_NN और\CC_CCD माउंटेनियरिंग\N_NN में\PSP अव्वल\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12185	कोई\PR_PRI शक\N_NN नहीं\RP_NEG कि\N_NN एडवेंचरस\N_NN होना\N_NN वास्तव\N_NN में\PSP बहादुर\V_VM होना\V_VAUX होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12186	इसीलिए\CC_CCS लोग\N_NN खुद\PR_PRF को\PSP एडवेंचरस\N_NN कहने\N_NN का\PSP कोई\PR_PRI मौका\N_NN हाथ\N_NN से\PSP जाने\V_VM देना\V_VAUX नहीं\RP_NEG चाहते\V_VAUX ।\RD_PUNC
+htd12187	एडवेंचर\N_NN यानी\N_NN रोमांच\N_NN का\PSP सीधा\N_NN -\RD_PUNC सा\N_NN अर्थ\N_NN है\V_VM ,\RD_PUNC जब\PR_PRL आप\PR_PRP रुटीन\N_NN लाइफ\N_NN को\PSP तोड़कर\N_NN कोई\PR_PRI अलग\N_NN काम\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12188	मजेदार\N_NN बात\N_NN है\V_VM कि\PSP एडवेंचर\N_NN के\PSP बारे\N_NN में\PSP हर\QT_QTF आदमी\N_NN का\PSP अपना\PR_PRF अलग\N_NN नजरिया\V_VM है\V_VAUX ।\RD_PUNC
+htd12189	सच\N_NN तो\RP_RPD यह\DM_DMD है\V_VM कि\PSP यहाँ\DM_DMD एडवेंवर\N_NN का\PSP अर्थ\N_NN गेम\N_NN ,\RD_PUNC आनंद\N_NN या\CC_CCD फिर\N_NN किसी\PR_PRI सामाजिक\JJ सरोकार\N_NN से\PSP है\V_VM ,\RD_PUNC जिसके\DM_DMR तहत\N_NN कुछ\PR_PRI ऐसा\DM_DMR किया\V_VM जाए\V_VAUX ,\RD_PUNC जिसमें\DM_DMD मजा\V_VM आए\V_VAUX और\CC_CCD साथ\N_NN ही\RP_RPD आपका\PR_PRP साहस\N_NN भी\RP_RPD उसमें\DM_DMD नजर\V_VM आए\V_VAUX ।\RD_PUNC
+htd12190	इस\DM_DMD दृष्‍टिकोण\N_NN से\PSP देखा\V_VM जाए\V_VAUX तो\RP_RPD लोग\N_NN वास्तव\N_NN में\PSP एडवेंचरस\V_VM होने\V_VAUX लगे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12191	ऐसे\DM_DMD लोगों\N_NN की\PSP कमी\N_NN नहीं\RP_NEG है\V_VM ,\RD_PUNC जो\PR_PRL कार\N_NN से\PSP ही\RP_RPD कन्याकुमारी\N_NNP से\PSP कश्‍मीर\N_NNP घूमने\N_NN का\PSP दम\N_NN रखते\N_NN हैं\V_VM ।\RD_PUNC
+htd12192	एडवेंचरस\N_NN ठंड\N_NN के\PSP दिनों\N_NN में\PSP भी\RP_RPD कश्‍मीर\N_NNP जाने\N_NN का\PSP हौसला\V_VM रखते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12193	ऐसे\DM_DMD कार्यक्रम\N_NN हर\QT_QTF साल\N_NN एडवेंचरस\N_NN की\PSP जीवनशैली\N_NN का\PSP हिस्सा\N_NN बनते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12194	एडवेंचर\N_NN गेम्स\N_NN के\PSP लिए\PSP बनी\N_NN विभिन्न\N_NN संस्थाएँ\N_NN भी\RP_RPD इस\DM_DMD मामले\N_NN में\PSP लोगों\N_NN की\PSP बेहद\N_NN मददगार\N_NN साबित\V_VM हो\V_VAUX रही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12195	योजना\N_NN थी\V_VM कि\PSP सादत\N_NNP खाँ\N_NNP व\CC_CCD मीर\N_NNP बख्शी\N_NNP की\PSP ये\DM_DMD टुकड़ियाँ\N_NN पेशवा\N_NNP के\PSP जत्थे\N_NN को\PSP मथुरा\N_NNP -\RD_PUNC वृंदावन\N_NNP के\PSP बीच\N_NST घेर\V_VM लेंगी\V_VAUX ।\RD_PUNC
+htd12196	परंतु\CC_CCS मराठा\N_NNP पेशवा\N_NNP बाजीराव\N_NNP की\PSP फौज\N_NN उनके\PR_PRP वहाँ\DM_DMD पहुँचने\N_NN से\PSP पहले\N_NN ही\RP_RPD कूच\V_VM कर\V_VAUX गई\V_VAUX ।\RD_PUNC
+htd12197	तेजी\N_NN से\PSP पेशवा\N_NNP बाजीराव\N_NNP ने\PSP दिल्ली\N_NNP के\PSP बाहर\N_NST बने\N_NN कालकाजी\N_NNP मंदिर\N_NNP पर\PSP कब्जा\V_VM कर\V_VAUX अपना\PR_PRF डेरा\V_VM डाल\V_VAUX दिया\V_VAUX ।\RD_PUNC
+htd12198	बादशाह\N_NNP मोहम्मद\N_NNP शाह\N_NNP की\PSP भेजी\N_NN टुकड़ियाँ\N_NN पेशवा\N_NNP बाजीराव\N_NNP का\PSP पीछा\V_VM करती\V_VAUX कालकाजी\N_NNP मंदिर\N_NNP के\PSP पास\N_NST जा\V_VM पहुँची\V_VAUX ।\RD_PUNC
+htd12199	पेशवा\N_NNP बाजीराव\N_NNP अपनी\PR_PRF फौज\N_NN के\PSP साथ\N_NN तालकटोरा\N_NNP (\RD_PUNC गार्डन\N_NNP )\RD_PUNC के\PSP जंगल\N_NN की\PSP ओर\N_NST खिसक\V_VM गया\V_VAUX ।\RD_PUNC
+htd12200	पेशवा\N_NNP बाजीराव\N_NNP का\PSP दिल्ली\N_NNP हथियाने\N_NN का\PSP सपना\N_NN तो\RP_RPD पूरा\N_NN नहीं\RP_NEG हुआ\V_VM ।\RD_PUNC
+htd12201	हाँ\N_NN ,\RD_PUNC पेशवा\N_NNP बाजीराव\N_NNP ने\PSP 700\QT_QTC मुगल\JJ सैनिकों\N_NN व\CC_CCD इंफेंटरी\N_NN का\PSP खास\N_NN नुकसान\V_VM किया\V_VAUX ।\RD_PUNC
+htd12202	इसी\DM_DMD प्रकार\N_NN 1805\QT_QTC में\PSP जसवंत\N_NNP राव\N_NNP होल्कर\N_NNP ने\PSP भी\RP_RPD दिल्ली\N_NNP पर\PSP धावा\V_VM बोलते\V_VAUX हुए\V_VAUX कालकाजी\N_NNP मंदिर\N_NNP के\PSP प्रांगण\N_NN में\PSP अपना\PR_PRF डेरा\V_VM डाला\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12203	1857\QT_QTC के\PSP गदर\N_NN व\CC_CCD 1947\QT_QTC के\PSP भारत\N_NNP -\RD_PUNC पाक\N_NNP बँटवारे\N_NN के\PSP समय\N_NN में\PSP भी\RP_RPD दिल्ली\N_NNP का\PSP कालकाजी\N_NNP मंदिर\N_NNP हिंदुओं\N_NN की\PSP गतिविधियों\N_NN का\PSP सक्रिय\JJ केंद्र\N_NN था\V_VM ।\RD_PUNC
+htd12204	संसार\N_NNP में\PSP हमेशा\RB विविध\JJ संस्कृति\N_NN ,\RD_PUNC परम्पराओं\N_NN और\CC_CCD जीवनशैलियों\N_NN का\PSP सहअस्तित्त्व\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12205	इन्हीं\DM_DMD विविधताओं\N_NN के\PSP प्रति\N_NN इंसान\N_NN की\PSP जिज्ञासा\N_NN उसे\DM_DMD एक\QT_QTC स्थान\N_NN से\PSP दूसरे\QT_QTC स्थान\N_NN पर\PSP ले\V_VM जाती\V_VAUX है\V_VAUX चाहे\N_NN वह\PR_PRP धर्म\N_NN ,\RD_PUNC भाषा\N_NN ,\RD_PUNC रीतिरिवाज\N_NN ,\RD_PUNC खानपान\N_NN ,\RD_PUNC स्थापत्य\N_NN या\CC_CCD प्राकृतिक\JJ परिवेश\N_NN से\PSP संबंधित\N_NN क्यों\PR_PRQ न\RP_NEG हो\V_VM ।\RD_PUNC
+htd12206	यही\DM_DMD वजह\N_NN है\V_VM कि\CC_CCD विविधताओं\N_NN से\PSP भरा\N_NN हमारा\PR_PRP देश\N_NN आज\N_NN दुनिया\N_NN भर\N_NN के\PSP पर्यटकों\N_NN को\PSP बराबर\N_NN आकर्षित\V_VM कर\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12207	भारत\N_NNP की\PSP प्रायद्वीपीय\JJ धरती\N_NN पर\PSP हिमालय\N_NNP की\PSP पर्वतमाला\N_NN है\V_VM ।\RD_PUNC
+htd12208	भारत\N_NNP में\PSP थार\N_NNP का\N_NNP रेगिस्तान\N_NNP है\V_VM ,\RD_PUNC हरे\JJ -\RD_PUNC भरे\RD_ECH वन\N_NN हैं\V_VM ,\RD_PUNC केरल\N_NNP के\PSP बैकवॉटर्स\N_NN हैं\V_VM तो\RP_RPD तीन\QT_QTC दिशाओं\N_NST में\PSP अथाह\JJ समंदर\N_NN है\V_VM ।\RD_PUNC
+htd12209	भारत\N_NNP की\PSP इन\DM_DMD भौगोलिक\JJ विशिष्‍टताओं\N_NN में\PSP ऐसा\DM_DMR बहुत\JJ कुछ\PR_PRI है\V_VM ,\RD_PUNC जो\PR_PRL विदेशी\JJ सैलानियों\N_NN को\PSP यहाँ\DM_DMD खींच\V_VM लाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12210	विदेशी\JJ पर्यटकों\N_NN को\PSP भारत\N_NNP में\PSP प्राचीन\JJ किलों\N_NN ,\RD_PUNC महलों\N_NN ,\RD_PUNC हवेलियों\N_NN और\CC_CCD मंदिरों\N_NN के\PSP रूप\N_NN में\PSP भव्य\JJ वास्तुशिल्प\N_NN सबसे\RB अधिक\JJ आकर्षित\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12211	कॉक्स\N_NNP एंड\N_NNP किंग\N_NNP जैसे\DM_DMR टूर\N_NN ऑपरेटरों\N_NN की\PSP मानें\N_NN तो\RP_RPD ऐतिहासिक\JJ एवं\CC_CCD पुरातत्त्व\JJ महत्त्व\N_NN की\PSP इमारतें\N_NN हमारे\PR_PRP गौरवशाली\JJ इतिहास\N_NN से\PSP उनका\DM_DMD परिचय\V_VM कराती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12212	किलों\N_NN ,\RD_PUNC महलों\N_NN और\CC_CCD हैरिटेज\JJ होटल्स\N_NN के\PSP बीच\N_NST विदेशी\JJ पर्यटक\N_NN उस\PR_PRP दौर\N_NN के\PSP राजसी\JJ अंदाज\N_NN को\PSP समझने\N_NN का\PSP प्रयास\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12213	पैलेस\N_NNP ऑन\N_NNP व्हील\N_NNP और\CC_CCD रॉयल\JJ राजस्थान\N_NNP जैसी\DM_DMR लग्जरी\JJ ट्रेनों\N_NN में\PSP वे\DM_DMD लोग\N_NN शाही\JJ यात्रा\N_NN का\PSP लुत्फ़\V_VM उठाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12214	खजुराहो\N_NNP ,\RD_PUNC कोणार्क\N_NNP ,\RD_PUNC महाबलीपुरम\N_NNP ,\RD_PUNC हम्पी\N_NNP ,\RD_PUNC बादामी\N_NNP ,\RD_PUNC तंजावुर\N_NNP के\PSP महान\JJ वास्तुशिल्पों\N_NN के\PSP अलावा\N_NN अजंता\N_NNP -\RD_PUNC एलोरा\N_NNP की\N_NNP गुफाएँ\N_NNP उन्हें\DM_DMD बहुत\JJ प्रभावित\V_VM करती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12215	वहाँ\DM_DMD उन्हें\PR_PRP प्रस्तर\JJ कला\N_NN और\CC_CCD मूर्तिशिल्पों\N_NN में\PSP छिपा\N_NN सौंदर्य\N_NN मोह\V_VM लेता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12216	विदेशी\JJ सैलानियों\N_NN का\PSP दूसरा\QT_QTO आकर्षण\N_NN हमारी\PR_PRP मीलों\N_NN लम्बी\JJ तटरेखा\N_NN पर\PSP फैले\N_NN शानदार\JJ बीच\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12217	इन\DM_DMD बीचों\N_NN में\PSP विदेशी\JJ सैलानी\N_NN ’\N_NN सन\N_NN ,\RD_PUNC सर्फ\N_NN और\CC_CCD सैंड\N_NN ’\N_NN का\PSP आनंद\V_VM लेते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12218	समुद्र\N_NN स्नान\N_NN के\PSP बाद\N_NN रेत\N_NN पर\PSP सूर्य\N_NN की\PSP किरणों\N_NN का\PSP सेवन\N_NN करके\N_NN अपनी\PR_PRF त्वचा\N_NN का\PSP रंग\N_NN बदलने\N_NN वाले\N_NN सैलानियों\N_NN की\PSP भी\RP_RPD कमी\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12219	तभी\CC_CCS तो\RP_RPD कोवलम\N_NNP ,\RD_PUNC महाबलीपुरम\N_NNP ,\RD_PUNC विशाखापट्‍टनम\N_NNP और\CC_CCD गोवा\N_NNP के\PSP सभी\N_NN बीच\N_NN हमेशा\RB विदेशी\JJ पर्यटकों\N_NN से\PSP आबाद\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12220	विदेशी\JJ सैलानियों\N_NN के\PSP लिए\PSP भारत\N_NNP में\PSP एडवेंचर\N_NN के\PSP भी\RP_RPD अनेक\N_NN डेस्टिनेशन\N_NN हैं\V_VM ।\RD_PUNC
+htd12221	स्कूबा\N_NN डाइविंग\N_NN और\CC_CCD पैरासेलिंग\N_NN जैसे\DM_DMR एडवेंचर\N_NN स्पोर्ट्स\N_NN के\PSP शौकीनों\N_NN के\PSP लिए\PSP लक्षद्वीप\N_NNP और\N_NNP अंडमान\N_NNP निकोबार\N_NNP द्वीप\N_NNP समूह\N_NN आदर्श\N_NN डेस्टिनेशन\N_NN हैं\V_VM ।\RD_PUNC
+htd12222	जबकि\DM_DMR स्नो\N_NN -\RD_PUNC स्पोर्ट्स\N_NN एडवेंचर\N_NN के\PSP लिए\PSP पर्यटक\N_NN गुलमर्ग\N_NNP ,\RD_PUNC सोलांग\N_NNP और\CC_CCD औली\N_NNP की\PSP बर्फ़ीली\JJ वादियों\N_NN में\PSP जाना\N_NN पसंद\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12223	रिवर\N_NN राफ्‍टिंग\N_NN ,\RD_PUNC रॉक\N_NN क्लाइंबिंग\N_NN ,\RD_PUNC पैराग्लाइडिंग\N_NN के\PSP भी\RP_RPD आदर्श\N_NN ठिकानों\N_NN की\PSP भारत\N_NNP में\PSP कमी\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12224	भारत\N_NNP के\PSP वन्यजीव\N_NN अभ्‍यारण्य\N_NN और\CC_CCD बर्ड\N_NN सैंक्च्युरी\N_NN आदि\N_NN तो\RP_RPD विदेशी\JJ और\CC_CCD भारतीय\JJ पर्यटक\N_NN दोनों\N_NN के\PSP लिए\PSP रोमांच\N_NN का\PSP पर्याय\N_NN हैं\V_VM ।\RD_PUNC
+htd12225	भारत\N_NNP के\PSP पर्वतीय\JJ स्थलों\N_NN पर\PSP विदेशी\JJ सैलानी\N_NN केवल\N_NN एडवेंचर\N_NN के\PSP लिए\PSP जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12226	स्थानीय\JJ सैलानियों\N_NN के\PSP लिए\PSP हिल\N_NN स्टेशन\N_NN शहरी\N_NN हलचल\N_NN से\PSP परे\N_NN नैसर्गिक\JJ छटा\N_NN के\PSP मध्य\N_NST छुट्‍टियाँ\N_NN बिताने\N_NN के\PSP ठिकाने\N_NN हैं\V_VM ।\RD_PUNC
+htd12227	ग्रीष्‍म\N_NN ऋतु\N_NN में\PSP सभी\N_NN हिल\N_NN स्टेशनों\N_NN पर\PSP स्थानीय\JJ लोगों\N_NN की\PSP भारी\JJ भीड़\N_NN देखने\V_VM को\PSP मिलती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12228	पर्वतों\N_NN में\PSP अनेक\N_NN तीर्थस्थल\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd12229	तीर्थस्थलों\N_NN में\PSP सालभर\N_NN श्रद्धालुओं\N_NN का\PSP आवागमन\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12230	यही\DM_DMD कारण\N_NN है\V_VM कि\CC_CCD भारत\N_NNP के\PSP स्थानीय\JJ पर्यटन\N_NN में\PSP धार्मिक\JJ पर्यटन\N_NN का\PSP प्रतिशत\N_NN सबसे\RB अधिक\JJ है\V_VM ।\RD_PUNC
+htd12231	उत्‍तराखंड\N_NNP के\PSP धाम\N_NN ,\RD_PUNC हिमाचल\N_NNP के\PSP तीर्थ\N_NN और\CC_CCD वैष्‍णों\N_NNP देवी\N_NNP ,\RD_PUNC पर्वतों\N_NN के\PSP प्रमुख\JJ तीर्थ\N_NN हैं\V_VM ।\RD_PUNC
+htd12232	पानिकर\N_NNP ट्रैवल\N_NNP के\PSP अनुसार\N_NN ,\RD_PUNC तीर्थ\JJ यात्राओं\N_NN के\PSP रूप\N_NN में\PSP भारतीय\JJ उत्तर\N_NST से\PSP धुर\N_NN दक्षिण\N_NST तक\PSP और\CC_CCD पूरब\N_NST से\PSP पश्‍चिम\N_NST ,\RD_PUNC दूर\N_NN -\RD_PUNC दूर\RD_ECH चले\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12233	अयोध्या\N_NNP ,\RD_PUNC मथुरा\N_NNP ,\RD_PUNC उज्जैन\N_NNP ,\RD_PUNC तिरुपति\N_NNP ,\RD_PUNC रामेश्‍वरम\N_NNP ,\RD_PUNC द्वारका\N_NNP ,\RD_PUNC सोमनाथ\N_NNP ,\RD_PUNC जगन्नाथ\N_NNP पुरी\N_NNP के\PSP अलावा\N_NN नौ\QT_QTF देवी\N_NN दर्शन\N_NN द्वादश\N_NNP ज्योतिर्लिंग\N_NNP दर्शन\N_NN ,\RD_PUNC सिख\N_NNP दर्शन\N_NNP और\CC_CCD जैन\N_NNP तीर्थों\N_NNP की\PSP यात्राएँ\N_NN धार्मिक\JJ पर्यटन\N_NN का\PSP विस्तृत\N_NN आधार\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12234	विदेशी\JJ यात्री\N_NN इन\DM_DMD स्थानों\N_NN पर\PSP मंदिर\N_NN वास्तुशिल्प\N_NN या\CC_CCD आस्था\N_NN के\PSP अनोखे\JJ रूप\N_NN को\PSP देखने\N_NN पहुँचते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12235	इन\DM_DMD यात्राओं\N_NN में\PSP दक्षिण\N_NST भारत\N_NNP के\PSP मंदिरों\N_NN के\PSP गगनचुंबी\JJ गोपुरम\N_NN और\CC_CCD उन\PR_PRP पर\PSP जड़ी\N_NN रंग\N_NN -\RD_PUNC बिरंगी\RD_ECH छवियाँ\N_NN विदेशी\JJ पर्यटकों\N_NN को\PSP भी\RP_RPD मंत्रमुग्ध\V_VM कर\V_VAUX देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12236	धार्मिक\JJ दृष्‍टि\N_NN से\PSP भारत\N_NNP आने\N_NN वाले\N_NN विदेशी\N_NN प्राय:\N_NN बौद्धस्थलों\N_NN पर\PSP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12237	जापान\N_NNP ,\RD_PUNC थाईलैंड\N_NNP और\CC_CCD श्रीलंका\N_NNP के\PSP पर्यटकों\N_NN के\PSP लिए\PSP प्रमुख\JJ गंतव्य\JJ प्रसिद्ध\N_NN बौद्धस्थल\N_NN सारनाथ\N_NNP ,\RD_PUNC कुशीनगर\N_NNP ,\RD_PUNC बोधगया\N_NNP ,\RD_PUNC साँची\N_NNP ,\RD_PUNC अमरावती\N_NNP और\CC_CCD धर्मशाला\N_NNP हैं\V_VM ।\RD_PUNC
+htd12238	कुछ\PR_PRI विदेशी\JJ सैलानियों\N_NN को\PSP वृंदावन\N_NNP ,\RD_PUNC मथुरा\N_NNP में\PSP कृष्‍ण\N_NNP जीवन\N_NN दर्शन\N_NN में\PSP सुकून\V_VM मिलता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12239	कुछ\PR_PRI विदेशी\JJ सैलानी\N_NN ऋषिकेश\N_NNP के\PSP आश्रमों\N_NN में\PSP रहकर\N_NN आत्मिक\JJ शांति\N_NN पाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12240	पांडिचेरी\N_NNP के\PSP समीप\N_NN ओरोविल\N_NNP और\CC_CCD पूना\N_NNP के\PSP ओशो\N_NNP आश्रम\N_NNP में\PSP भी\RP_RPD शांति\N_NN पाने\N_NN के\PSP लिए\PSP सैलानी\N_NN जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12241	आत्मिक\JJ शांति\N_NN के\PSP समान\N_NN शारीरिक\N_NN लाभ\N_NN के\PSP लिए\PSP भी\RP_RPD बड़ी\JJ संख्या\N_NN में\PSP पर्यटक\N_NN यहाँ\DM_DMD पधारते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12242	ऊर्जा\N_NN अर्जन\N_NN के\PSP लिए\PSP हमारे\PR_PRP देश\N_NN में\PSP प्राकृतिक\JJ चिकित्सा\N_NN ,\RD_PUNC योग\N_NN और\CC_CCD स्पा\N_NN थैरेपी\N_NN आदि\N_NN के\PSP अनेक\N_NN विश्‍वप्रसिद्ध\JJ डेस्टिनेशन\N_NN हैं\V_VM ।\RD_PUNC
+htd12243	केरल\N_NNP और\CC_CCD उत्‍तराखंड\N_NNP में\PSP ऐसे\DM_DMR अनेक\N_NN स्थान\N_NN हैं\V_VM ।\RD_PUNC
+htd12244	भारत\N_NNP के\PSP इन\DM_DMD स्थानों\N_NN में\PSP भारतीय\JJ सैलानियों\N_NN की\PSP तुलना\N_NN में\PSP विदेशी\N_NN अधिक\N_NN संख्या\N_NN में\PSP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12245	प्राकृतिक\JJ चिकित्सा\N_NN के\PSP लिए\PSP केरल\N_NNP तो\RP_RPD योग\N_NN के\PSP मामले\N_NN में\PSP ऋषिकेश\N_NNP विश्‍वविख्यात\JJ डेस्टिनेशन\N_NN हैं\V_VM ।\RD_PUNC
+htd12246	हमारे\PR_PRP देश\N_NN की\PSP बहुरंगी\JJ संस्कृति\N_NN में\PSP मेलों\N_NN और\CC_CCD उत्सवों\N_NN का\PSP बहुत\JJ महत्त्व\N_NN है\V_VM ।\RD_PUNC
+htd12247	राजस्थान\N_NNP का\PSP पुष्‍कर\N_NNP मेला\N_NNP और\CC_CCD डेजर्ट\N_NN फेस्टिवल\N_NN ,\RD_PUNC खजुराहो\N_NNP और\CC_CCD महाबलीपुरम\N_NNP के\PSP डांस\N_NN फेस्टिवल\N_NN ,\RD_PUNC लद्‍दाख\N_NNP फेस्टिवल\N_NN में\PSP विदेशी\JJ सैलानी\N_NN भाग\N_NN लेते\N_NN देखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12248	कर्नाटक\N_NNP का\PSP हम्पी\N_NNP उत्सव\N_NNP ,\RD_PUNC उड़ीसा\N_NNP की\PSP रथयात्रा\N_NN उत्सव\N_NN ,\RD_PUNC केरल\N_NNP के\PSP बोट\N_NN रेस\N_NN फेस्टिवल\N_NN में\PSP विदेशी\N_NN भी\RP_RPD शिरकत\V_VM करते\V_VAUX हुए\V_VAUX देखे\V_VAUX जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12249	कुछ\PR_PRI वर्ष\N_NN पूर्व\N_NST हमारे\PR_PRP देश\N_NN में\PSP विलेज\JJ टूरिज्म\N_NN के\PSP रूप\N_NN में\PSP ईको\JJ टूरिज्म\N_NN का\PSP एक\QT_QTC नया\JJ आयाम\N_NN शुरू\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12250	हमारे\PR_PRP देश\N_NN के\PSP समृद्ध\JJ सैलानियों\N_NN के\PSP अलावा\N_NN विलेज\JJ टूरिज्म\N_NN विदेशी\JJ सैलानियों\N_NN को\PSP बहुत\N_NN रास\V_VM आया\V_VAUX ।\RD_PUNC
+htd12251	विलेज\JJ टूरिज्म\N_NN के\PSP साथ\N_NN आज\N_NN ’\N_NN होम\N_NNP स्टे\N_NNP ’\N_NN का\PSP आकर्षण\N_NN भी\RP_RPD जुड़\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12252	दूसरी\QT_QTC ओर\N_NST हमारा\PR_PRP देश\N_NN कॉरपोरेट\N_NN टूरिज्म\N_NN डेस्टिनेशन\N_NN के\PSP रूप\N_NN में\PSP भी\RP_RPD अपनी\PR_PRF पहचान\N_NN बना\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12253	भारत\N_NNP के\PSP अनेक\N_NN शहरों\N_NN में\PSP विश्‍व\JJ स्तरीय\JJ कनवेंशन\N_NN सेंटर\N_NN हैं\V_VM ।\RD_PUNC
+htd12254	यही\DM_DMD नहीं\RP_NEG ,\RD_PUNC विश्‍व\N_NNP फैशन\N_NN जगत\N_NN में\PSP भारतीय\JJ डिजाइनरों\N_NN की\PSP एक\QT_QTC अलग\N_NN पहचान\N_NN बनने\N_NN से\PSP करीब\N_NN एक\QT_QTC दशक\QT_QTF पूर्व\N_NST यहाँ\DM_DMD फैशन\N_NN टूरिज्म\N_NN की\PSP शुरुआत\V_VM हुई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12255	तब\N_NN से\PSP अनेक\N_NN बड़े\JJ फैशन\N_NN ईवेंट\N_NN और\CC_CCD ’\N_NN मिस्टर\N_NN इंटरनेशनल\N_NN ’\N_NN जैसे\DM_DMR कार्यक्रमों\N_NN की\PSP मेजबानी\N_NN भारत\N_NNP में\PSP हो\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12256	इनके\DM_DMD माध्यम\N_NN से\PSP भारत\N_NNP देश\N_NN में\PSP ’\N_NN इन\DM_DMD बाउंड\N_NN टूरिज्म\N_NN ’\N_NN को\PSP लगातार\N_NN बढ़ावा\V_VM मिला\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12257	आगामी\N_NN वर्ष\N_NN में\PSP आयोजित\V_VM होने\V_VAUX जा\V_VAUX रहे\V_VAUX कॉमनवैल्थ\N_NNP गेम्स\N_NNP से\PSP भारतीय\JJ पर्यटन\N_NN को\PSP और\CC_CCD भी\RP_RPD बढ़ावा\V_VM मिलेगा\V_VAUX ।\RD_PUNC
+htd12258	उम्मीद\N_NN है\V_VAUX भारत\N_NNP ’\N_NN डेस्टिनेशन\N_NN विद\N_NN डाइवर्सिटी\N_NN ’\N_NN के\PSP रूप\N_NN में\PSP उभरेगा\V_VM ।\RD_PUNC
+htd12259	विजय\N_NNP दशमी\N_NNP अर्थात\N_NN दशहरा\N_NNP पर्व\N_NNP असत्य\N_NN पर\PSP सत्य\N_NN की\PSP जीत\N_NN तथा\CC_CCD बुराई\N_NN पर\PSP अच्छाई\N_NN के\PSP प्रतीक\N_NN के\PSP रूप\N_NN में\PSP मनाया\N_NN जाने\N_NN वाला\N_NN उत्तर\N_NST भारत\N_NNP का\PSP प्रमुख\JJ त्योहार\N_NN है\V_VM ।\RD_PUNC
+htd12260	नौ\N_NNP दिनों\N_NN तक\PSP चलने\N_NN वाली\N_NN रामलीलाओं\N_NN के\PSP मंचन\N_NN में\PSP भगवान\N_NNP राम\N_NNP का\PSP जीवन\N_NN चरित्र\N_NN दिखाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12261	दशहरे\N_NNP के\PSP दिन\N_NN रावण\N_NNP ,\RD_PUNC कुंभकरण\N_NNP एवं\CC_CCD मेघनाथ\N_NNP के\PSP पुतले\N_NN जलाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12262	रामलीला\N_NNP को\PSP देखने\N_NN हजारों\N_NN दर्शक\N_NN पहुँचते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12263	भगवान\N_NNP राम\N_NNP के\PSP जयघोष\N_NN के\PSP साथ\N_NN ही\RP_RPD इस\DM_DMD पर्व\N_NN का\PSP समापन\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12264	कुल्लू\N_NNP (\RD_PUNC हिमाचल\N_NNP प्रदेश\N_NNP )\RD_PUNC का\PSP दशहरा\N_NNP भी\RP_RPD अपना\PR_PRF एक\QT_QTC विशिष्‍ट\JJ स्थान\N_NN रखता\V_VM है\V_VAUX ।\RD_PUNC
+htd12265	प्रदेश\N_NN के\PSP भिन्न\N_NN -\RD_PUNC भिन्न\N_NN मंदिरों\N_NN से\PSP देवी\N_NN -\RD_PUNC देवताओं\N_NN की\PSP मूर्तियों\N_NN को\PSP पालकियों\N_NN एवं\CC_CCD डोलियों\N_NN में\PSP सजाकर\N_NN अत्यंत\JJ श्रद्धा\N_NN के\PSP साथ\N_NN कुल्लू\N_NNP के\PSP श्री\N_NNP रघुनाथ\N_NNP मंदिर\N_NNP लाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12266	कुल्लू\N_NNP में\PSP विशेष\JJ पूजा\N_NN -\RD_PUNC अर्चना\RD_ECH करने\N_NN की\PSP प्रथा\N_NN है\V_VM ।\RD_PUNC
+htd12267	दशहरे\N_NNP के\PSP अवसर\N_NN पर\PSP कुल्लू\N_NNP के\PSP मैदान\N_NN में\PSP एक\QT_QTC भारी\N_NN मेला\N_NN भी\RP_RPD लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd12268	बाजारों\N_NN में\PSP सजी\JJ दुकानें\N_NN ,\RD_PUNC रंग\N_NN -\RD_PUNC बिरंगे\N_NN परिधानों\N_NN में\PSP ,\RD_PUNC बच्चों\N_NN महिलाओं\N_NN ,\RD_PUNC पुरुषों\N_NN एवं\CC_CCD बुजुर्गों\N_NN का\PSP उत्साह\N_NN देखते\V_VM ही\V_VAUX बनता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12269	दशहरे\N_NNP के\PSP अवसर\N_NN पर\PSP कुल्लू\N_NNP में\PSP गीत\N_NN -\RD_PUNC संगीत\RD_ECH एवं\CC_CCD लोकनृत्यों\N_NN की\PSP धूम\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12270	कुल्लू\N_NNP का\PSP यह\DM_DMD उत्सव\N_NN दशहरे\N_NNP से\PSP शुरू\N_NN होकर\N_NN एक\QT_QTC हफ्‍ते\N_NN चलता\V_VM है\V_VAUX ।\RD_PUNC
+htd12271	छत्तीसगढ़\N_NNP राज्य\N_NNP के\PSP बस्तर\N_NNP जिले\N_NNP के\PSP जगदलपुर\N_NNP में\PSP मनाए\N_NN जाने\N_NN वाले\N_NN दशहरे\N_NNP का\PSP स्वरूप\N_NN कुछ\PR_PRI हटकर\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12272	राज्य\N_NN की\PSP अधिष्‍ठात्री\JJ देवी\N_NNP माँ\N_NNP दंतेश्‍वरी\N_NNP की\PSP शोभा\JJ यात्रा\N_NN दशहरे\N_NNP के\PSP त्योहार\N_NN का\PSP मुख्य\JJ आकर्षण\N_NN केंद्र\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12273	दशहरे\N_NNP के\PSP अवसर\N_NN में\PSP माई\N_NNP दंतेश्‍वरी\N_NNP की\PSP डोली\N_NN को\PSP दंतेवाड़ा\N_NNP से\PSP जगदलपुर\N_NNP लाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12274	जगदलपुर\N_NNP में\PSP पूजा\N_NN अर्चना\N_NN के\PSP बाद\N_NN उसे\DM_DMD दंतेवाड़ा\N_NNP के\PSP लिए\PSP विदा\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12275	दशहरा\N_NNP बस्तर\N_NNP वासियों\N_NN का\PSP प्रमुख\JJ त्योहार\N_NN है\V_VM ।\RD_PUNC
+htd12276	बस्तर\N_NNP क्षेत्र\N_NN के\PSP कोने\N_NN -\RD_PUNC कोने\N_NN से\PSP आदिवासी\N_NN जगदलपुर\N_NNP आकर\N_NN दशहरे\N_NNP के\PSP आनंदोत्सव\N_NN में\PSP शामिल\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12277	कहते\V_VM हैं\V_VAUX 15वीं\QT_QTC शताब्दी\N_NN में\PSP काकातिया\N_NNP वंश\N_NNP के\PSP चौथे\QT_QTC राजा\N_NNP महाराज\N_NNP पुरुषोत्तम\N_NNP देव\N_NNP ने\PSP बस्तर\N_NN में\PSP दशहरे\N_NNP उत्सव\N_NN की\PSP शुरुआत\V_VM की\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12278	कर्नाटक\N_NNP का\PSP मैसूर\N_NNP का\PSP दशहरा\N_NNP एक\QT_QTC अलग\JJ अंदाज\N_NN में\PSP मनाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12279	कहते\V_VM हैं\V_VAUX कि\CC_CCD चामुंडी\N_NNP देवी\N_NNP की\PSP महिषासुर\N_NNP राक्षस\N_NNP पर\PSP विजय\N_NN के\PSP प्रतीक\N_NN के\PSP रूप\N_NN में\PSP मैसूर\N_NNP के\PSP दशहरा\N_NNP का\PSP आरंभ\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12280	इस\DM_DMD अवसर\N_NN पर\PSP मैसूर\N_NNP के\PSP राजमहल\N_NN से\PSP एक\QT_QTC शाही\JJ जुलूस\N_NN निकलता\V_VM है\V_VAUX ।\RD_PUNC
+htd12281	मैसूर\N_NNP के\PSP इस\DM_DMD जुलूस\N_NN में\PSP भिन्न\N_NN -\RD_PUNC भिन्न\RD_ECH झाँकियों\N_NN के\PSP अलावा\N_NN सजे\JJ हाथी\N_NN विशेष\N_NN आकर्षण\N_NN का\PSP केंद्र\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12282	नवमी\N_NN के\PSP दिन\N_NN पूजा\N_NN के\PSP बाद\N_NN यह\DM_DMD जुलूस\N_NN महल\N_NN से\PSP शहर\N_NN के\PSP प्रमुख\JJ मार्गों\N_NN से\PSP होता\N_NN हुआ\V_VAUX ’\N_NN बन्नी\N_NNP मंडप\N_NNP ’\N_NN पहुँचता\V_VM है\V_VAUX ।\RD_PUNC
+htd12283	बन्नी\N_NNP मंडप\N_NNP में\PSP रात्रि\N_NN में\PSP ’\N_NN टॉर्च\JJ परेड\N_NN ’\N_NN और\CC_CCD ’\N_NN पुलिस\N_NN बैंड\N_NN ’\N_NN की\PSP आर्कषक\N_NN धुनें\N_NN एकत्रित\JJ जनसमूह\N_NN का\PSP मन\N_NN मोह\V_VM लेती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12284	पं.\N_NNP बंगाल\N_NNP में\PSP दशहरे\N_NNP पर\PSP नौ\QT_QTC दिनों\N_NN तक\PSP चलने\N_NN वाली\N_NN दुर्गा\N_NNP पूजा\N_NNP के\PSP पश्‍चात\N_NST माँ\N_NNP दुर्गा\N_NNP की\PSP मूर्तियों\N_NN को\PSP समुद्र\N_NN तथा\CC_CCD नदियों\N_NN में\PSP आदर\JJ सहित\N_NN विसर्जित\V_VM करने\V_VAUX की\V_VAUX परम्परा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12285	आओ\V_VM आज\N_NN हम\PR_PRP तुम्हें\PR_PRP त्रिशूल\N_NNP पर्वत\N_NNP शिखर\N_NNP के\PSP विषय\N_NN में\PSP बताते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12286	तुमने\PR_PRP भगवान\N_NNP शंकर\N_NNP की\PSP प्रतिमा\N_NN और\CC_CCD उनके\PR_PRP चित्र\N_NN अनेक\N_NN बार\N_NN देखे\V_VM होंगे\V_VAUX ।\RD_PUNC
+htd12287	उनमें\DM_DMD भगवान\N_NN के\PSP हाथ\N_NN में\PSP उनका\PR_PRP शस्‍त्र\N_NN त्रिशूल\N_NN अवश्य\N_NN देखा\V_VM होगा\V_VAUX ।\RD_PUNC
+htd12288	हिमालय\N_NNP की\PSP पर्वत\N_NN माला\N_NN में\PSP स्थित\N_NN एक\QT_QTC हिम\N_NNP शिखर\N_NNP का\PSP नाम\N_NN उसी\DM_DMD त्रिशूल\N_NN के\PSP आधार\N_NN पर\PSP पड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd12289	तुम\PR_PRP सोचोगे\N_NN क्या\PR_PRQ यह\DM_DMD पीक\N_NN त्रिशूल\N_NN के\PSP समान\N_NN दिखाई\V_VM पड़ती\V_VAUX है\V_VAUX ?\RD_PUNC
+htd12290	त्रिशूल\N_NNP पीक\N_NNP भगवान\N_NN के\PSP त्रिशूल\N_NN की\PSP तरह\N_NN तो\RP_RPD नहीं\RP_NEG दिखती\V_VM ,\RD_PUNC किन्तु\CC_CCS त्रिशूल\N_NN के\PSP समान\N_NN इसके\DM_DMD तीन\QT_QTC शिखर\N_NN अवश्य\N_NN हैं\V_VM ।\RD_PUNC
+htd12291	इन्हें\DM_DMD त्रिशूल\N_NNP प्रथम\N_NNP ,\RD_PUNC त्रिशूल\N_NNP द्वितीय\N_NNP और\CC_CCD त्रिशूल\N_NNP तृतीय\N_NNP कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12292	सबसे\RB ऊँचा\JJ शिखर\N_NN त्रिशूल\N_NNP प्रथम\N_NNP है\V_VM ।\RD_PUNC
+htd12293	समुद्रतल\N_NN से\PSP त्रिशूल\N_NNP प्रथम\N_NNP की\PSP ऊँचाई\N_NN 7,120\QT_QTC मीटर\QT_QTF है\V_VM ।\RD_PUNC
+htd12294	द्वितीय\QT_QTC और\CC_CCD तृतीय\QT_QTC शिखर\N_NN क्रमश:\N_NN 6,690\QT_QTC मीटर\QT_QTF और\CC_CCD 6,007\QT_QTC मीटर\QT_QTF ऊँचे\JJ हैं\V_VM ।\RD_PUNC
+htd12295	एक\QT_QTC बात\N_NN और\CC_CCD बताएँ\V_VM ,\RD_PUNC यह\DM_DMD तीनों\N_NN शिखर\N_NN एक\QT_QTC रिज\N_NN के\PSP माध्यम\N_NN से\PSP आपस\PR_PRC में\PSP जुड़े\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12296	त्रिशूल\N_NNP पीक\N_NNP उत्तराखंड\N_NNP के\PSP बागेश्‍वर\N_NNP जिले\N_NNP में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd12297	बागेश्‍वर\N_NNP कुमाऊँ\N_NNP के\PSP पश्‍चिमी\N_NST भाग\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd12298	बागेश्‍वर\N_NNP में\PSP इस\DM_DMD हिमशिखर\N_NN को\PSP पवित्र\JJ माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12299	पता\V_VM है\V_VAUX ,\RD_PUNC आरम्भ\N_NN में\PSP जब\PR_PRL इस\DM_DMD पीक\N_NN पर\PSP चढ़ने\N_NN के\PSP प्रयास\N_NN शुरू\N_NN हुए\N_NN तो\RP_RPD वहाँ\DM_DMD के\PSP पोर्टर\N_NNP त्रिशूल\N_NNP शिखर\N_NNP पर\PSP चढ़ने\N_NN से\PSP मना\V_VM कर\V_VAUX देते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12300	इनकी\DM_DMD नजरों\N_NN में\PSP तो\RP_RPD त्रिशूल\N_NNP पीक\N_NNP एक\QT_QTC पवित्र\JJ और\CC_CCD पूजनीय\JJ पर्वतचोटी\N_NN है\V_VM ।\RD_PUNC
+htd12301	कई\PR_PRI प्रयासों\N_NN के\PSP बाद\N_NN त्रिशूल\N_NNP पीक\N_NNP पर\PSP पहुँचने\N_NN का\PSP पहला\QT_QTO प्रयास\N_NN 1907\QT_QTC में\PSP हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd12302	तब\CC_CCS टी.जी.\N_NN लॉन्गस्टाफ\N_NN अपने\PR_PRF साथ\N_NN दो\QT_QTC अन्य\N_NN ब्रिटिश\JJ पर्वतारोहियों\N_NN ,\RD_PUNC कुछ\PR_PRI गाइड\N_NN और\CC_CCD पोर्टरों\N_NN के\PSP साथ\N_NN इस\DM_DMD शिखर\N_NN को\PSP स्पर्श\N_NN करने\N_NN में\PSP कामयाब\V_VM हुए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12303	उन्होंने\PR_PRP घाटी\N_NN से\PSP होकर\N_NN त्रिशूल\N_NNP हिमनद\N_NNP का\PSP मार्ग\N_NN चुना\V_VM था\V_VAUX ।\RD_PUNC
+htd12304	रास्ते\N_NN में\PSP उन्हें\PR_PRL कुछ\PR_PRI स्थानों\N_NN पर\PSP बर्फ़ीले\JJ तूफानों\N_NN का\PSP सामना\V_VM भी\RP_RPD करना\V_VAUX पड़ा\V_VAUX था\V_VAUX ,\RD_PUNC लेकिन\CC_CCS उन्होंने\PR_PRP हिम्मत\N_NN नहीं\RP_NEG हारी\V_VM ।\RD_PUNC
+htd12305	एक\QT_QTC विशेष\JJ बात\N_NN यह\DM_DMD है\V_VM कि\PSP तब\N_NN हिमालय\N_NNP के\PSP हिमशिखरों\N_NN में\PSP त्रिशूल\N_NNP सबसे\RB ऊँची\JJ पीक\N_NN थी\V_VM ।\RD_PUNC
+htd12306	इस\DM_DMD पर\PSP इंसान\N_NN ने\PSP फतह\V_VM पाई\V_VAUX थी\V_VAUX अर्थात\N_NN उस\PR_PRP समय\N_NN तक\PSP त्रिशूल\N_NNP से\PSP ऊँची\N_NN किसी\PR_PRI चोटी\N_NN को\PSP इंसान\N_NN छू\V_VM नहीं\RP_NEG सका\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12307	एक\QT_QTC रोचक\JJ बात\N_NN और\CC_CCD बताएँ\V_VM ,\RD_PUNC 1987\QT_QTC में\PSP यूगोस्लाविया\N_NNP के\PSP एक\QT_QTC अभियान\N_NN में\PSP पर्वतारोहियों\N_NN ने\PSP एक\QT_QTC साथ\N_NN तीनों\N_NN चोटियों\N_NN के\PSP रिज\N_NN को\PSP पार\V_VM किया\V_VAUX ।\RD_PUNC
+htd12308	पर्वतों\N_NN पर\PSP चढ़ाई\N_NN के\PSP दौरान\N_NN उन्हें\PR_PRP कहीं\PR_PRI -\RD_PUNC कहीं\RD_ECH बर्फ़\N_NN की\PSP दीवार\N_NN जैसे\N_NN पहाड़\N_NN भी\RP_RPD पार\V_VM करने\V_VAUX पड़े\V_VAUX ।\RD_PUNC
+htd12309	इसके\DM_DMD लिए\PSP इन\DM_DMD पर्वतारोहियों\N_NN को\PSP बर्फ़\N_NN की\PSP कुल्हाड़ी\N_NN से\PSP रास्ता\N_NN बना\V_VM -\RD_PUNC बना\RD_ECH कर\N_NN चढ़ना\V_VM पड़ता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12310	आश्‍चर्य\N_NN की\PSP बात\N_NN यह\DM_DMD है\V_VM कि\PSP इस\DM_DMD अभियान\N_NN के\PSP दो\QT_QTC सदस्यों\N_NN ने\PSP त्रिशूल\N_NNP शिखर\N_NNP से\PSP पैराग्लाइडिंग\N_NN भी\RP_RPD की\V_VM थी\V_VAUX ।\RD_PUNC
+htd12311	त्रिशूल\N_NNP समूह\N_NN पर\PSP पर्वतारोहण\N_NN के\PSP लिए\PSP कुमाऊँ\N_NNP में\PSP अल्मोड़ा\N_NNP ,\RD_PUNC कौसानी\N_NN ,\RD_PUNC ग्वालदम\N_NNP ,\RD_PUNC देबाल\N_NNP ,\RD_PUNC बेदिनी\N_NNP बुग्याल\N_NNP और\CC_CCD रूपकुंड\N_NNP होकर\N_NN बेस\N_NN कैम्प\N_NN जाना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12312	यह\DM_DMD तो\RP_RPD तुम\PR_PRP जानते\N_NN हो\N_NN हर\N_NN व्यक्‍ति\N_NN पर्वतारोहण\V_VM नहीं\RP_NEG कर\V_VAUX सकता\V_VAUX ।\RD_PUNC
+htd12313	हिमालय\N_NNP की\PSP इस\DM_DMD पवित्र\JJ चोटी\N_NN को\PSP देखने\N_NN की\PSP चाह\N_NN हर\N_NN इंसान\N_NN की\PSP होती\N_NN है\V_VM ।\RD_PUNC
+htd12314	इसलिए\CC_CCS त्रिशूल\N_NNP पीक\N_NNP के\PSP मनोरम\JJ स्वरूप\N_NN को\PSP देखना\N_NN हो\N_NN तो\RP_RPD तुम\PR_PRP कौसानी\N_NNP जा\V_VM सकते\V_VAUX हो\V_VAUX ।\RD_PUNC
+htd12315	कौसानी\N_NNP में\PSP अनेक\N_NN व्यू\N_NN पॉइंट\N_NN हैं\V_VM ,\RD_PUNC जहाँ\PR_PRL से\PSP त्रिशूल\N_NNP हिमशिखर\N_NNP को\PSP देखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12316	सोच\V_VM लो\V_VAUX त्रिशूल\N_NNP पर्वत\N_NNP शिखर\N_NNP के\PSP बर्फ़\N_NN से\PSP ढके\N_NN तीनों\QT_QTC शिखर\N_NN देख\N_NN तुम्हारा\PR_PRP मन\N_NN भी\RP_RPD बड़े\N_NN होकर\N_NN पर्वतारोही\N_NN बनने\V_VM को\V_VAUX करने\V_VAUX लगेगा\V_VAUX ।\RD_PUNC
+htd12317	उस\PR_PRP समय\N_NN मणिपुर\N_NNP से\PSP बंगाल\N_NNP की\PSP यात्रा\N_NN का\PSP सबसे\RB सीधा\JJ मार्ग\N_NN ’\N_NN कछार\N_NNP ’\N_NN होकर\N_NN जाता\V_VM था\V_VAUX ।\RD_PUNC
+htd12318	भाग्यचंद्र\N_NNP भी\RP_RPD उसी\PR_PRP मार्ग\N_NN का\PSP उपयोग\V_VM करना\V_VAUX चाहते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd12319	कछार\N_NNP के\PSP राजा\N_NN को\PSP यह\DM_DMD स्वीकार\V_VM नहीं\RP_NEG हुआ\V_VAUX ।\RD_PUNC
+htd12320	उसने\PR_PRP महाराज\N_NN के\PSP दो\QT_QTC संदेशवाहकों\N_NN को\PSP मरवा\V_VM डाला\V_VAUX और\CC_CCD उन्हें\PR_PRP भी\RP_RPD दुष्परिणाम\N_NN भुगतने\N_NN की\PSP चेतावनी\V_VM दी\V_VAUX ।\RD_PUNC
+htd12321	इस\DM_DMD परिस्थिति\N_NN में\PSP महाराज\N_NNP भाग्यचंद्र\N_NNP को\PSP कछार\N_NNP के\PSP दक्षिणी\N_NST जंगल\N_NN का\PSP मार्ग\N_NN पकड़\V_VM कर\V_VAUX श्रीहट्‍ट\N_NNP (\RD_PUNC सिल्हट\N_NNP )\RD_PUNC की\PSP ओर\N_NN रुख\V_VM करना\V_VAUX पड़ा\V_VAUX ।\RD_PUNC
+htd12322	श्रीहट्‍ट\N_NNP का\PSP यह\DM_DMD रास्ता\N_NN ऐसा\DM_DMR विकट\V_VM था\V_VAUX कि\PSP उस\PR_PRP पर\PSP हाथी\N_NN की\PSP सवारी\V_VM नहीं\RP_NEG की\V_VAUX जा\V_VAUX सकती\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12323	महाराज\N_NNP को\PSP घोड़े\N_NN की\PSP पीठ\N_NN पर\PSP यात्रा\V_VM करनी\V_VAUX पड़ी\V_VAUX ।\RD_PUNC
+htd12324	अंग्रेज\JJ अधिकारी\N_NN ,\RD_PUNC फ्रांसिस\N_NNP हेमिल्टन\N_NNP ने\PSP ,\RD_PUNC एकाउंट\N_NNP ऑफ\N_NNP असम\N_NNP में\PSP महाराज\N_NNP भाग्यचंद्र\N_NNP के\PSP साथ\N_NN इस\DM_DMD यात्रा\N_NN में\PSP जाने\N_NN वाले\N_NN लोगों\N_NN की\PSP संख्या\N_NN सात\QT_QTC सौ\QT_QTC बताई\V_VM है\V_VAUX ।\RD_PUNC
+htd12325	भाग्यचंद्र\N_NNP की\PSP इस\DM_DMD यात्रा\N_NN में\PSP केवल\JJ भारवाही\N_NN ही\RP_RPD तीन\QT_QTC सौ\QT_QTC थे\V_VM ।\RD_PUNC
+htd12326	महाराज\N_NNP भाग्यचंद्र\N_NNP की\PSP इस\DM_DMD यात्रा\N_NN का\PSP वृत्‍तांत\N_NN लावण्यचंद्र\N_NNP की\PSP पहल\N_NN पर\PSP लिखा\V_VM गया\V_VAUX ।\RD_PUNC
+htd12327	नवचाँद\N_NNP ,\RD_PUNC हरिचरण\N_NNP और\CC_CCD माधवराव\N_NNP वाहेड\N_NNP बा\N_NNP ने\PSP इस\DM_DMD यात्रा\N_NN का\PSP विवरण\N_NN खगेंद्र\N_NNP मिनाबा\N_NNP ,\RD_PUNC हरिचरण\N_NNP खागेंबा\N_NNP ,\RD_PUNC वीरमणि\N_NNP लौरेंबा\N_NNP और\CC_CCD खोड्‍चोन\N_NNP अहैबा\N_NNP को\PSP बताया\V_VM ।\RD_PUNC
+htd12328	इन्होंने\DM_DMD मिलकर\N_NN भाग्यचंद्र\N_NNP का\PSP यह\DM_DMD यात्रावृत्‍त\N_NN तैयार\V_VM किया\V_VAUX ।\RD_PUNC
+htd12329	इस\DM_DMD यात्रावृत्‍त\N_NN के\PSP प्रकाशित\JJ रूप\N_NN में\PSP पुस्तक\N_NN के\PSP अंत\N_NN में\PSP संपादक\N_NN ने\PSP कठिन\JJ शब्दों\N_NN के\PSP अर्थ\N_NN भी\RP_RPD वर्ण\N_NN क्रमानुसार\N_NN दिए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12330	इससे\DM_DMD मणिपुरी\JJ भाषा\N_NN के\PSP वर्तमान\JJ रूप\N_NN के\PSP अभ्यस्त\JJ पाठकों\N_NN के\PSP लिए\PSP इस\DM_DMD यात्रावृत्‍त\N_NN को\PSP समझना\N_NN आसान\V_VM हो\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12331	आधुनिक\JJ मणिपुरी\JJ यात्रा\N_NN साहित्य\N_NN की\PSP नींव\N_NN रखने\N_NN का\PSP श्रेय\N_NN जननेता\N_NN हिजम\N_NNP इरावत\N_NNP के\PSP सन्‌\N_NN 1937\QT_QTC में\PSP छपे\N_NN एक\QT_QTC यात्रा\N_NN -\RD_PUNC लेख\N_NN को\PSP है\V_VM ।\RD_PUNC
+htd12332	मांडलेगी\N_NNP खोड्‍\N_NNP फम\N_NNP (\RD_PUNC मांडले\N_NNP की\PSP यात्रा\N_NN )\RD_PUNC शीर्षक\N_NN यह\DM_DMD लेख\N_NN उसी\DM_DMD वर्ष\N_NN 28\QT_QTC फरवरी\N_NNP से\PSP 2\QT_QTC मार्च\N_NNP तक\PSP मांडले\N_NNP में\PSP सपन्न\N_NN हुए\N_NN ``\RD_PUNC निखिल\N_NNP हिंदू\N_NNP मणिपुरी\JJ महासभा\N_NN ``\RD_PUNC के\PSP तीसरे\QT_QTC अधिवेशन\N_NN में\PSP शामिल\N_NN होने\N_NN के\PSP लिए\PSP इरावत\N_NN द्वारा\N_NN की\V_VM गई\V_VAUX यात्रा\N_NN का\PSP विवरण\N_NN है\V_VM ।\RD_PUNC
+htd12333	यह\DM_DMD यात्रा\N_NN 18\QT_QTC फरवरी\N_NNP ,\RD_PUNC 1937\QT_QTC ,\RD_PUNC बृहस्पतिवार\N_NNP को\PSP वट्‍टग्राम\N_NNP से\PSP पानी\N_NN के\PSP जहाज\N_NN द्वारा\N_NN शुरू\V_VM हुई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd12334	इरावत\N_NNP ने\PSP इस\DM_DMD बात\N_NN पर\PSP विशेष\JJ ध्यान\V_VM दिया\V_VAUX कि\PSP जहाज\N_NN में\PSP होटल\N_NN भी\RP_RPD हिंदू\N_NNP और\CC_CCD मुसलमान\N_NNP के\PSP नाम\N_NN पर\PSP (\RD_PUNC हिंदू\JJ होटल\N_NN ,\RD_PUNC मुसलमान\JJ होटल\N_NN )\RD_PUNC थे\V_VM ।\RD_PUNC
+htd12335	गलियारों\N_NN का\PSP नामकरण\N_NN भी\RP_RPD धर्मों\N_NN के\PSP आधार\N_NN पर\PSP किया\V_VM था\V_VAUX ।\RD_PUNC
+htd12336	इन\DM_DMD दिनों\N_NN ट्रेकिंग\N_NN और\CC_CCD शिलारोहण\N_NN (\RD_PUNC रॉक\N_NN क्लाइमिंग\N_NN )\RD_PUNC की\PSP गतिविधियों\N_NN से\PSP जुड़े\N_NN हुए\N_NN कई\PR_PRI क्लब\N_NN अस्तित्त्व\N_NN में\PSP आ\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12337	ये\DM_DMD क्लब\N_NN अपने\PR_PRF सदस्यों\N_NN को\PSP पर्वतों\N_NN पर\PSP ट्रेकिंग\N_NN और\CC_CCD रॉक\N_NN क्लाइमिंग\N_NN के\PSP लिए\PSP ले\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12338	इन\DM_DMD गतिविधियों\N_NN में\PSP निपुणता\N_NN प्राप्‍त\N_NN करने\N_NN के\PSP बाद\N_NN सदस्यों\N_NN को\PSP ऊँचे\JJ पर्वत\N_NN स्थलों\N_NN पर\PSP आरोहण\N_NN करने\N_NN के\PSP लिए\PSP ले\V_VM जाया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12339	जहाँ\PR_PRL पर\PSP वे\PR_PRP सुगमता\N_NN के\PSP आइस\N_NN और\CC_CCD स्नो\N_NN क्राफ्ट\N_NN की\PSP विधियाँ\N_NN सीखते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12340	किसी\PR_PRI अनुभवी\JJ मित्र\N_NN अथवा\N_NN प्रशिक्षक\N_NN के\PSP साथ\N_NN ट्रेकिंग\N_NN और\CC_CCD रॉक\N_NN क्लाइमिंग\N_NN इत्यादि\N_NN पर\PSP जाने\N_NN से\PSP इस\DM_DMD खेल\N_NN के\PSP विषय\N_NN में\PSP पर्याप्‍त\JJ जानकारी\N_NN मिल\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12341	प्रारंभ\N_NN में\PSP किसी\PR_PRI भी\RP_RPD छुट्‍टी\N_NN के\PSP दिन\N_NN किसी\PR_PRI के\PSP साथ\N_NN पर्वत\N_NN स्थलों\N_NN पर\PSP निकल\V_VM जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12342	बाद\N_NN में\PSP व्यक्‍ति\N_NN स्वयं\PR_PRF ही\RP_RPD इस\DM_DMD खेल\N_NN में\PSP अभ्यस्त\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12343	पर्वतारोहण\N_NN का\PSP इतिहास\N_NN पढ़ने\N_NN से\PSP ज्ञात\V_VM होता\V_VAUX है\V_VAUX कि\CC_CCD अधिकतर\JJ दुर्घटनाएँ\N_NN आरोहियों\N_NN की\PSP अपनी\PR_PRF ही\RP_RPD गलतियों\N_NN से\PSP होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12344	अनेक\N_NN अवसरों\N_NN पर\PSP आरोही\N_NN गलत\N_NN निर्णय\V_VM ले\V_VAUX लेते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12345	पर्वतारोहियों\N_NN के\PSP इन\DM_DMD गलत\N_NN निर्णयों\N_NN का\PSP दंड\N_NN उन्हें\PR_PRP भुगतना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12346	इसके\N_NN लिए\PSP आवश्यक\N_NN है\V_VAUX कि\PSP हम\PR_PRP समय\N_NN रहते\N_NN ठीक\N_NN और\CC_CCD गलत\N_NN का\PSP चुनाव\V_VM कर\V_VAUX सकें\V_VAUX ।\RD_PUNC
+htd12347	पर्वतारोहण\N_NN में\PSP सबसे\RB बड़ा\JJ सिद्धांत\N_NN अपने\PR_PRF आपको\PR_PRP बचाना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12348	इसके\N_NN लिए\PSP यह\DM_DMD जान\N_NN लेना\N_NN जरूरी\N_NN है\V_VM कि\CC_CCD पर्वतारोहण\N_NN के\PSP दौरान\N_NN हार\N_NN और\CC_CCD जीत\N_NN जैसी\DM_DMR किसी\PR_PRI भावना\N_NN के\PSP लिए\PSP कोई\PR_PRI स्थान\V_VM नहीं\RP_NEG होता\V_VAUX ।\RD_PUNC
+htd12349	पर्वतारोहण\N_NN का\PSP यह\DM_DMD खेल\N_NN आरोही\N_NN को\PSP प्रकृति\N_NN की\PSP सौंदर्य\N_NN से\PSP परिपूर्ण\N_NN समग्रता\N_NN के\PSP एकदम\N_NN समीप\N_NN ले\V_VM आता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12350	पर्वतारोहण\N_NN खिलाड़ी\N_NN को\PSP शारीरिक\JJ और\CC_CCD मानसिक\JJ रूप\N_NN से\PSP जागृत\V_VM रखता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12351	इस\DM_DMD खेल\N_NN में\PSP व्यक्‍ति\N_NN अपनी\PR_PRF मानसिक\JJ सजगता\N_NN के\PSP साथ\N_NN शारीरिक\JJ शक्‍ति\N_NN को\PSP भी\RP_RPD पहचानता\V_VM है\V_VAUX ।\RD_PUNC
+htd12352	खिलाड़ी\N_NN खुले\N_NN रूप\N_NN से\PSP पर्वतों\N_NN के\PSP आमने\N_NN -\RD_PUNC सामने\RD_ECH होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12353	दल\N_NN के\PSP अन्य\N_NN सदस्य\N_NN उसकी\DM_DMD प्रत्येक\N_NN गतिविधि\N_NN पर\PSP दृष्‍टि\V_VM गड़ाये\V_VAUX रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12354	पर्वतारोहण\N_NN के\PSP दौरान\N_NN पर्वतारोही\N_NN में\PSP जो\PR_PRL गुण\N_NN विकसित\V_VM होते\V_VAUX हैं\V_VAUX वे\PR_PRP उसके\PR_PRP चरित्र\N_NN निर्माण\N_NN में\PSP सहायक\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12355	आज\N_NN देश\N_NN में\PSP ऐसे\DM_DMR लोगों\N_NN का\PSP अभाव\V_VM है\V_VAUX जो\PR_PRL समाज\N_NN को\PSP नेतृत्व\V_VM प्रदान\V_VAUX कर\V_VAUX सकें\V_VAUX ।\RD_PUNC
+htd12356	इस\DM_DMD अभाव\N_NN की\PSP पूर्ति\N_NN पर्वतारोहण\N_NN के\PSP दौरान\N_NN विकसित\N_NN गुणों\N_NN से\PSP की\V_VM जा\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12357	हॉकी\N_NN ,\RD_PUNC फुटबाल\N_NN और\CC_CCD क्रिकेट\N_NN इत्यादि\N_NN खेलों\N_NN की\PSP ही\RP_RPD भाँति\N_NN पर्वतारोहण\N_NN में\PSP भी\RP_RPD विशेष\JJ प्रकार\N_NN के\PSP जूतों\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12358	पर्वतारोहण\N_NN के\PSP लिए\PSP जूतों\N_NN का\PSP पाँव\N_NN में\PSP आरामदायक\JJ ,\RD_PUNC विश्‍वसनीय\JJ एवं\CC_CCD सुविधाजनक\JJ होना\N_NN अत्यंत\JJ अनिवार्य\V_VM है\V_VAUX ।\RD_PUNC
+htd12359	पर्वतारोही\N_NN को\PSP अपना\PR_PRF अधिकतर\JJ समय\N_NN बर्फ़\N_NN और\CC_CCD ग्लेशियर\N_NN पर\PSP ही\RP_RPD गुजारना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12360	पर्वतारोही\N_NN को\PSP जूतों\N_NN के\PSP मामले\N_NN में\PSP किसी\PR_PRI प्रकार\N_NN की\PSP लापरवाही\V_VM नहीं\RP_NEG की\V_VAUX जानी\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12361	पर्वतारोहण\N_NN में\PSP दोहरी\JJ परत\N_NN वाले\N_NN जलरोधक\N_NN जूतों\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12362	पर्वतारोहण\N_NN के\PSP लिए\PSP जूते\N_NN खरीदते\N_NN समय\N_NN इस\DM_DMD बात\N_NN का\PSP ध्यान\V_VM रखा\V_VAUX जाना\V_VAUX चाहिए\V_VAUX कि\PSP वह\PR_PRP अत्यधिक\JJ ठंड\N_NN में\PSP पैरों\N_NN की\PSP गलने\N_NN से\PSP रक्षा\V_VM कर\V_VAUX सकें\V_VAUX ।\RD_PUNC
+htd12363	जब\PR_PRL बहुत\JJ देर\N_NN तक\PSP बर्फ़\N_NN में\PSP रहना\V_VM होता\V_VAUX है\V_VAUX तो\RP_RPD जूतों\N_NN को\PSP सूखा\V_VM रखने\V_VAUX के\V_VAUX लिए\V_VAUX उनके\PR_PRP ऊपर\N_NST एक\QT_QTC बाहरी\JJ जूते\N_NN का\PSP प्रयोग\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12364	नाईलोन\N_NN के\PSP ऐसे\DM_DMR जूते\N_NN जलरोधक\N_NN होने\N_NN के\PSP कारण\N_NN जूतों\N_NN को\PSP गीला\N_NN होने\N_NN से\PSP बचाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12365	इन\DM_DMD जूतों\N_NN के\PSP कारण\N_NN ऊँचाई\N_NN पर\PSP अंदर\N_NST वाले\N_NN जूतों\N_NN का\PSP चमड़ा\N_NN जमता\V_VM नहीं\V_VAUX ।\RD_PUNC
+htd12366	यदि\CC_CCS ऐसे\DM_DMR जूते\N_NN उपलब्ध\N_NN न\RP_NEG हों\N_NN तो\RP_RPD उसके\PR_PRP स्थान\N_NN पर\PSP गेटर\N_NN का\PSP प्रयोग\V_VM किया\V_VAUX जाना\V_VAUX अच्छा\JJ रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd12367	सर्दी\N_NN से\PSP बचने\V_VM के\V_VAUX लिए\V_VAUX एलुमिनियम\N_NN फॉयल\N_NN पर्वतारोहियों\N_NN के\PSP लिए\PSP बहुत\JJ उपयोगी\V_VM है\V_VAUX ।\RD_PUNC
+htd12368	अपनी\PR_PRF आवश्यकतानुसार\N_NN आरोही\N_NN एलुमिनियम\N_NN फॉयल\N_NN का\PSP प्रयोग\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12369	एलुमिनियम\N_NN फॉयल\N_NN कागज\N_NN की\PSP तरह\N_NN बहुत\RB पतली\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12370	मोड़\V_VM कर\V_VAUX एलुमिनियम\N_NN फॉयल\N_NN के\PSP आकार\N_NN को\PSP बहुत\RB छोटा\JJ किया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12371	इतना\N_NN छोटा\JJ कि\N_NN एलुमिनियम\N_NN फॉयल\N_NN को\PSP पर्वतारोही\N_NN अपनी\PR_PRF जेब\N_NN में\PSP भी\RP_RPD रख\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12372	अधिक\JJ ठंड\N_NN से\PSP बचने\N_NN के\PSP लिए\PSP कुछ\PR_PRI लोग\N_NN एलुमिनियम\N_NN फॉयल\N_NN का\PSP एक\QT_QTC तंबू\N_NN की\PSP तरह\N_NN भी\RP_RPD प्रयोग\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12373	कुछ\PR_PRI पर्वतारोही\N_NN एलुमिनियम\N_NN फॉयल\N_NN को\PSP अपने\PR_PRF शरीर\N_NN पर\PSP लपेट\N_NN कर\N_NN स्लीपिंग\N_NN बैग\N_NN में\PSP सो\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12374	जूते\N_NN एवं\CC_CCD जुराब\N_NN पहनने\N_NN से\PSP पूर्व\N_NST यदि\CC_CCS एलुमिनियम\N_NN फॉयल\N_NN को\PSP पैरों\N_NN पर\PSP लपेट\V_VM लिया\V_VAUX जाए\V_VAUX तो\RP_RPD यह\DM_DMD पैरों\N_NN को\PSP गर्म\N_NN रखने\N_NN में\PSP बहुत\N_NN सहायक\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12375	एलुमिनियम\N_NN फॉयल\N_NN से\PSP पैरों\N_NN को\PSP बहुत\JJ आराम\N_NN भी\RP_RPD मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd12376	बर्फ़ीली\JJ तेज\N_NN हवाओं\N_NN से\PSP शरीर\N_NN की\PSP रक्षा\N_NN के\PSP लिए\PSP वायुरोधक\N_NN वस्‍त्र\N_NN प्रयोग\V_VM में\PSP लाए\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12377	पर्वतारोहण\N_NN के\PSP समय\N_NN वायुरोधक\JJ कोट\N_NN सदैव\N_NN अपने\PR_PRF पास\N_NST रखना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12378	आवश्यकता\N_NN का\PSP अनुभव\V_VM होते\V_VAUX ही\RP_RPD तुरंत\N_NN वायुरोधक\N_NN कोट\N_NN को\PSP पहन\V_VM लेना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12379	वायुरोधक\N_NN कोट\N_NN में\PSP सामने\N_NN की\PSP ओर\N_NN एक\QT_QTC बड़ी\JJ जेब\N_NN तथा\CC_CCD दो\QT_QTC जेबें\N_NN बगल\N_NN की\PSP तरफ\N_NN होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12380	वायुरोधक\JJ कोट\N_NN में\PSP आसानी\N_NN से\PSP खाने\N_NN -\RD_PUNC पीने\RD_ECH का\PSP सामान\N_NN अर्थात\N_NN लंच\N_NN पैकेट\N_NN ,\RD_PUNC सूखे\JJ मेवे\N_NN ,\RD_PUNC दस्तानों\N_NN और\CC_CCD जुराबों\N_NN की\PSP जोड़ियों\N_NN के\PSP अतिरिक्‍त\N_NN ,\RD_PUNC बर्फ़\N_NN की\PSP चौंध\N_NN से\PSP आँखों\N_NN को\PSP बचाने\N_NN वाला\N_NN एक\QT_QTC चश्‍मा\N_NN ,\RD_PUNC डायरी\N_NN ,\RD_PUNC सीटी\N_NN और\CC_CCD टॉर्च\N_NN रखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12381	इस\DM_DMD प्रकार\N_NN के\PSP वायुरोधक\JJ कोट\N_NN अथवा\N_NN जैकेट\N_NN के\PSP कॉलर\N_NN के\PSP साथ\N_NN एक\QT_QTC टोपी\N_NN जुड़ी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12382	इससे\N_NN सिर\N_NN ,\RD_PUNC गर्दन\N_NN और\CC_CCD कानों\N_NN को\PSP ढका\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12383	जहाँ\PR_PRL बहुत\JJ अधिक\JJ बर्फ़\N_NN होती\V_VM है\V_VAUX अथवा\N_NN बर्फ़\N_NN पर\PSP फिसलन\V_VM होती\V_VAUX है\V_VAUX वहाँ\DM_DMD पर\PSP वायुरोधक\JJ पैंट\N_NN का\PSP प्रयोग\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12384	वायुरोधक\JJ पैंट\N_NN भी\RP_RPD अच्छी\JJ किस्म\N_NN के\PSP वायुरोधक\JJ वस्‍त्र\N_NN से\PSP बनी\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12385	इसलिए\CC_CCS वायुरोधक\JJ पैंट\N_NN बहुत\RB हल्की\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12386	ऊँचे\JJ पर्वतों\N_NN पर\PSP कितनी\PR_PRQ ठंड\N_NN होती\V_VM है\V_VAUX इसका\DM_DMD अनुमान\N_NN मैदानों\N_NN में\PSP रहते\N_NN हुए\N_NN नहीं\RP_NEG लगाया\V_VM जा\V_VAUX सकता\V_VAUX ।\RD_PUNC
+htd12387	इस\DM_DMD ठंड\N_NN से\PSP बचाव\N_NN के\PSP लिए\PSP नाईलोन\N_NN के\PSP बने\N_NN वायुरोधक\JJ एवं\CC_CCD जलरोधक\JJ कपड़ों\N_NN का\PSP प्रयोग\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12388	वायुरोधक\JJ वस्‍त्रों\N_NN में\PSP अच्छी\JJ किस्म\N_NN के\PSP नर्म\JJ पंख\N_NN भरे\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12389	वायुरोधक\JJ वस्‍त्रों\N_NN का\PSP प्रयोग\N_NN बहुत\RB अधिक\JJ ठंड\N_NN में\PSP ऊँचाई\N_NN पर\PSP पर्वतारोहण\N_NN करते\N_NN समय\N_NN अथवा\N_NN रात्रि\N_NN में\PSP जब\PR_PRL सर्दी\N_NN बहुत\N_NN बढ़\V_VM जाती\V_VAUX है\V_VAUX तब\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12390	ऐसे\DM_DMR वायुरोधक\JJ जैकेट\N_NN अथवा\N_NN कोट\N_NN में\PSP टोपी\N_NN और\CC_CCD जेबें\N_NN होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12391	वायुरोधक\JJ वस्‍त्रों\N_NN का\PSP उपयोग\N_NN आवश्‍यकतानुसार\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12392	पर्वतारोहण\N_NN में\PSP हाथों\N_NN को\PSP शरीर\N_NN के\PSP अन्य\N_NN अंगों\N_NN की\PSP अपेक्षा\N_NN अधिक\JJ काम\N_NN करना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12393	इसलिए\CC_CCS हाथों\N_NN की\PSP हर\N_NN प्रकार\N_NN से\PSP रक्षा\V_VM करना\V_VAUX बहुत\JJ आवश्यक\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12394	यदि\CC_CCS सर्दी\N_NN के\PSP मौसम\N_NN में\PSP नीचे\N_NST के\PSP क्षेत्रों\N_NN में\PSP क्लाइमिंग\N_NN की\V_VM जाए\V_VAUX तो\RP_RPD भी\RP_RPD ऊनी\JJ दस्तानों\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12395	बर्फ़\N_NN और\CC_CCD ठंड\N_NN में\PSP तो\RP_RPD वायुरोधक\JJ वस्‍त्रों\N_NN के\PSP बिना\N_NN आरोहण\N_NN की\PSP कल्पना\N_NN भी\RP_RPD नहीं\RP_NEG की\V_VM जा\V_VAUX सकती\V_VAUX ।\RD_PUNC
+htd12396	सन\N_NN हैट\N_NN ,\RD_PUNC बेरिट\N_NN अर्थात\N_NN टोपी\N_NN ,\RD_PUNC कैप\N_NN ,\RD_PUNC हैलमेट\N_NN ,\RD_PUNC सन\N_NN ग्लासेज़\N_NN और\CC_CCD स्नो\N_NN गॉगल्स\N_NN इत्यादि\N_NN वस्तुओं\N_NN का\PSP प्रयोग\N_NN आरोही\N_NN को\PSP नियमित\N_NN रूप\N_NN से\PSP करना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12397	ऊँचे\JJ पर्वतों\N_NN पर\PSP वृक्ष\N_NN एवं\CC_CCD अन्य\N_NN हरियाली\JJ नहीं\RP_NEG होने\N_NN के\PSP कारण\N_NN वहाँ\DM_DMD पर\PSP हवा\N_NN में\PSP ऑक्सीजन\N_NN कम\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12398	ऊँचे\JJ पर्वतों\N_NN पर\PSP सूर्य\N_NN की\PSP किरणें\N_NN शरीर\N_NN पर\PSP सीधी\JJ पड़ती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12399	सूर्य\N_NN की\PSP किरणों\N_NN से\PSP शरीर\N_NN के\PSP खुले\JJ अंग\N_NN बहुत\RB जल्दी\JJ प्रभावित\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12400	बर्फ़\N_NN की\PSP चौंध\N_NN और\CC_CCD चमक\N_NN से\PSP आँखों\N_NN को\PSP बचाने\N_NN के\PSP लिए\PSP बर्फ़\N_NN में\PSP लगाया\N_NN जाने\N_NN वाला\N_NN चश्मा\N_NN पर्वतारोही\N_NN के\PSP लिए\PSP एक\QT_QTC अनिवार्य\N_NN उपकरण\N_NN है\V_VM ।\RD_PUNC
+htd12401	बर्फ़\N_NN की\PSP चमक\N_NN से\PSP स्नो\N_NN ब्लाइंडनेस\N_NN होने\N_NN की\PSP संभावना\N_NN हमेशा\RB बनी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12402	पर्वतारोहण\N_NN के\PSP लिए\PSP साधारण\JJ बिस्तर\N_NN ले\V_VM जाने\V_VAUX की\PSP तो\RP_RPD कल्पना\N_NN ही\RP_RPD नहीं\RP_NEG की\V_VM जा\V_VAUX सकती\V_VAUX ।\RD_PUNC
+htd12403	पर्वतारोहण\N_NN अभियान\N_NN के\PSP लिए\PSP स्लीपिंग\N_NN बैग\N_NN का\PSP प्रयोग\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12404	स्लीपिंग\N_NN बैग\N_NN थैलानुमा\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12405	स्लीपिंग\N_NN बैग\N_NN में\PSP घुसकर\N_NN आरोही\N_NN आराम\N_NN से\PSP सो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12406	स्लीपिंग\N_NN बैग\N_NN का\PSP अस्तर\N_NN पक्षियों\N_NN के\PSP कोमल\JJ पंखों\N_NN अथवा\N_NN नाईलोन\N_NN से\PSP भरा\N_NN होने\N_NN के\PSP कारण\N_NN बहुत\RB हल्का\JJ ,\RD_PUNC नर्म\JJ और\CC_CCD गर्म\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12407	स्लीपिंग\N_NN बैग\N_NN में\PSP लेटने\N_NN के\PSP बाद\N_NN आरोही\N_NN अपने\PR_PRF आपको\PR_PRP एक\QT_QTC जिप\N_NN की\PSP सहायता\N_NN से\PSP भीतर\N_NST बंद\V_VM कर\V_VAUX लेता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12408	स्लीपिंग\N_NN बैग\N_NN में\PSP सिर\N_NN को\PSP ढकने\N_NN के\PSP लिए\PSP भी\RP_RPD एक\QT_QTC टोपी\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12409	पर्वतों\N_NN की\PSP सर्दी\N_NN का\PSP स्लीपिंग\N_NN बैग\N_NN में\PSP सोकर\N_NN आराम\N_NN से\PSP मुकाबला\V_VM किया\V_VAUX जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12410	यदि\CC_CCS पर्वतारोहण\N_NN के\PSP इतिहास\N_NN पर\PSP दृष्‍टि\V_VM डालें\V_VAUX तो\RP_RPD ज्ञात\V_VM होगा\V_VAUX कि\PSP इसमें\DM_DMD बहुत\RB से\PSP उतार\N_NN -\RD_PUNC चढ़ाव\RD_ECH आए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12411	प्रारंभ\N_NN से\PSP ही\RP_RPD पर्वतारोहण\N_NN में\PSP अनेक\N_NN अनचाही\JJ परिस्थितयों\N_NN का\PSP सामना\V_VM करना\V_VAUX पड़ा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12412	समय\N_NN -\RD_PUNC समय\RD_ECH पर\PSP पर्वतारोहण\N_NN में\PSP कई\PR_PRI दुर्घटनाएँ\V_VM भी\RP_RPD होती\V_VAUX रही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12413	मुख्य\N_NN रूप\N_NN से\PSP अच्छी\JJ किस्म\N_NN के\PSP उपकरणों\N_NN और\CC_CCD पर्वतारोहण\N_NN के\PSP क्षेत्र\N_NN में\PSP विकसित\N_NN हुई\N_NN तकनीकी\JJ जानकारी\N_NN के\PSP अभाव\N_NN में\PSP ऐसा\DM_DMR होता\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12414	इसके\N_NN अतिरिक्‍त\N_NN आरोहियों\N_NN की\PSP अज्ञानता\N_NN और\CC_CCD अनुभवहीनता\N_NN के\PSP कारण\N_NN भी\RP_RPD कठिनाइयाँ\V_VM आती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12415	भारत\N_NNP में\PSP पर्वतारोहण\N_NN का\PSP इतिहास\N_NN बहुत\RB पुराना\JJ नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12416	साहसिक\JJ खेल\N_NN के\PSP रूप\N_NN में\PSP तो\RP_RPD इसको\DM_DMD एकदम\N_NN नई\JJ गतिविधि\N_NN ही\RP_RPD माना\V_VM जाएगा\V_VAUX ।\RD_PUNC
+htd12417	जब\PR_PRL मई\N_NNP 1953\QT_QTC में\PSP विश्‍व\N_NNP के\PSP सबसे\RB ऊँचे\JJ पर्वत\N_NN शिखर\N_NN एवरेस्ट\N_NNP पर\PSP ’\N_NN तेनजिंग\N_NNP नोर्गे\N_NNP ’\N_NN ने\PSP ’\N_NN एडमंड\N_NNP हिलेरी\N_NNP ’\N_NN के\PSP साथ\N_NN आरोहण\V_VM किया\V_VAUX तो\RP_RPD भारतीयों\N_NN का\PSP ध्यान\N_NN भी\RP_RPD इस\DM_DMD साहसिक\JJ खेल\N_NN की\PSP ओर\N_NST आकृष्‍ट\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12418	इसमें\DM_DMD कोई\PR_PRI संदेह\N_NN नहीं\RP_NEG है\V_VM कि\PSP अन्य\N_NN खेलों\N_NN की\PSP भाँति\N_NN पर्वतारोहण\N_NN के\PSP समय\N_NN भी\RP_RPD जोखिम\N_NN उठाने\V_VM पड़ते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12419	शायद\N_NN कुछ\PR_PRI खेलों\N_NN की\PSP अपेक्षा\N_NN पर्वतारोहण\N_NN में\PSP कुछ\PR_PRI अधिक\N_NN जोखिम\V_VM हों\V_VAUX ।\RD_PUNC
+htd12420	दुर्घटनाओं\N_NN के\PSP कारण\N_NN कई\PR_PRI बार\N_NN आरोही\N_NN के\PSP प्राण\N_NN भी\RP_RPD चले\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12421	इसका\DM_DMD यह\DM_DMD अभिप्राय\N_NN नहीं\RP_NEG है\V_VM कि\PSP पर्वतारोहण\V_VM किया\V_VAUX ही\V_VAUX न\V_VAUX जाए\V_VAUX ।\RD_PUNC
+htd12422	जीवन\N_NN का\PSP कोई\PR_PRI पक्ष\N_NN ऐसा\DM_DMR नहीं\RP_NEG है\V_VM जो\PR_PRL दुर्घटनाओं\N_NN से\PSP अछूता\V_VM हो\V_VAUX ।\RD_PUNC
+htd12423	तो\CC_CCS क्या\PR_PRQ यात्राएँ\N_NN करना\N_NN बंद\V_VM कर\V_VAUX दिया\V_VAUX जाए\V_VAUX अथवा\N_NN दिन\N_NN -\RD_PUNC प्रतिदिन\RD_ECH के\PSP काम\N_NN ही\RP_RPD न\RP_NEG किए\V_VM जाएँ\V_VAUX ?\RD_PUNC
+htd12424	ऐसा\DM_DMR करना\N_NN संभव\V_VM ही\RP_RPD नहीं\RP_NEG ।\RD_PUNC
+htd12425	यदि\CC_CCS ऐसा\DM_DMR है\V_VM तो\RP_RPD पर्वतारोहण\N_NN से\PSP भय\V_VM कैसा\DM_DMQ !\RD_PUNC
+htd12426	पर्वतारोहण\N_NN के\PSP दौरान\N_NN व्यक्‍ति\N_NN को\PSP अपनी\PR_PRF शक्‍ति\N_NN ,\RD_PUNC आत्मविश्‍वास\N_NN ,\RD_PUNC साहस\N_NN और\CC_CCD नेतृत्व\N_NN इत्यादि\N_NN गुणों\N_NN को\PSP परखने\V_VM का\V_VAUX अवसर\V_VAUX मिलता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12427	व्यक्‍ति\N_NN प्राकृतिक\JJ सौंदर्य\N_NN का\PSP आनंद\N_NN ही\RP_RPD नहीं\RP_NEG उठाता\V_VM वह\PR_PRP स्वयं\PR_PRF प्रकृति\N_NN की\PSP गोद\N_NN में\PSP रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd12428	प्राय:\N_NN देखा\V_VM गया\V_VAUX है\V_VAUX कि\PSP पर्वतों\N_NN पर\PSP अधिकांश\JJ दुर्घटनाएँ\N_NN पर्वतारोहण\N_NN के\PSP उपकरणों\N_NN के\PSP कारण\N_NN होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12429	किसी\PR_PRI अभियान\N_NN के\PSP लिए\PSP ठीक\N_NN से\PSP योजना\N_NN न\RP_NEG बनाना\V_VM और\CC_CCD जिन\DM_DMR समस्याओं\N_NN की\PSP जानकारी\V_VM है\V_VAUX उनके\PR_PRP लिए\PSP भी\RP_RPD सावधान\V_VM न\RP_NEG रहना\V_VAUX दुर्घटना\N_NN के\PSP कारण\N_NN बनते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12430	अधिक\JJ अनुभव\N_NN ,\RD_PUNC विश्‍वसनीय\JJ उपकरणों\N_NN और\CC_CCD योजनाबद्ध\JJ तरीके\N_NN से\PSP पर्वतारोहण\N_NN करने\N_NN के\PSP कारण\N_NN इसमें\DM_DMD सुरक्षा\N_NN की\PSP मात्रा\N_NN बहुत\JJ बढ़\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12431	कोई\PR_PRI आरोही\N_NN किसी\PR_PRI कठिन\JJ परिस्थिति\N_NN का\PSP सामना\N_NN अपनी\PR_PRF सूझबूझ\N_NN और\CC_CCD संगठन\N_NN करने\N_NN की\PSP क्षमताओं\N_NN के\PSP साथ\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd12432	इससे\DM_DMD आरोही\N_NN के\PSP शारीरिक\JJ विकास\N_NN के\PSP साथ\N_NN उसका\PR_PRP बौद्धिक\JJ और\CC_CCD मानसिक\JJ विकास\N_NN भी\RP_RPD होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12433	पर्वतीय\JJ बाधाओं\N_NN को\PSP तीन\QT_QTC श्रेणियों\N_NN में\PSP बाँटा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12434	प्राकृतिक\JJ बाधा\N_NN ,\RD_PUNC व्यक्‍तिगत\JJ बाधा\N_NN और\CC_CCD मानसिक\JJ बाधा\N_NN ।\RD_PUNC
+htd12435	पर्वतारोहण\N_NN के\PSP समय\N_NN सबसे\RB प्रमुख\JJ और\CC_CCD सबसे\RB जटिल\JJ प्राकृतिक\JJ बाधा\N_NN एवलांश\N_NN की\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12436	पर्वतों\N_NN पर\PSP अस्थिर\N_NN बर्फ़\N_NN का\PSP अंबार\N_NN होता\V_VM है\V_VAUX जो\PR_PRL किसी\PR_PRI भी\RP_RPD कारण\N_NN से\PSP नीचे\N_NST लुढ़कने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12437	एवलांश\N_NNP बर्फ़\N_NN का\PSP वह\PR_PRP बड़ा\JJ अंबार\N_NN होता\V_VM है\V_VAUX जो\PR_PRL किसी\PR_PRI भी\RP_RPD कारणवश\N_NN अपने\PR_PRF स्थान\N_NN से\PSP हिलकर\N_NN पर्वत\N_NN की\PSP ढलान\N_NN पर\PSP फिसलने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12438	जिस\PR_PRL ढलान\N_NN का\PSP कोण\N_NN 25\QT_QTC डिग्री\QT_QTF से\PSP अधिक\N_NN होता\V_VM है\V_VAUX वहाँ\DM_DMD एवलांश\N_NNP आने\N_NN की\PSP संभावना\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12439	ऐसे\DM_DMR स्थलों\N_NN को\PSP पार\V_VM करते\V_VAUX समय\N_NN अथवा\N_NN इन\DM_DMD पर\PSP आरोहण\V_VM करते\V_VAUX वक्‍त\N_NN बहुत\RB ही\RP_RPD सावधानी\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12440	पर्वतारोहण\N_NN में\PSP एवलांश\N_NNP एक\QT_QTC गंभीर\JJ समस्या\N_NN है\V_VM जो\PR_PRL आरोही\N_NN के\PSP सामने\N_NST हमेशा\RB चुनौती\N_NN बन\V_VM कर\V_VAUX खड़ी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12441	इसके\DM_DMD परिणाम\N_NN बहुत\RB ही\RP_RPD घातक\V_VM होते\V_VAUX हैं\V_VAUX इसलिए\CC_CCS इसके\DM_DMD प्रति\N_NN उन्हें\PR_PRP बहुत\RB ही\RP_RPD सतर्क\V_VM और\CC_CCD सचेत\V_VM रहना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12442	इसी\DM_DMD असावधानी\N_NN और\CC_CCD सतर्कता\N_NN के\PSP अभाव\N_NN के\PSP कारण\N_NN ही\RP_RPD पर्वतों\N_NN में\PSP अधिकतर\JJ दुर्घटनाएँ\V_VM होती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12443	एवलांश\N_NNP एक\QT_QTC प्रकार\N_NN से\PSP मौत\N_NN का\PSP ही\RP_RPD दूसरा\QT_QTO रूप\N_NN है\V_VM इसलिए\CC_CCS आरोहियों\N_NN को\PSP इसके\DM_DMD विषय\N_NN में\PSP पूरी\N_NN -\RD_PUNC पूरी\RD_ECH जानकारी\V_VM होनी\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12444	एवलांश\N_NNP में\PSP आने\N_NN वाले\N_NN पत्थरों\N_NN ,\RD_PUNC चट्‍टानों\N_NN और\CC_CCD बर्फ़\N_NN के\PSP अम्बार\N_NN के\PSP नीचे\N_NST वह\PR_PRP पूरी\N_NN तरह\N_NN से\PSP दब\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12445	जहाँ\PR_PRL आरोही\N_NN बर्फ़\N_NN के\PSP अम्बार\N_NN के\PSP नीचे\N_NST दम\N_NN घुटने\N_NN से\PSP मर\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12446	पर्वतों\N_NN पर\PSP चारों\N_NST ओर\N_NST बर्फ़\N_NN गिरती\V_VM है\V_VAUX ।\RD_PUNC
+htd12447	कुछ\PR_PRI ऐसे\DM_DMR स्थल\N_NN होते\V_VM हैं\V_VAUX जहाँ\PR_PRL बर्फ़\N_NN को\PSP एक\QT_QTC सुदृढ़\JJ आधार\N_NN मिल\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12448	इसकी\DM_DMD परतें\N_NN एक\QT_QTC के\PSP ऊपर\N_NN एक\QT_QTC करके\N_NN जमती\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12449	बर्फ़\N_NN किसी\PR_PRI ढलान\N_NN अथवा\N_NN किनारे\N_NN पर\PSP गिरती\V_VM है\V_VAUX ।\RD_PUNC
+htd12450	जब\PR_PRL उसका\PR_PRP आकार\N_NN और\CC_CCD बोझ\N_NN बहुत\RB बढ़\V_VM जाता\V_VAUX है\V_VAUX तो\RP_RPD ढलान\N_NN अथवा\N_NN किनारे\N_NN उसे\DM_DMD नीचे\N_NN से\PSP सहारा\N_NN देने\N_NN में\PSP असमर्थ\N_NN हो\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12451	इसी\DM_DMD प्रकार\N_NN मौसम\N_NN के\PSP कारण\N_NN भी\RP_RPD बर्फ़\N_NN जहाँ\PR_PRL टिकी\V_VM होती\V_VAUX है\V_VAUX वहाँ\DM_DMD से\PSP खिसकने\V_VM लगती\V_VAUX है\V_VAUX क्योंकि\CC_CCS उसके\DM_DMD पास\N_NST कोई\PR_PRI आधार\N_NN नहीं\RP_NEG होता\V_VM ।\RD_PUNC
+htd12452	एवलांश\N_NNP किसी\PR_PRI भी\RP_RPD ढलान\N_NN पर\PSP शुरू\V_VM हो\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12453	जितनी\DM_DMR अधिक\JJ ढलान\N_NN होगी\V_VM उतनी\DM_DMR अधिक\JJ वहाँ\DM_DMD एवलांश\N_NNP शुरू\V_VM होने\V_VAUX की\PSP संभावना\N_NN होगी\V_VAUX ।\RD_PUNC
+htd12454	ढलान\N_NN यदि\CC_CCS घनी\JJ वनस्पति\N_NN ,\RD_PUNC घास\N_NN ,\RD_PUNC पेड़\N_NN -\RD_PUNC पौधों\N_NN ,\RD_PUNC झाड़ियों\N_NN और\CC_CCD बड़े\JJ -\RD_PUNC बड़े\RD_ECH पत्थरों\N_NN वाली\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12455	यह\DM_DMD बर्फ़\N_NN को\PSP अच्छा\JJ आधार\N_NN प्रदान\V_VM करती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12456	पर्वतों\N_NN पर\PSP तापमान\N_NN ,\RD_PUNC हवा\N_NN और\CC_CCD पानी\N_NN बर्फ़\N_NN की\PSP स्थिति\N_NN को\PSP अस्थिर\N_NN बनाने\N_NN में\PSP बहुत\RB ही\RP_RPD महत्त्वपूर्ण\JJ भूमिका\N_NN निभाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12457	एवलांश\N_NNP पर्वतों\N_NN में\PSP एक\QT_QTC बहुत\RB ही\RP_RPD सामान्य\N_NN घटना\N_NN है\V_VM ।\RD_PUNC
+htd12458	तीखी\JJ ढलान\N_NN के\PSP कारण\N_NN तेज\JJ वर्षा\N_NN में\PSP भूस्खलन\N_NN बहुत\N_NN आसानी\N_NN से\PSP होने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12459	कई\PR_PRI बार\N_NN नीचे\N_NST की\PSP मिट्‍टी\N_NN अपने\PR_PRF स्थान\N_NN से\PSP हट\V_VM जाती\V_VAUX है\V_VAUX तो\RP_RPD ऊपरी\N_NST भागों\N_NN का\PSP आधार\N_NN खिसक\V_VM जाता\V_VAUX है\V_VAUX और\CC_CCD आरोही\N_NN नीचे\N_NST गिरने\V_VM लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12460	प्राय:\N_NN हर\N_NN आरोही\N_NN को\PSP ऐसी\DM_DMR स्थिति\N_NN का\PSP सामना\V_VM करना\V_VAUX ही\RP_RPD पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12461	जब\PR_PRL किसी\PR_PRI ऐसे\DM_DMR स्थल\N_NN को\PSP पार\V_VM करना\V_VAUX हो\V_VAUX तो\RP_RPD बहुत\RB ही\RP_RPD सावधान\N_NN रहने\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12462	प्राय:\N_NN पर्वतों\N_NN पर\PSP पहली\QT_QTO बार\QT_QTF आने\N_NN वाले\N_NN सैलानी\N_NN और\CC_CCD पर्वतारोही\N_NN पर्वतीय\JJ नदी\N_NN -\RD_PUNC नालों\RD_ECH को\PSP कोई\PR_PRI महत्त्व\N_NN नहीं\RP_NEG देते\V_VM ।\RD_PUNC
+htd12463	क्योंकि\CC_CCS उन्होंने\PR_PRP मैदानी\N_NN भू-भागों\N_NN में\PSP बड़ी\JJ -\RD_PUNC बड़ी\RD_ECH नदियाँ\N_NN देखी\V_VM होती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12464	इन\DM_DMD नदियों\N_NN के\PSP चौड़े\JJ -\RD_PUNC चौड़े\RD_ECH पाट\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12465	बाढ़\N_NN आने\N_NN पर\PSP ये\DM_DMD नदियाँ\N_NN तबाही\V_VM मचा\V_VAUX देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12466	इसीलिए\CC_CCS ऐसे\DM_DMR आरोहियों\N_NN को\PSP पर्वतों\N_NN पर\PSP बहने\N_NN वाले\N_NN नदी\N_NN -\RD_PUNC नाले\RD_ECH बहुत\RB छोटे\JJ से\PSP लगते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12467	कहीं\PR_PRI -\RD_PUNC कहीं\RD_ECH तो\RP_RPD इन\DM_DMD नदी\N_NN -\RD_PUNC नालों\RD_ECH को\PSP छलांग\V_VM लगाकर\V_VAUX भी\RP_RPD पार\V_VM किया\V_VAUX जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12468	इसलिए\CC_CCS आरोही\N_NN इन्हें\DM_DMD बहुत\RB ही\RP_RPD असावधानीपूर्वक\JJ पार\V_VM करने\V_VAUX लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12469	वास्तविकता\N_NN यह\DM_DMD है\V_VM कि\PSP इन\DM_DMD नदी\N_NN -\RD_PUNC नालों\RD_ECH को\PSP पार\V_VM करते\V_VAUX समय\N_NN यदि\CC_CCS कोई\PR_PRI फिसल\V_VM जाए\V_VAUX तो\RP_RPD उसके\DM_DMD लिए\PSP फिर\N_NN उठना\N_NN कठिन\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12470	तेजी\N_NN से\PSP बहने\N_NN वाले\N_NN ठंडे\JJ पानी\N_NN के\PSP कारण\N_NN हाथ\N_NN -\RD_PUNC पैर\RD_ECH जमने\V_VM लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12471	पत्थरों\N_NN पर\PSP गिरने\N_NN से\PSP घातक\JJ चोट\V_VM लग\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12472	ग्लेशियर\N_NN को\PSP पार\V_VM करते\V_VAUX समय\N_NN दल\N_NN के\PSP सदस्यों\N_NN को\PSP अपने\PR_PRF आपको\PR_PRP एक\QT_QTC रस्से\N_NN में\PSP बाँध\V_VM लेना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12473	दल\N_NN के\PSP पहले\QT_QTC सदस्य\N_NN को\PSP अपने\PR_PRF आइस\N_NN एक्स\N_NN की\PSP सहायता\N_NN से\PSP ऐसी\DM_DMR दरार\N_NN को\PSP टटोलते\N_NN हुए\N_NN आगे\N_NST बढ़ना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12474	जब\PR_PRL भी\RP_RPD ऐसे\DM_DMR मार्ग\N_NN को\PSP पार\V_VM करना\V_VAUX हो\V_VAUX क्रिवैस\N_NN से\PSP संबंधित\N_NN बचाव\N_NN के\PSP उपकरण\N_NN साथ\N_NN ले\V_VM लें\V_VAUX ।\RD_PUNC
+htd12475	यदि\CC_CCS क्रिवैस\N_NN तंग\N_NN हो\N_NN तो\RP_RPD एक\QT_QTC -\RD_PUNC एक\RD_ECH करके\N_NN सदस्यों\N_NN को\PSP छ्लांग\N_NN लगाकर\N_NN उसे\DM_DMD पार\V_VM करना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12476	प्रत्येक\QT_QTF सदस्य\N_NN को\PSP बिले\N_NN अवश्य\N_NN ही\RP_RPD करना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12477	यदि\CC_CCS ऐसा\DM_DMR करना\N_NN संभव\N_NN न\RP_NEG हो\V_VM तो\RP_RPD दल\N_NN को\PSP बहुत\RB धीरे\JJ -\RD_PUNC धीरे\RD_ECH ,\RD_PUNC प्रत्येक\QT_QTF सदस्य\N_NN को\PSP बिले\N_NN करते\N_NN हुए\N_NN आगे\N_NST बढ़ना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12478	जब\PR_PRL ग्लेशियर\N_NN अधिक\N_NN ढलवाँ\N_NN ढलान\N_NN पर\PSP बहते\V_VM हैं\V_VAUX तो\RP_RPD टूट\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12479	इस\DM_DMD टूटे\N_NN हुए\N_NN ग्लेशियर\N_NN के\PSP भाग\N_NN को\PSP आइस\N_NN फॉल\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12480	टूटे\N_NN हुए\N_NN ग्लेशियर\N_NN के\PSP भाग\N_NN में\PSP शिखरनुमा\N_NN बने\N_NN ’\N_NN पिनाकल\N_NN ’\N_NN आइस\N_NN टावर\N_NN कहलाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12481	इन\DM_DMD पिनाकल\N_NN को\PSP ’\N_NN सिरक्स\N_NNP ’\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12482	ये\DM_DMD पिनाकल\N_NN बहुत\N_NN ही\RP_RPD अस्थिर\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12483	फलत:\CC_CCS जहाँ\PR_PRL तक\PSP संभव\V_VM हो\V_VAUX इन\DM_DMD पिनाकल\N_NN से\PSP बचकर\N_NN ही\RP_RPD चलना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12484	यदि\CC_CCS ऐसा\DM_DMR करना\V_VM संभव\N_NN न\RP_NEG हो\V_VAUX तो\RP_RPD इन्हें\DM_DMD पार\V_VM करते\V_VAUX समय\N_NN पूरी\JJ सावधानी\N_NN बरतनी\V_VM चाहिए\V_VAUX क्योंकि\CC_CCS ये\DM_DMD पिनाकल\N_NN कभी\PR_PRI भी\RP_RPD टूट\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12485	पर्वतों\N_NN पर\PSP और\CC_CCD विशेष\JJ रूप\N_NN से\PSP हिमालय\N_NNP पर\PSP मौसम\N_NN किसी\PR_PRI भी\RP_RPD पर्वतारोहण\N_NN अभियान\N_NN के\PSP सफल\N_NN अथवा\N_NN असफल\N_NN होने\N_NN में\PSP महत्त्वपूर्ण\JJ भूमिका\N_NN निभाता\V_VM है\V_VAUX ।\RD_PUNC
+htd12486	भारतीयों\N_NN द्वारा\N_NN सन्‌\N_NN 1960\QT_QTC ,\RD_PUNC 1962\QT_QTC और\CC_CCD 1985\QT_QTC में\PSP एवरेस्ट\N_NNP आरोहण\N_NN के\PSP लिए\PSP आयोजित\N_NN तीन\QT_QTC अभियान\N_NN केवल\N_NN खराब\JJ मौसम\N_NN के\PSP कारण\N_NN ही\RP_RPD असफल\V_VM हुए\V_VAUX ।\RD_PUNC
+htd12487	1985\QT_QTC के\PSP अभियान\N_NN में\PSP तो\RP_RPD भारत\N_NNP को\PSP पाँच\QT_QTC अनुभवी\JJ पर्वतारोहियों\N_NN को\PSP सदा\N_NN के\PSP लिए\PSP खोना\V_VM पड़ा\V_VAUX ।\RD_PUNC
+htd12488	वर्षा\N_NN ,\RD_PUNC बर्फ़\N_NN अथवा\N_NN ओलों\N_NN का\PSP गिरना\N_NN ,\RD_PUNC धुंध\N_NN अथवा\N_NN कोहरा\N_NN ,\RD_PUNC बर्फ़ीले\JJ तूफान\N_NN ,\RD_PUNC अँधेरा\N_NN ,\RD_PUNC सर्दी\N_NN ,\RD_PUNC गर्मी\N_NN ,\RD_PUNC आँधी\N_NN अथवा\N_NN बिजली\N_NN का\PSP चमकना\N_NN या\CC_CCD गिरना\N_NN इत्यादि\N_NN सभी\PR_PRI मौसम\N_NN के\PSP ही\RP_RPD विभिन्न\JJ अंग\N_NN हैं\V_VM ।\RD_PUNC
+htd12489	पर्वतों\N_NN में\PSP मौसम\N_NN में\PSP अचानक\JJ परिवर्तन\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12490	तीन\QT_QTC -\RD_PUNC चार\QT_QTC दिन\N_NN में\PSP तापमान\N_NN कुछ\PR_PRI का\PSP कुछ\PR_PRI हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12491	पर्वतों\N_NN में\PSP मौसम\N_NN का\PSP कोई\PR_PRI भी\RP_RPD रंग\N_NN देखने\N_NN को\PSP मिल\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12492	पर्वतों\N_NN पर\PSP वर्षा\N_NN होने\N_NN अथवा\N_NN बर्फ़\N_NN गिरने\N_NN पर\PSP अच्छी\JJ बरसाती\N_NN का\PSP प्रयोग\V_VM करें\V_VAUX ।\RD_PUNC
+htd12493	शिविर\N_NN में\PSP पहुँचते\N_NN ही\RP_RPD गीले\JJ वस्‍त्रों\N_NN को\PSP उतार\V_VM कर\V_VAUX सूखे\JJ वस्‍त्र\N_NN पहन\V_VM लें\V_VAUX ।\RD_PUNC
+htd12494	यदि\CC_CCS मार्ग\N_NN में\PSP ओले\N_NN पड़ने\V_VM लगें\V_VAUX ,\RD_PUNC बर्फ़ीला\JJ तूफान\N_NN आ\V_VM जाए\V_VAUX अथवा\N_NN तेज\JJ आँधी\N_NN चलने\V_VM लगे\V_VAUX ,\RD_PUNC धुंध\N_NN अथवा\N_NN कोहरा\N_NN बहुत\RB घना\JJ हो\V_VM जाए\V_VAUX तो\RP_RPD किसी\PR_PRI सुरक्षित\JJ स्थान\N_NN पर\PSP रुककर\N_NN मौसम\N_NN साफ\N_NN होने\N_NN की\PSP प्रतीक्षा\V_VM करें\V_VAUX ।\RD_PUNC
+htd12495	आमतौर\N_NN पर\PSP पर्वतों\N_NN में\PSP दोपहर\N_NN के\PSP बाद\N_NN मौसम\N_NN खराब\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12496	सभी\PR_PRI महत्त्वपूर्ण\JJ कार्य\N_NN प्रात:\N_NN ही\RP_RPD कर\V_VM लेने\V_VAUX का\V_VAUX प्रयास\V_VM करें\V_VAUX ।\RD_PUNC
+htd12497	बर्फ़ीले\JJ तूफान\N_NN में\PSP फँसने\N_NN पर\PSP चट्‍टानों\N_NN के\PSP मध्य\N_NST ,\RD_PUNC गुफाओं\N_NN अथवा\N_NN पेड़ों\N_NN के\PSP खोखले\JJ स्थानों\N_NN पर\PSP शरण\N_NN लेने\N_NN का\PSP प्रयास\V_VM करें\V_VAUX ।\RD_PUNC
+htd12498	ठंडे\JJ मौसम\N_NN का\PSP सामना\N_NN करने\N_NN के\PSP लिए\PSP बढ़िया\JJ किस्म\N_NN के\PSP ऊनी\JJ कपड़े\N_NN और\CC_CCD स्लीपिंग\N_NN बैग\N_NN साथ\N_NN लेकर\N_NN ही\RP_RPD पर्वतारोहण\N_NN के\PSP लिए\PSP निकलना\V_VM उचित\V_VAUX रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12499	बिजली\N_NN गिरने\N_NN से\PSP बचाव\N_NN के\PSP लिए\PSP धातुओं\N_NN की\PSP सभी\PR_PRI वस्तुएँ\N_NN जैसे\DM_DMR आइस\N_NN एक्स\N_NN ,\RD_PUNC पिटन\N_NN ,\RD_PUNC क्रैम्पन\N_NN और\CC_CCD बर्तन\N_NN इत्यादि\N_NN अपने\PR_PRF से\PSP दूर\V_VM रखें\V_VAUX ।\RD_PUNC
+htd12500	स्वयं\PR_PRF रकसैक\N_NN नीचे\N_NST रख\V_VM कर\V_VAUX उसके\DM_DMD ऊपर\N_NST इस\DM_DMD प्रकार\N_NN से\PSP बैठ\V_VM जाएँ\V_VAUX जिससे\DM_DMR पाँव\N_NN जमीन\N_NN को\PSP छूते\V_VM रहें\V_VAUX ।\RD_PUNC
+htd12501	बिजली\N_NN गिरने\N_NN पर\PSP कानों\N_NN पर\PSP हाथ\N_NN रख\V_VM लें\V_VAUX और\CC_CCD आँखों\N_NN को\PSP बंद\V_VM रखें\V_VAUX ।\RD_PUNC
+htd12502	बिजली\N_NN गिरने\N_NN पर\PSP साँस\N_NN रोककर\N_NN रखने\N_NN का\PSP प्रयास\V_VM करें\V_VAUX ।\RD_PUNC
+htd12503	यदि\CC_CCS बिजली\N_NN आस\N_NN -\RD_PUNC पास\RD_ECH गिरी\V_VM हो\V_VAUX तो\RP_RPD कम\N_NN से\PSP कम\N_NN तीस\QT_QTC मिनट\N_NN तक\PSP अपनी\PR_PRF गतिविधियों\N_NN को\PSP शुरू\V_VM न\RP_NEG करें\V_VAUX ।\RD_PUNC
+htd12504	यदि\CC_CCS दल\N_NN में\PSP कई\PR_PRI सदस्य\N_NN हों\V_VM तो\RP_RPD एक\QT_QTC -\RD_PUNC दूसरे\N_NN से\PSP कम\N_NN से\PSP कम\N_NN बीस\QT_QTC फुट\QT_QTF की\PSP दूरी\N_NN पर\PSP चले\V_VM जाएँ\V_VAUX ।\RD_PUNC
+htd12505	बिजली\N_NN गिरने\N_NN से\PSP यदि\CC_CCS कोई\PR_PRI आहत\V_VM हो\V_VAUX जाए\V_VAUX तो\RP_RPD तुरंत\N_NN ही\RP_RPD उसका\PR_PRP इलाज\V_VM करें\V_VAUX ।\RD_PUNC
+htd12506	जले\N_NN हुए\N_NN स्थानों\N_NN का\PSP उसी\DM_DMD प्रकार\N_NN से\PSP उपचार\V_VM करें\V_VAUX जैसे\DM_DMR आमतौर\N_NN पर\PSP किसी\PR_PRI अंग\N_NN के\PSP जल\N_NN जाने\N_NN पर\PSP किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12507	पर्वतारोहण\N_NN का\PSP तीसरा\QT_QTO चरण\N_NN है\V_VM स्नो\N_NN क्लाइमिंग\N_NN ।\RD_PUNC
+htd12508	सबसे\RB पहले\JJ ट्रेकिंग\N_NN द्वारा\N_NN व्यक्‍ति\N_NN का\PSP पर्वतों\N_NN से\PSP परिचय\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12509	रॉक\N_NN क्लाइमिंग\N_NN के\PSP माध्यम\N_NN से\PSP वह\PR_PRP अपने\PR_PRF आपको\PR_PRP ऊँचे\JJ पर्वतों\N_NN पर\PSP जाने\N_NN के\PSP लिए\PSP तैयार\V_VM करता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12510	वास्तविक\CC_CCS पर्वतारोहण\N_NN तब\N_NN प्रारंभ\V_VM होता\V_VAUX है\V_VAUX जब\PR_PRL व्यक्‍ति\N_NN अपना\PR_PRF पहला\QT_QTO कदम\N_NN बर्फ़\N_NN पर\PSP रखता\V_VM है\V_VAUX ।\RD_PUNC
+htd12511	स्नो\N_NN क्लाइमिंग\N_NN में\PSP आरोही\N_NN को\PSP नई\JJ प्रकार\N_NN की\PSP कठिनाइयों\N_NN का\PSP सामना\V_VM करना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12512	जिनसे\DM_DMR उसका\PR_PRP वास्ता\N_NN ट्रेकिंग\N_NN अथवा\N_NN रॉक\N_NN क्लाइमिंग\N_NN करते\N_NN समय\N_NN नहीं\RP_NEG पड़ा\V_VM होता\V_VAUX ।\RD_PUNC
+htd12513	इसलिए\CC_CCS पर्वतारोहण\N_NN पर\PSP जाने\N_NN से\PSP पूर्व\N_NN व्यक्‍ति\N_NN को\PSP स्नो\N_NN क्लाइमिंग\N_NN के\PSP मूल\N_NN सिद्धांतो\N_NN के\PSP बारे\N_NN में\PSP अच्छी\JJ जानकारी\V_VM होनी\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12514	केवल\N_NN बर्फ़\N_NN में\PSP घूमने\N_NN के\PSP लिए\PSP यदि\CC_CCS बर्फ़\N_NN की\PSP स्थिति\N_NN के\PSP विषय\N_NN में\PSP जानकारी\N_NN की\PSP बात\V_VM की\V_VAUX जाए\V_VAUX तो\RP_RPD मामला\N_NN बहुत\JJ उलझा\V_VM हुआ\V_VAUX दिखाई\V_VAUX देगा\V_VAUX ।\RD_PUNC
+htd12515	इसके\DM_DMD विषय\N_NN में\PSP केवल\RB ऊपरी\JJ बातें\N_NN ही\RP_RPD की\V_VM जा\V_VAUX सकती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12516	पर्वतों\N_NN पर\PSP बर्फ़\N_NN की\PSP स्थिति\N_NN और\CC_CCD आरोहण\N_NN के\PSP मध्य\N_NST संबंध\N_NN के\PSP विषय\N_NN में\PSP चर्चा\N_NN करने\N_NN का\PSP कोई\PR_PRI अभिप्राय\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12517	इसके\DM_DMD बारे\N_NN में\PSP जानने\N_NN के\PSP लिए\PSP सबसे\RB अच्छा\JJ तरीका\N_NN है\V_VM स्वयं\PR_PRF के\PSP अनुभव\N_NN द्वारा\N_NN सीखना\V_VM ।\RD_PUNC
+htd12518	कुछ\PR_PRI व्यावहारिक\JJ बातों\N_NN की\PSP जानकारी\N_NN अवश्य\N_NN ही\RP_RPD स्नो\N_NN क्लाइमिंग\N_NN के\PSP दौरान\N_NN व्यक्‍ति\N_NN के\PSP लिए\PSP सहायक\V_VM हो\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12519	इन\DM_DMD बातों\N_NN का\PSP ध्यान\N_NN रखने\N_NN से\PSP आरोही\N_NN जल्दी\RB और\CC_CCD सुगमता\N_NN से\PSP आरोहण\V_VM कर\V_VAUX पाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12520	ऊँचे\JJ पर्वतों\N_NN में\PSP बर्फ़\N_NN की\PSP स्थिति\N_NN में\PSP बहुत\RB तेजी\JJ से\PSP परिवर्तन\V_VM आता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12521	यह\DM_DMD परिवर्तन\N_NN ऊँचाई\N_NN ,\RD_PUNC तापमान\N_NN ,\RD_PUNC हवा\N_NN ,\RD_PUNC सूर्य\N_NN एवं\CC_CCD पर्वतों\N_NN के\PSP प्रकार\N_NN के\PSP कारण\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12522	पर्वतों\N_NN में\PSP जितनी\DM_DMR अधिक\N_NN ऊँचाई\N_NN होती\V_VM है\V_VAUX उतनी\DM_DMR ही\RP_RPD अधिक\JJ बर्फ़\N_NN वहाँ\DM_DMD पर\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12523	दिन\N_NN और\CC_CCD रात\N_NN का\PSP तापमान\N_NN कई\PR_PRI परिवर्तनों\N_NN का\PSP कारण\N_NN बनता\V_VM है\V_VAUX ।\RD_PUNC
+htd12524	हवा\N_NN के\PSP कारण\N_NN भी\RP_RPD परिवर्तन\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12525	सूर्य\N_NN की\PSP गर्मी\N_NN के\PSP कारण\N_NN दिन\N_NN में\PSP बर्फ़\N_NN पिघलने\V_VM लगती\V_VAUX है\V_VAUX अथवा\N_NN नर्म\V_VM हो\V_VAUX जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12526	रात\N_NN में\PSP बर्फ़\N_NN जम\N_NN जाने\N_NN के\PSP कारण\N_NN कठोर\V_VM हो\V_VAUX जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12527	इस\DM_DMD कठोर\JJ बर्फ़\N_NN पर\PSP बर्फ़\N_NN की\PSP परतें\N_NN बनने\V_VM लगती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12528	इस\DM_DMD प्रकार\N_NN वहाँ\DM_DMD पर\PSP ऊपर\N_NST पक्की\JJ और\CC_CCD नीचे\N_NST कच्ची\JJ बर्फ़\N_NN की\PSP परतों\N_NN का\PSP निर्माण\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12529	तकनीकी\JJ भाषा\N_NN में\PSP इसे\DM_DMD हार्ड\N_NN स्नो\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12530	पर्वतारोहण\N_NN के\PSP दौरान\N_NN पर्वतारोही\N_NN को\PSP ताजा\JJ बर्फ़\N_NN ,\RD_PUNC नरम\JJ बर्फ़\N_NN ,\RD_PUNC सख्त\JJ बर्फ़\N_NN ,\RD_PUNC क्रस्टेड\N_NN अर्थात\N_NN परतों\N_NN वाली\N_NN बर्फ़\N_NN ,\RD_PUNC पाउडर\N_NN जैसी\DM_DMR बर्फ़\N_NN ,\RD_PUNC गीली\JJ बर्फ़\N_NN और\CC_CCD गलने\N_NN वाली\N_NN बर्फ़\N_NN इत्यादि\N_NN विभिन्न\N_NN प्रकार\N_NN की\PSP बर्फ़\N_NN मिलती\V_VM है\V_VAUX ।\RD_PUNC
+htd12531	जब\PR_PRL नई\JJ बर्फ़\N_NN गिरती\V_VM है\V_VAUX तो\RP_RPD वह\PR_PRP ताजी\JJ ,\RD_PUNC साफ\JJ -\RD_PUNC सुथरी\RD_ECH और\CC_CCD सूखी\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12532	इस\DM_DMD प्रकार\N_NN की\PSP नई\JJ बर्फ़\N_NN में\PSP आरोही\N_NN गहरा\N_NN धँस\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12533	इस\DM_DMD नई\JJ बर्फ़\N_NN का\PSP अपने\PR_PRF नीचे\N_NST की\PSP किसी\PR_PRI वस्तु\N_NN से\PSP कुछ\PR_PRI जुड़ाव\V_VM नहीं\RP_NEG होता\V_VAUX ।\RD_PUNC
+htd12534	नई\JJ बर्फ़\N_NN के\PSP कण\N_NN अभी\N_NN एक\QT_QTC -\RD_PUNC दूसरे\N_NN के\PSP साथ\N_NN चिपके\V_VM हुए\V_VAUX नहीं\RP_NEG होते\V_VAUX ।\RD_PUNC
+htd12535	इस\DM_DMD नई\JJ हिम\N_NN में\PSP चलना\N_NN बहुत\N_NN थका\V_VM देने\V_VAUX वाला\V_VAUX कार्य\N_NN है\V_VM ।\RD_PUNC
+htd12536	कड़ी\JJ चट्‍टानों\N_NN और\CC_CCD ग्लेशियर\N_NN पर\PSP गिर\V_VM कर\V_VAUX नई\JJ बर्फ़\N_NN तेजी\RB से\PSP नीचे\N_NST की\PSP ओर\N_NST खिसकती\V_VM है\V_VAUX ।\RD_PUNC
+htd12537	किसी\PR_PRI खड़ी\JJ ढलान\N_NN को\PSP उस\PR_PRP समय\N_NN पार\V_VM नहीं\RP_NEG करना\V_VAUX चाहिए\V_VAUX जब\PR_PRL ताजा\JJ बर्फ़\N_NN गिरी\V_VM हो\V_VAUX ।\RD_PUNC
+htd12538	कम\N_NN से\PSP कम\N_NN दो\QT_QTC -\RD_PUNC तीन\QT_QTC दिन\N_NN बाद\N_NN ही\RP_RPD उस\PR_PRP ढलान\N_NN को\PSP पार\V_VM करना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12539	हिमालय\N_NNP में\PSP आमतौर\N_NN पर\PSP ऐसी\DM_DMR बर्फ़\N_NN गिरती\V_VM ही\V_VAUX रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12540	जो\PR_PRL आरोही\N_NN इस\DM_DMD बात\N_NN की\PSP परवाह\V_VM नहीं\RP_NEG करते\V_VAUX वह\PR_PRP दुर्घटना\N_NN के\PSP शिकार\V_VM हो\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12541	यदि\CC_CCS किसी\PR_PRI विवशतावश\N_NN ऐसे\DM_DMR स्थल\N_NN को\PSP पार\V_VM करना\V_VAUX ही\RP_RPD हो\V_VAUX तो\RP_RPD कुछ\PR_PRI बातों\N_NN का\PSP ध्यान\V_VM रखना\V_VAUX अनिवार्य\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12542	सावधानी\N_NN के\PSP लिए\PSP ऐसे\DM_DMR स्थल\N_NN पर\PSP पत्थर\N_NN ,\RD_PUNC बर्फ़\N_NN के\PSP गोले\N_NN इत्यादि\N_NN कुछ\PR_PRI फेंक\V_VM कर\V_VAUX मार्ग\N_NN को\PSP ऐसी\DM_DMR बर्फ़\N_NN से\PSP साफ\V_VM कर\V_VAUX लेना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12543	ऐसा\DM_DMR करने\N_NN से\PSP बर्फ़\N_NN की\PSP ऊपरी\N_NST परत\N_NN नीचे\N_NST खिसक\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12544	पाउडर\N_NN जैसी\DM_DMR बर्फ़\N_NN ,\RD_PUNC ताजा\JJ बर्फ़\N_NN जैसी\DM_DMR होती\V_VM है\V_VAUX परंतु\CC_CCS इसका\DM_DMD रंग\N_NN कुछ\PR_PRI गहरा\JJ स्लेटी\JJ अथवा\N_NN भूरा\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12545	पाउडर\N_NN जैसी\DM_DMR बर्फ़\N_NN देखने\N_NN में\PSP मैली\V_VM लगती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12546	नमी\N_NN के\PSP भाप\N_NN बनने\N_NN के\PSP कारण\N_NN पाउडर\N_NN बर्फ़\N_NN में\PSP पानी\N_NN की\PSP मात्रा\N_NN बहुत\RB कम\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12547	पर्वतों\N_NN में\PSP दिन\N_NN में\PSP सूर्य\N_NN की\PSP सीधी\JJ किरणों\N_NN और\CC_CCD हल्की\JJ हवा\N_NN के\PSP कारण\N_NN तापमान\N_NN अधिक\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12548	इससे\DM_DMD बर्फ़\N_NN पिघल\V_VM कर\V_VAUX गीली\V_VM हो\V_VAUX जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12549	गीली\JJ बर्फ़\N_NN पर\PSP पैर\N_NN अच्छी\JJ तरह\N_NN से\PSP जमा\V_VM कर\V_VAUX चला\V_VAUX जा\V_VAUX सकता\V_VAUX है\V_VAUX परंतु\CC_CCS इससे\CC_CCS बूट\N_NN और\CC_CCD कपड़े\N_NN गीले\V_VM हो\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12550	गीली\JJ बर्फ़\N_NN का\PSP रंग\N_NN नीला\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12551	आमतौर\N_NN पर\PSP पहाड़ों\N_NN पर\PSP यह\DM_DMD स्थिति\N_NN दिन\N_NN में\PSP ही\RP_RPD होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12552	क्योंकि\CC_CCS पानी\N_NN गीली\N_NN बर्फ़\N_NN के\PSP ऊपर\N_NST और\CC_CCD भीतर\N_NST भी\RP_RPD बहता\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12553	थाईग\N_NN स्नो\N_NN अर्थात\N_NN पिघलती\V_VM हुई\V_VAUX बर्फ़\N_NN ,\RD_PUNC गीली\JJ बर्फ़\N_NN से\PSP भी\RP_RPD अधिक\RB गीली\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12554	इसका\DM_DMD कारण\N_NN भी\RP_RPD यही\DM_DMD होता\V_VM है\V_VAUX कि\PSP दिन\N_NN में\PSP तापमान\N_NN बढ़\V_VM जाता\V_VAUX है\V_VAUX और\CC_CCD रात्रि\N_NN में\PSP जमाव\N_NN बिंदु\N_NN पर\PSP पहुँच\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12555	यदि\CC_CCS पिघलती\V_VM हुई\V_VAUX बर्फ़\N_NN की\PSP प्रक्रिया\N_NN निरंतर\N_NN कई\PR_PRI दिन\N_NN तक\PSP चलती\V_VM रहती\V_VAUX है\V_VAUX तो\RP_RPD सतह\N_NN कहीं\PR_PRI से\PSP टूट\V_VM जाती\V_VAUX है\V_VAUX और\CC_CCD कहीं\PR_PRI -\RD_PUNC कहीं\RD_ECH उसमें\DM_DMD छेद\V_VM हो\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12556	ऐसे\DM_DMR स्थान\N_NN को\PSP पार\V_VM करने\V_VAUX में\PSP भी\RP_RPD कठिनाई\V_VM आती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12557	विशेष\JJ रूप\N_NN से\PSP प्रात:काल\N_NST के\PSP समय\N_NN जब\PR_PRL यहाँ\DM_DMD पर\PSP बहुत\JJ फिसलन\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12558	पिघलती\V_VM हुई\V_VAUX बर्फ़\N_NN के\PSP स्थानों\N_NN पर\PSP क्रैम्पन\N_NN का\PSP प्रयोग\V_VM करना\V_VAUX अच्छा\JJ रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12559	सूखी\JJ बर्फ़\N_NN वो\DM_DMD होती\V_VM है\V_VAUX जब\PR_PRL पानी\N_NN दिखाई\V_VM न\RP_NEG देता\V_VAUX हो\V_VAUX और\CC_CCD बर्फ़\N_NN हाथों\N_NN से\PSP चिपक\V_VM भी\RP_RPD न\RP_NEG रही\V_VAUX हो\V_VAUX ।\RD_PUNC
+htd12560	गीली\JJ बर्फ़\N_NN दबाने\N_NN पर\PSP हाथों\N_NN से\PSP चिपकती\V_VM है\V_VAUX और\CC_CCD इनमें\DM_DMD पानी\N_NN दिखाई\V_VM देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12561	स्लश\N_NN स्नो\N_NN को\PSP बिना\N_NN दबाए\N_NN ही\RP_RPD इसमें\N_NN से\PSP पानी\N_NN बहने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12562	जब\PR_PRL मुट्‍ठी\N_NN बर्फ़\N_NN के\PSP भीतर\N_NST धँस\V_VM जाए\V_VAUX तो\RP_RPD वह\PR_PRP नरम\JJ बर्फ़\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12563	मध्यम\JJ सख्ती\N_NN वाली\N_NN बर्फ़\N_NN वह\PR_PRP है\V_VM जब\PR_PRL तर्जनी\JJ अंगुली\N_NN उसमें\DM_DMD आसानी\N_NN से\PSP चली\V_VM जाए\V_VAUX ।\RD_PUNC
+htd12564	कठोर\JJ बर्फ़\N_NN वह\PR_PRP है\V_VM जब\PR_PRL अंगुली\N_NN की\PSP अपेक्षा\N_NN उसमें\DM_DMD पेंसिल\N_NN आसानी\N_NN से\PSP चली\V_VM जाए\V_VAUX ।\RD_PUNC
+htd12565	जब\PR_PRL चाकू\N_NN का\PSP ब्लेड\N_NN ही\RP_RPD उसमें\DM_DMD घुस\V_VM सके\V_VAUX तो\RP_RPD उसे\DM_DMD बहुत\RB कठोर\JJ बर्फ़\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12566	एक\QT_QTC अन्य\N_NN बात\N_NN जो\PR_PRL आरोही\N_NN को\PSP स्मरण\V_VM रखनी\V_VAUX चाहिए\V_VAUX और\CC_CCD जिसकी\PR_PRL पूरी\JJ जानकारी\N_NN भी\RP_RPD उसे\DM_DMD होनी\V_VM चाहिए\V_VAUX ,\RD_PUNC वह\PR_PRP है\V_VM कि\PSP ढलान\N_NN का\PSP कोण\N_NN कितना\V_VM है\V_VAUX ।\RD_PUNC
+htd12567	आरोहण\N_NN के\PSP लिए\PSP कोई\PR_PRI भी\RP_RPD तरीका\N_NN अपनाने\N_NN से\PSP पहले\N_NST ढलान\N_NN के\PSP कोण\N_NN की\PSP जानकारी\N_NN उतनी\N_NN ही\RP_RPD आवश्यक\N_NN है\V_VM जितना\DM_DMR यह\DM_DMD जानना\V_VM कि\PSP बर्फ़\N_NN किस\PR_PRI प्रकार\N_NN की\PSP है\V_VM और\CC_CCD कितनी\PR_PRQ कठोर\V_VM है\V_VAUX ।\RD_PUNC
+htd12568	ढलान\N_NN के\PSP कोण\N_NN का\PSP अनुमान\V_VM लगाना\V_VAUX इसलिए\CC_CCS भी\RP_RPD जरूरी\N_NN है\V_VM क्योंकि\CC_CCS इसका\DM_DMD सीधा\JJ संबंध\N_NN बर्फ़\N_NN के\PSP फिसलने\N_NN से\PSP होता\V_VM है\V_VAUX जिससे\DM_DMR एवलांश\N_NNP शुरू\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12569	पर्वतारोहण\N_NN के\PSP अनंतर\N_NN आरोहियों\N_NN को\PSP बर्फ़\N_NN के\PSP कई\PR_PRI प्रकार\N_NN के\PSP ढाँचों\N_NN पर\PSP से\PSP होकर\N_NN गुजरना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12570	उदाहरण\N_NN के\PSP रूप\N_NN में\PSP बर्फ़\N_NN के\PSP पुल\N_NN ,\RD_PUNC कार्निस\N_NN ,\RD_PUNC बर्फ़\N_NN की\PSP रिज\N_NN एवं\CC_CCD एवलांश\N_NNP इत्यादि\N_NN ।\RD_PUNC
+htd12571	आरोही\N_NN के\PSP लिए\PSP इन\DM_DMD सबकी\N_NN जानकारी\N_NN रखना\N_NN भी\RP_RPD बहुत\RB जरूरी\JJ है\V_VM क्योंकि\CC_CCS इन्हीं\DM_DMD पर\PSP सफलतापूर्वक\JJ आरोहण\N_NN करने\N_NN के\PSP बाद\N_NN ही\RP_RPD उसका\DM_DMD अभियान\N_NN सफल\N_NN हो\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12572	बहुत\RB बार\RB ये\DM_DMD ढाँचे\N_NN बहुत\N_NN घातक\N_NN दुर्घटनाओं\N_NN के\PSP कारण\N_NN बन\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12573	ऊँचे\JJ पर्वतों\N_NN पर\PSP सर्दी\N_NN के\PSP दिनों\N_NN में\PSP बहुत\RB अधिक\JJ बर्फ़\N_NN पड़ती\V_VM है\V_VAUX फलस्वरूप\CC_CCS सभी\N_NN नदियाँ\N_NN ,\RD_PUNC नाले\N_NN ,\RD_PUNC दरारें\N_NN और\CC_CCD गलियाँ\N_NN इत्यादि\N_NN बर्फ़\N_NN से\PSP ढक\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12574	गर्मियों\N_NN में\PSP सूर्य\N_NN और\CC_CCD अधिक\JJ तापमान\N_NN के\PSP कारण\N_NN बर्फ़\N_NN पिघलने\V_VM लगती\V_VAUX है\V_VAUX और\CC_CCD जमा\N_NN हुआ\V_VAUX पानी\N_NN बहने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12575	पर्वत\N_NN के\PSP किनारे\N_NST पर\PSP बड़ी\JJ मात्रा\N_NN में\PSP लटकती\N_NN हुई\N_NN बर्फ़\N_NN को\PSP कार्निस\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12576	कार्निस\N_NN बर्फ़\N_NN ,\RD_PUNC हवा\N_NN अपने\PR_PRF साथ\N_NN लाती\V_VM है\V_VAUX जो\PR_PRL पहाड़\N_NN के\PSP किनारे\N_NST पर\PSP जमती\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12577	कार्निस\N_NN आमतौर\N_NN पर\PSP वहाँ\DM_DMD एकत्र\V_VM होती\V_VAUX है\V_VAUX जहाँ\PR_PRL रिज\N_NN एक\QT_QTC तरफ\N_NN से\PSP खड़ी\JJ ढलान\N_NN वाली\N_NN होती\V_VM है\V_VAUX और\CC_CCD उसकी\DM_DMD दूसरी\QT_QTC ढलान\N_NN सामान्य\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12578	इस\DM_DMD पर\PSP बर्फ़\N_NN हवा\N_NN के\PSP साथ\N_NN खड़ी\JJ ढलान\N_NN की\PSP ओर\N_NST एकत्र\V_VM होती\V_VAUX जाती\V_VAUX है\V_VAUX और\CC_CCD बहुत\RB अधिक\JJ होने\N_NN पर\PSP एक\QT_QTC छजली\JJ सी\JJ बन\V_VM कर\V_VAUX आधारहीन\N_NN लटकने\V_VM लगती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12579	बर्फ़\N_NN की\PSP रिज\N_NN वह\PR_PRP लाईन\N_NN होती\V_VM है\V_VAUX जहाँ\PR_PRL पर्वत\N_NN के\PSP दो\QT_QTC बाजू\N_NN मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12580	दूसरे\QT_QTC शब्दों\N_NN में\PSP बर्फ़\N_NN की\PSP रिज\N_NN पहाड़\N_NN की\PSP लंबी\JJ सँकरी\N_NN चोटी\N_NN को\PSP कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12581	ऊँचे\JJ पर्वतों\N_NN पर\PSP रिज\N_NN की\PSP आकृति\N_NN बहुत\RB तीखी\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12582	बर्फ़\N_NN की\PSP रिज\N_NN के\PSP दोनों\QT_QTC ओर\N_NST की\PSP ढलानें\N_NN 600\QT_QTC से\PSP 900\QT_QTC मीटर\QT_QTF तक\PSP की\PSP हो\V_VM सकती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12583	बर्फ़\N_NN की\PSP रिज\N_NN पर\PSP आरोहण\N_NN करना\N_NN सुगम\N_NN कार्य\N_NN नहीं\RP_NEG होता\V_VM ।\RD_PUNC
+htd12584	बर्फ़\N_NN की\PSP रिज\N_NN पर\PSP चलते\N_NN समय\N_NN सदस्यों\N_NN को\PSP पूरी\N_NN तरह\N_NN से\PSP बिले\V_VM किया\V_VAUX जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12585	हर\JJ आरोही\N_NN को\PSP एक\QT_QTC तरफ\N_NN की\PSP ढलान\N_NN पर\PSP ,\RD_PUNC जिस\PR_PRL पर\PSP वह\PR_PRP अच्छा\JJ संतुलन\N_NN बना\V_VM सकता\V_VAUX हो\V_VAUX ,\RD_PUNC चलना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12586	यदि\CC_CCS किसी\PR_PRI कारणवश\N_NN रिज\N_NN के\PSP ऊपर\N_NST ही\RP_RPD चलना\V_VM पड़े\V_VAUX तो\RP_RPD ढलान\N_NN की\PSP ओर\N_NST मुँह\N_NN करके\N_NN बगल\N_NN से\PSP चलना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12587	आइस\N_NN एक्स\N_NN बर्फ़\N_NN में\PSP गहरा\JJ गाड़\V_VM कर\V_VAUX प्रत्येक\QT_QTF सदस्य\N_NN को\PSP बिले\V_VM करना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12588	स्नो\N_NN क्लाइमिंग\N_NN के\PSP लिए\PSP अनेक\N_NN प्रकार\N_NN की\PSP तकनीकों\N_NN का\PSP प्रयोग\N_NN आरोही\N_NN अपनी\PR_PRF सुविधानुसार\N_NN तथा\CC_CCD परिस्थिति\N_NN के\PSP अनुसार\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd12589	स्नो\N_NN क्लाइमिंग\N_NN के\PSP दौरान\N_NN किसी\PR_PRI भी\RP_RPD ढलान\N_NN को\PSP पार\V_VM करने\V_VAUX के\PSP लिए\PSP आरोही\N_NN अथवा\N_NN आरोहण\N_NN करने\N_NN वाले\N_NN दल\N_NN को\PSP आगे\N_NST बढ़ने\N_NN के\PSP लिए\PSP पग\N_NN बनाने\V_VM पड़ते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12590	ताजा\JJ ,\RD_PUNC सूखी\JJ ,\RD_PUNC गीली\JJ और\CC_CCD नर्म\JJ बर्फ़\N_NN में\PSP ऐसे\DM_DMR पग\N_NN बनाने\N_NN से\PSP चलना\N_NN बहुत\RB सुविधाजनक\JJ हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12591	ये\DM_DMD पग\N_NN ढलान\N_NN की\PSP प्रकृति\N_NN के\PSP अनुरूप\N_NN बनाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12592	इसमें\DM_DMD बर्फ़\N_NN का\PSP प्रकार\N_NN ,\RD_PUNC पग\N_NN बनाने\N_NN का\PSP ध्येय\N_NN और\CC_CCD दल\N_NN में\PSP सदस्यों\N_NN की\PSP संख्या\N_NN का\PSP हिसाब\N_NN भी\RP_RPD देखना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12593	यह\DM_DMD कदम\N_NN इकहरे\JJ ,\RD_PUNC दोहरे\JJ अथवा\N_NN आड़े\JJ -\RD_PUNC तिरछे\JJ तरीके\N_NN से\PSP बनाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12594	जब\PR_PRL बर्फ़\N_NN थोड़ी\RB कठोर\JJ हो\V_VM और\CC_CCD पैर\N_NN से\PSP दबा\V_VM कर\V_VAUX पग\N_NN बनाना\N_NN संभव\N_NN न\RP_NEG हो\N_NN तो\RP_RPD इन्हें\DM_DMD बूट\N_NN की\PSP ठोकर\N_NN से\PSP बनाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12595	बूट\N_NN की\PSP ठोकर\N_NN से\PSP बने\N_NN ये\DM_DMD पग\N_NN भी\RP_RPD इकहरे\JJ ,\RD_PUNC दोहरे\JJ और\CC_CCD आड़े\JJ -\RD_PUNC तिरछे\JJ हो\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12596	जब\PR_PRL आड़े\JJ -\RD_PUNC तिरछे\RD_ECH पग\N_NN बनाने\V_VM हों\V_VAUX तो\RP_RPD बूट\N_NN की\PSP नोक\N_NN के\PSP अतिरिक्‍त\N_NN उसके\DM_DMD दोनों\QT_QTC किनारों\N_NN को\PSP भी\RP_RPD प्रयोग\N_NN में\PSP लाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12597	इसमें\DM_DMD पैर\N_NN के\PSP पंजों\N_NN पर\PSP अतिरिक्‍त\N_NN दबाव\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12598	इसलिए\CC_CCS इस\DM_DMD बात\N_NN का\PSP ध्यान\N_NN रखना\V_VM चाहिए\V_VAUX कि\PSP किसी\PR_PRI भी\RP_RPD दशा\N_NN में\PSP पैरों\N_NN के\PSP पंजे\N_NN घायल\V_VM न\RP_NEG हो\V_VAUX जाएँ\V_VAUX ।\RD_PUNC
+htd12599	यह\DM_DMD बहुत\N_NN ही\RP_RPD परिश्रम\N_NN वाला\N_NN काम\N_NN है\V_VM ।\RD_PUNC
+htd12600	आवश्‍यकता\N_NN पड़ने\N_NN पर\PSP आइस\N_NN एक्स\N_NN का\PSP प्रयोग\N_NN भी\RP_RPD किया\V_VM जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12601	जहाँ\PR_PRL बर्फ़\N_NN बहुत\RB कठोर\V_VM हो\V_VAUX और\CC_CCD ठोकर\N_NN द्वारा\N_NN पग\N_NN बनाना\N_NN संभव\N_NN न\RP_NEG हो\N_NN ,\RD_PUNC साथ\N_NN ही\RP_RPD क्रैम्पन\N_NN पहनकर\N_NN भी\RP_RPD आरोहण\N_NN न\RP_NEG किया\V_VM जा\V_VAUX सकता\V_VAUX हो\V_VAUX ,\RD_PUNC तो\RP_RPD वहाँ\DM_DMD बर्फ़\N_NN में\PSP सीढ़ियाँ\N_NN काटना\V_VM आवश्यक\V_VAUX हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12602	आमतौर\N_NN पर\PSP बर्फ़\N_NN में\PSP सीढ़ियाँ\N_NN काटने\N_NN का\PSP काम\N_NN आइस\N_NN एक्स\N_NN से\PSP किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12603	बहुत\RB सख्त\JJ बर्फ़\N_NN में\PSP सीढ़ियाँ\N_NN बनाना\N_NN संभव\N_NN नहीं\RP_NEG हो\V_VM पाता\V_VAUX तो\RP_RPD बेलचे\N_NN अथवा\N_NN आइस\N_NN एक्स\N_NN की\PSP चौड़ी\JJ तरफ\N_NN से\PSP इन्हें\DM_DMD काटने\N_NN का\PSP काम\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12604	आइस\N_NN एक्स\N_NN का\PSP प्रयोग\N_NN बगल\N_NN से\PSP किया\V_VM जाता\V_VAUX है\V_VAUX ताकि\CC_CCS आरोही\N_NN स्वयं\PR_PRF ही\RP_RPD अपने\PR_PRF आपको\PR_PRP घायल\V_VM न\RP_NEG कर\V_VAUX बैठे\V_VAUX ।\RD_PUNC
+htd12605	आइस\N_NN एक्स\N_NN की\PSP नुकीली\JJ ओर\N_NST से\PSP सीढ़ी\N_NN काटी\V_VM जाती\V_VAUX है\V_VAUX और\CC_CCD चौड़ी\JJ तरफ\N_NN से\PSP बर्फ़\N_NN को\PSP साफ\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12606	सीढ़ी\N_NN का\PSP अंतिम\N_NN भाग\N_NN अंदर\N_NST की\PSP ओर\N_NN झुका\V_VM होना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12607	स्नो\N_NN क्लाइमिंग\N_NN कठिन\N_NN ही\RP_RPD नहीं\RP_NEG खतरनाक\N_NN भी\RP_RPD होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12608	क्योंकि\CC_CCS बर्फ़\N_NN में\PSP मजबूत\JJ एंकर\N_NN बहुत\RB कठिनाई\N_NN से\PSP मिलते\V_VM हैं\V_VAUX और\CC_CCD बिले\N_NN करना\N_NN भी\RP_RPD कठिन\N_NN कार्य\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12609	मजबूत\JJ एंकर\N_NN और\CC_CCD बिले\N_NN न\RP_NEG कर\N_NN पाने\N_NN के\PSP अभाव\N_NN में\PSP सुरक्षित\N_NN आरोहण\N_NN करना\N_NN संभव\V_VM नहीं\V_VAUX हो\V_VAUX पाता\V_VAUX ।\RD_PUNC
+htd12610	ऐसी\CC_CCS स्थिति\N_NN में\PSP आरोही\N_NN के\PSP मन\N_NN में\PSP यह\DM_DMD आशंका\N_NN सदैव\N_NN बनी\V_VM रहती\V_VAUX है\V_VAUX कि\PSP कहीं\PR_PRI कोई\PR_PRI दुर्घटना\N_NN न\RP_NEG हो\V_VM जाए\V_VAUX ।\RD_PUNC
+htd12611	सुरक्षित\JJ एंकर\N_NN और\CC_CCD बिले\N_NN के\PSP बिना\N_NN किसी\PR_PRI दुर्घटना\N_NN को\PSP रोक\V_VM पाना\V_VAUX प्राय:\N_NN असंभव\V_VM ही\V_VAUX होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12612	चट्‍टानों\N_NN और\CC_CCD आइस\N_NN में\PSP मजबूत\JJ एंकर\N_NN मिलने\N_NN के\PSP कारण\N_NN भली\JJ -\RD_PUNC भाँति\RD_ECH बिले\N_NN हो\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12613	ताजा\JJ बर्फ़\N_NN में\PSP कई\PR_PRI कारणों\N_NN से\PSP बिले\N_NN संभव\N_NN नहीं\RP_NEG हो\V_VM पाता\V_VAUX ।\RD_PUNC
+htd12614	फिर\CC_CCS भी\RP_RPD डैडमैन\N_NN ,\RD_PUNC डैडबॉय\N_NN ,\RD_PUNC स्नो\N_NN स्टेक्स\N_NN और\CC_CCD स्नो\N_NN फ्लूक्स\N_NN के\PSP कारण\N_NN फिसलने\N_NN से\PSP होने\N_NN वाली\N_NN दुर्घटनाओं\N_NN में\PSP बहुत\RB कमी\N_NN आई\V_VM है\V_VAUX ।\RD_PUNC
+htd12615	अधिक\RB सीधी\JJ ढलानों\N_NN पर\PSP ट्रेवर्सिंग\N_NN अर्थात\N_NN ढलान\N_NN को\PSP एक\QT_QTC छोर\N_NST से\PSP दूसरे\QT_QTO छोर\N_NST की\PSP ओर\N_NST पार\V_VM करते\V_VAUX हुए\V_VAUX आरोहण\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12616	ऐसी\DM_DMR स्थिति\N_NN में\PSP आइस\N_NN एक्स\N_NN का\PSP प्रयोग\N_NN निम्नलिखित\N_NN तीनों\QT_QTO प्रकारों\N_NN में\PSP से\PSP आरोही\N_NN अपनी\PR_PRF आवश्यकता\N_NN और\CC_CCD ढलान\N_NN की\PSP स्थिति\N_NN के\PSP अनुसार\N_NN कर\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12617	सामान्य\N_NN ढलानों\N_NN पर\PSP पर्वतारोही\N_NN आइस\N_NN एक्स\N_NN को\PSP अपने\PR_PRF से\PSP ऊपर\N_NST ढलान\N_NN की\PSP ओर\N_NST रखते\V_VM हुए\V_VAUX हाथों\N_NN में\PSP पकड़\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12618	गिरने\N_NN की\PSP स्थिति\N_NN में\PSP पर्वतारोही\N_NN आइस\N_NN एक्स\N_NN की\PSP नोक\N_NN को\PSP गहरा\JJ गड़ा\V_VM कर\V_VAUX उसके\DM_DMD साथ\N_NN लटक\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12619	यदि\CC_CCS आइस\N_NN एक्स\N_NN नीचे\N_NST वाले\N_NN हाथ\N_NN में\PSP होगा\V_VM तो\RP_RPD उसे\DM_DMD ढलान\N_NN में\PSP गड़ाने\N_NN के\PSP लिए\PSP आरोही\N_NN को\PSP झुकना\V_VM पड़ेगा\V_VAUX ।\RD_PUNC
+htd12620	इससे\DM_DMD उसका\PR_PRP संतुलन\N_NN बिगड़\N_NN जाने\N_NN की\PSP संभावना\V_VM रहेगी\V_VAUX ।\RD_PUNC
+htd12621	पर्वतारोही\N_NN की\PSP तीसरी\QT_QTC टाँग\N_NN होने\N_NN के\PSP कारण\N_NN वह\PR_PRP स्नो\N_NN /\N_NN आइस\N_NN क्लाइमिंग\N_NN आइस\N_NN एक्स\N_NN के\PSP बिना\N_NN करने\N_NN की\PSP कल्पना\N_NN एक\QT_QTC मिनट\N_NN के\PSP लिए\PSP भी\RP_RPD नहीं\RP_NEG कर\V_VM सकता\V_VAUX ।\RD_PUNC
+htd12622	आरोहण\N_NN और\CC_CCD अवरोहण\N_NN के\PSP दौरान\N_NN ही\RP_RPD नहीं\RP_NEG आइस\N_NN एक्‍स\N_NN पर्वतारोही\N_NN को\PSP हरदम\N_NN -\RD_PUNC हरघड़ी\RD_ECH चाहिए\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12623	आइस\N_NN एक्स\N_NN के\PSP बिना\N_NN वह\PR_PRP अपने\PR_PRF आपको\PR_PRP फिसलने\N_NN अथवा\N_NN गिरने\N_NN से\PSP बिल्कुल\N_NN नहीं\RP_NEG रोक\V_VM सकता\V_VAUX ।\RD_PUNC
+htd12624	इसलिए\CC_CCS आइस\N_NN एक्स\N_NN के\PSP अभाव\N_NN में\PSP गंभीर\JJ दुर्घटना\N_NN हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12625	पर्वतों\N_NN में\PSP बहुत\RB बार\N_NN आइस\N_NN एक्स\N_NN के\PSP कारण\N_NN पर्वतारोही\N_NN दुर्घटनाग्रस्त\N_NN होने\N_NN से\PSP अपने\PR_PRF आपको\PR_PRP बचा\N_NN पाने\N_NN में\PSP सफल\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12626	जब\PR_PRL दल\N_NN का\PSP नेता\N_NN बर्फ़\N_NN के\PSP समतल\N_NN मैदान\N_NN पर\PSP पहुँच\V_VM जाए\V_VAUX और\CC_CCD उसे\PR_PRP एंकरिंग\N_NN के\PSP लिए\PSP कोई\PR_PRI सुविधाजनक\JJ स्थान\N_NN दिखाई\V_VM न\V_VAUX दे\V_VAUX तो\RP_RPD वहाँ\DM_DMD पर\PSP भी\RP_RPD डैडमैन\N_NN काम\N_NN में\PSP आता\V_VM है\V_VAUX ।\RD_PUNC
+htd12627	बर्फ़\N_NN की\PSP स्थिति\N_NN के\PSP अनुसार\N_NN वहाँ\DM_DMD 20\QT_QTC -\RD_PUNC 25\QT_QTC से.मी.\QT_QTF अथवा\N_NN और\CC_CCD गहरी\JJ खुदाई\V_VM करें\V_VAUX ।\RD_PUNC
+htd12628	अब\N_NN इसमें\DM_DMD लंबवत\JJ कटाई\N_NN उस\PR_PRP ओर\N_NST करें\V_VM जिस\PR_PRL ओर\N_NST रस्सा\N_NN लगाने\N_NN की\PSP जगह\N_NN बनती\V_VM है\V_VAUX ।\RD_PUNC
+htd12629	डैड\N_NN मैन\N_NN को\PSP सही\JJ कोण\N_NN बनाते\V_VM हुए\V_VAUX गड्‍डे\N_NN के\PSP तले\N_NN में\PSP ठोक\V_VM दें\V_VAUX ।\RD_PUNC
+htd12630	डैडबॉय\N_NN का\PSP उपयोग\N_NN और\CC_CCD प्रयोग\N_NN दोनों\N_NN डैडमैन\N_NN की\PSP भाँति\N_NN ही\RP_RPD हैं\V_VM ।\RD_PUNC
+htd12631	स्नो\N_NN फ्लूक\N_NN का\PSP पहले\N_NST बहुत\RB अधिक\JJ प्रयोग\N_NN नहीं\RP_NEG होता\V_VM था\V_VAUX ।\RD_PUNC
+htd12632	अनुभव\N_NN से\PSP पता\V_VM लगा\V_VAUX कि\PSP स्नो\N_NN फ्लूक\N_NN डैडमैन\N_NN से\PSP भी\RP_RPD अधिक\RB अच्छे\JJ होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12633	स्नो\N_NN फ्लूक\N_NN स्वयं\PR_PRF ही\RP_RPD भार\N_NN के\PSP खिंचाव\N_NN के\PSP कारण\N_NN अपने\PR_PRF आपको\PR_PRP ठीक\N_NN स्थिति\N_NN में\PSP समायोजित\V_VM कर\V_VAUX लेते\V_VAUX हैं\V_VAUX भले\N_NN ही\RP_RPD इनका\DM_DMD प्रयोग\N_NN नर्म\JJ बर्फ़\N_NN में\PSP किया\V_VM जा\V_VAUX रहा\V_VAUX हो\V_VAUX ।\RD_PUNC
+htd12634	अनेक\JJ आरोही\N_NN आइस\N_NN एक्स\N_NN की\PSP अपेक्षा\N_NN स्नो\N_NN स्टेक्स\N_NN का\PSP प्रयोग\N_NN करना\N_NN अच्छा\JJ समझते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12635	उनका\DM_DMD मानना\V_VM है\V_VAUX कि\PSP आइस\N_NN एक्स\N_NN का\PSP हत्था\N_NN टूट\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12636	मजबूत\JJ एलॉय\N_NN के\PSP बने\N_NN होने\N_NN के\PSP कारण\N_NN स्नो\N_NN स्टेक्स\N_NN के\PSP टूटने\N_NN का\PSP भय\V_VM नहीं\RP_NEG रहता\V_VAUX ।\RD_PUNC
+htd12637	स्नो\N_NN स्टेक्स\N_NN छोटे\JJ -\RD_PUNC बड़े\RD_ECH कई\PR_PRI प्रकार\N_NN के\PSP होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12638	स्थिति\N_NN के\PSP अनुसार\N_NN स्नो\N_NN स्टेक्स\N_NN का\PSP प्रयोग\V_VM किया\V_VAUX जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12639	स्नो\N_NN स्टेक्स\N_NN को\PSP एंकरिंग\N_NN और\CC_CCD बिले\N_NN दोनों\N_NN के\PSP लिए\PSP ही\RP_RPD प्रयोग\V_VM में\PSP लाया\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12640	कठोर\JJ बर्फ़\N_NN की\PSP ढलान\N_NN पर\PSP क्रैम्पन\N_NN पहनकर\N_NN आरोहण\V_VM किया\V_VAUX जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12641	क्रैम्पन\N_NN के\PSP अभाव\N_NN में\PSP आरोही\N_NN को\PSP वहाँ\DM_DMD पर\PSP सीढ़ियाँ\N_NN काटने\N_NN का\PSP कठिन\N_NN काम\N_NN करना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12642	आमतौर\N_NN पर\PSP 40\QT_QTC डिग्री\QT_QTF ढलान\N_NST पर\PSP क्रैम्पन\N_NN पहनकर\N_NN आरोहण\N_NN किया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12643	अनुभवी\JJ आरोही\N_NN क्रैम्पन\N_NN से\PSP तीखी\JJ ढलान\N_NN पर\PSP भी\RP_RPD इन्हें\DM_DMD पहनकर\N_NN चढ़\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12644	पर्वतारोहण\N_NN में\PSP आरोही\N_NN को\PSP इस\DM_DMD बात\N_NN की\PSP पूरी\JJ जानकारी\N_NN नहीं\RP_NEG होती\V_VM कि\PSP मार्ग\N_NN में\PSP उसे\DM_DMD कैसे\PR_PRI -\RD_PUNC कैसे\RD_ECH स्थानों\N_NN से\PSP गुजरना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd12645	इसलिए\CC_CCS भले\N_NN ही\RP_RPD क्रैम्पन\N_NN का\PSP प्रयोग\V_VM हो\V_VAUX अथवा\N_NN न\RP_NEG हो\V_VM इन्हें\DM_DMD साथ\N_NN में\PSP रखकर\N_NN ही\RP_RPD आरोहण\N_NN के\PSP लिए\PSP जाना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12646	कुछ\PR_PRI आरोही\N_NN क्रैम्पन\N_NN को\PSP आवश्यक\N_NN बुराई\N_NN मानते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12647	कुछ\PR_PRI आरोही\N_NN क्रैम्पन\N_NN को\PSP धोखा\N_NN देने\N_NN वाला\N_NN उपकरण\N_NN मानते\V_VM हैं\V_VAUX परंतु\CC_CCS वास्तविकता\N_NN यह\DM_DMD है\V_VM कि\PSP इनके\DM_DMD बिना\N_NN पर्वतारोहण\N_NN संभव\V_VM नहीं\RP_NEG है\V_VAUX ।\RD_PUNC
+htd12648	क्रैम्पन\N_NN को\PSP ठीक\N_NN से\PSP बाँधना\N_NN अपने\PR_PRF आप\PR_PRP में\PSP एक\QT_QTC कला\N_NN है\V_VM ।\RD_PUNC
+htd12649	पर्वतारोहण\N_NN पर\PSP जाने\N_NN से\PSP पहले\N_NN क्रैम्पन\N_NN बाँधने\N_NN के\PSP लिए\PSP बहुत\RB अभ्यास\N_NN की\PSP आवश्यकता\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12650	क्रैम्पन\N_NN पहनकर\N_NN चलने\N_NN के\PSP लिए\PSP बहुत\RB अधिक\JJ अभ्यास\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12651	क्रैम्पन\N_NN पहनकर\N_NN चलने\N_NN के\PSP लिए\PSP पर्वतारोही\N_NN को\PSP अभ्यस्त\V_VM होना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12652	क्रैम्पन\N_NN के\PSP साथ\N_NN चलना\N_NN उसे\DM_DMD अटपटा\N_NN सा\N_NN लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd12653	क्रैम्पन\N_NN के\PSP साथ\N_NN केवल\N_NN उन्हीं\PR_PRP पर्वतारोहियों\N_NN को\PSP आरोहण\V_VM करना\V_VAUX चाहिए\V_VAUX जिनको\DM_DMR अपने\PR_PRF आप\PR_PRP पर\PSP पूरा\JJ विश्‍वास\V_VM हो\V_VAUX ।\RD_PUNC
+htd12654	बर्फ़\N_NN में\PSP अवरोहण\N_NN करना\N_NN बहुत\N_NN कठिन\JJ कार्य\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12655	बहुत\RB ऊँचे\JJ स्थानों\N_NN की\PSP बात\N_NN दूसरी\QT_QTC है\V_VM क्योंकि\CC_CCS इन\DM_DMD स्थानों\N_NN पर\PSP ढलानें\N_NN बहुत\RB कठिन\JJ रहती\V_VM हैं\V_VAUX और\CC_CCD नीचे\N_NST गिरने\N_NN का\PSP जोखिम\N_NN भी\RP_RPD बहुत\RB अधिक\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12656	अवरोहण\N_NN पर\PSP भी\RP_RPD सबसे\RB अधिक\JJ समस्या\N_NN का\PSP सामना\N_NN अंतिम\N_NN सदस्य\N_NN को\PSP करना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12657	इसलिए\CC_CCS सबसे\RB अंत\JJ में\PSP उतरने\N_NN वाला\N_NN सदस्य\N_NN या\CC_CCD तो\RP_RPD दल\N_NN का\PSP नेता\N_NN होना\V_VM चाहिए\V_VAUX अथवा\N_NN बहुत\RB ही\RP_RPD अनुभवी\N_NN पर्वतारोही\N_NN जो\PR_PRL अपना\PR_PRF ध्यान\N_NN स्वयं\PR_PRF रख\V_VM सके\V_VAUX ।\RD_PUNC
+htd12658	यह\DM_DMD इसलिए\CC_CCS आवश्यक\N_NN होता\V_VM है\V_VAUX क्योंकि\CC_CCS उसे\DM_DMD बिले\N_NN के\PSP बिना\N_NN ही\RP_RPD नीचे\N_NST उतरना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12659	नरम\JJ बर्फ़\N_NN में\PSP अवरोहण\N_NN करने\N_NN में\PSP किसी\PR_PRI तरह\N_NN का\PSP जोखिम\N_NN नहीं\RP_NEG होता\V_VM ।\RD_PUNC
+htd12660	यदि\CC_CCS कोई\PR_PRI गिर\V_VM जाए\V_VAUX तब\CC_CCS भी\RP_RPD उसे\DM_DMD किसी\PR_PRI प्रकार\N_NN की\PSP गंभीर\JJ चोट\N_NN लगने\N_NN का\PSP खतरा\N_NN नहीं\RP_NEG होता\V_VM ।\RD_PUNC
+htd12661	इसके\DM_DMD बावजूद\N_NN भी\RP_RPD अवरोहण\N_NN में\PSP पर्वतारोहियों\N_NN को\PSP किसी\PR_PRI प्रकार\N_NN का\PSP जोखिम\N_NN नहीं\RP_NEG उठाना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12662	उचित\JJ तरीके\N_NN से\PSP सावधानीपूर्वक\N_NN अवरोहण\N_NN करना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12663	जब\PR_PRL पर्वतारोही\N_NN स्वयं\PR_PRF बैठकर\N_NN अपनी\PR_PRF मर्जी\N_NN से\PSP बर्फ़\N_NN में\PSP फिसल\V_VM कर\V_VAUX नीचे\N_NST आता\V_VM है\V_VAUX ।\RD_PUNC
+htd12664	बर्फ़\N_NN में\PSP फिसलकर\N_NN नीचे\N_NST आने\N_NN को\PSP ग्लिसाडिंग\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12665	यदि\CC_CCS बर्फ़\N_NN से\PSP भरी\N_NN हुई\N_NN ढलान\N_NN बहुत\RB कठिन\JJ और\CC_CCD खतरनाक\JJ नहीं\RP_NEG है\V_VM तो\RP_RPD ग्लिसाडिंग\N_NN की\PSP पद्धति\N_NN सबसे\RB अधिक\JJ कम\N_NN समय\N_NN लगाने\N_NN और\CC_CCD आनंद\N_NN देने\N_NN वाली\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd12666	ग्लिसाडिंग\N_NN में\PSP इस\DM_DMD बात\N_NN को\PSP सुनिश्‍चित\V_VM कर\V_VAUX लेना\V_VAUX चाहिए\V_VAUX कि\PSP ढलान\N_NN का\PSP अंतिम\N_NST भाग\N_NN आपको\PR_PRP दिखाई\V_VM दे\V_VAUX रहा\V_VAUX हो\V_VAUX अथवा\N_NN आपको\PR_PRP पता\V_VM हो\V_VAUX कि\PSP वहाँ\DM_DMD पर\PSP आसानी\N_NN से\PSP रुका\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12667	ग्लिसाडिंग\N_NN खड़े\N_NN होकर\N_NN भी\RP_RPD की\V_VM जा\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12668	बैठकर\N_NN ग्लिसाडिंग\N_NN करने\N_NN को\PSP ऐच्छिक\JJ ग्लिसाडिंग\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12669	इसमें\N_NN आरोही\N_NN नीचे\N_NST की\PSP ओर\N_NST देखता\V_VM हुआ\V_VAUX अपने\PR_PRF नितंबों\N_NN के\PSP बल\N_NN पर\PSP बैठकर\N_NN ,\RD_PUNC अपने\PR_PRF पाँव\N_NN ऊपर\N_NST उठाकर\V_VM नीचे\N_NST की\PSP ओर\N_NST फिसलता\V_VM है\V_VAUX ।\RD_PUNC
+htd12670	यदि\CC_CCS ढलान\N_NN और\CC_CCD बर्फ़\N_NN अच्छी\JJ हो\V_VM तो\RP_RPD आरोही\N_NN नदी\N_NN में\PSP तैरती\N_NN हुई\N_NN लकड़ी\N_NN के\PSP समान\N_NN नीचे\N_NST की\PSP ओर\N_NST बढ़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd12671	स्थानीय\JJ लोग\N_NN भी\RP_RPD नीचे\N_NST उतरने\N_NN के\PSP लिए\PSP ग्लिसाडिंग\N_NN पद्धति\N_NN का\PSP प्रयोग\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12672	अधिक\JJ बर्फ़\N_NN पड़ने\N_NN पर\PSP नीचे\N_NST उतरना\N_NN बहुत\N_NN कष्‍टदायक\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12673	अधिक\JJ बर्फ़\N_NN में\PSP आइस\N_NN एक्स\N_NN को\PSP छाती\N_NN के\PSP पास\N_NST ब्रेकिंग\N_NN पोजीशन\N_NN में\PSP रखना\V_VM चाहिए\V_VAUX ताकि\CC_CCS आवश्यकता\N_NN पड़ने\N_NN पर\PSP रुकने\N_NN में\PSP आसानी\V_VM हो\V_VAUX ।\RD_PUNC
+htd12674	आइस\N_NN एक्स\N_NN की\PSP नोक\N_NN को\PSP पीछे\N_NST तथा\CC_CCD नीचे\N_NST के\PSP ओर\N_NST दबाकर\V_VM फिसलने\N_NN की\PSP ठीक\JJ दशा\N_NN और\CC_CCD दिशा\N_NST निर्धारित\V_VM की\V_VAUX जा\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12675	यदि\CC_CCS ढलान\N_NN बहुत\RB अधिक\JJ कठिन\JJ हो\V_VM ,\RD_PUNC ग्लिसाडिंग\N_NN अथवा\N_NN हील\N_NN वर्क\N_NN करते\V_VM हुए\V_VAUX उतरना\V_VM संभव\N_NN न\RP_NEG हो\V_VAUX तो\RP_RPD दल\N_NN को\PSP बिलेइंग\N_NN करते\V_VM हुए\V_VAUX नीचे\N_NST आना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12676	बिलेइंग\N_NN के\PSP लिए\PSP आइस\N_NN एक्स\N_NN ,\RD_PUNC डैडमैन\N_NN ,\RD_PUNC स्नो\N_NN स्टेक्स\N_NN अथवा\N_NN स्नो\N_NN फ्लूक्स\N_NN द्वारा\N_NN बिले\V_VM करते\V_VAUX हुए\V_VAUX पूरी\JJ सावधानी\N_NN के\PSP साथ\N_NN अवरोहण\N_NN करना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12677	सबसे\RB अन्त\JJ में\PSP आने\N_NN वाले\N_NN सदस्य\N_NN का\PSP सबसे\RB अधिक\JJ अनुभवी\JJ पर्वतारोही\N_NN होना\V_VM आवश्यक\V_VAUX है\V_VAUX क्योंकि\CC_CCS उसे\DM_DMD बिना\N_NN बिले\N_NN के\PSP ही\RP_RPD नीचे\N_NST उतरना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd12678	रैपलिंग\N_NN ,\RD_PUNC कम\N_NN समय\N_NN लेने\V_VM वाला\V_VAUX एक\QT_QTC सुरक्षित\JJ तरीका\N_NN है\V_VM ।\RD_PUNC
+htd12679	परंतु\CC_CCS रैपलिंग\N_NN के\PSP लिए\PSP आरोही\N_NN का\PSP बहुत\RB अनुभवी\JJ होना\N_NN आवश्यक\N_NN है\V_VM ।\RD_PUNC
+htd12680	बर्फ़\N_NN पर\PSP भी\RP_RPD रैपलिंग\N_NN उसी\DM_DMD प्रकार\N_NN से\PSP करनी\V_VM होती\V_VAUX है\V_VAUX जैसी\DM_DMR शिला\N_NN आरोहण\N_NN में\PSP की\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12681	बर्फ़\N_NN पर\PSP अंतर\N_NN यह\DM_DMD होता\V_VM है\V_VAUX कि\PSP किसी\PR_PRI प्रकार\N_NN का\PSP मजबूत\JJ एंकर\N_NN उपलब्ध\N_NN नहीं\RP_NEG होता\V_VM और\CC_CCD पर्वतारोही\N_NN को\PSP कृत्रिम\JJ एंकर\N_NN का\PSP ही\RP_RPD सहारा\N_NN लेना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12682	ये\DM_DMD एंकर\N_NN एलुमिनियम\N_NN के\PSP पोल\N_NN ,\RD_PUNC स्नो\N_NN स्टेक्स\N_NN और\CC_CCD कभी\PR_PRI -\RD_PUNC कभी\RD_ECH आइस\N_NN एक्स\N_NN हो\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12683	रस्से\N_NN के\PSP साथ\N_NN ग्लिसाडिंग\N_NN करने\N_NN से\PSP बचें\V_VM ।\RD_PUNC
+htd12684	आइस\N_NN एक्स\N_NN के\PSP बिना\N_NN कभी\N_NN ग्लिसाडिंग\N_NN न\RP_NEG करें\V_VM ।\RD_PUNC
+htd12685	आइस\N_NN एक्स\N_NN के\PSP न\RP_NEG रहने\N_NN की\PSP स्थिति\N_NN में\PSP गिरने\N_NN पर\PSP अपने\PR_PRF आपको\PR_PRP थामना\N_NN संभव\N_NN नहीं\RP_NEG रहता\V_VM ।\RD_PUNC
+htd12686	यदि\CC_CCS आप\PR_PRP पूरी\JJ ढलान\N_NN को\PSP देख\V_VM नहीं\V_VAUX पाते\V_VAUX तो\RP_RPD ग्लिसाडिंग\N_NN करने\N_NN का\PSP जोखिम\N_NN कभी\PR_PRI न\RP_NEG उठाएँ\V_VM ।\RD_PUNC
+htd12687	गली\N_NN के\PSP भीतर\N_NST ग्लिसाडिंग\N_NN करना\N_NN खतरनाक\N_NN हो\V_VM सकता\V_VAUX है\V_VAUX क्योंकि\CC_CCS यह\DM_DMD एकाएक\N_NN खत्म\N_NN हो\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12688	इसके\DM_DMD अतिरिक्‍त\N_NN इस\DM_DMD प्रकार\N_NN की\PSP क्रिया\N_NN से\PSP एवलांश\N_NN भी\RP_RPD शुरू\V_VM हो\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12689	क्रैम्पन\N_NN पहनकर\N_NN ग्लिसाडिंग\N_NN करने\N_NN का\PSP परामर्श\N_NN कभी\N_NN नहीं\RP_NEG दिया\V_VM जाता\V_VAUX ।\RD_PUNC
+htd12690	कठोर\JJ बर्फ़\N_NN और\CC_CCD आइस\N_NN पर\PSP प्रात:काल\N_NST के\PSP समय\N_NN कभी\PR_PRI ग्लिसाडिंग\N_NN नहीं\RP_NEG करनी\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12691	ताजा\JJ गिरी\N_NN हुई\N_NN बर्फ़\N_NN पर\PSP ग्लिसाडिंग\N_NN नहीं\RP_NEG करनी\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12692	क्योंकि\CC_CCS हो\V_VM सकता\V_VAUX है\V_VAUX इसके\DM_DMD नीचे\N_NST बड़े\JJ पत्थर\N_NN ,\RD_PUNC कोई\PR_PRI चट्‍टान\N_NN अथवा\N_NN आइस\N_NN दबी\V_VM हो\V_VAUX ।\RD_PUNC
+htd12693	ताजा\JJ बर्फ़\N_NN पर\PSP ग्लिसाडिंग\N_NN करने\N_NN से\PSP दुर्घटना\N_NN हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12694	यदि\CC_CCS स्नो\N_NN एवलांश\N_NN वाली\N_NN स्थिति\N_NN में\PSP हो\N_NN तो\RP_RPD ग्लिसाडिंग\N_NN नहीं\RP_NEG करनी\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12695	अनुभव\N_NN से\PSP देखा\V_VM गया\V_VAUX है\V_VAUX कि\PSP अधिकांश\JJ दुर्घटनाएँ\N_NN उस\PR_PRP समय\N_NN होती\V_VM है\V_VAUX जब\PR_PRL दल\N_NN के\PSP सदस्य\N_NN किसी\PR_PRI आरोहण\N_NN को\PSP पूरा\N_NN करके\N_NN लौट\V_VM रहे\V_VAUX होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12696	रस्से\N_NN का\PSP प्रयोग\N_NN न\RP_NEG करने\N_NN की\PSP असावधानी\N_NN करना\V_VM ।\RD_PUNC
+htd12697	रस्से\N_NN में\PSP बँधे\N_NN न\RP_NEG होने\N_NN के\PSP कारण\N_NN गिरने\N_NN की\PSP दशा\N_NN में\PSP आरोही\N_NN को\PSP थामना\N_NN असंभव\N_NN कार्य\N_NN हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12698	ऐसे\DM_DMR अवसर\N_NN पर\PSP असावधानी\N_NN में\PSP किसी\PR_PRI शिखर\N_NN को\PSP आरोहण\N_NN करने\N_NN का\PSP उत्साह\N_NN भी\RP_RPD जुड़ा\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12699	सदस्य\N_NN इस\DM_DMD बात\N_NN को\PSP भुला\V_VM देते\V_VAUX हैं\V_VAUX कि\PSP नीचे\N_NST उतरना\N_NN चढ़ाई\N_NN करने\N_NN से\PSP कम\N_NN महत्त्वपूर्ण\JJ कार्य\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd12700	अवरोहण\N_NN के\PSP समय\N_NN दल\N_NN के\PSP अधिकांश\JJ सदस्य\N_NN बुरी\N_NN तरह\N_NN से\PSP थके\V_VM हुए\V_VAUX होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12701	आरोही\N_NN किसी\PR_PRI कठिन\JJ ढलान\N_NN पर\PSP संतुलन\N_NN बनाने\N_NN में\PSP असफल\V_VM हो\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12702	क्रैम्पन\N_NN के\PSP नीचे\N_NST बनने\N_NN वाले\N_NN गोलों\N_NN के\PSP कारण\N_NN बहुत\N_NN सी\N_NN दुर्घटनाएँ\N_NN हुई\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12703	क्रैम्पन\N_NN से\PSP उलझ\N_NN कर\N_NN भी\RP_RPD आरोही\N_NN दुर्घटनाग्रस्त\V_VM हो\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12704	यहाँ\DM_DMD पर\PSP आरोही\N_NN को\PSP कई\PR_PRI प्रकार\N_NN की\PSP आइस\N_NN से\PSP भरे\N_NN क्षेत्रों\N_NN को\PSP पार\V_VM करना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12705	जैसे\DM_DMR ब्लू\N_NN आइस\N_NN ,\RD_PUNC ब्लैक\N_NN आइस\N_NN ,\RD_PUNC स्नो\N_NN आइस\N_NN ,\RD_PUNC वाटर\N_NN आइस\N_NN ,\RD_PUNC ह्वाइट\N_NN आइस\N_NN ,\RD_PUNC वरग्लास\N_NN आइस\N_NN और\CC_CCD ग्लेशियर\N_NN आइस\N_NN इत्यादि\N_NN ।\RD_PUNC
+htd12706	जहाँ\PR_PRL तक\PSP आरोहण\N_NN का\PSP संबंध\N_NN है\V_VM आरोही\N_NN को\PSP केवल\N_NN उन\PR_PRP तरीकों\N_NN से\PSP मतलब\N_NN होता\V_VM है\V_VAUX जिनका\DM_DMR प्रयोग\N_NN करके\N_NN उस\PR_PRP विभिन्न\N_NN प्रकार\N_NN की\PSP आइस\N_NN के\PSP क्षेत्रों\N_NN को\PSP पार\V_VM करते\V_VAUX हुए\V_VAUX शिखर\N_NN पर\PSP आरोहण\N_NN करना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12707	ग्लेशियर\N_NN को\PSP आइस\N_NN की\PSP नदी\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12708	ग्लेशियर\N_NN कुछ\PR_PRI सौ\QT_QTF मीटर\QT_QTO से\PSP लेकर\N_NN कई\PR_PRI किलोमीटर\QT_QTF तक\PSP लंबी\JJ हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12709	ग्लेशियर\N_NN बहुत\RB ही\RP_RPD धीमी\JJ गति\N_NN से\PSP बहती\V_VM है\V_VAUX ।\RD_PUNC
+htd12710	ग्लेशियर\N_NN की\PSP यह\DM_DMD गति\N_NN एक\QT_QTC वर्ष\N_NN में\PSP कुछ\PR_PRI से.मी.\QT_QTF से\PSP लेकर\N_NN कुछ\PR_PRI मीटर\QT_QTF तक\PSP हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12711	अपने\PR_PRF बहाव\N_NN के\PSP कारण\N_NN ही\RP_RPD ग्लेशियर\N_NN को\PSP नदी\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12712	ग्लेशियर\N_NN में\PSP नदी\N_NN की\PSP भाँति\N_NN लहरें\N_NN ,\RD_PUNC झरने\N_NN और\CC_CCD समतल\N_NN स्थल\N_NN भी\RP_RPD होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12713	ग्लेशियर\N_NN में\PSP आइस\N_NN फॉल\N_NN भी\RP_RPD होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12714	आइस\N_NN फॉल\N_NN की\PSP सतह\N_NN टूटकर\N_NN बड़े\JJ -\RD_PUNC बड़े\RD_ECH आकर\N_NN के\PSP लोदों\N_NN और\CC_CCD बर्फ़\N_NN के\PSP शिखरनुमा\N_NN आकारों\N_NN का\PSP निर्माण\V_VM करती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12715	आइस\N_NN फॉल\N_NN के\PSP किसी\PR_PRI भी\RP_RPD ओर\N_NST मुड़\N_NN जाने\N_NN अथवा\N_NN इसके\DM_DMD नीचे\N_NST असमतल\JJ धरातल\N_NN होने\N_NN से\PSP क्रिवैस\N_NN बन\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12716	पर्वतारोहण\N_NN अभियान\N_NN के\PSP अनन्तर\N_NN पर्वतारोही\N_NN को\PSP कई\PR_PRI प्रकार\N_NN के\PSP ग्लेशियर\N_NN पार\V_VM करने\V_VAUX होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12717	जब\PR_PRL ग्लेशियर\N_NN पर\PSP किसी\PR_PRI प्रकार\N_NN की\PSP बर्फ़\N_NN ,\RD_PUNC पत्थर\N_NN ,\RD_PUNC कंकड़\N_NN नहीं\RP_NEG पड़े\V_VM होते\V_VAUX और\CC_CCD उसके\DM_DMD क्रिवैस\N_NN साफ\N_NN दिखाई\V_VM देते\V_VAUX हैं\V_VAUX तो\RP_RPD उसे\DM_DMD सूखा\JJ ग्लेशियर\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12718	जब\PR_PRL ग्लेशियर\N_NN ताजी\JJ और\CC_CCD गीली\JJ स्नो\N_NN से\PSP भरा\N_NN हो\N_NN ,\RD_PUNC उसके\DM_DMD कुछ\PR_PRI हिस्सों\N_NN के\PSP ऊपर\N_NST पानी\N_NN बह\V_VM रहा\V_VAUX हो\V_VAUX और\CC_CCD उसके\DM_DMD क्रिवैस\N_NN स्नो\N_NN से\PSP ढके\V_VM हुए\V_VAUX हों\V_VAUX तो\RP_RPD उसे\DM_DMD गीला\JJ ग्लेशियर\N_NN कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12719	ग्लेशियर\N_NN के\PSP ऊपर\N_NST कुछ\PR_PRI गतिविधि\N_NN करना\N_NN अथवा\N_NN चलना\N_NN अपने\PR_PRF आप\PR_PRP में\PSP बहुत\RB उलझन\N_NN भरा\N_NN ,\RD_PUNC कठिन\JJ और\CC_CCD खतरनाक\JJ काम\N_NN है\V_VM ।\RD_PUNC
+htd12720	इसका\DM_DMD कारण\N_NN है\V_VM इसकी\DM_DMD ऊँचाई\N_NN ,\RD_PUNC वहाँ\DM_DMD पर\PSP पड़ने\N_NN वाली\N_NN भंयकर\JJ ठंड\N_NN ,\RD_PUNC इसकी\DM_DMD ऊँची\JJ -\RD_PUNC नीची\RD_ECH सतह\N_NN ।\RD_PUNC
+htd12721	ग्लेशियर\N_NN पर\PSP पड़े\V_VM हुए\V_VAUX पत्थरों\N_NN और\CC_CCD चट्‍टानों\N_NN को\PSP पार\V_VM करना\V_VAUX ,\RD_PUNC इसके\DM_DMD छिपे\JJ पुल\N_NN तथा\CC_CCD ढके\JJ क्रिवैस\N_NN को\PSP पार\V_VM करना\V_VAUX कठिन\V_VM है\V_VAUX ।\RD_PUNC
+htd12722	ग्लेशियर\N_NN को\PSP पार\N_NN करने\N_NN के\PSP लिए\PSP आरोही\N_NN का\PSP बहुत\RB अनुभवी\V_VM होना\V_VAUX जरूरी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12723	जिन\DM_DMR ग्लेशियर\N_NN पर\PSP बर्फ़\N_NN पड़ी\V_VM होती\V_VAUX है\V_VAUX गर्मियों\N_NN के\PSP मौसम\N_NN में\PSP उन्हें\DM_DMD सुबह\N_NST -\RD_PUNC सुबह\RD_ECH पार\N_NN करना\N_NN सुरक्षित\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12724	ग्लेशियर\N_NN पर\PSP बर्फ़\N_NN के\PSP जो\PR_PRL पुल\N_NN बन\V_VM जाते\V_VAUX हैं\V_VAUX वह\PR_PRP भी\RP_RPD मजबूत\JJ होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12725	बर्फ़\N_NN पर\PSP बने\N_NN पुल\N_NN दिन\N_NN चढ़ने\N_NN पर\PSP कमजोर\N_NN पड़ने\N_NN के\PSP कारण\N_NN अविश्‍वसनीय\V_VM होने\V_VAUX लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12726	ग्लेशियर\N_NN पर\PSP किस\PR_PRI रास्ते\N_NN से\PSP आरोहण\N_NN करना\V_VM है\V_VAUX यह\DM_DMD तय\N_NN करने\N_NN के\PSP लिए\PSP पर्याप्‍त\N_NN अनुभव\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12727	रास्ता\N_NN ऐसा\DM_DMR चुनना\V_VM चाहिए\V_VAUX जिसपर\DM_DMR कम\N_NN से\PSP कम\N_NN प्राकृतिक\JJ बाधाएँ\N_NN आने\N_NN की\PSP संभावना\V_VM हो\V_VAUX ।\RD_PUNC
+htd12728	अर्थात\CC_CCS जिन\DM_DMR रास्तों\N_NN पर\PSP पत्थरों\N_NN और\CC_CCD चट्‍टानों\N_NN के\PSP गिरने\N_NN अथवा\N_NN एवलांश\N_NN आने\N_NN की\PSP सबसे\N_NN कम\N_NN संभावना\V_VM हो\V_VAUX ।\RD_PUNC
+htd12729	क्रिवैस\N_NN के\PSP ऊपर\N_NST पड़ी\N_NN बर्फ़\N_NN सफेद\JJ होती\V_VM है\V_VAUX जबकि\DM_DMR ग्लेशियर\N_NN के\PSP दूसरे\QT_QTC भागों\N_NN पर\PSP पड़ी\N_NN बर्फ़\N_NN उतनी\N_NN अधिक\N_NN सफेद\V_VM नहीं\RP_NEG होती\V_VAUX ।\RD_PUNC
+htd12730	क्रिवैस\N_NN और\CC_CCD ग्लेशियर\N_NN दोनों\N_NN में\PSP पड़ी\N_NN बर्फ़\N_NN की\PSP सफेदी\JJ में\PSP बहुत\RB अंतर\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12731	क्रिवैस\N_NN की\PSP दीवारों\N_NN पर\PSP पड़ी\N_NN बर्फ़\N_NN उतनी\N_NN समतल\V_VM नहीं\RP_NEG होती\V_VAUX ।\RD_PUNC
+htd12732	क्रिवैस\N_NN की\PSP दीवारों\N_NN के\PSP मध्य\N_NST का\PSP भाग\N_NN बीच\N_NST में\PSP कुछ\PR_PRI दबा\V_VM हुआ\V_VAUX होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12733	यदि\CC_CCS क्रिवैस\N_NN और\CC_CCD भी\RP_RPD अधिक\RB चौड़ा\JJ हो\N_NN तो\RP_RPD पार्टी\N_NN अपने\PR_PRF साथ\N_NN लाई\N_NN हुई\N_NN एलुमिनियम\N_NN की\PSP सीढ़ी\N_NN का\PSP प्रयोग\V_VM करके\V_VAUX उसे\DM_DMD पार\V_VM कर\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12734	एलुमिनियम\N_NN की\PSP यह\DM_DMD सीढ़ी\N_NN मोड़\N_NN कर\N_NN रखी\V_VM जा\V_VAUX सकने\V_VAUX वाली\V_VAUX होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12735	एलुमिनियम\N_NN की\PSP सीढ़ी\N_NN को\PSP दोनों\QT_QTC किनारों\N_NST पर\PSP ठीक\N_NN से\PSP जमा\V_VM लिया\V_VAUX जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12736	तब\CC_CCS एलुमिनियम\N_NN की\PSP सीढ़ी\N_NN पर\PSP से\PSP एक\QT_QTC -\RD_PUNC एक\QT_QTC करके\N_NN सभी\N_NN सदस्य\N_NN पार\N_NN जा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12737	सभी\N_NN को\PSP ठीक\N_NN से\PSP बिले\N_NN किया\V_VM जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12738	यदि\CC_CCS पर्वतारोही\N_NN पूरी\JJ सावधानी\N_NN के\PSP साथ\N_NN ग्लेशियर\N_NN पर\PSP आरोहण\V_VM करते\V_VAUX हैं\V_VAUX तो\RP_RPD कोई\PR_PRI कारण\N_NN नहीं\RP_NEG कि\PSP कोई\PR_PRI सदस्य\N_NN क्रिवैस\N_NN में\PSP गिर\V_VM जाए\V_VAUX ।\RD_PUNC
+htd12739	फिर\CC_CCS भी\RP_RPD यदि\CC_CCS कोई\PR_PRI दुर्घटना\V_VM हो\V_VAUX ही\V_VAUX जाए\V_VAUX तो\RP_RPD उसके\DM_DMD लिए\PSP तैयार\V_VM होकर\V_VAUX ही\RP_RPD आरोहण\N_NN पर\PSP निकलना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12740	आइस\N_NN क्लाइमिंग\N_NN में\PSP भी\RP_RPD स्नो\N_NN क्लाइमिंग\N_NN के\PSP प्राय:\N_NN सभी\N_NN तरीकों\N_NN का\PSP प्रयोग\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12741	आइस\N_NN क्लाइमिंग\N_NN में\PSP केवल\N_NN बर्फ़\N_NN की\PSP स्थिति\N_NN भिन्न\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12742	यह\DM_DMD सुबह\N_NST और\CC_CCD सायंकाल\N_NST में\PSP कठोर\JJ आइस\N_NN हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12743	सुबह\N_NST और\CC_CCD सायंकाल\N_NST के\PSP बीच\N_NN के\PSP समय\N_NN में\PSP मिश्रित\JJ अथवा\N_NN गीले\JJ प्रकार\N_NN की\PSP आइस\N_NN हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12744	जब\PR_PRL स्नो\N_NN क्लाइमिंग\N_NN के\PSP तरीके\N_NN कठोर\JJ आइस\N_NN अथवा\N_NN ग्लेशियर\N_NN पर\PSP होने\N_NN के\PSP कारण\N_NN काम\N_NN में\PSP न\RP_NEG आ\V_VM पा\V_VAUX रहे\V_VAUX हों\V_VAUX तो\RP_RPD विशेष\JJ प्रकार\N_NN की\PSP तकनीक\N_NN का\PSP सहारा\N_NN लेना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12745	ये\DM_DMD तरीके\N_NN साधारणतया\N_NN वही\DM_DMD होते\V_VM हैं\V_VAUX जो\PR_PRL रॉक\N_NN क्लाइमिंग\N_NN करते\N_NN समय\N_NN प्रयोग\N_NN में\PSP लाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12746	जब\PR_PRL आइस\N_NN में\PSP पर्वतारोही\N_NN बूट\N_NN की\PSP ठोकर\N_NN से\PSP स्थान\N_NN न\RP_NEG बना\V_VM पाए\V_VAUX ,\RD_PUNC क्रैम्पन\N_NN आइस\N_NN में\PSP पकड़\N_NN न\RP_NEG बनाएँ\N_NN और\CC_CCD जब\PR_PRL वहाँ\DM_DMD की\PSP ढलान\N_NN तीखी\JJ हो\V_VM तो\RP_RPD उसे\DM_DMD वहाँ\DM_DMD पर\PSP सीढ़ियाँ\N_NN अथवा\N_NN स्टेप्स\N_NN काटने\V_VM पड़ते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12747	अपना\PR_PRF संतुलन\N_NN बनाए\V_VM रखने\V_VAUX में\PSP आरोही\N_NN को\PSP समस्या\N_NN आ\V_VM रही\V_VAUX हो\V_VAUX तो\RP_RPD उसे\DM_DMD आइस\N_NN एक्स\N_NN की\PSP सहायता\N_NN से\PSP हाथ\N_NN के\PSP लिए\PSP होल्ड\N_NN बनाने\V_VM पड़ते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12748	जब\PR_PRL ऐसे\DM_DMR होल्ड\N_NN विश्‍वसनीय\N_NN न\RP_NEG लग\V_VM रहे\V_VAUX हों\V_VAUX तो\RP_RPD उसे\DM_DMD कृत्रिम\JJ रॉक\N_NN क्लाइमिंग\N_NN की\PSP ही\RP_RPD तरह\N_NN से\PSP पिटन\N_NN और\CC_CCD स्क्रू\N_NN ठोक\N_NN कर\N_NN आरोहण\V_VM करना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12749	एवालांश\N_NN आने\N_NN पर\PSP कार्निस\N_NN के\PSP ऊपर\N_NST और\CC_CCD नीचे\N_NST ,\RD_PUNC क्रिवैस\N_NN में\PSP और\CC_CCD सख्त\JJ आइस\N_NN वाले\N_NN स्थलों\N_NN पर\PSP आइस\N_NN क्लाइमिंग\N_NN करते\N_NN समय\N_NN समस्याएँ\N_NN तो\RP_RPD आती\V_VM ही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12750	इसी\DM_DMD प्रकार\N_NN पानी\N_NN के\PSP कणों\N_NN से\PSP जमने\N_NN वाली\N_NN परत\N_NN और\CC_CCD गीली\N_NN आइस\N_NN भी\RP_RPD खतरनाक\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12751	यदि\CC_CCS आरोही\N_NN पूरी\N_NN सावधानी\N_NN के\PSP साथ\N_NN आरोहण\V_VM न\RP_NEG करे\V_VAUX और\CC_CCD छोटी\JJ सी\N_NN भूल\N_NN अथवा\N_NN लापरवाही\V_VM कर\V_VAUX जाए\V_VAUX तो\RP_RPD दुर्घटना\V_VM हो\V_VAUX जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12752	शीशे\N_NN की\PSP तरह\N_NN यह\DM_DMD परत\N_NN चट्‍टानों\N_NN और\CC_CCD पत्थरों\N_NN पर\PSP उस\PR_PRP समय\N_NN बन\V_VM जाती\V_VAUX है\V_VAUX जब\PR_PRL बारिश\N_NN का\PSP पानी\N_NN रात\N_NN में\PSP ठंड\N_NN के\PSP कारण\N_NN उन\PR_PRP पर\PSP जम\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12753	दिन\N_NN की\PSP गर्मी\N_NN में\PSP स्नो\N_NN पिघलती\V_VM है\V_VAUX और\CC_CCD रात्रि\N_NN में\PSP जम\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12754	जब\PR_PRL पर्वतारोही\N_NN किसी\PR_PRI पर्वतारोहण\N_NN अभियान\N_NN के\PSP लिए\PSP जाते\V_VM हैं\V_VAUX तो\RP_RPD उन्हें\PR_PRL वहाँ\DM_DMD पर\PSP अनेक\N_NN समस्याओं\N_NN और\CC_CCD कठिनाइयों\N_NN का\PSP निरंतर\N_NN सामना\V_VM करना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12755	पर्वतारोहण\N_NN में\PSP कुछ\PR_PRI समस्याएँ\N_NN शारीरिक\JJ होती\V_VM हैं\V_VAUX तो\RP_RPD कुछ\PR_PRI मानसिक\JJ ।\RD_PUNC
+htd12756	पर्वतारोहण\N_NN में\PSP कई\PR_PRI प्रकार\N_NN की\PSP बीमारियों\N_NN और\CC_CCD दुर्घटनाओं\N_NN का\PSP सामना\N_NN भी\RP_RPD करना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12757	पर्वतारोहण\N_NN में\PSP बचाव\N_NN के\PSP साधन\N_NN भी\RP_RPD अपनाने\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12758	बहुत\RB से\PSP पर्वतारोहण\N_NN अभियान\N_NN केवल\N_NN इस\DM_DMD कारण\N_NN से\PSP असफल\V_VM हुए\V_VAUX क्योंकि\CC_CCS प्रारंभ\N_NN से\PSP ही\RP_RPD उनकी\DM_DMD योजना\N_NN भली\N_NN -\RD_PUNC भाँति\RD_ECH नहीं\RP_NEG बनाई\V_VM गई\V_VAUX ।\RD_PUNC
+htd12759	बिना\N_NN योजना\N_NN के\PSP पर्वतारोहण\N_NN में\PSP परिणामस्वरूप\N_NN कितना\PR_PRQ ही\RP_RPD धन\N_NN और\CC_CCD समय\N_NN बर्बाद\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd12760	कई\PR_PRI बार\N_NN तो\RP_RPD अमूल्य\N_NN जीवन\N_NN भी\RP_RPD गँवाने\V_VM पड़े\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12761	किसी\PR_PRI भी\RP_RPD अभियान\N_NN के\PSP अनंतर\N_NN कई\PR_PRI प्रकार\N_NN की\PSP चुनौतियों\N_NN का\PSP सामना\V_VM करना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12762	किसी\PR_PRI अभियान\N_NN में\PSP कई\PR_PRI प्रकार\N_NN की\PSP ज्ञात\N_NN -\RD_PUNC अज्ञात\RD_ECH समस्याएँ\N_NN सामने\V_VM आती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12763	पर्वतारोहण\N_NN के\PSP किसी\PR_PRI भी\RP_RPD अभियान\N_NN में\PSP भोजन\N_NN का\PSP बहुत\N_NN ही\RP_RPD महत्त्वपूर्ण\JJ स्थान\V_VM है\V_VAUX ।\RD_PUNC
+htd12764	सबसे\N_NN बड़ी\JJ बात\N_NN यह\DM_DMD है\V_VM कि\PSP यहाँ\DM_DMD पर\PSP प्रत्येक\N_NN को\PSP अपना\PR_PRF मनपंसद\JJ भोजन\N_NN मिलना\N_NN संभव\V_VM नहीं\V_VAUX हो\V_VAUX पाता\V_VAUX ।\RD_PUNC
+htd12765	एकदम\N_NN भिन्न\N_NN वातावरण\N_NN ,\RD_PUNC निरंतर\JJ काम\N_NN करने\N_NN से\N_NN आने\N_NN वाली\N_NN थकावट\N_NN के\PSP बाद\N_NN जब\PR_PRL मनपंसद\JJ खाना\N_NN नहीं\RP_NEG मिलता\V_VM तो\RP_RPD आरोही\N_NN को\PSP और\CC_CCD भी\RP_RPD बुरा\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12766	इसके\DM_DMD साथ\N_NN ही\RP_RPD पर्वतों\N_NN पर\PSP बहुत\RB ही\RP_RPD संतुलित\JJ और\CC_CCD पौष्‍टिक\JJ भोजन\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12767	एक\QT_QTC पर्वतारोही\N_NN को\PSP आरोहण\N_NN के\PSP दौरान\N_NN मार्ग\N_NN में\PSP 4200\QT_QTC कैलोरी\N_NN की\PSP आवश्यकता\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12768	पर्वतारोही\N_NN को\PSP 6070\QT_QTC मीटर\QT_QTF की\PSP ऊँचाई\N_NN पर\PSP 3200\QT_QTC और\CC_CCD 7300\QT_QTC मीटर\QT_QTF से\PSP ऊपर\N_NST 1500\QT_QTC कैलोरी\N_NN चाहिए\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12769	इन्हीं\DM_DMD मात्राओं\N_NN को\PSP ध्यान\N_NN में\PSP रखते\V_VM हुए\V_VAUX तीन\QT_QTC तरह\N_NN का\PSP मीनू\N_NN बनाया\V_VM जाना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12770	इन्हीं\DM_DMD के\PSP अनुरूप\N_NN खाद्य\JJ सामग्री\N_NN खरीदी\V_VM जानी\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12771	प्रतिदिन\N_NN का\PSP हिसाब\V_VM लगा\V_VAUX कर\V_VAUX इन्हीं\DM_DMD के\PSP अनुसार\N_NN मीनू\N_NN बनाकर\V_VM रख\V_VAUX लेना\V_VAUX चाहिए\V_VAUX ।\RD_PUNC
+htd12772	इन\DM_DMD दिनों\N_NN पर्वतों\N_NN पर\PSP जाने\N_NN के\PSP लिए\PSP कुलियों\N_NN और\CC_CCD शेरपाओं\N_NN का\PSP मिलना\N_NN कठिन\JJ होता\V_VM जा\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12773	जो\PR_PRL पर्वतों\N_NN में\PSP जाने\N_NN के\PSP लिए\PSP तैयार\V_VM होते\V_VAUX भी\V_VAUX हैं\V_VAUX वे\DM_DMD बहुत\RB अधिक\JJ राशि\N_NN की\PSP माँग\V_VM करने\V_VAUX लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12774	इस\DM_DMD प्रकार\N_NN छोटे\JJ अभियान\N_NN दलों\N_NN के\PSP लिए\PSP पर्वतों\N_NN पर\PSP जाना\N_NN कठिन\V_VM होता\V_VAUX जा\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12775	हमने\PR_PRP समय\N_NN -\RD_PUNC समय\RD_ECH पर\PSP अनेक\N_NN सामान्य\N_NN समस्याओं\N_NN की\PSP जानकारी\N_NN पहले\N_NN ही\RP_RPD दे\V_VM दी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12776	उनसे\DM_DMD बचने\N_NN अथवा\N_NN उन्हें\DM_DMD न\RP_NEG होने\V_VM देने\V_VAUX के\PSP संबंध\N_NN में\PSP भी\RP_RPD बताया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12777	यहाँ\DM_DMD पर\PSP कुछ\PR_PRI ऐसी\DM_DMR समस्याओं\N_NN के\PSP बारे\N_NN में\PSP बताया\V_VM जा\V_VAUX रहा\V_VAUX है\V_VAUX जिनका\DM_DMR संबंध\N_NN चिकित्सा\N_NN से\PSP है\V_VM ।\RD_PUNC
+htd12778	जब\PR_PRL आरोही\N_NN पहली\JJ बार\N_NN ऊँचे\JJ पर्वतों\N_NN पर\PSP आरोहण\N_NN के\PSP लिए\PSP जाते\V_VM हैं\V_VAUX तो\RP_RPD उन्हें\DM_DMD वहाँ\DM_DMD का\PSP वातावरण\N_NN एकदम\N_NN भिन्न\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12779	पर्वतारोहण\N_NN के\PSP पहले\QT_QTC चार\QT_QTC दिन\N_NN तो\RP_RPD पर्वतारोही\N_NN के\PSP लिए\PSP विशेष\JJ कठिनाई\N_NN वाले\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12780	पर्वतों\N_NN पर\PSP ऑक्सीजन\N_NN का\PSP दबाव\N_NN कम\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12781	ऑक्सीजन\N_NN की\PSP कमी\N_NN से\PSP होने\N_NN वाली\N_NN कोई\PR_PRI भी\RP_RPD समस्या\N_NN पर्वतों\N_NN में\PSP हो\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12782	विशेष\JJ रूप\N_NN से\PSP युवाओं\N_NN को\PSP और\CC_CCD जिन्हें\PR_PRL पर्वतों\N_NN पर\PSP अधिक\N_NN काम\N_NN करना\V_VM पड़े\V_VAUX ,\RD_PUNC ये\DM_DMD समस्याएँ\N_NN अधिक\JJ परेशान\V_VM करती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12783	इस\DM_DMD बीमारी\N_NN के\PSP लक्षण\N_NN ऊँचे\JJ पर्वतों\N_NN पर\PSP पहुँचने\N_NN के\PSP चार\QT_QTC घंटे\N_NN से\PSP लेकर\N_NN नब्बे\QT_QTC घंटे\N_NN के\PSP भीतर\N_NN दिखाई\V_VM देने\V_VAUX लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12784	सिर\JJ दर्द\N_NN ,\RD_PUNC चक्कर\N_NN आना\N_NN ,\RD_PUNC उल्टी\N_NN ,\RD_PUNC एकाग्रता\N_NN भंग\V_VM होना\V_VAUX ,\RD_PUNC नींद\N_NN न\RP_NEG आना\N_NN ,\RD_PUNC काम\N_NN करने\N_NN की\PSP इच्छा\N_NN समाप्‍त\V_VM हो\V_VAUX जाना\V_VAUX ,\RD_PUNC खाँसी\N_NN ,\RD_PUNC दस्त\N_NN ,\RD_PUNC छाती\N_NN में\PSP दर्द\N_NN ,\RD_PUNC साँस\N_NN का\PSP तेज\V_VM होना\V_VAUX ,\RD_PUNC दुर्बलता\N_NN और\CC_CCD पैरों\N_NN तथा\N_NN टाँगों\N_NN में\PSP सूजन\N_NN इत्यादि\N_NN की\PSP शिकायत\N_NN आरोही\N_NN करने\V_VM लगता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12785	इसका\DM_DMD मूल\N_NN कारण\N_NN होता\V_VM है\V_VAUX शरीर\N_NN का\PSP पर्वतों\N_NN के\PSP वातावरण\N_NN के\PSP अनुकूल\N_NN न\RP_NEG हो\V_VM पाना\V_VAUX ।\RD_PUNC
+htd12786	इसके\DM_DMD कारण\N_NN अन्य\N_NN कई\PR_PRI प्रकार\N_NN की\PSP समस्याएँ\N_NN होने\V_VM लगती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12787	इनका\DM_DMD अन्त\N_NN एक्यूट\N_NN माऊंटेन\N_NN सिकनेस\N_NN के\PSP रूप\N_NN में\PSP सामने\N_NN आता\V_VM है\V_VAUX ।\RD_PUNC
+htd12788	जब\PR_PRL आरोही\N_NN ऊँचे\JJ स्थान\N_NN पर\PSP पहुँचते\V_VM हैं\V_VAUX तो\RP_RPD शरीर\N_NN में\PSP रक्‍त\N_NN की\PSP मात्रा\N_NN का\PSP पुनर्वितरण\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12789	इसका\DM_DMD सबसे\RB उत्तम\JJ इलाज\N_NN है\V_VM कि\PSP बहुत\RB तेजी\JJ से\PSP बहुत\RB ऊपर\JJ न\RP_NEG जाएँ\V_VM ।\RD_PUNC
+htd12790	माऊंटेन\N_NNP सिकनेस\N_NNP बीमारी\N_NN से\PSP ग्रस्त\N_NN होने\N_NN पर\PSP पूरी\N_NN तरह\N_NN से\PSP आराम\N_NN करना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd12791	माऊंटेन\N_NNP सिकनेस\N_NNP में\PSP लंबे\JJ -\RD_PUNC लंबे\RD_ECH और\CC_CCD गहरे\JJ साँस\N_NN लेने\N_NN से\PSP अधिक\N_NN ऑक्सीजन\N_NN मिलती\V_VM है\V_VAUX ।\RD_PUNC
+htd12792	एस्परीन\N_NNP अथवा\N_NN मारफीन\N_NNP खाने\N_NN से\PSP सिरदर्द\N_NN कम\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX परंतु\CC_CCS डॉक्टर\N_NN के\PSP परामर्श\N_NN से\PSP ही\RP_RPD दवा\N_NN लें\V_VM ।\RD_PUNC
+htd12793	यह\DM_DMD माउंटेन\N_NNP सिकनेस\N_NNP का\PSP सबसे\RB भयंकर\JJ रूप\N_NN है\V_VM इसमें\DM_DMD रोगी\N_NN के\PSP फेफड़ों\N_NN में\PSP पानी\N_NN भर\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12794	रोगी\N_NN आरोही\N_NN ऑक्सीजन\N_NN भीतर\N_NN नहीं\RP_NEG ले\V_VM सकता\V_VAUX ।\RD_PUNC
+htd12795	इससे\DM_DMD रक्‍त\N_NN ले\V_VM जाने\V_VAUX वाली\V_VAUX नसें\N_NN प्रभावित\V_VM होती\V_VAUX हैं\V_VAUX और\CC_CCD आरोही\N_NN बीमार\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12796	फेफड़ों\N_NN में\PSP पानी\N_NN भरने\V_VM का\PSP मुख्य\N_NN कारण\N_NN एक\QT_QTC अलग\N_NN प्रकार\N_NN का\PSP वातावरण\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12797	पर्वतों\N_NN में\PSP बचाव\N_NN कार्य\V_VM करना\V_VAUX अपने\PR_PRF आप\PR_PRP में\PSP एक\QT_QTC वृहद\JJ विषय\N_NN है\V_VM ।\RD_PUNC
+htd12798	हम\PR_PRP यहाँ\DM_DMD संक्षेप\N_NN में\PSP कुछ\PR_PRI महत्त्वपूर्ण\JJ बिंदुओं\N_NN पर\PSP ही\RP_RPD रोशनी\N_NN डाल\V_VM पाए~गे\V_VAUX ।\RD_PUNC
+htd12799	जब\PR_PRL भी\RP_RPD पर्वतों\N_NN पर\PSP कोई\PR_PRI छोटी\JJ -\RD_PUNC बड़ी\RD_ECH दुर्घटना\N_NN होती\V_VM है\V_VAUX तब\CC_CCS बचाव\N_NN कार्य\N_NN करने\N_NN की\PSP आवश्यकता\V_VM पड़ती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12800	बचाव\N_NN कार्य\N_NN पर्वतारोही\N_NN दल\N_NN के\PSP सदस्यों\N_NN को\PSP स्वयं\PR_PRF ही\RP_RPD करना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12801	परंतु\CC_CCD यदि\CC_CCS स्थिति\N_NN उनके\PR_PRP नियंत्रण\N_NN में\PSP न\RP_NEG हो\V_VM तो\RP_RPD किसी\PR_PRI की\PSP सहायता\N_NN लेनी\V_VM पड़ती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12802	ऐसी\DM_DMR हालत\N_NN में\PSP वह\PR_PRP किसी\PR_PRI ऐसी\DM_DMR संस्था\N_NN से\PSP संपर्क\V_VM करते\V_VAUX हैं\V_VAUX जो\PR_PRL बचाव\N_NN कार्य\N_NN करती\V_VM है\V_VAUX ।\RD_PUNC
+htd12803	आमतौर\N_NN पर\PSP बड़े\JJ अभियान\N_NN दलों\N_NN के\PSP पास\N_NST वायरलेस\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd12804	इससे\DM_DMD वे\PR_PRP लोग\N_NN आपस\PR_PRC में\PSP संपर्क\V_VM रखते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12805	जिन\N_NN दलों\N_NN के\PSP पास\N_NN वायरलेस\N_NN की\PSP सुविधा\N_NN न\RP_NEG हो\V_VM उनके\PR_PRP सदस्य\N_NN जब\PR_PRL बेस\N_NN कैंप\N_NN से\PSP ऊपर\N_NST आरोहण\N_NN के\PSP लिए\PSP जाते\V_VM हैं\V_VAUX तो\RP_RPD नीचे\N_NST से\PSP उनका\DM_DMD पूरा\N_NN ध्यान\V_VM रखा\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12806	जम्मू\N_NNP और\CC_CCD कश्मीर\N_NNP भारत\N_NNP के\PSP शीर्ष\JJ उत्तर\N_NST में\PSP होने\N_NN के\PSP कारण\N_NN इसे\DM_DMD ``\RD_PUNC भारत\N_NNP का\PSP मुकुट\N_NN ``\RD_PUNC की\PSP संज्ञा\N_NN दी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12807	जम्मू\N_NNP और\CC_CCD कश्मीर\N_NNP तीन\QT_QTC ओर\N_NN से\PSP चीन\N_NNP ,\RD_PUNC पाकिस्तान\N_NNP व\N_NN अफगानिस्तान\N_NNP से\PSP घिरा\V_VM है\V_VAUX ।\RD_PUNC
+htd12808	कश्मीर\N_NNP का\PSP अपना\PR_PRF इतिहास\N_NN है\V_VM और\CC_CCD यह\DM_DMD अपनी\PR_PRF अमूल्य\RB सांस्कृतिक\JJ विरासत\N_NN है\V_VM ।\RD_PUNC
+htd12809	कश्मीर\N_NNP हमारे\PR_PRP देश\N_NN में\PSP पर्यटन\N_NN की\PSP दृष्‍टि\N_NN से\PSP अत्यंत\RB महत्त्वपूर्ण\JJ स्थान\N_NN रखता\V_VM है\V_VAUX तथा\CC_CCD इसे\DM_DMD ’\N_NN पर्यटन\N_NN का\PSP प्रतीक\N_NN ’\N_NN कहा\V_VM जाए\V_VAUX तो\RP_RPD अतिशयोक्‍ति\N_NN नहीं\RP_NEG होगी\V_VM ।\RD_PUNC
+htd12810	प्रकृति\N_NN ने\PSP कश्मीर\N_NNP की\PSP धरती\N_NN को\PSP बेशुमार\JJ सुंदरता\N_NN से\PSP सजाया\V_VM है\V_VAUX ।\RD_PUNC
+htd12811	बर्फ़ीली\JJ पहाड़ियाँ\N_NN ,\RD_PUNC शांत\JJ झीलें\N_NN ,\RD_PUNC मुगलकालीन\JJ बाग\N_NN -\RD_PUNC बगीचे\N_NN इत्यादि\N_NN पर्यटकों\N_NN के\PSP लिए\PSP स्वर्ग\N_NN का\PSP नजारा\N_NN पेश\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12812	कश्मीर\N_NNP की\PSP सुरम्य\JJ दृश्यावली\N_NN एवं\CC_CCD मनमोहक\JJ प्राकृतिक\JJ छटा\N_NN देखते\N_NN ही\RP_RPD बनती\N_NN है\V_VM ।\RD_PUNC
+htd12813	पर्यटन\N_NN के\PSP विकास\N_NN के\PSP साथ\N_NN कश्मीर\N_NNP में\PSP कई\PR_PRI सुंदर\JJ पहाड़ी\N_NN स्थल\N_NN विकसित\V_VM हुए\V_VAUX हैं\V_VAUX जहाँ\PR_PRL पर्यटकों\N_NN के\PSP मनोरंजन\N_NN व\CC_CCD सुविधा\N_NN के\PSP लिए\PSP सभी\N_NN साधन\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12814	अपनी\PR_PRF आकर्षक\JJ छटा\N_NN व\CC_CCD शांत\JJ वातावरण\N_NN के\PSP अलावा\N_NN इस\DM_DMD राज्य\N_NN में\PSP खेलकूद\N_NN ,\RD_PUNC पर्वतारोहण\N_NN व\CC_CCD स्कीइंग\N_NN के\PSP ऐसे\DM_DMR अनेक\N_NN आकर्षण\N_NN केंद्र\N_NN उपलब्ध\V_VM हैं\V_VAUX जिनमें\DM_DMR विदेशी\JJ पर्यटकों\N_NN की\PSP विशेष\JJ रुचि\N_NN रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd12815	इसी\DM_DMD राज्य\N_NN में\PSP जम्मू\N_NNP के\PSP पास\N_NST वैष्णों\N_NNP देवी\N_NNP का\PSP प्रसिद्ध\N_NN मंदिर\N_NN स्थित\V_VM है\V_VAUX जहाँ\PR_PRL प्रतिवर्ष\N_NN लाखों\N_NN श्रद्धालु\N_NN दर्शनों\N_NN के\PSP लिये\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12816	इसके\DM_DMD अलावा\N_NN जम्मू\N_NNP में\PSP और\CC_CCD भी\RP_RPD अनेक\JJ मंदिर\N_NN है\V_VM जिसके\DM_DMR कारण\N_NN इसे\DM_DMD ``\RD_PUNC मंदिरों\N_NN की\PSP नगरी\N_NN ``\RD_PUNC भी\RP_RPD कहा\V_VM जाए\V_VAUX तो\RP_RPD अनुचित\N_NN न\RP_NEG होगा\V_VM ।\RD_PUNC
+htd12817	जम्मू\N_NNP कश्मीर\N_NNP के\PSP दर्शनीय\JJ स्थलों\N_NN में\PSP ’\N_NN अचबल\N_NNP ’\N_NN स्थान\N_NN बाग\N_NN -\RD_PUNC बगीचे\RD_ECH ,\RD_PUNC कैम्पिंग\N_NN और\CC_CCD पिकनिक\N_NN स्थल\N_NN तथा\CC_CCD मछली\N_NN पकड़ने\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12818	अचबल\N_NNP के\PSP पास\N_NST कोकरनाग\N_NNP स्थान\N_NNP खनिज\N_NN स्रोत\N_NN ,\RD_PUNC बाग\N_NN -\RD_PUNC बगीचे\N_NN ,\RD_PUNC मछली\N_NN पकड़ने\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12819	अखनूर\N_NNP स्थान\N_NNP दुर्ग\N_NN और\CC_CCD पिकनिक\N_NN स्थल\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12820	अमरनाथ\N_NNP प्रमुख\N_NN हिन्दू\N_NNP धार्मिक\JJ स्थल\N_NN व\CC_CCD पर्यटन\N_NN केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd12821	एमराल्ड\N_NNP झील\N_NNP जून\N_NNP तक\PSP जमी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12822	कश्मीर\N_NNP का\PSP ’\N_NN अथवाटू\N_NNP ’\N_NN एक\QT_QTC मनोरंजन\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12823	’\N_NN बासोली\N_NNP ’\N_NN में\PSP महलों\N_NN के\PSP भित्ति\N_NN चित्र\N_NN दर्शनीय\JJ हैं\V_VM ।\RD_PUNC
+htd12824	जम्मू\N_NNP और\CC_CCD कश्मीर\N_NNP का\PSP बिलौर\N_NNP एक\QT_QTC तीर्थ\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12825	बाटोदी\N_NNP एक\QT_QTC पहाड़ी\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12826	कश्मीर\N_NNP का\PSP ’\N_NN द्रास\N_NNP ’\N_NN स्थल\N_NNP एशिया\N_NN में\PSP सबसे\RB शीतलतम\JJ जगह\N_NN है\V_VM ।\RD_PUNC
+htd12827	गुलमर्ग\N_NNP फूलों\N_NN के\PSP मैदान\N_NN ,\RD_PUNC गोल्फ\N_NN और\CC_CCD शीतकालीन\JJ खेलों\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12828	गुलमर्ग\N_NNP के\PSP पास\N_NST ’\N_NN खिलनमर्ग\N_NNP ’\N_NN एक\QT_QTC फूलों\N_NN का\PSP मैदान\N_NN है\V_VM ।\RD_PUNC
+htd12829	कश्मीर\N_NNP का\PSP ’\N_NN तंग\N_NNP मार्ग\N_NNP ’\N_NN एक\QT_QTC कैम्पिंग\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12830	’\N_NN हरवार\N_NNP ’\N_NN स्थान\N_NNP उत्खनन\N_NN और\CC_CCD मछली\N_NN पकड़ने\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12831	’\N_NN पुरमंडल\N_NNP ’\N_NN हिन्दू\N_NNP तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12832	कारगिल\N_NNP पर्वतारोहण\N_NN ,\RD_PUNC दर्शनीय\JJ मठ\N_NN ,\RD_PUNC फलों\N_NN के\PSP बाग\N_NN के\PSP लिए\PSP प्रसिद्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12833	कारगिल\N_NNP के\PSP पास\N_NST ’\N_NN लामायार\N_NNP ु’\N_NN में\PSP प्राचीनतम\JJ मठ\N_NN तथा\CC_CCD भित्ति\N_NN चित्र\N_NN दर्शनीय\JJ हैं\V_VM ।\RD_PUNC
+htd12834	’\N_NN मुलबेख\N_NNP ’\N_NN स्थापत्य\N_NN कला\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12835	किश्तवार\N_NNP में\PSP मुस्लिम\N_NNP मकबरे\N_NN हैं\V_VM ।\RD_PUNC
+htd12836	’\N_NN मार्तण्ड\N_NNP ’\N_NN में\PSP मंदिरों\N_NN के\PSP भग्नावशेष\N_NN ,\RD_PUNC सूर्य\N_NNP मंदिर\N_NN ,\RD_PUNC पवित्र\JJ स्रोत\N_NN और\CC_CCD उद्यान\N_NN हैं\V_VM ।\RD_PUNC
+htd12837	पहलगाम\N_NNP के\PSP पास\N_NST ’\N_NN आरू\N_NNP ’\N_NN प्राकृतिक\JJ सौंदर्य\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12838	’\N_NN लिडरवात\N_NNP स्थान\N_NNP कैम्पिंग\N_NN और\CC_CCD ट्रेकिंग\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12839	अवन्तिपुरा\N_NNP स्थान\N_NNP मंदिरों\N_NN के\PSP भग्नावशेष\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12840	’\N_NN बुर्ज़ाहोम\N_NNP ’\N_NN स्थान\N_NNP उत्खनन\N_NN के\PSP लिए\PSP प्रसिद्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd12841	जम्मू\N_NNP और\CC_CCD कश्मीर\N_NNP राज्य\N_NN का\PSP चरार-ए-शरीफ\N_NNP मुस्लिम\N_NNP तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12842	’\N_NN चश्माशाही\N_NNP ’\N_NN स्थान\N_NNP रोगनिवारक\JJ गुणकारी\JJ झरनों\N_NN ,\RD_PUNC बाग\N_NN -\RD_PUNC बगीचों\N_NN के\PSP लिए\PSP प्रसिद्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd12843	वुलर\N_NNP झील\N_NNP प्राकृतिक\JJ सौंदर्य\N_NN से\PSP ओतप्रोत\N_NN तथा\CC_CCD एशिया\N_NN की\PSP सबसे\RB बड़ी\JJ झील\N_NN है\V_VM ।\RD_PUNC
+htd12844	तारसर\N_NNP झील\N_NNP प्राकृतिक\JJ सौंदर्य\N_NN के\PSP लिए\PSP जानी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12845	वैरनाग\N_NNP में\PSP प्रसिद्ध\JJ झरना\N_NN व\CC_CCD उद्यान\N_NN है\V_VM ।\RD_PUNC
+htd12846	’\N_NN वातलाब\N_NNP ’\N_NN एक\QT_QTC कैम्पिंग\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12847	युस\N_NNP मार्ग\N_NNP में\PSP सुंदर\JJ चारागाह\N_NN पर\PSP कैम्पिंग\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12848	हिमाचल\N_NNP प्रदेश\N_NNP के\PSP उत्तर\N_NST में\PSP जम्मू\N_NNP और\CC_CCD कश्मीर\N_NNP ,\RD_PUNC दक्षिण\N_NST -\RD_PUNC पश्‍चिम\N_NST में\PSP पंजाब\N_NNP ,\RD_PUNC दक्षिण\N_NST में\PSP हरियाणा\N_NNP ,\RD_PUNC दक्षिण-पूर्व\N_NST में\PSP उत्तरांचल\N_NNP और\CC_CCD पूर्व\N_NST भाग\N_NN में\PSP चीन\N_NNP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd12849	हिमाचल\N_NNP प्रदेश\N_NNP को\PSP स्वतंत्र\JJ राज्य\N_NN का\PSP दर्जा\N_NN 25\QT_QTC जनवरी\N_NNP ,\RD_PUNC 1971\QT_QTC को\PSP दिया\V_VM गया\V_VAUX व\CC_CCD शिमला\N_NNP को\PSP इसकी\DM_DMD राजधानी\N_NN बनाया\V_VM गया\V_VAUX ।\RD_PUNC
+htd12850	हिमालय\N_NNP की\PSP गोद\N_NN में\PSP स्थित\V_VM इस\DM_DMD प्रदेश\N_NN का\PSP प्राकृतिक\JJ सौंदर्य\N_NN विविध\JJ ,\RD_PUNC मनोहारी\JJ व\CC_CCD अतुलनीय\JJ है\V_VM ।\RD_PUNC
+htd12851	हिमाचल\N_NNP की\PSP कुल्लू\N_NNP व\CC_CCD कांगड़ा\N_NNP की\PSP घाटियाँ\N_NN और\CC_CCD मनाली\N_NNP जैसे\DM_DMR पहाड़ी\N_NN स्थलों\N_NN का\PSP सौंदर्य\N_NN एवं\CC_CCD आकर्षण\N_NN कश्‍मीर\N_NNP घाटियों\N_NN से\PSP भी\RP_RPD अधिक\JJ है\V_VM ।\RD_PUNC
+htd12852	शिमला\N_NNP से\PSP 205\QT_QTC किलोमीटर\QT_QTF की\PSP दूरी\N_NN पर\PSP स्थित\V_VM कुल्लू\N_NNP की\PSP घाटी\N_NN अपनी\PR_PRF सुंदर\JJ दृश्यावलियों\N_NN ,\RD_PUNC सेब\N_NN के\PSP बागानों\N_NN तथा\CC_CCD जीवंत\JJ आदिवासी\N_NN नृत्य\N_NN एवं\CC_CCD संगीत\N_NN के\PSP लिए\PSP प्रसिद्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd12853	कुल्लू\N_NNP में\PSP दस\QT_QTC दिन\N_NN तक\PSP चलने\N_NN वाला\N_NN दशहरे\N_NNP का\PSP मेला\N_NN उत्साह\N_NN भरा\N_NN त्योहार\N_NN है\V_VM जो\PR_PRL स्थानीय\JJ भगवान\N_NNP रघुनाथ\N_NNP पर\PSP केंन्द्रित\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12854	यहाँ\DM_DMD झूमते\N_NN लोक\JJ नृत्य\N_NN ,\RD_PUNC पहाड़ी\JJ वाद्य\N_NN यंत्रों\N_NN पर\PSP थिरकती\N_NN लोक\N_NN धुनें\N_NN मनमोह\V_VM लेती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12855	मनाली\N_NNP के\PSP पास\N_NST ’\N_NN धुंडी\N_NN ’\N_NN व\CC_CCD ’\N_NN चम्बा\N_NNP ’\N_NN तथा\CC_CCD लाहौल\N_NNP में\PSP ’\N_NN सिसु\N_NNP ’\N_NN व\CC_CCD ’सासा’\N_NNP नामक\N_NN स्थान\N_NN जून\N_NNP से\PSP सितंबर\N_NNP के\PSP मध्य\N_NST तक\PSP फूलों\N_NN से\PSP लदे\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12856	इस\DM_DMD प्रकार\N_NN संपूर्ण\JJ हिमालय\N_NNP चीड़\N_NN ,\RD_PUNC देवदार\N_NN व\CC_CCD अन्य\N_NN वृक्षों\N_NN से\PSP सदैव\N_NN सज्जित\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12857	इस\DM_DMD प्रदेश\N_NN में\PSP विभिन्न\N_NN प्रकार\N_NN के\PSP पशु\N_NN -\RD_PUNC पक्षी\RD_ECH पाए\V_VM जाते\V_VAUX हैं\V_VAUX जिनमें\DM_DMR काला\JJ पहाड़ी\N_NN हिरण\N_NN ,\RD_PUNC भालू\N_NN ,\RD_PUNC तेंदुआ\N_NN ,\RD_PUNC मैना\N_NN ,\RD_PUNC कोयल\N_NN ,\RD_PUNC मोनाल\N_NN ,\RD_PUNC कालीज़\N_NN आदि\N_NN प्रमुख\N_NN हैं\V_VM ।\RD_PUNC
+htd12858	हिमालय\N_NNP प्रदेश\N_NNP मे\PSP प्राकृतिक\JJ सौंदर्य\N_NN ,\RD_PUNC बदलते\N_NN मौसम\N_NN और\CC_CCD सुंदर\JJ संस्कृति\N_NN सही\N_NN अर्थों\N_NN में\PSP देवलोक\N_NN को\PSP परिभाषित\V_VM करता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12859	हिमाचल\N_NNP प्रदेश\N_NNP पर्यटकों\N_NN के\PSP लिए\PSP सहज\N_NN उपलब्ध\N_NN स्वर्ग\N_NN है\V_VM ।\RD_PUNC
+htd12860	हिमाचल\N_NNP प्रदेश\N_NNP में\PSP बिताए\N_NN हुए\N_NN क्षण\N_NN जीवन\N_NN में\PSP सदैव\N_NN स्मरणीय\V_VM रहेंगे\V_VAUX ।\RD_PUNC
+htd12861	हिमाचल\N_NNP का\PSP ’\N_NN भाखड़ा\N_NNP ’\N_NN एक\QT_QTC पिकनिक\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12862	बिलासपुर\N_NNP में\PSP गुफाएँ\N_NN ,\RD_PUNC मंदिर\N_NN ,\RD_PUNC आनंदपुर\N_NN साहिब\N_NN का\PSP सुंदर\JJ दृश्य\N_NN और\CC_CCD झील\N_NN दर्शनीय\JJ हैं\V_VM ।\RD_PUNC
+htd12863	चैल\N_NNP में\PSP संसार\N_NN में\PSP सबसे\RB ऊँचाई\N_NN पर\PSP स्थित\N_NN क्रिकेट\N_NN का\PSP मैदान\N_NN है\V_VM ।\RD_PUNC
+htd12864	चैल\N_NNP पहाड़ी\N_NNP स्थल\N_NN पर्वतारोहण\N_NN ,\RD_PUNC पक्षी\N_NN दर्शन\N_NN और\CC_CCD मछली\N_NN पकड़ने\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12865	भीमताल\N_NNP की\PSP मंथर\JJ गति\N_NN से\PSP आप\PR_PRP जल्द\N_NN ही\RP_RPD तालमेल\N_NN बिठा\V_VM लेंगी\V_VAUX ,\RD_PUNC जहाँ\PR_PRL अब\N_NN भी\RP_RPD प्रकृति\N_NN का\PSP ही\RP_RPD डंका\N_NN बजता\V_VM है\V_VAUX ।\RD_PUNC
+htd12866	सुबह\N_NN कुहरे\N_NN से\PSP ढँके\N_NN पर्वतों\N_NN और\CC_CCD बैंगनी\N_NN -\RD_PUNC नीले\N_NN रंग\N_NN की\PSP झील\N_NN के\PSP सौंदर्य\N_NN के\PSP बीच\N_NST आपकी\PR_PRP नींद\N_NN टूटेगी\V_VM ।\RD_PUNC
+htd12867	उत्तराखंड\N_NNP के\PSP कुमाऊँ\N_NNP में\PSP झीलों\N_NN की\PSP पूरी\N_NN लड़ी\N_NN है\V_VM -\RD_PUNC भीमताल\N_NNP ,\RD_PUNC सतताल\N_NNP ,\RD_PUNC गरूड़\N_NNP और\CC_CCD नौकुचियाताल\N_NNP ।\RD_PUNC
+htd12868	नैनीताल\N_NNP की\PSP प्रसिद्धी\N_NN ने\PSP लंबे\JJ अर्से\N_NN तक\PSP कुमाऊँ\N_NNP की\PSP खूबसूरत\JJ झीलों\N_NN के\PSP सौंदर्य\N_NN की\PSP ओर\N_NN पर्यटकों\N_NN का\PSP ध्यान\N_NN नहीं\RP_NEG जाने\V_VM दिया\V_VAUX ।\RD_PUNC
+htd12869	आप\PR_PRP यात्रा\N_NN की\PSP शुरुआत\N_NN ’\N_NN गरुड़ताल\N_NNP ’\N_NN से\PSP कर\V_VM सकती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12870	गरुड़ताल\N_NNP को\PSP लोग\N_NN ’\N_NN पन्ना\N_NNP ’\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12871	लंबी\JJ -\RD_PUNC सँकरी\JJ सड़क\N_NN से\PSP होते\N_NN हुए\N_NN आपकी\N_NN गाड़ी\N_NN गरुड़ताल\N_NNP पहुँचेगी\V_VM ।\RD_PUNC
+htd12872	गरुड़ताल\N_NNP की\PSP सुंदरता\N_NN को\PSP आप\PR_PRP मंत्रमुग्ध\N_NN होकर\N_NN देखती\V_VM रह\V_VAUX जाएँगी\V_VAUX ।\RD_PUNC
+htd12873	ऐसा\DM_DMR आभास\V_VM होगा\V_VAUX ,\RD_PUNC जैसे\DM_DMR गरुड़ताल\N_NNP सघन\JJ वनों\N_NN से\PSP घिरा\N_NN एक\QT_QTC गहरा\JJ ,\RD_PUNC झिलमिलाता\JJ हुआ\V_VAUX हरे\JJ रंग\N_NN का\PSP प्याला\N_NN हो\V_VM ।\RD_PUNC
+htd12874	जंगल\N_NN से\PSP गुजरते\V_VM हुए\V_VAUX आपको\PR_PRP सघन\JJ हरियाली\JJ के\PSP साथ\N_NN -\RD_PUNC साथ\RD_ECH प्रकृति\N_NN के\PSP शुष्क\JJ नजारे\N_NN भी\RP_RPD मिलेंगे\V_VM ,\RD_PUNC आप\PR_PRP पाएँगी\V_VM पथरीली\JJ ज़मीन\N_NN और\CC_CCD अटूट\JJ खामोशी\N_NN ।\RD_PUNC
+htd12875	इसके\DM_DMD बाद\N_NN मिलेगा\V_VM एक\QT_QTC खुली\JJ छ्त\N_NN का\PSP चर्च\N_NN ,\RD_PUNC जिसकी\PR_PRL उजली\JJ पृष्‍ठभूमि\N_NN में\PSP सूरज\N_NNP को\PSP झील\N_NN में\PSP चमकते\V_VM हुए\V_VAUX देख\V_VM सकेंगी\V_VAUX ।\RD_PUNC
+htd12876	झील\N_NN के\PSP किनारे\N_NST बैठने\N_NN के\PSP लिए\PSP एंपिथिएटर\N_NN के\PSP जैसी\DM_DMR सीढ़ियाँ\N_NN बनाई\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12877	किसी\PR_PRI सपाट\JJ पत्थर\N_NN पर\PSP बैठकर\N_NN इत्मीनान\N_NN से\PSP इस\DM_DMD खूबसूरत\JJ झाँकी\N_NN को\PSP मन\N_NN में\PSP उतार\V_VM लें\V_VAUX या\CC_CCD करीने\N_NN से\PSP तराशी\N_NN सीढ़ियों\N_NN पर\PSP ध्यानमग्‍न\V_VM हो\V_VAUX जाएँ\V_VAUX ।\RD_PUNC
+htd12878	हवा\N_NN में\PSP उड़ती\V_VM हुई\V_VAUX पत्तियाँ\N_NN किसी\PR_PRI दैवीय\JJ आशीर्वाद\N_NN की\PSP तरह\N_NN आपको\PR_PRP छू\V_VM जाएँगी\V_VAUX ।\RD_PUNC
+htd12879	झीलों\N_NN की\PSP नगरी\N_NN कुमाऊँ\N_NNP जाने\N_NN के\PSP लिए\PSP दिल्ली\N_NNP सबसे\N_NN नजदीकी\JJ हवाई\N_NN अड्डा\N_NN है\V_VM ।\RD_PUNC
+htd12880	दिल्ली\N_NNP से\PSP रानीखेत\N_NNP एक्सप्रेस\N_NNP आपको\PR_PRP रातभर\N_NN में\PSP काठगोदाम\N_NNP पहुँचा\V_VM देगी\V_VAUX ।\RD_PUNC
+htd12881	काठगोदाम\N_NNP से\PSP आगे\N_NST सड़क\N_NN मार्ग\N_NN से\PSP होकर\N_NN जाना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd12882	आप\PR_PRP कौन\PR_PRQ सा\N_NN वाहन\N_NN चुनती\V_VM हैं\V_VAUX ,\RD_PUNC इसी\DM_DMD के\PSP अनुसार\N_NN रु.\N_NN 400\QT_QTC से\PSP 800\QT_QTC तक\PSP का\PSP किराया\N_NN देना\V_VM पड़\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12883	दिल्ली\N_NNP से\PSP सड़क\N_NN मार्ग\N_NN से\PSP जाने\N_NN के\PSP लिए\PSP मुरादाबाद\N_NNP बाईपास\N_NNP ,\RD_PUNC हल्‍द्वानी\N_NNP और\CC_CCD काठगोदम\N_NNP होते\N_NN हुए\N_NN भीमताल\N_NNP या\CC_CCD सतताल\N_NNP पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12884	दो\QT_QTC रात\N_NN /\N_NN तीन\QT_QTC दिन\N_NN के\PSP लिए\PSP कार\N_NN का\PSP किराया\N_NN रु.\N_NN 7,500\QT_QTC (एंबेस्डर)\N_NN से\PSP लेकर\N_NN रु.\N_NN 12,500\QT_QTC (फोर्ड\N_NN आइकॉन)\N_NN तक\PSP है\V_VM ।\RD_PUNC
+htd12885	12\QT_QTC घंटे\N_NN की\PSP साइट\N_NN सीइंग\N_NN के\PSP लिए\PSP वाहन\N_NN का\PSP किराया\N_NN रु.\N_NN 15,000\QT_QTC से\PSP 22,000\QT_QTC तक\PSP है\V_VM ।\RD_PUNC
+htd12886	जब\PR_PRL आप\PR_PRP खामोश\JJ जंगल\N_NN की\PSP गहराइयों\N_NN में\PSP और\CC_CCD खोती\V_VM हैं\V_VAUX तो\RP_RPD रास्ते\N_NN और\CC_CCD परिदृश्य\N_NN बड़ी\RB तेजी\JJ से\PSP बदलने\V_VM लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12887	संतरियों\N_NN से\PSP खड़े\JJ वृक्ष\N_NN हवा\N_NN में\PSP झूमते\V_VM हुए\V_VAUX माहौल\N_NN में\PSP गूँज\N_NN जगा\V_VM रहे\V_VAUX होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12888	वृक्षों\N_NN की\PSP फैली\V_VM हुई\V_VAUX शाखाओं\N_NN को\PSP देखकर\N_NN लगता\V_VM है\V_VAUX जैसे\DM_DMR आसमान\N_NN की\PSP ओर\N_NN कोई\PR_PRI सिर\N_NN उठाए\N_NN प्रार्थना\N_NN की\PSP मुद्रा\N_NN में\PSP हाथ\N_NN जोड़े\N_NN खड़ा\V_VM हो\V_VAUX ।\RD_PUNC
+htd12889	चहलकदमी\N_NN के\PSP दौरान\N_NN जब\PR_PRL ऐम्बर\N_NN की\PSP सूखी\JJ पत्तियाँ\N_NN आपके\PR_PRP पैरों\N_NN तले\N_NN कुचली\V_VM जाती\V_VAUX हैं\V_VAUX ,\RD_PUNC तब\CC_CCD बंदूक\N_NN दागने\N_NN जैसी\DM_DMR आवाज़\N_NN आती\V_VM है\V_VAUX ।\RD_PUNC
+htd12890	लंबे\JJ -\RD_PUNC सँकरे\RD_ECH जंगली\JJ मार्ग\N_NN पर\PSP कुछ\PR_PRI दूर\N_NN जाने\N_NN के\PSP बाद\N_NN एक\QT_QTC बेतरतीब\N_NN -\RD_PUNC सी\N_NN ,\RD_PUNC हरी\JJ छ्त\N_NN वाली\N_NN ,\RD_PUNC भूरे\JJ पत्थरों\N_NN से\PSP बनी\N_NN इमारत\N_NN को\PSP देखकर\N_NN आप\PR_PRP ठिठक\V_VM जाएँगी\V_VAUX ।\RD_PUNC
+htd12891	यह\DM_DMD सतताल\N_NNP आश्रम\N_NNP है\V_VM ,\RD_PUNC जिसे\PR_PRL डॉ.\N_NNP ई\N_NNP स्टैन्ली\N_NNP जोंस\N_NNP ने\PSP वर्ष\N_NN 1930\QT_QTC में\PSP स्थापित\V_VM किया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12892	सतताल\N_NNP आश्रम\N_NNP उन\PR_PRP सभी\N_NN के\PSP लिए\PSP है\V_VAUX ,\RD_PUNC जो\PR_PRL ईश्‍वर\N_NN को\PSP ढूँढने\N_NN की\PSP आकांक्षा\N_NN रखते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12893	वैसी\CC_CCS भी\RP_RPD इस\DM_DMD हरी\JJ तपोभूमि\N_NN की\PSP अथाह\N_NN शांति\N_NN में\PSP ईश्‍वर\N_NN को\PSP ढूँढने\N_NN का\PSP काम\N_NN थोड़ा\N_NN आसान\V_VM हो\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12894	जब\PR_PRL आप\PR_PRP मूड\N_NN को\PSP थोड़ा\N_NN बदलना\V_VM चाहें\V_VAUX तो\RP_RPD अपना\PR_PRF पिकनिक\N_NN बास्केट\N_NN निकालें\V_VM और\CC_CCD हरे\JJ -\RD_PUNC भरे\RD_ECH पेड़ों\N_NN की\PSP छाँव\N_NN में\PSP ठंडी\N_NN बीयर\N_NN के\PSP कुछ\PR_PRI घूँट\N_NN भरें\V_VM और\CC_CCD थोड़ी\N_NN झपकी\V_VM ले\V_VAUX लें\V_VAUX ।\RD_PUNC
+htd12895	जब\PR_PRL धुँधलका\JJ जंगल\N_NN के\PSP विस्तार\N_NN पर\PSP अपनी\PR_PRF बैंगनी\JJ चादर\N_NN बिछाने\V_VM लगे\V_VAUX तब\CC_CCS वापस\N_NN भीमताल\N_NNP लौटने\N_NN की\PSP तैयारी\V_VM करें\V_VAUX ।\RD_PUNC
+htd12896	अगली\N_NN सुबह\N_NN सतताल\N_NNP का\PSP रुख\V_VM करें\V_VAUX ।\RD_PUNC
+htd12897	सतताल\N_NNP ’\N_NN भीमताल\N_NNP ’\N_NN से\PSP आठ\QT_QTC किलोमीटर\QT_QTF दूर\N_NN है\V_VM ।\RD_PUNC
+htd12898	सतताल\N_NNP आपस\PR_PRC में\PSP जुड़ी\V_VM हुई\V_VAUX झीलों\N_NN का\PSP एक\QT_QTC समूह\N_NN है\V_VM ।\RD_PUNC
+htd12899	इसकी\DM_DMD पृष्‍ठभूमि\N_NN में\PSP खड़े\JJ ओक\N_NN और\CC_CCD पाइन\JJ वृक्षों\N_NN के\PSP पार\N_NN से\PSP दिखने\N_NN वाली\N_NN हिमालय\N_NNP की\PSP चोटियाँ\N_NN किसी\PR_PRI परिकथा\N_NN के\PSP दृश्य\N_NN का\PSP अहसास\V_VM कराती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12900	सतताल\N_NNP के\PSP आस\N_NN -\RD_PUNC पास\RD_ECH का\PSP दृश्य\N_NN मनोहारी\JJ है\V_VM ।\RD_PUNC
+htd12901	सतताल\N_NNP मे\PSP दूर\N_NST तक\PSP फैली\N_NN हरी\JJ भूमि\N_NN ,\RD_PUNC पहाड़ियाँ\N_NN और\CC_CCD सीढ़ीदार\JJ खेत\N_NN मन\N_NN को\PSP मोह\V_VM लेते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12902	आप\PR_PRP राम\N_NNP ,\RD_PUNC सीता\N_NNP और\CC_CCD लक्ष्मण\N_NNP झीलों\N_NN पर\PSP अपना\PR_PRF पड़ाव\V_VM डालें\V_VAUX ।\RD_PUNC
+htd12903	यहाँ\DM_DMD के\PSP घने\JJ पेड़ों\N_NN से\PSP छ्नकर\V_VM आती\V_VAUX हरी\JJ रोशनी\N_NN में\PSP नहाए\N_NN टेबलों\N_NN पर\PSP स्थानीय\JJ कारोबारी\JJ घुमंतू\JJ सैलानियों\N_NN के\PSP लिए\PSP कढ़ी\N_NN चावल\N_NN व\N_NN खीर\N_NN के\PSP साथ\N_NN साथ\N_NN चाय\RD_ECH -\RD_PUNC कॉफी\N_NN भी\RP_RPD परोसते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12904	ऊपर\N_NST आसमान\N_NN में\PSP बादलों\N_NN के\PSP झुंड\N_NN सूरज\N_NN के\PSP साथ\N_NN लुकाछिपी\N_NN का\PSP खेल\N_NN खेल\V_VM रहे\V_VAUX होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12905	इस\DM_DMD लुकाछिपी\N_NN के\PSP चलते\N_NN हरपल\N_NN बदलते\N_NN रंगों\N_NN के\PSP प्रतिबिंब\N_NN सतताल\N_NNP की\PSP झीलों\N_NN की\PSP सतह\N_NN के\PSP ऊपर\N_NST आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12906	झीलों\N_NN के\PSP तट\N_NN से\PSP लगी\N_NN हुई\N_NN शोख\JJ रंगों\N_NN वाली\N_NN पैडल\N_NN नौकाएँ\N_NN पर्यटक\N_NN के\PSP इंतजार\N_NN में\PSP ऊँघती\V_VM हुई\V_VAUX सी\N_NN प्रतीत\V_VM होती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12907	युवा\JJ साहसिक\JJ पर्यटकों\N_NN के\PSP लिए\PSP सतताल\N_NNP एक\QT_QTC बेहतरीन\JJ जगह\N_NN है\V_VM ।\RD_PUNC
+htd12908	सतताल\N_NNP में\PSP आप\PR_PRP रैपेलिंग\N_NN और\CC_CCD पर्वतारोहण\N_NN के\PSP मजे\V_VM ले\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12909	सतताल\N_NNP में\PSP आप\PR_PRP माउंटेन\N_NN बाइकिंग\N_NN और\CC_CCD फिशिंग\N_NN भी\RP_RPD कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12910	जंगालिया\JJ गाँव\N_NN से\PSP नीचे\N_NST की\PSP ओर\N_NST जाते\V_VM हुए\V_VAUX घुमवादार\JJ पहाड़ी\N_NN रास्ते\N_NN पर\PSP माउंटेन\N_NN बाइकिंग\N_NN करें\V_VM ।\RD_PUNC
+htd12911	रास्ते\N_NN में\PSP ज़रा\N_NN देर\N_NN रुककर\N_NN यहाँ\DM_DMD की\PSP लंबी\JJ पूँछ\N_NN वाली\N_NN चिड़िया\N_NN देखने\N_NN के\PSP अलावा\N_NN नीचे\N_NST गहरे\JJ हरे\JJ रंग\N_NN की\PSP घाटी\N_NN के\PSP बीच\N_NST चमकते\N_NN रुपहले\N_NN हरे\JJ रंग\N_NN के\PSP नौकुचिया\N_NN ताल\N_NN का\PSP नज़ारा\N_NN देखने\N_NN का\PSP अनुभव\N_NN खास\JJ होगा\V_VM ।\RD_PUNC
+htd12912	नौकुचिया\N_NNP ताल\N_NNP का\PSP झिलमिलाता\N_NN हुआ\V_VAUX पानी\N_NN ऐसा\DM_DMR लगेगा\V_VM ,\RD_PUNC जैसे\DM_DMR धरती\N_NN की\PSP छाती\N_NN पर\PSP जड़ा\N_NN कोई\PR_PRI कीमती\JJ नगीना\N_NN झिलमिला\V_VM रहा\V_VAUX हो\V_VAUX ।\RD_PUNC
+htd12913	झीलों\N_NN की\PSP रानी\N_NN नैनीताल\N_NNP आपको\PR_PRP कभी\PR_PRI बेहद\RB खूबसूरत\JJ रही\V_VAUX एक\QT_QTC ऐसी\DM_DMR स्त्री\N_NN की\PSP याद\V_VM दिला\V_VAUX देगी\V_VAUX जो\PR_PRL मद्धम\JJ रोशनी\N_NN व\CC_CCD खास\JJ कोणों\N_NN से\PSP आज\N_NN भी\RP_RPD उतनी\N_NN ही\RP_RPD मनोहारी\V_VM लगती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12914	हरियाली\N_NN से\PSP ढके\N_NN किलबरी\N_NNP हिल्स\N_NST पहुँचें\V_VM और\CC_CCD यहाँ\DM_DMD से\PSP ऊपर\N_NST की\PSP ओर\N_NST जाते\V_VM हुए\V_VAUX आपको\PR_PRP नीचे\N_NST की\PSP घाटी\N_NN में\PSP चमकते\N_NN नीले\JJ पानी\N_NN से\PSP घिरे\N_NN अव्यवस्थित\N_NN नैनी\N_NNP शहर\N_NNP की\PSP एक\QT_QTC बेहद\RB खूबसूरत\JJ छवि\N_NN दिखेगी\V_VM ।\RD_PUNC
+htd12915	घुमावदार\JJ रास्तों\N_NN से\PSP होते\V_VM हुए\V_VAUX जैसे\DM_DMR ही\RP_RPD आप\PR_PRP पहाड़\N_NN के\PSP दूसरी\QT_QTC तरफ\N_NN पहुँचेंगी\V_VM ,\RD_PUNC नैनीताल\N_NNP की\PSP सुप्रसिद्ध\RB झील\N_NN आँखों\N_NN से\PSP ओझल\V_VM हो\V_VAUX जाएगी\V_VAUX और\CC_CCD हिमालय\N_NNP की\PSP बर्फ़\N_NN से\PSP ढकी\JJ चोटियाँ\N_NN क्षितिज\N_NN पर\PSP उभर\V_VM आएँगी\V_VAUX ।\RD_PUNC
+htd12916	नैनीताल\N_NNP से\PSP 15\QT_QTC किलोमीटर\QT_QTF दूर\N_NST बसे\N_NN एक\QT_QTC छोटे\JJ से\PSP गाँव\N_NN पंगोत\N_NNP में\PSP अपनी\PR_PRF गाड़ी\N_NN को\PSP विराम\V_VM दें\V_VAUX और\CC_CCD ओक\N_NN ,\RD_PUNC देवदार\N_NN व\CC_CCD पाइन\N_NN के\PSP घने\JJ जंगलों\N_NN के\PSP बीच\N_NST बने\N_NN जंगल\N_NN लोर\N_NN बर्डिंग\N_NN लॉज\N_NN में\PSP पड़ाव\V_VM डालें\V_VAUX ।\RD_PUNC
+htd12917	नैनीताल\N_NNP की\PSP हलचलों\N_NN से\PSP दूर\N_NST हिमालयन\JJ पर्वतों\N_NN व\CC_CCD जंगलों\N_NN के\PSP बेल\N_NN बूटदार\N_NN विस्तारों\N_NN में\PSP आप\PR_PRP इस\DM_DMD पहाड़ी\N_NN सैरगाह\N_NN की\PSP शांति\JJ और\CC_CCD निश्‍चलता\JJ का\PSP अनुभव\V_VM करेंगी\V_VAUX ।\RD_PUNC
+htd12918	अगली\N_NN सुबह\N_NN बंदरों\N_NN की\PSP चिंचियाहट\N_NN से\PSP आपकी\PR_PRP नींद\V_VM टूटेगी\V_VAUX ।\RD_PUNC
+htd12919	ये\DM_DMD बंदर\N_NN आस\N_NST -\RD_PUNC पास\RD_ECH के\PSP जंगलों\N_NN से\PSP चले\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12920	इन\DM_DMD बंदरों\N_NN को\PSP खाना\N_NN खिलाने\N_NN से\PSP काफी\N_NN सावधानी\V_VM बरतें\V_VAUX ,\RD_PUNC क्योंकि\CC_CCS यह\DM_DMD खाना\N_NN खिलाने\N_NN वालों\N_NN पर\PSP धावा\V_VM बोल\V_VAUX देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12921	हमें\PR_PRP यकीन\V_VM है\V_VAUX कि\CC_CCD आपकी\PR_PRP यह\DM_DMD यात्रा\N_NN एक\QT_QTC खुशनुमा\N_NN याद\N_NN की\PSP तरह\N_NN होगी\V_VM ,\RD_PUNC क्योंकि\CC_CCS आपने\PR_PRP ऐसी\DM_DMR जगह\N_NN घुमक्कड़ी\N_NN के\PSP मज़े\V_VM लिए\V_VAUX हैं\V_VAUX जहाँ\PR_PRL प्रकृति\N_NN इंसानी\N_NN छेड़छाड़\N_NN से\PSP मुक्‍त\V_VM है\V_VAUX ।\RD_PUNC
+htd12922	यहाँ\DM_DMD प्रकृति\N_NN अपने\PR_PRF समीकरण\N_NN खुद\PR_PRF बनाती\V_VM है\V_VAUX ।\RD_PUNC
+htd12923	पंजाब\N_NNP को\PSP 1937\QT_QTC में\PSP भारत\N_NNP का\PSP एक\QT_QTC अलग\N_NN राज्य\N_NN बनाया\V_VM ।\RD_PUNC
+htd12924	भारत\N_NNP विभाजन\N_NN के\PSP वक्‍त\N_NN पंजाब\N_NNP भी\RP_RPD भारत\N_NNP और\CC_CCD पाकिस्तान\N_NNP के\PSP बीच\N_NST पूर्वी\N_NST पंजाब\N_NNP और\CC_CCD पश्‍चिमी\N_NST पंजाब\N_NNP के\PSP तौर\N_NN पर\PSP विभाजित\V_VM हो\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd12925	स्वतंत्र\JJ भारत\N_NNP में\PSP इससे\DM_DMD निकलकर\N_NN हरियाणा\N_NNP और\CC_CCD हिमाचल\N_NNP प्रदेश\N_NNP नाम\N_NN से\PSP दो\QT_QTC अलग\N_NN राज्यों\N_NN की\PSP स्थापना\V_VM हुई\V_VAUX ।\RD_PUNC
+htd12926	पाँच\QT_QTC नदियों\N_NN -\RD_PUNC रावी\N_NNP ,\RD_PUNC झेलम\N_NNP ,\RD_PUNC सतलज\N_NNP ,\RD_PUNC व्यास\N_NNP और\CC_CCD चेनाब\N_NNP के\PSP बीच\N_NST बसा\N_NN प्रांत\N_NN पंजाब\N_NNP अत्यंत\N_NN ही\RP_RPD हरा\JJ -\RD_PUNC भरा\RD_ECH एवं\CC_CCD उपजाऊ\N_NN प्रदेश\N_NN है\V_VM ।\RD_PUNC
+htd12927	पंजाब\N_NNP के\PSP लोग\N_NN अपनी\PR_PRF निडरता\N_NN एवं\CC_CCD बहादुरी\N_NN के\PSP लिए\PSP विश्‍वविख्यात\V_VM हैं\V_VAUX ,\RD_PUNC जिन्होंने\DM_DMR हमेशा\RB भारत\N_NNP पर\PSP बाहरी\N_NN आक्रमणों\N_NN का\PSP सबसे\N_NN पहले\N_NN डटकर\N_NN मुकाबला\V_VM किया\V_VAUX ।\RD_PUNC
+htd12928	पंजाब\N_NNP के\PSP लोग\N_NN बहुत\RB मेहनती\JJ ,\RD_PUNC अतिथि\JJ सत्कारी\JJ एवं\CC_CCD उद्यमी\JJ हैं\V_VM ।\RD_PUNC
+htd12929	आज\N_NN पंजाब\N_NNP भारत\N_NNP का\PSP सबसे\RB विकसित\JJ राज्य\N_NN है\V_VM तथा\CC_CCD कृषि\N_NN विकास\N_NN ,\RD_PUNC औद्योगीकरण\N_NN ,\RD_PUNC खेलकूद\N_NN तथा\CC_CCD सशस्त्र\N_NN सेनाओं\N_NN में\PSP पंजाब\N_NNP का\PSP योगदान\N_NN अद्वितीय\N_NN है\V_VM ।\RD_PUNC
+htd12930	पंजाब\N_NNP में\PSP ऐसे\DM_DMR अनेक\N_NN स्थान\N_NN हैं\V_VM जिनका\DM_DMR ऐतिहासिक\JJ ,\RD_PUNC धार्मिक\JJ एवं\CC_CCD सांस्कृतिक\JJ महत्त्व\N_NN है\V_VM ।\RD_PUNC
+htd12931	यह\DM_DMD गुरुनानक\N_NNP जैसे\DM_DMR उन\PR_PRP महानतम\JJ गुरुओं\N_NN की\PSP धरती\N_NN है\V_VM जिन्होंने\DM_DMR विश्‍व\N_NNP को\PSP शांति\JJ ,\RD_PUNC भाईचारे\JJ ,\RD_PUNC सद्‍भाव\JJ एवं\CC_CCD सहनशीलता\JJ का\PSP संदेश\V_VM दिया\V_VAUX ।\RD_PUNC
+htd12932	चंडीगढ़\N_NNP केंद्र\N_NN शासित\N_NN प्रदेश\N_NN पंजाब\N_NNP और\CC_CCD हरियाणा\N_NNP की\PSP संयुक्‍त\N_NN राजधानी\N_NN है\V_VM ।\RD_PUNC
+htd12933	चंडीगढ़\N_NNP भारत\N_NNP का\PSP सुनियोजित\N_NN आधुनिक\JJ नगर\N_NN है\V_VM ।\RD_PUNC
+htd12934	चंडीगढ़\N_NNP नवीनतम\JJ नगर\N_NN की\PSP निर्माण\N_NN योजना\N_NN का\PSP प्रारूप\N_NN फ्रांस\N_NNP के\PSP प्रसिद्ध\JJ वास्तुशिल्पियों\N_NN श्री\N_NNP ली\N_NNP कॉर्बुशियर\N_NNP और\CC_CCD श्री\N_NNP पेजी\N_NNP जेन्नरेट\N_NNP ने\PSP मिलकर\N_NN बनाई\V_VM ।\RD_PUNC
+htd12935	चंडीगढ़\N_NNP नगर\N_NN विभिन्न\N_NN आत्मनिर्भर\N_NN सेक्‍टरों\N_NN में\PSP विभक्‍त\V_VM किया\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12936	प्रत्येक\N_NN सेक्‍टर\N_NN में\PSP अपने\PR_PRF बाजार\N_NN ,\RD_PUNC अस्पताल\N_NN ,\RD_PUNC स्कूल\N_NN ,\RD_PUNC पूजा\N_NN स्थल\N_NN ,\RD_PUNC उद्यान\N_NN एवं\CC_CCD खेल\N_NN मैदान\N_NN हैं\V_VM ।\RD_PUNC
+htd12937	चंडीगढ़\N_NNP नगर\N_NN आधुनिक\JJ नगर\N_NN निर्माण\N_NN योजना\N_NN का\PSP सबसे\RB अच्छा\JJ उदाहरण\N_NN है\V_VM ।\RD_PUNC
+htd12938	अमृतसर\N_NNP के\PSP पास\N_NN रामतीर्थ\N_NNP स्थान\N_NNP हिंदू\N_NNP धार्मिक\JJ स्थल\N_NN व\CC_CCD लव\N_NNP और\CC_CCD कुश\N_NNP का\PSP जन्मस्थल\N_NN है\V_VM ।\RD_PUNC
+htd12939	पंजाब\N_NNP के\PSP तरन\N_NNP तारन\N_NNP में\PSP सिक्ख\N_NNP समाधि\N_NN है\V_VM ।\RD_PUNC
+htd12940	पंजाब\N_NNP में\PSP आनंदपुर\N_NNP साहिब\N_NNP सिक्ख\N_NNP तीर्थ\N_NNP स्थल\N_NNP गुरुद्वारा\N_NN ,\RD_PUNC मंदिर\N_NN व\CC_CCD किला\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12941	पंजाब\N_NNP के\PSP भटिंडा\N_NNP शहर\N_NN के\PSP पास\N_NST माईसरखाना\N_NNP माई\N_NNP मंदिर\N_NNP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12942	पंजाब\N_NNP में\PSP ’\N_NN डेरा\N_NNP बाबा\N_NNP नानक\N_NNP ’\N_NN सिक्खों\N_NN का\PSP तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12943	’\N_NN ढोलबहा\N_NNP ’\N_NN मंदिर\N_NNP और\CC_CCD पौराणिक\JJ स्थल\N_NN के\PSP रूप\N_NN में\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12944	पंजाब\N_NNP में\PSP ’\N_NN फरीदकोट\N_NNP ’\N_NN स्थल\N_NNP किले\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12945	पंजाब\N_NNP का\PSP ’\N_NN गोविंदवाल\N_NNP ’\N_NN सिक्ख\N_NNP तीर्थ\N_NNP स्थल\N_NNP के\PSP लिए\PSP विख्यात\V_VM है\V_VAUX ।\RD_PUNC
+htd12946	पंजाब\N_NNP के\PSP कपूरथला\N_NNP स्थान\N_NNP में\PSP महल\N_NN ,\RD_PUNC मंदिर\N_NN ,\RD_PUNC मस्जिद\N_NN दर्शनीय\JJ हैं\V_VM ।\RD_PUNC
+htd12947	पंजाब\N_NNP में\PSP ’\N_NN कीरतपुर\N_NNP ’\N_NN एक\QT_QTC सिक्ख\N_NN तीर्थस्थल\N_NN है\V_VM ।\RD_PUNC
+htd12948	पठानकोट\N_NNP के\PSP पास\N_NST शाहपुर\N_NNP किले\N_NN तथा\CC_CCD मुस्लिम\N_NN पौराणिक\JJ स्थल\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12949	रूपनगर\N_NNP के\PSP पास\N_NST ’\N_NN संगल\N_NNP ’\N_NN स्थान\N_NN हड़प्पा\N_NNP के\PSP प्रमुख\JJ पुरातत्व\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12950	पंजाब\N_NNP में\PSP स्थित\N_NN ’\N_NN संगरुर\N_NNP ’\N_NN सिक्खों\N_NN का\PSP पवित्र\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12951	पंजाब\N_NNP का\PSP सरहिंद\N_NNP स्थान\N_NN सिक्ख\N_NN और\CC_CCD मुस्लिम\N_NN समाधियों\N_NN और\CC_CCD आम\N_NN खास\N_NN बाग\N_NN का\PSP ऐतिहासिक\JJ कस्बा\N_NN है\V_VM ।\RD_PUNC
+htd12952	हरियाणा\N_NNP राज्य\N_NN की\PSP अर्थव्यवस्था\N_NN कृषि\N_NN पर\PSP आधारित\V_VM हैं\V_VAUX एवं\CC_CCD 80%\QT_QTC लोग\N_NN कृषि\N_NN से\PSP ही\RP_RPD जीवन\N_NN -\RD_PUNC यापन\V_VM करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12953	औद्योगिक\JJ क्षेत्र\N_NN में\PSP हरियाणा\N_NNP ने\PSP अपना\PR_PRF स्थान\N_NN बनाया\V_VM है\V_VAUX और\CC_CCD आज\N_NN वह\PR_PRP देश\N_NN का\PSP सर्वाधिक\N_NN ट्रैक्टर\N_NN उत्पादन\N_NN करने\N_NN वाला\N_NN राज्य\N_NN है\V_VM ।\RD_PUNC
+htd12954	हरियाणा\N_NNP हथकरघा\N_NN उद्योग\N_NN के\PSP लिए\PSP भी\RP_RPD प्रसिद्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd12955	शानदार\JJ ऊनी\JJ वस्त्रों\N_NN एवं\CC_CCD हाथ\N_NN से\PSP बने\N_NN कपड़ों\N_NN के\PSP लिए\PSP प्रसिद्ध\N_NN होने\N_NN की\PSP वजह\N_NN से\PSP हरियाणा\N_NNP के\PSP शहर\N_NN पानीपत\N_NNP को\PSP ``\RD_PUNC जुलाहों\N_NN की\PSP नगरी\N_NN ``\RD_PUNC की\PSP संज्ञा\N_NN दी\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12956	सतलज\N_NNP और\CC_CCD व्यास\N_NNP नदी\N_NN पर\PSP बनाई\V_VM गई\V_VAUX बहु\N_NN -\RD_PUNC उद्‍देश्यीय\JJ योजनाओं\N_NN में\PSP भी\RP_RPD हरियाणा\N_NNP भागीदार\V_VM है\V_VAUX ।\RD_PUNC
+htd12957	जवाहरलाल\N_NNP नेहरू\N_NNP सिंचाई\N_NNP परियोजना\N_NNP जो\PR_PRL अपनी\PR_PRF तरह\N_NN की\PSP सबसे\RB बड़ी\JJ योजना\N_NN है\V_VM ,\RD_PUNC शीघ्र\N_NN ही\RP_RPD पूरी\N_NN हो\V_VM जाएगी\V_VAUX ।\RD_PUNC
+htd12958	शिक्षा\N_NN की\PSP दृष्‍टि\N_NN से\PSP हरियाणा\N_NNP में\PSP अच्छे\JJ विश्‍वविद्यालय\N_NN हैं\V_VM ,\RD_PUNC जैसे\DM_DMR महर्षि\N_NNP दयानंद\N_NNP विश्‍वविद्यालय\N_NNP ,\RD_PUNC रोहतक\N_NNP और\CC_CCD कुरुक्षेत्र\N_NNP विश्‍वविद्यालय\N_NNP ।\RD_PUNC
+htd12959	हरियाणा\N_NNP के\PSP सूरजकुंड\N_NNP में\PSP हर\JJ वर्ष\N_NN फरवरी\N_NNP में\PSP लगने\N_NN वाला\N_NN हस्तशिल्प\JJ उत्सव\N_NN विश्‍व\N_NNP प्रसिद्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd12960	हरियाणा\N_NNP का\PSP हथनी\N_NNP कुंड\N_NNP (\RD_PUNC ताजेवाला\N_NNP )\RD_PUNC मछली\N_NN पकड़ने\N_NN के\PSP लिए\PSP लोकप्रिय\N_NN है\V_VM ।\RD_PUNC
+htd12961	हरियाणा\N_NNP का\PSP ’\N_NN झज्जर\N_NNP ’\N_NN एक\QT_QTC प्राचीन\JJ कस्बा\N_NN है\V_VM ।\RD_PUNC
+htd12962	झज्जर\N_NNP कस्बे\N_NN में\PSP महल\N_NN ,\RD_PUNC संग्रहालय\N_NN तथा\CC_CCD गुरुकुल\N_NN दर्शनीय\JJ है\V_VM ।\RD_PUNC
+htd12963	हरियाणा\N_NNP का\PSP जिंद\N_NNP स्थान\N_NNP महल\N_NN के\PSP लिए\PSP विख्यात\V_VM है\V_VAUX ।\RD_PUNC
+htd12964	करनाल\N_NNP के\PSP पास\N_NST चक्रवर्ती\N_NNP झील\N_NNP एक\QT_QTC पिकनिक\N_NN स्थल\N_NN है\V_VM जो\PR_PRL नौकायान\N_NN व\CC_CCD मछली\N_NN पकड़ने\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12965	हरियाणा\N_NNP के\PSP ’\N_NN नरनौल\N_NNP ’\N_NN स्थान\N_NNP में\PSP पुरातन\JJ वस्तुएँ\N_NN दर्शनीय\JJ हैं\V_VM ।\RD_PUNC
+htd12966	हरियाणा\N_NNP का\PSP ’\N_NN पेहोवा\N_NNP ’\N_NN एक\QT_QTC हिंदू\N_NNP तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12967	पिन्जोर\N_NNP में\PSP एशिया\N_NNP की\PSP श्रेष्‍ठ\JJ 17वीं\QT_QTC शताब्दी\QT_QTF के\PSP उद्यान\N_NN दर्शनीय\JJ हैं\V_VM ।\RD_PUNC
+htd12968	उत्तराखंड\N_NNP हमारे\PR_PRP देश\N_NN का\PSP 27वाँ\QT_QTC नवोदित\JJ राज्य\N_NN है\V_VM ।\RD_PUNC
+htd12969	बारह\QT_QTC वर्ष\N_NN के\PSP आंदोलन\N_NN के\PSP बाद\N_NN उत्तर\N_NNP प्रदेश\N_NNP की\PSP विधानसभा\N_NST ने\PSP उत्तराखंड\N_NNP राज्य\N_NN का\PSP प्रस्ताव\N_NN पास\V_VM कर\V_VAUX केंद्र\N_NNP सरकार\N_NNP को\PSP स्वीकृति\N_NN के\PSP लिये\N_NN भेजा\V_VM ।\RD_PUNC
+htd12970	9\QT_QTC नवम्बर\N_NNP 2000\QT_QTC को\PSP उत्तर\N_NNP प्रदेश\N_NNP से\PSP अलग\N_NN होकर\N_NN इस\DM_DMD राज्य\N_NN का\PSP गठन\V_VM किया\V_VAUX गया\V_VAUX तथा\CC_CCD देहरादून\N_NNP को\PSP इस\DM_DMD प्रदेश\N_NN की\PSP राजधानी\N_NN बनाया\V_VM गया\V_VAUX ।\RD_PUNC
+htd12971	हिमालय\N_NNP की\PSP गोद\N_NN में\PSP स्थित\N_NN इस\DM_DMD नवगठित\JJ राज्य\N_NN की\PSP प्राकृतिक\JJ सुंदरता\N_NN अनूठी\N_NN है\V_VM ।\RD_PUNC
+htd12972	ऐसा\DM_DMR लगता\V_VM है\V_VAUX कि\CC_CCD मानो\N_NN प्रकृति\N_NN ने\PSP इस\DM_DMD प्रदेश\N_NN को\PSP बड़ी\JJ फुरसत\N_NN से\PSP सजाया\V_VM -\RD_PUNC सँवारा\RD_ECH है\V_VM ।\RD_PUNC
+htd12973	हिन्दुओं\N_NN के\PSP लिए\PSP उत्तराखंड\N_NNP प्रदेश\N_NNP पवित्रतम\JJ धरा\N_NN है\V_VM तथा\CC_CCD इसे\DM_DMD देवभूमि\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12974	प्रत्येक\N_NN हिंन्दु\N_NNP अपने\PR_PRF जीवनकाल\N_NN में\PSP जिन\DM_DMR पवित्र\N_NN स्थलों\N_NN पर\PSP जाकर\N_NN अपना\PR_PRF भूत\N_NN और\CC_CCD भविष्य\N_NN सुधारना\V_VM चाहता\V_VAUX है\V_VAUX वे\PR_PRP चारों\N_NNP धाम\N_NNP उत्तराखंड\N_NNP में\PSP स्थित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12975	उत्तराखंड\N_NNP का\PSP चमोली\N_NNP स्थान\N_NNP एक\QT_QTC लोकप्रिय\JJ पहाड़ी\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12976	’\N_NN चम्पावत\N_NNP ’\N_NN कुमाऊँ\N_NNP की\PSP पुरानी\JJ राजधानी\N_NN और\CC_CCD प्राचीन\JJ निर्माण\N_NN कला\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12977	गढ़मुक्‍तेश्‍वर\N_NNP एक\QT_QTC तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12978	गंगोत्री\N_NNP गंगा\N_NNP के\PSP उद्‍गम\N_NN तथा\CC_CCD हिंदू\N_NNP तीर्थ\N_NN स्थल\N_NN के\PSP रूप\N_NN में\PSP विख्यात\V_VM है\V_VAUX ।\RD_PUNC
+htd12979	यमनोत्री\N_NNP यमुना\N_NNP का\PSP उद्‍गम\N_NN स्थल\N_NN तथा\CC_CCD प्रसिद्ध\JJ तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12980	राजस्थान\N_NNP इतिहास\N_NN में\PSP न\RP_NEG केवल\N_NN अपने\PR_PRF श्रृंगार\N_NN व\CC_CCD शौर्य\N_NN के\PSP कारण\N_NN महत्त्वपूर्ण\JJ स्थान\N_NN रखता\V_VM है\V_VAUX बल्कि\CC_CCD संस्कृति\N_NN ,\RD_PUNC इतिहास\N_NN और\CC_CCD प्राकृतिक\N_NN सुंदरता\N_NN में\PSP भी\RP_RPD अपनी\PR_PRF समृद्धता\N_NN दर्शाता\V_VM है\V_VAUX ।\RD_PUNC
+htd12981	राजस्थान\N_NNP में\PSP सैकड़ों\QT_QTF किलोमीटर\QT_QTF तक\PSP फैली\V_VM बालू\N_NN रेत\N_NN के\PSP टीले\N_NN ,\RD_PUNC दाँतों\N_NN तले\N_NN अँगुली\N_NN दबाने\N_NN को\PSP विवश\N_NN कर\N_NN देने\N_NN वाले\N_NN अद्‍भुत\JJ किले\N_NN ,\RD_PUNC कलात्मक\JJ राजप्रासाद\N_NN और\CC_CCD हवेलियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd12982	राजस्थान\N_NNP के\PSP प्रत्येक\N_NN जगह\N_NN की\PSP अपनी\PR_PRF अनूठी\JJ वास्तुशिल्प\N_NN संरचना\N_NN है\V_VM और\CC_CCD अपनी\PR_PRF एक\QT_QTC अलग\N_NN गाथा\N_NN ।\RD_PUNC
+htd12983	राजस्थान\N_NNP की\PSP पहाड़ियों\N_NN के\PSP बीच\N_NST बने\N_NN बगीचे\N_NN और\CC_CCD झीलें\N_NN पर्यटकों\N_NN का\PSP मन\N_NN मोहने\N_NN में\PSP कोई\PR_PRI कसर\N_NN नहीं\RP_NEG छोड़ते\V_VM ।\RD_PUNC
+htd12984	राजस्थान\N_NNP के\PSP लोकगीतों\N_NN में\PSP जहाँ\PR_PRL देवी\N_NN -\RD_PUNC देवताओं\N_NN का\PSP स्मरण\V_VM किया\V_VAUX जाता\V_VAUX है\V_VAUX वहीं\DM_DMD प्रेम\N_NN और\CC_CCD श्रृंगार\N_NN को\PSP भी\RP_RPD प्रधानता\V_VM दी\V_VAUX जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12985	अपने\PR_PRF उल्लासपूर्ण\JJ लोक\N_NN नृत्यों\N_NN व\CC_CCD संगीत\N_NN ,\RD_PUNC गाथाओं\N_NN व\CC_CCD भव्य\JJ उत्सवों\N_NN के\PSP कारण\N_NN राजस्थान\N_NNP की\PSP यह\DM_DMD भूमि\N_NN जीवंत\V_VM हो\V_VAUX उठती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12986	राजस्थान\N_NNP की\PSP शामें\N_NN उस\PR_PRP समय\N_NN अभिभूत\N_NN करने\N_NN वाली\N_NN होती\V_VM हैं\V_VAUX ,\RD_PUNC जब\PR_PRL झिलमिलाती\JJ रेत\N_NN के\PSP एकांत\N_NN से\PSP गूँजती\JJ सुरीली\JJ धुनें\N_NN हवा\N_NN में\PSP तैरती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd12987	जैसलमेर\N_NNP एवं\CC_CCD बाड़मेर\N_NNP क्षेत्र\N_NN के\PSP ’\N_NN लंगा\N_NNP ’\N_NN एवं\CC_CCD ’\N_NN मांगणियार\N_NNP ’\N_NN जाति\N_NN के\PSP लोक\N_NN कलाकार\N_NN आज\N_NN पूरे\N_NN विश्‍व\N_NNP में\PSP प्रसिद्धि\V_VM पा\V_VAUX रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd12988	राजस्थान\N_NNP के\PSP दर्शनीय\JJ स्थलों\N_NN में\PSP अलवर\N_NNP के\PSP पास\N_NST ’\N_NN सिलीसेड़\N_NNP ’\N_NN स्थान\N_NN महल\N_NN ,\RD_PUNC झील\N_NN ,\RD_PUNC जलपक्षी\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12989	राजस्थान\N_NNP का\PSP ’\N_NN बयाना\N_NNP ’\N_NN स्थान\N_NNP ऐतिहासिक\JJ किले\N_NN के\PSP लिए\PSP लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12990	जैसलमेर\N_NNP के\PSP पास\N_NST ’\N_NN अकल\N_NNP ’\N_NN (\RD_PUNC काष्‍ट\N_NNP )\RD_PUNC जीवाष्‍म\N_NNP उद्यान\N_NNP 180\QT_QTC लाख\QT_QTF वर्ष\N_NN पुराने\JJ जीवाष्‍म\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12991	राजस्थान\N_NNP का\PSP ’\N_NN सम\N_NNP ’\N_NN स्थान\N_NN बालू\N_NN के\PSP टीले\N_NN ,\RD_PUNC कैमल\JJ सफारी\N_NN तथा\CC_CCD भू\N_NN आकृति\N_NN अध्ययन\N_NN का\PSP केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd12992	राजस्थान\N_NNP के\PSP ’\N_NN कांकरोली\N_NNP ’\N_NN में\PSP राजसंद\N_NNP झील\N_NNP और\CC_CCD मंदिर\N_NN लोकप्रिय\V_VM है\V_VAUX ।\RD_PUNC
+htd12993	उदयपुर\N_NNP के\PSP पास\N_NST एकलिंगजी\N_NNP का\PSP मंदिर\N_NN नाथद्वारा\N_NNP हिंदू\N_NNP तीर्थ\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd12994	1737\QT_QTC में\PSP तत्कालीन\JJ मुगल\N_NNP बादशाह\N_NNP मोहम्मद\N_NNP शाह\N_NNP के\PSP शासन\N_NN में\PSP कालकाजी\N_NNP मंदिर\N_NNP को\PSP मराठा\N_NNP पेशवा\N_NNP बाजीराव\N_NNP (\RD_PUNC प्रथम\N_NNP )\RD_PUNC ने\PSP कुछ\PR_PRI देर\N_NN के\PSP लिए\PSP अपने\PR_PRF कब्जे\N_NN में\PSP ले\V_VM लिया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd12995	1737\QT_QTC में\PSP पेशवा\N_NNP ने\PSP जब\PR_PRL दिल्ली\N_NNP को\PSP हथियाने\N_NN के\PSP लिए\PSP जोरदार\JJ धावा\V_VM बोला\V_VAUX ,\RD_PUNC शाह\N_NN ने\PSP उसे\PR_PRP रोकने\N_NN के\PSP लिए\PSP तुरंत\N_NN दो\QT_QTC फौजी\N_NN दुकड़ियाँ\N_NN ,\RD_PUNC क्रमश:\N_NN सादत\N_NNP खाँ\N_NNP व\CC_CCD मीर\N_NNP बख्शी\N_NNP के\PSP नेतृत्व\N_NN में\PSP भेजी\V_VM ।\RD_PUNC
+htd12996	सर्दियों\N_NN में\PSP न\RP_NEG सिर्फ़\N_NN घूमने\V_VM -\RD_PUNC फिरने\RD_ECH बल्कि\CC_CCD रोमांचक\JJ गतिविधियों\N_NN के\PSP लिये\N_NN भी\RP_RPD बहुतेरे\JJ विकल्प\N_NN हैं\V_VM ।\RD_PUNC
+htd12997	सर्दियों\N_NN की\PSP शु्रुआत\N_NN जहाँ\PR_PRL शादी\N_NN का\PSP न्यौता\N_NN लेकर\N_NN आती\V_VM है\V_VAUX वहीं\DM_DMD हनीमून\N_NN पर\PSP जाने\N_NN वाले\N_NN जोड़ों\N_NN को\PSP उपहार\N_NN में\PSP प्रकृति\N_NN की\PSP सुंदर\JJ छटा\N_NN भी\RP_RPD भेंट\V_VM करती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd12998	इस\DM_DMD मौसम\N_NN में\PSP न\RP_NEG सिर्फ़\N_NN नए\JJ शादीशुदा\JJ जोड़ों\N_NN के\PSP लिए\PSP घूमने\V_VM -\RD_PUNC फिरने\RD_ECH के\PSP बहुतेरे\JJ विकल्प\N_NN खुल\V_VM जाते\V_VAUX हैं\V_VAUX बल्कि\CC_CCD बड़े\JJ दिन\N_NN की\PSP छुट्टियों\N_NN पर\PSP भी\RP_RPD परिवार\N_NN के\PSP साथ\N_NN बाहर\N_NN घूमने\N_NN व\CC_CCD मौज़\N_NN -\RD_PUNC मस्ती\RD_ECH करने\N_NN के\PSP हजार\QT_QTF बहाने\N_NN हैं\V_VM ।\RD_PUNC
+htd12999	अलग\JJ -\RD_PUNC अलग\RD_ECH भागों\N_NN में\PSP मौसम\N_NN की\PSP विविधता\N_NN हमारे\PR_PRP देश\N_NN की\PSP एक\QT_QTC ऐसी\DM_DMR विविधता\N_NN है\V_VM जो\PR_PRL न\RP_NEG सिर्फ़\N_NN भारतीयों\N_NN बल्कि\CC_CCD विदेशी\JJ पर्यटकों\N_NN के\PSP लिए\PSP भी\RP_RPD यहाँ\DM_DMD पर्यटन\N_NN के\PSP रास्ते\N_NN खोल\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd13000	कहीं\PR_PRI पर\PSP कड़कड़ाती\JJ ठंड\N_NN के\PSP बावजूद\N_NN बर्फीले\JJ नजारे\N_NN और\CC_CCD रोमांचक\JJ खेलकूदों\N_NN के\PSP शौकीनों\N_NN का\PSP जमावड़ा\V_VM है\V_VAUX तो\RP_RPD कुछ\PR_PRI लोग\N_NN सर्दियों\N_NN से\PSP दूर\N_NST किसी\PR_PRI समुद्री\JJ तट\N_NN पर\PSP या\CC_CCD रेगिस्तान\N_NN की\PSP मिट्टी\N_NN में\PSP सुकून\N_NN ढूँढ़ते\V_VM हैं\V_VAUX ।\RD_PUNC 

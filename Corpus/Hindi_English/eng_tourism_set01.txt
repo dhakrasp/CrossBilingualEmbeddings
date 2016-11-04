@@ -1,0 +1,1001 @@
+ID	Value
+htd1	One\CD gets\VBZ Moksha\NNP with\IN a\DT visit\NN to\TO the\DT Saptapuris\NNPS !\.
+htd2	Pilgrimage\NN is\VBZ of\IN utmost\JJ importance\NN in\IN Hinduism\NNP .\.
+htd3	Although\IN all\PDT the\DT pilgrimages\NNS are\VBP major\JJ and\CC important\JJ ,\, there\EX is\VBZ a\DT great\JJ importance\NN and\CC acceptance\NN of\IN the\DT seven\CD places\NNS .\.
+htd4	All\DT of\IN these\DT seven\CD religious\JJ places\NNS are\VBP described\VBN as\IN the\DT Seven\NNP Places\NNPS or\CC Saptpuris\NNPS in\IN the\DT scriptures\NNS .\.
+htd5	It\PRP has\VBZ been\VBN stated\VBN that\IN a\DT view\NN of\IN the\DT Saptapuris\NNP in\IN the\DT Chaturmas\NNP is\VBZ worth\JJ providing\VBG Moksha\NNP for\IN .\.
+htd6	Its\PRP$ name\NN is\VBZ Banaras\NNP or\CC Varanasi\NNP also\RB .\.
+htd7	This\DT is\VBZ a\DT famous\JJ abode\NN of\IN Lord\NNP Shiva\NNP .\.
+htd8	7\CD miles\NNS away\RB from\IN the\DT Mughal\NNP Sarai\NNP Station\NNP on\IN the\DT main\JJ railway\NN line\NN going\VBG from\IN Mughal\NNP Sarai\NNP to\TO Amritsar\NNP and\CC Dehradun\NNP there\EX is\VBZ Kashi\NNP and\CC 4\CD miles\NNS ahead\RB from\IN it\PRP there\EX is\VBZ Banaras\NNP Cantonment\NNP Station\NNP .\.
+htd9	A\DT direct\JJ line\NN from\IN the\DT Prayag\NNP Station\NNP of\IN Allahabad\NNP also\RB goes\VBZ to\TO Banaras\NNP Cantonment\NNP through\IN Kashi\NNP .\.
+htd10	One\CD line\NN from\IN Bhatni\NNP and\CC another\DT from\IN Chhapra\NNP of\IN the\DT Northeastern\NNP Railway\NNP goes\VBZ up\RP to\TO Allahabad\NNP City\NNP .\.
+htd11	One\CD can\MD go\VB to\TO the\DT Cantonment\NNP through\IN Banaras\NNP City\NNP with\IN this\DT route\NN too\RB .\.
+htd12	Ganges\NNP ,\, the\DT purgator\NN of\IN the\DT fallen\VBN ,\, enters\VBZ the\DT plains\NNS leaving\VBG mountainous\JJ areas\NNS in\IN Haridwar\NNP .\.
+htd13	That\DT is\VBZ why\WRB Haridwar\NNP is\VBZ also\RB called\VBN the\DT Gate\NN of\IN the\DT Ganges\NNP .\.
+htd14	A\DT crowd\NN of\IN devotees\NNS engulf\VBP Haridwar\NNP during\IN the\DT time\NN of\IN daily\JJ prayer\NN in\IN the\DT evening\NN .\.
+htd15	The\DT scene\NN of\IN floating\VBG chain\NN of\IN diyas\NNS looks\VBZ spectacular\JJ .\.
+htd16	The\DT station\NN is\VBZ on\IN the\DT main\JJ line\NN of\IN Northern\NNP Railway\NNP going\VBG from\IN Mughal\NNP Sarai\NNP to\TO Amritsar\NNP .\.
+htd17	One\CD line\NN has\VBZ gone\VBN from\IN Luxar\NNP to\TO Haridwar\NNP .\.
+htd18	In\IN ancient\JJ times\NNS the\DT Pitamah\NNP Brahma\NNP had\VBD done\VBN difficult\JJ penance\NN to\TO see\VB Mother\NNP Bhagawati\NNP .\.
+htd19	Then\RB Mahalaxmi\NNP had\VBD appeared\VBN before\IN him\PRP with\IN a\DT lotus\NN in\IN her\PRP$ hand\NN .\.
+htd20	Chengalpat\NNP is\VBZ situated\VBN at\IN a\DT distance\NN of\IN 35\CD miles\NNS from\IN Chennai\NNP on\IN the\DT main\JJ line\NN of\IN the\DT Southern\NNP Railway\NNP going\VBG from\IN Chennai\NNP to\TO Dhanushkoti\NNP .\.
+htd21	One\CD line\NN goes\VBZ to\TO Arkonam\NNP from\IN Chengalpat\NNP .\.
+htd22	Kanjivaram\NNP Station\NNP is\VBZ on\IN the\DT line\NN going\VBG to\TO Arkonam\NNP from\IN Chengalpat\NNP Station\NNP .\.
+htd23	Though\IN the\DT name\NN of\IN the\DT station\NN is\VBZ Kanjivaram\NNP ,\, the\DT name\NN of\IN the\DT city\NN is\VBZ Kanchipuram\NNP .\.
+htd24	Ayodhya\NNP is\VBZ the\DT holy\JJ city\NN of\IN the\DT avatar\NN of\IN Lord\NNP Rama\NNP .\.
+htd25	Ayodhya\NNP is\VBZ situated\VBN at\IN the\DT banks\NNS of\IN the\DT sacred\JJ river\NN Sarayu\NNP .\.
+htd26	Ayodhya\NNP Station\NNP is\VBZ at\IN a\DT distance\NN of\IN 128\CD miles\NNS from\IN the\DT Mughal\NNP Sarai\NNP Station\NNP of\IN the\DT Northern\NNP Railway\NNP 's\POS Mughal\NNP Sarai-Lucknow\NNP line\NN .\.
+htd27	Inhabited\VBN on\IN the\DT banks\NNS of\IN Shipra\NNP or\CC Kshipra\NNP river\NN ,\, Ujjain\NNP City\NNP is\VBZ purgator\NN of\IN the\DT fallen\VBN .\.
+htd28	It\PRP is\VBZ said\VBD that\IN the\DT anxiety\NN of\IN death\NN does\VBZ not\RB exist\VB on\IN offering\VBG greetings\NNS to\TO the\DT Mahakaal\NNP in\IN Ujjain\NNP .\.
+htd29	One\CD line\NN goes\VBZ to\TO Ujjain\NNP from\IN the\DT Bhopal\NNP Station\NNP of\IN the\DT Central\NNP Railway\NNP 's\POS Mumbai-Bhopal-Delhi\NNP line\NN .\.
+htd30	One\CD broad\JJ gauge\NN has\VBZ also\RB gone\VBN to\TO Ujjain\NNP from\IN the\DT Nagda\NNP Station\NNP of\IN the\DT Western\NNP Railway\NNP 's\POS Mumbai-Kota-Delhi\NNP line\NN .\.
+htd31	One\CD line\NN has\VBZ also\RB gone\VBN to\TO Ujjain\NNP from\IN the\DT Mau\NNP Station\NNP of\IN the\DT above\RB mentioned\VBN line\NN .\.
+htd32	Dwarka\NNP is\VBZ also\RB a\DT Dhaam\NNP among\IN the\DT Chaar\NNP Dhaams\NNP .\.
+htd33	Lord\NNP Krishna\NNP had\VBD specially\RB settled\VBN this\DT amidst\NN the\DT sea\NN .\.
+htd34	Situated\VBN on\IN the\DT Western\NNP Railway\NNP 's\POS Surendranagar-Okha\NNP port\NN line\NN this\DT city\NN is\VBZ a\DT coastal\JJ station\NN .\.
+htd35	This\DT holy\JJ city\NN is\VBZ Mathura\NNP ,\, the\DT avatar\NN land\NN of\IN Lord\NNP Shrikrishna\NNP ,\, on\IN the\DT banks\NNS of\IN the\DT Yamuna\NNP .\.
+htd36	Mathura\NNP station\NN is\VBZ on\IN the\DT North-Eastern\NNP Railway\NNP 's\POS line\NN going\VBG to\TO Gorakhpur\NNP from\IN Agra\NNP Fort\NNP and\CC on\IN the\DT Western\NNP Railway\NNP 's\POS Mumbai-Kota-Delhi\NNP line\NN .\.
+htd37	Garhmukteshwar\NNP is\VBZ a\DT sacred\JJ pilgrimage\NN of\IN the\DT Hindus\NNPS .\.
+htd38	Let\VB us\PRP go\VB to\TO the\DT Ganges\NNP Fair\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd39	The\DT history\NN of\IN North\NNP India\NNP 's\POS famous\JJ and\CC ancient\JJ religious\JJ fair\NN held\VBD every\DT year\NN on\IN the\DT occasion\NN of\IN Kartik\NNP Poornima\NNP on\IN the\DT banks\NNS of\IN the\DT Fallen\NNP Purgator\NNP Ganges\NNP in\IN the\DT Garh\NNP Mukteshwar\NNP of\IN Ghaziabad\NNP district\NN .\.
+htd40	There\EX is\VBZ full\JJ fervor\NN of\IN the\DT fair\NN this\DT time\NN also\RB in\IN Garh\NNP Mukteshwar\NNP and\CC huge\JJ crowd\NN of\IN devotees\NNS is\VBZ gathering\VBG for\IN the\DT holy\JJ dip\NN .\.
+htd41	The\DT holy\JJ dip\NN is\VBZ on\IN 13\CD November\NNP .\.
+htd42	It\PRP is\VBZ said\VBD about\IN Garh\NNP Mukteshwar\NNP that\IN on\IN looking\VBG at\IN the\DT detriments\NNS of\IN the\DT war\NN and\CC genocide\NN after\IN the\DT disastrous\JJ war\NN of\IN the\DT Mahabharata\NNP Yogiraj\NNP Krishna\NNP ,\, Dharmaraja\NNP Yudhisthir\NNP and\CC Arjun\NNP regretted\VBD hugely\RB .\.
+htd43	They\PRP began\VBD thinking\VBG as\IN to\TO what\WP should\MD be\VB done\VBN for\IN the\DT peace\NN of\IN the\DT innumerable\JJ relatives\NNS ,\, colleagues\NNS and\CC innocent\JJ people\NNS killed\VBN in\IN the\DT war\NN .\.
+htd44	Then\RB all\DT decided\VBD unanimously\RB .\.
+htd45	All\PDT the\DT sanskars\NNS will\MD get\VB completed\VBN with\IN worship\NN of\IN the\DT Mukteshwar\NNP Mahadev\NNP at\IN a\DT place\NN called\VBN Shiv\NNP Ballabhapur\NNP established\VBN by\IN Lord\NNP Parashuram\NNP in\IN Khandavi\NNP forest\NN .\.T yajna\NN and\CC a\DT bath\NN at\IN the\DT fallen\JJ purgator\NN Ganges\NNP and\CC offering\VBG a\DT pindadan\NN there\RB .\.
+htd46	It\PRP is\VBZ to\TO be\VB noted\VBN that\IN it\PRP is\VBZ Shiv\NNP Ballabhpur\NNP that\WDT is\VBZ known\VBN as\IN Garh\NNP Mukteshwar\NNP now\RB .\.
+htd47	Maharaj\NNP Shivi\NNP ,\, the\DT ancestor\NN of\IN Lord\NNP Rama\NNP ,\, had\VBD spent\VBN his\PRP$ exile\NN at\IN Garh\NNP Muktesher\NNP .\.
+htd48	Maharaj\NNP Shivi\NNP had\VBD Lord\NNP Parashuram\NNP establish\VB the\DT Shiva\NNP Temple\NNP here\RB .\.
+htd49	At\IN that\DT time\NN Garh\NNP Mukteshwar\NNP was\VBD the\DT main\JJ center\NN of\IN Ballabh\NNP sect\NN .\.
+htd50	Garh\NNP Mukteshwar\NNP was\VBD named\VBN as\IN Shiv\NNP Ballabhpur\NNP .\.
+htd51	The\DT description\NN of\IN Garh\NNP Mukteshwar\NNP is\VBZ found\VBN in\IN the\DT Shiva\NNP Purana\NNP .\.
+htd52	A\DT yajna\NN was\VBD conducted\VBN from\IN the\DT eleventh\JJ day\NN to\TO the\DT fourteenth\JJ day\NN of\IN the\DT fortnight\NN in\IN Garh\NNP Mukteshwar\NNP for\IN the\DT peace\NN of\IN the\DT souls\NNS killed\VBN in\IN the\DT war\NN of\IN the\DT Mahabharata\NNP .\.
+htd53	On\IN the\DT evening\NN of\IN the\DT fourteenth\JJ day\NN after\IN the\DT end\NN of\IN the\DT yajna\NN tributes\NNS were\VBD offered\VBN to\TO those\DT souls\NNS by\IN offering\VBG earthen\JJ lamps\NNS in\IN the\DT Ganges\NNP .\.
+htd54	Next\JJ day\NN on\IN the\DT full\JJ moon\NN morning\NN ,\, having\VBG bathed\VBN in\IN the\DT Ganges\NNP ,\, all\DT offered\VBN prayers\NNS and\CC religious\JJ stories\NNS .\.
+htd55	Every\DT year\NN devotees\NNS in\IN lacs\NNS of\IN numbers\NNS come\VBN to\TO Garh\NNP Mukteshwar\NNP to\TO take\VB a\DT bath\NN in\IN the\DT blemish-destroyer\NN ,\, sin-purgator\JJ Ganges\NNP and\CC to\TO offer\VB earthen\JJ lamps\NNS for\IN the\DT peace\NN of\IN the\DT souls\NNS of\IN their\PRP$ kins\NNS .\.
+htd56	Innumerous\JJ people\NNS offer\VBP earthen\JJ lamps\NNS in\IN the\DT Ganges\NNP as\IN tribute\NN to\TO their\PRP$ kins\NNS on\IN the\DT evening\NN of\IN the\DT fourteenth\JJ day\NN of\IN the\DT fortnight\NN .\.
+htd57	During\IN that\DT time\NN lamps\NNS flowing\VBG with\IN the\DT stream\NN of\IN the\DT Ganges\NNP appear\VB very\JJ peace\NN giving\VBG and\CC charming\JJ .\.
+htd58	There\EX are\VBP several\JJ places\NNS of\IN religious\JJ importance\NN in\IN Garh\NNP Mukteshwar\NNP such\JJ as\IN Nahush\NNP well\RB ,\, the\DT temple\NN of\IN the\DT Mukteshwar\NNP Mahadev\NNP ,\, the\DT Badrinath\NNP Templeh\NNP .\.
+htd59	Custom\NNP is\VBZ that\IN the\DT Badrinath\NNP Temple\NNP is\VBZ opened\VBN during\IN the\DT prayer\NN time\NN only\RB .\.
+htd60	This\DT temple\NN is\VBZ opened\VBN only\RB once\RB in\IN a\DT year\NN for\IN the\DT whole\JJ day\NN during\IN the\DT birth\NN anniversary\NN of\IN Parashuram\NNP on\IN Akshaya\NNP Tritiya\NNP .\.
+htd61	There\EX is\VBZ a\DT sand\NN filled\VBN field\NN in\IN front\NN of\IN the\DT Mukteshwar\NNP Mahadev\NNP temple\NN which\WDT is\VBZ known\VBN as\IN Meerabai\NNP Ki\NNP Reti\NNP .\.
+htd62	It\PRP is\VBZ believed\VBN that\IN Meerabai\NNP had\VBD come\VBN to\TO bathe\VB here\RB once\RB .\.
+htd63	It\PRP is\VBZ said\VBD that\IN once\RB Parvatiji\NNP asked\VBD a\DT question\NN to\TO Shankarji\NNP .\.
+htd64	Lord\NNP ,\, advise\VBP a\DT solution\NN and\CC place\NN by\IN which\WDT a\DT living\NN being\NN gets\VBZ relieved\VBN from\IN several\JJ ills\NNS and\CC sins\NNS .\.
+htd65	What\WP should\MD they\PRP do\VB so\RB that\IN they\PRP get\VBP your\PRP$ affection\NN .\.
+htd66	On\IN this\DT Shankarji\NNP said\VBD that\IN O\NNP Devi\NNP ,\, all\PDT the\DT pilgrimages\NNS give\VBP the\DT fruits\NNS of\IN meritorious\JJ actions\NNS in\IN the\DT Satayuga\NNP ,\, Treta\NNP in\IN Pushkar\NNP ,\, in\IN Dwapar\NNP Kurukshetra\NNP pilgrimage\NN gives\VBZ the\DT fruits\NNS of\IN meritorious\JJ actions\NNS and\CC in\IN Kalikala\NNP achievements\NNS of\IN the\DT fruits\NNS of\IN meritorious\JJ actions\NNS is\VBZ only\RB through\IN the\DT Ganga\NNP bath\NN .\.
+htd67	There\EX is\VBZ a\DT place\NN called\VBN Shiva\NNP Ballabhpur\NNP on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP .\.
+htd68	Shiva\NNP resides\VBZ in\IN the\DT place\NN called\VBN Shiva\NNP Ballabhpur\NNP .\.
+htd69	Shiva\NNP Ballabhpur\NNP is\VBZ very\RB favorite\JJ to\TO Shivaji\NNP .\.
+htd70	Shiva\NNP Ballabhpur\NNP is\VBZ located\VBN in\IN the\DT east\JJ direction\NN of\IN Hastinapur\NNP in\IN the\DT country\NN of\IN Aryavarta\NNP of\IN Jambudweep\NNP .\.
+htd71	Situated\VBN on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP Shiva\NNP Ballabhpur\NNP is\VBZ satisfying\VBG to\TO the\DT deities\NNS ,\, sages\NNS and\CC ancestors\NNS .\.
+htd72	Shiva\NNP Ballabhpur\NNP area\NN is\VBZ favorite\JJ to\TO me\PRP ,\, like\IN Kashi\NNP .\.
+htd73	The\DT Ganges\NNP Temple\NNP in\IN Garh\NNP Mukteshwar\NNP is\VBZ built\VBN at\IN a\DT very\RB great\JJ height\NN .\.
+htd74	Besides\IN the\DT Mother\NNP Ganges\NNP temple\NN there\EX is\VBZ also\RB a\DT statue\NN of\IN Brahmaji\NNP installed\VBN in\IN Garh\NNP Mukteshwar\NNP .\.
+htd75	There\EX is\VBZ also\RB such\JJ a\DT stone\NN in\IN the\DT Ganges\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP ,\, looking\VBG closely\RB at\IN which\WDT the\DT shape\NN of\IN Lord\NNP Shiva\NNP appears\VBZ to\TO be\VB on\IN it\PRP .\.
+htd76	At\IN one\CD time\NN there\RB used\VBN to\TO be\VB 101\CD steps\NNS to\TO reach\VB the\DT Ganga\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd77	But\CC now\RB there\EX are\VBP only\RB 86\CD steps\NNS left\VBN in\IN the\DT Ganges\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd78	It\PRP is\VBZ said\VBD that\IN till\IN 1937\CD the\DT Ganges\NNP used\VBD to\TO flow\VB touching\VBG the\DT steps\NNS of\IN the\DT Ganges\NNP Temple\NNP of\IN Garh\NNP Mukteshwar\NNP .\.
+htd79	But\CC gradually\RB Ganga-ji\JJ started\VBD leaving\VBG the\DT place\NN .\.
+htd80	Now\RB the\DT bank\NN of\IN the\DT Ganges\NNP is\VBZ about\RB 10\CD kilometres\NNS away\RB from\IN this\DT temple\NN .\.
+htd81	A\DT fair\NN is\VBZ organized\VBN on\IN the\DT sandy\JJ fields\NNS of\IN the\DT banks\NNS of\IN the\DT Ganges\NNP .\.
+htd82	One\CD whole\JJ city\NN of\IN tents\NNS gets\VBZ settled\VBN on\IN the\DT banks\NNS during\IN the\DT fair\NN .\.
+htd83	The\DT venue\NN of\IN the\DT fair\NN is\VBZ about\IN 90\CD kilometres\NNS from\IN Delhi\NNP .\.
+htd84	One\CD can\MD easily\RB reach\VB the\DT fair\JJ ground\NN through\IN car\NN etcetera\NN .\.
+htd85	Earlier\JJR people\NNS had\VBD to\TO go\VB on\IN foot\NN to\TO the\DT fair\JJ venue\NN in\IN Garh\NNP Mukteshwar\NNP .\.
+htd86	But\CC now\RB there\EX are\VBP several\JJ ways\NNS of\IN travel\NN available\JJ .\.
+htd87	Many\JJ people\NNS reach\VBP the\DT fair\JJ venue\NN by\IN buggi\NNS ,\, tractor\NN trollies\NNS ,\, cars\NNS and\CC other\JJ resources\NNS .\.
+htd88	It\PRP is\VBZ estimated\VBN that\IN every\DT year\NN about\IN twenty\CD lac\NN people\NNS come\VBP to\TO Garh\NNP Mukteshwar\NNP for\IN holy\JJ bath\NN in\IN the\DT Ganges\NNP during\IN the\DT fair\NN in\IN Garh\NNP Mukteshwar\NNP .\.
+htd89	Most\JJS of\IN the\DT devotees\NNS coming\VBG to\TO participate\VB in\IN the\DT fair\JJ stay\NN in\IN the\DT tents\NNS only\RB .\.
+htd90	Apart\RB from\IN the\DT fair\NN ,\, people\NNS coming\VBG during\IN the\DT general\JJ days\NNS stay\VBP in\IN the\DT dharamashalas\NNS built\VBN around\IN the\DT Braj\NNP Ghat\NNP .\.
+htd91	As\IN such\JJ food\NN items\NNS are\VBP found\VBN in\IN several\JJ shops\NNS here\RB .\.
+htd92	But\CC devotees\NNS coming\VBG in\IN the\DT form\NN of\IN groups\NNS manage\VBP their\PRP$ food\NN etcetera\NN themselves\PRP .\.
+htd93	The\DT fair\NN organized\VBN on\IN the\DT eve\NN of\IN Kartik\NNP Poornima\NNP on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP in\IN Garh\NNP Mukteshwar\NNP is\VBZ one\CD of\IN the\DT biggest\JJS fairs\NNS .\.
+htd94	Fair\NNP takes\VBZ place\NN on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP in\IN an\DT area\NN of\IN about\IN 11\CD kilometres\NNS .\.
+htd95	This\DT time\NN the\DT organization\NN of\IN fair\NN is\VBZ being\VBG done\VBN by\IN dividing\VBG the\DT fair\JJ venue\NN into\IN 20\CD sectors\NNS .\.
+htd96	For\IN security\NN reasons\NNS more\JJR police\NN forces\NNS have\VBP been\VBN deployed\VBN in\IN Garh\NNP Mukteshwar\NNP than\IN earlier\RBR .\.
+htd97	Close\JJ circuit\NN TVs\NNS have\VBP also\RB been\VBN installed\VBN at\IN main\JJ places\NNS .\.
+htd98	Several\JJ ghats\NNS have\VBP also\RB been\VBN built\VBN for\IN the\DT bath\NN in\IN the\DT Ganges\NNP .\.
+htd99	Hastinapur\NNP has\VBZ a\DT historical\JJ importance\NN .\.
+htd100	Jain\NN community\NN has\VBZ special\JJ importance\NN for\IN all\DT castes\NNS of\IN North\NNP India\NNP .\.
+htd101	To\TO go\VB to\TO Hastinapur\NNP we\PRP considered\VBD it\PRP convenient\JJ go\NN from\IN the\DT Kashmiri\NNP Gate\NNP Bus\NNP Terminus\NNP in\IN Delhi\NNP .\.
+htd102	Buses\NNS go\VBP continuously\RB for\IN Meerut\NNP from\IN Kashmere\NNP Gate\NNP .\.
+htd103	Then\RB buses\NNS are\VBP found\VBN from\IN Meerut\NNP to\TO Hastinapur\NNP .\.
+htd104	The\DT distance\NN from\IN Delhi\NNP to\TO Hastinapur\NNP is\VBZ about\RB 105\CD kilometres\NNS .\.
+htd105	Hastinapur\NNP is\VBZ also\RB known\VBN by\IN several\JJ other\JJ names\NNS in\IN the\DT scriptures\NNS ,\, such\JJ as\IN Gajpur\NNP ,\, Nagpur\NNP ,\, Asandhivat\NNP ,\, Brahmasthal\NNP ,\, Shantinagar\NNP ,\, Kujarpur\NNP etc\NN .\.
+htd106	In\IN Hastinapur\NNP Shree\NNP Adinath\NNP Prabhu\NNP ,\, the\DT first\JJ among\IN the\DT twenty\CD four\CD Tirthankaras\NNPS of\IN Jainism\NNP ,\, had\VBD ended\VBN his\PRP$ four\CD hundred\CD day\NN fast\RB by\IN having\VBG juice\NN of\IN sugar\NN cane\NN from\IN Shreyansh\NNP Kumar\NNP 's\POS hand\NN .\.
+htd107	It\PRP was\VBD in\IN Hastinapur\NNP that\IN twelve\CD Kalyanaks\NNPS of\IN Shree\NNP Shantinath\NNP Prabhu\NNP ,\, Kunthanath\NNP Prabhu\NNP and\CC Shri\NNP Arahanath\NNP Prabhu\NNP occurred\VBD .\.
+htd108	Samosaran\NNP of\IN Bhagwan\NNP Malliknath\NNP also\RB took\VBD place\NN in\IN Hastinapur\NNP .\.
+htd109	It\PRP was\VBD in\IN Hastinapur\NNP that\IN Muni\JJ Suvrat\NNP Nath\NNP Swami\NNP ,\, Bhagwan\NNP Parswanath\NNP and\CC Bhagwan\NNP Mahavir\NNP Swami\NNP preached\VBD in\IN their\PRP$ divine\JJ voice\NN .\.
+htd110	The\DT time\NN of\IN ablution\NN and\CC prayer\NN in\IN Hastinapur\NNP is\VBZ from\IN 8\CD o'clock\RB in\IN the\DT morning\NN to\TO 5\CD o'clock\RB in\IN the\DT evening\NN .\.
+htd111	And\CC the\DT time\NN to\TO pray\VB in\IN Digambar\NNP Jain\NNP Temple\NNP begins\VBZ from\IN seven\CD o'clock\RB in\IN the\DT morning\NN .\.
+htd112	Adinath\NNP Bhagwan\NNP came\VBD to\TO Hastinapur\NNP four\CD hundred\CD days\NNS after\IN initiation\NN on\IN the\DT third\JJ light\JJ half\JJ month\NN of\IN Baisakh\NNP .\.
+htd113	People\NNS from\IN afar\NN used\VBN to\TO go\VB to\TO visit\VB him\PRP .\.
+htd114	When\WRB the\DT Prince\NNP Shreyanshkumar\NNP came\VBD to\TO know\VB of\IN this\DT he\PRP remembered\VBD the\DT tradition\NN of\IN his\PRP$ ancestors\NNS to\TO abandon\VB food\NN and\CC water\NN .\.
+htd115	Prince\NNP Shreyanshkumar\NNP urged\VBD Adinatha\NNP Prabhu\NNP to\TO accept\VB sugar\NN cane\NN juice\NN for\IN ending\VBG the\DT fast\RB which\WDT he\PRP accepted\VBD .\.
+htd116	Since\IN then\RB this\DT day\NN has\VBZ started\VBN to\TO be\VB called\VBN as\IN Akshay\NNP Tritiya\NNP .\.
+htd117	In\IN Hastinapur\NNP ,\, Bhagwan\NNP made\VBD 6\CD big\JJ kings\NNS follower\NN of\IN the\DT Jain\NNP religion\NN with\IN his\PRP$ preachings\NNS .\.
+htd118	Out\IN of\IN the\DT 24\CD Tirthankaras\NNPS the\DT 20th\JJ Tirthankar\NNP Shri\NNP Sant\NNP Suvrat\NNP Swami\NNP ,\, 23rd\JJ Tirthankar\NNP Parsvanath\NNP Bhagwan\NNP and\CC the\DT last\JJ Tirthankar\NNP Mahavir\NNP Swami\NNP purified\VBD this\DT place\NN with\IN their\PRP$ holy\JJ feet\NNS .\.
+htd119	There\EX have\VBP been\VBN a\DT total\NN of\IN 12\CD supreme\JJ emperors\NNS in\IN India\NNP .\.
+htd120	The\DT birth\NN place\NN of\IN 6\CD among\IN the\DT total\NN of\IN 12\CD supreme\JJ emperors\NNS of\IN India\NNP is\VBZ Hastinapur\NNP .\.
+htd121	Parashuram\NNP of\IN the\DT Ramayana\NNP age\NN was\VBD also\RB born\VBN in\IN Hastinapur\NNP .\.
+htd122	Hastinapur\NNP has\VBZ been\VBN the\DT capital\NN of\IN the\DT Kauravas\NNPS and\CC the\DT Pandavas\NNPS .\.
+htd123	Functions\NNS are\VBP organized\VBN on\IN Kartik\NNP full\JJ moonlight\NN and\CC third\JJ lighted\VBN fortnight\NN of\IN Vaisakh\NNP in\IN Shwetambar\NNP Jain\NNP Temple\NNP and\CC between\IN Kartik\NNP Shukla\NNP to\TO full\JJ moonlight\NN in\IN Digambar\NNP Jain\NNP Temple\NNP .\.
+htd124	Bhagwan\NNP Adinath\NNP had\VBD entrusted\VBN the\DT states\NNS of\IN Podanpur\NNP and\CC Hastinapur\NNP to\TO his\PRP$ son\NN Bahubali\NNP .\.
+htd125	Bahubali\NNP ruled\VBD Podanpur\NNP .\.
+htd126	While\IN his\PRP$ son\NN ruled\VBD Hastinapur\NNP .\.
+htd127	The\DT younger\JJR brother\NN of\IN Bahubali\NNP Shreyansh\NNP Kumar\NNP had\VBD performed\VBN the\DT feet\NNS worship\NN of\IN Adinath\NNP Bhagwan\NNP .\.
+htd128	Ratna\NNP Stambha\NNP was\VBD built\VBN in\IN the\DT memory\NN of\IN Shreyansh\NNP Kumar\NNP .\.
+htd129	The\DT Charanpaduka\NNP of\IN Adinath\NNP Bhagwan\NNP was\VBD also\RB installed\VBN there\RB .\.
+htd130	Three\CD pillars\NNS were\VBD also\RB built\VBN in\IN the\DT memory\NN of\IN the\DT four\CD Kalyanakas\NNPS of\IN Shri\NNP Shantinatha\NNP ,\, Shri\NNP Kunthanatha\NNP and\CC Arahanath\NNP Bhagawana\NNP .\.
+htd131	King\NNP Shivraj\NNP adopted\VBD Jainism\NNP after\IN listening\VBG to\TO the\DT preachings\NNS of\IN Mahavir\NNP Swami\NNP .\: King\NNP Shivraj\NNP built\VBD a\DT pillar\NN in\IN Hastinapur\NNP in\IN the\DT memory\NN of\IN Mahavir\NNP Swami\NNP .\.
+htd132	A\DT descendant\NN of\IN the\DT Emperor\NNP Ashoka\NNP also\RB got\VBD many\JJ Jain\NNP temples\NNS made\VBN during\IN his\PRP$ regime\NN .\.
+htd133	But\CC with\IN time\NN those\DT ancient\JJ pillars\NNS and\CC temples\NNS have\VBP vanished\VBN .\.
+htd134	This\DT Hastinapur\NNP Nagar\NNP is\VBZ present\JJ on\IN the\DT banks\NNS of\IN the\DT Ganges\NNP .\.
+htd135	Management\NN of\IN dharamshala\NN is\VBZ also\RB found\VBN for\IN the\DT stay\NN of\IN the\DT people\NNS reaching\VBG Hastinapur\NNP .\.
+htd136	In\IN Shwetambar\NNP Trust\NNP Dharamshala\NNP there\EX are\VBP 400\CD rooms\NNS to\TO stay\VB with\IN morning\NN breakfast\NN ,\, afternoon\NN lunch\NN and\CC dinner\NN at\IN night\NN .\.
+htd137	There\EX are\VBP several\JJ other\JJ dharamashalas\NNS found\VBD easily\RB in\IN the\DT same\JJ fashion\NN .\.
+htd138	Atishay\NNP Kshetra\NNP Tijarah\NNP :\: One\NN gets\VBZ more\RBR than\IN desired\VBN here\RB .\.
+htd139	Chandra\NNP Prabhu\NNP Digamber\NNP Jain\NNP Atishay\NNP Kshetra\NNP Dehra-Tijara\NNP is\VBZ situated\VBN in\IN the\DT Alvar\NNP district\NN of\IN Rajasthan\NNP .\.
+htd140	This\DT is\VBZ called\VBN Atishay\NNP area\NN .\.
+htd141	The\DT meaning\NN of\IN Atishay\NNP is\VBZ more\JJR than\IN common\JJ .\.
+htd142	That\DT is\VBZ such\JJ an\DT area\NN where\WRB something\NN extraordinary\JJ occurs\VBZ or\CC some\DT miracle\NN happens\VBZ .\.
+htd143	That\DT is\VBZ if\IN something\NN is\VBZ demanded\VBN in\IN general\JJ ,\, one\CD gets\VBZ more\JJR than\IN that\DT .\.
+htd144	You\PRP get\VBP so\RB much\JJ that\IN you\PRP get\VB overwhelmed\VBN .\.
+htd145	Such\JJ is\VBZ the\DT belief\NN of\IN Tijara\NNP area\NN .\.
+htd146	This\DT Atishay\NNP area\NN of\IN Tijara\NNP ,\, let\VBD 's\POS say\NN ,\, temple\NN is\VBZ situated\VBN at\IN a\DT distance\NN of\IN 52\CD kilometres\NNS from\IN Alvar\NNP district\NN and\CC 117\CD kilometers\NNS from\IN Delhi\NNP .\.
+htd147	The\DT 8th\JJ Tirthankar\NNP of\IN the\DT 24\CD Tirthankaras\NNP Shree\NNP Chandra\NNP Prabhu\NNP Bhagawan\NNP is\VBZ worshipped\VBN in\IN Tijara\NNP Atishay\NNP Kshetra\NNP .\.
+htd148	The\DT extremely\RB beautiful\JJ white\JJ statue\NN of\IN Chandra\NNP Prabhu\NNP Bhagawan\NNP is\VBZ installed\VBN in\IN Tijara\NNP Atishay\NNP Kshetra\NNP .\.
+htd149	This\DT marble\NN statue\NN had\VBD come\VBN out\RP during\IN the\DT excavation\NN conducted\VBN in\IN this\DT area\NN on\IN 16\CD August\NNP ,\, 1956\CD .\.
+htd150	It\PRP is\VBZ said\VBD that\IN Saraswati\NNP Devi\NNP ,\, the\DT wife\NN of\IN a\DT famous\JJ doctor\NN Bihari\NNP Lal\NNP of\IN Tijara\NNP area\NN had\VBD kept\VBN fast\RB for\IN three\CD days\NNS .\.
+htd151	On\IN the\DT third\JJ day\NN of\IN the\DT night\NN of\IN fast\JJ Saraswati\NNP Devi\NNP saw\VBD something\NN unprecedented\JJ about\IN a\DT place\NN near\IN her\PRP$ house\NN in\IN dream\NN .\.
+htd152	Next\JJ morning\NN when\WRB that\DT place\NN was\VBD dug\VBN ,\, the\DT grand\JJ statue\NN of\IN Chandra\NNP Prabhu\NNP Bhagawan\NNP was\VBD found\VBN .\.
+htd153	When\WRB the\DT statue\NN was\VBD taken\VBN out\RP after\IN the\DT excavation\NN devotees\NNS meant\VBD this\DT by\IN it\PRP .\.
+htd154	Having\VBG full\JJ joy\NN of\IN the\DT nature\NN in\IN train\NN while\IN going\VBG to\TO Goa\NNP has\VBZ a\DT different\JJ fun\NN .\.
+htd155	Nature\NN itself\PRP welcomed\VBD the\DT statue\NN with\IN water\NN and\CC purified\VBD it\PRP .\.
+htd156	Several\JJ years\NNS after\IN this\DT incident\NN another\DT black\JJ color\NN statue\NN of\IN Chandra\NNP Prabhu\NNP Bhagawan\NNP in\IN padmasan\NN posture\NN was\VBD found\VBN from\IN the\DT same\JJ place\NN on\IN 29\CD March\NNP ,\, 1972\CD .\.
+htd157	This\DT statue\NN of\IN Chandra\NNP Prabhu\NNP Bhagawan\NNP had\VBD come\VBN out\RP during\IN the\DT excavations\NNS of\IN southern\JJ gate\NN .\.
+htd158	Installed\VBN in\IN the\DT Atishay\NNP Kshetra\NNP the\DT outer\JJ structure\NN of\IN this\DT temple\NN is\VBZ extremely\RB grand\JJ .\.
+htd159	Installed\VBN in\IN the\DT Atishay\NNP Kshetra\NNP the\DT internal\JJ decoration\NN of\IN this\DT temple\NN is\VBZ very\RB alluring\JJ .\.
+htd160	There\EX is\VBZ so\RB much\JJ space\NN in\IN the\DT courtyard\NN of\IN the\DT temple\NN that\IN two\CD thousand\CD people\NNS can\MD easily\RB stay\VB present\JJ here\RB at\IN a\DT time\NN .\.
+htd161	The\DT train\NN route\NN going\VBG to\TO Goa\NNP is\VBZ full\JJ of\IN small\JJ hills\NNS and\CC valleys\NNS .\.
+htd162	There\EX is\VBZ a\DT big\JJ hall\NN in\IN the\DT Tijara\NNP .\.
+htd163	Lead\JJ work\NN has\VBZ been\VBN done\VBN on\IN both\DT the\DT sides\NNS of\IN the\DT Tijara\NNP hall\NN .\.
+htd164	Ancient\NNP stories\NNS have\VBP been\VBN depicted\VBN through\IN the\DT medium\NN of\IN pictures\NNS on\IN the\DT walls\NNS of\IN the\DT hall\NN in\IN Tijara\NNP .\.
+htd165	In\IN the\DT temple\NN of\IN the\DT Atishay\NNP Kshetra\NNP a\DT person\NN prays\VBZ with\IN true\JJ heart\NN before\IN this\DT statue\NN .\.
+htd166	It\PRP is\VBZ believed\VBN that\IN all\PDT the\DT desires\NNS of\IN a\DT person\NN is\VBZ fulfilled\VBN .\.
+htd167	People\NNS affected\VBD with\IN witchcraft\NN also\RB come\VBN to\TO Tijara\NNP to\TO get\VB rid\JJ of\IN their\PRP$ problems\NNS .\.
+htd168	An\DT extremely\RB attractive\JJ pillar\NN is\VBZ installed\VBN in\IN front\NN of\IN the\DT temple\NN .\.
+htd169	This\DT is\VBZ called\VBN by\IN the\DT name\NN of\IN Man-Stambh\NNP .\.
+htd170	Statues\NNS of\IN deities\NNS have\VBP been\VBN installed\VBN on\IN the\DT top\NN of\IN the\DT pillar\NN .\.
+htd171	The\DT statues\NNS of\IN the\DT deities\NNS are\VBP visible\JJ from\IN afar\NN .\.
+htd172	This\DT is\VBZ called\VBN Man\NNP Stambh\NNP .\.
+htd173	The\DT pride\NN of\IN a\DT person\NN lessens\VBZ with\IN mere\JJ a\DT view\NN of\IN the\DT Man\NNP Stambh\NNP .\.
+htd174	General\JJ custom\NN is\VBZ that\IN four\CD statues\NNS of\IN Tirthankar\NNP Bhagawan\NNP is\VBZ installed\VBN on\IN the\DT top\NN of\IN the\DT Man\NNP Stambh\NNP .\.
+htd175	Special\JJ programs\NNS are\VBP organized\VBN twice\RB a\DT year\NN in\IN Tijara\NNP .\.
+htd176	Once\RB on\IN the\DT seventh\JJ day\NN of\IN Falgun\NNP and\CC the\DT second\JJ time\NN on\IN the\DT tenth\NN day\NN of\IN Shravan\NNP Shukla\NNP .\.
+htd177	Dharmashala\NNP with\IN 300\CD rooms\NNS has\VBZ been\VBN built\VBN in\IN Atishay\NNP Kshetra\NNP of\IN Tijara\NNP for\IN the\DT lodging\NN of\IN devotees\NNS .\.
+htd178	Tijara\NNP was\VBD famous\JJ with\IN the\DT name\NN of\IN Atishay\NNP Kshetra\NNP Dehra\NNP in\IN ancient\JJ times\NNS .\.
+htd179	With\IN the\DT change\NN of\IN time\NN this\DT place\NN came\VBD to\TO be\VB known\VBN as\IN Dehra\NNP Tijara\NNP and\CC now\RB only\RB Tijara\NNP .\.
+htd180	Kanker\NNP Valley\NNP National\NNP Park\NNP is\VBZ situated\VBN 35\CD kilometres\NNS south\RB from\IN the\DT district\NN headquarters\NN of\IN Bastar\NNP .\.
+htd181	Kanker\NNP Valley\NNP National\NNP Park\NNP is\VBZ famous\JJ for\IN its\PRP$ waterfalls\NNS ,\, caves\NNS and\CC bio-diversity\NN .\.
+htd182	The\DT main\JJ tourist\NN places\NNS of\IN Kanker\NNP Valley\NNP are\VBP as\IN follows\VBZ .\.
+htd183	The\DT hypnotic\JJ waterfall\NN of\IN Tirathgarh\NNP located\VBN at\IN distance\NN of\IN 35\CD kilometres\NNS from\IN Jagdalpur\NNP hypnotises\VBZ the\DT minds\NNS of\IN the\DT tourists\NNS .\.
+htd184	Tourists\NNS lose\VBP themselves\PRP in\IN its\PRP$ charming\JJ beauty\NN .\.
+htd185	One\CD does\VBZ not\RB feel\VB like\IN going\VBG away\RB from\IN Tirathgarh\NNP .\.
+htd186	Situated\VBN on\IN the\DT Munagabahar\NNP river\NN this\DT waterfall\NN falls\VBZ 300\CD feet\NNS down\RB from\IN the\DT moon\NN shaped\VBD hill\NN on\IN the\DT ladder\NN like\IN natural\JJ structures\NNS .\.
+htd187	The\DT milky\JJ foam\NN formed\VBN with\IN the\DT fall\NN of\IN water\NN and\CC the\DT natural\JJ fountain\NN of\IN drops\NNS of\IN water\NN wetten\VBP the\DT tourists\NNS gradually\RB .\.
+htd188	Having\VBG an\DT M\NNP .\: Tech\NNP .\: in\IN geology\NN I\PRP tried\VBD to\TO know\VB its\PRP$ geological\JJ genesis\NN .\.
+htd189	I\PRP found\VBD this\DT .\.
+htd190	Crores\NNS of\IN years\NNS ago\IN the\DT rocks\NNS of\IN the\DT down\JJ side\NN river\NN formed\VBN of\IN moon-ruins\NNS due\JJ to\TO some\DT earthquake\NN sloped\VBD down\RB .\.
+htd191	And\CC this\DT ladder\NN like\IN valley\NN would\MD have\VB created\VBN this\DT charming\JJ waterfall\NN .\.
+htd192	A\DT temple\NN of\IN archaeological\JJ importance\NN is\VBZ located\VBN 20\CD kilometres\NNS away\RB from\IN Tirathgarh\NNP waterfall\NN in\IN Chingitarai\NNP .\.
+htd193	Along\IN with\IN Tirathgarh\NNP ,\, Chingitarai\NNP and\CC Chandragiri\NNP have\VBP historical\JJ importance\NN .\.
+htd194	It\PRP is\VBZ said\VBD .\.
+htd195	There\EX were\VBD two\CD sons\NNS of\IN a\DT king\NN of\IN Tirathgarh\NNP Estate\NNP .\.
+htd196	One\CD was\VBD Prince\NNP Chandradeva\NNP and\CC the\DT other\JJ Tirathdev\NNP .\.
+htd197	Prince\NNP Chandradeva\NNP got\VBD the\DT area\NN of\IN Chandragiri\NNP in\IN inheritance\NN .\.
+htd198	It\PRP was\VBD Chandradeva\NNP after\IN the\DT name\NN of\IN whom\WP this\DT was\VBD named\VBN as\IN Chandragiri\NNP .\.
+htd199	Whereas\IN his\PRP$ brother\NN got\VBD the\DT estate\NN of\IN Tirathgarh\NNP .\.
+htd200	Whose\JJ name\NN came\VBD to\TO be\VB Tirathgarh\NNP after\IN his\PRP$ name\NN .\.
+htd201	Ruins\NNS of\IN archaeological\JJ importance\NN are\VBP found\VBN in\IN Chandragiri\NNP and\CC Chingitarai\NNP .\.
+htd202	Natural\JJ caves\NNS of\IN world\NN acclaimed\JJ Kotamsar\NNP are\VBP located\VBN at\IN a\DT distance\NN of\IN 30\CD kilometres\NNS from\IN Jagdalpur\NNP .\.
+htd203	The\DT length\NN of\IN this\DT longest\JJS cave\NN of\IN the\DT world\NN is\VBZ 4500\CD metres\NNS .\.
+htd204	Formed\VBN out\IN of\IN the\DT dissolution\NN of\IN lime\JJ stones\NNS these\DT caves\NNS are\VBP famous\JJ for\IN the\DT structures\NNS made\VBN from\IN the\DT condensation\NN of\IN lime\JJ stone\NN .\.
+htd205	Due\JJ to\TO the\DT condensation\NN of\IN lime\JJ stone\NN structures\NNS like\IN stalactite\NN ,\, stalagmite\NN and\CC dripstones\NNS are\VBP formed\VBN .\.
+htd206	The\DT jingle\NN bell\NN hanging\VBG from\IN the\DT roof\NN ,\, pillar\NN are\VBP called\VBN stalagtite\JJ ,\, those\DT going\VBG up\RB from\IN the\DT ground\NN stalagmite\NN and\CC large\JJ pillars\NNS adjoining\JJ the\DT roof\NN and\CC the\DT ground\NN are\VBP called\VBN dripstones\NNS .\.
+htd207	Dr\NNP .\: Shankar\NNP Tiwari\NNP had\VBD described\VBN this\DT cave\NN for\IN the\DT first\JJ time\NN .\.
+htd208	There\EX are\VBP small\JJ ponds\NNS located\VBN in\IN this\DT cave\NN .\.
+htd209	The\DT small\JJ fish\NN found\VBN in\IN the\DT caves\NNS do\VBP not\RB have\VB eyes\NNS .\.
+htd210	The\DT utility\NN of\IN their\PRP$ eyes\NNS finished\VBD due\JJ to\TO staying\VBG in\IN the\DT dark\NN for\IN centuries\NNS .\.
+htd211	Now\RB these\DT fish\NN are\VBP blind\JJ by\IN birth\NN itself\PRP .\.
+htd212	This\DT validates\VBZ the\DT principles\NNS of\IN Darwin\NNP .\.
+htd213	Kailash\JJ caves\NNS are\VBP situated\VBN at\IN a\DT distance\NN of\IN 16\CD kilometres\NNS from\IN Kotamsar\NNP .\.
+htd214	Its\PRP$ big\JJ halls\NNS give\VBP the\DT appearance\NN of\IN court\NN of\IN a\DT king\NN .\.
+htd215	The\DT shapes\NNS of\IN lime\JJ stone\NN look\NN like\IN Shivlingas\NNP .\.
+htd216	Therefore\RB these\DT caves\NNS also\RB have\VBP religious\JJ importance\NN .\.
+htd217	There\EX is\VBZ a\DT queue\NN of\IN devotees\NNS on\IN the\DT day\NN of\IN Mahashivaratri\NNP in\IN the\DT Kailash\NNP cave\NN .\.
+htd218	Kailash\JJ cave\NN is\VBZ at\IN a\DT height\NN of\IN 50\CD metre\NN and\CC is\VBZ 2500\CD metres\NNS long\RB .\.
+htd219	Dandak\NNP cave\NN is\VBZ at\IN a\DT distance\NN of\IN 8\CD kilometres\NNS from\IN Kotamsar\NNP .\.
+htd220	Like\IN Kotamasar\NNP cave\VBP the\DT structures\NNS like\IN stalactite\NN ,\, stalagmite\NN and\CC dripstones\NNS in\IN Dandak\NNP cave\NN give\VBP a\DT grand\JJ look\NN .\.
+htd221	In\IN the\DT Aranyak\NNP caves\NNS attached\VBN to\TO the\DT Kanger\NNP Valley\NNP the\DT stalagmite\JJ structures\NNS of\IN Jadhara\NNP Jhanpi\NNP and\CC Makar\NNP Kaksha\NNP is\VBZ spectacular\JJ .\.
+htd222	The\DT enormous\JJ hills\NNS of\IN the\DT Kanker\NNP appear\VBP eager\JJ to\TO welcome\VB the\DT Bastar\NNP district\NN while\IN coming\VBG from\IN Raipur\NNP to\TO Jagdalpur\NNP .\.
+htd223	The\DT charming\JJ valley\NN of\IN Keshkal\NNP starts\VBZ 22\CD kilometres\NNS ahead\RB of\IN Kanker\NNP .\.
+htd224	With\IN a\DT hairpin\NN curve\NN this\DT charming\JJ valley\NN hypnotises\NNS tourists\NNS .\.
+htd225	The\DT hills\NNS of\IN Dandakaranya\NNP starts\VBZ at\IN the\DT end\NN of\IN the\DT Keshkal\NNP Valley\NNP .\.
+htd226	The\DT pleasant\JJ scene\NN of\IN Keshkal\NNP Valley\NNP is\VBZ seen\VBN from\IN the\DT rest\NN house\NN and\CC watch\NN tower\NN of\IN Panchavati\NNP .\.
+htd227	Suddenly\RB one\CD does\VBZ not\RB feel\VB that\IN we\PRP are\VBP seeing\VBG the\DT views\NNS of\IN plain\JJ areas\NNS .\.
+htd228	Mountain\NNP ranges\NNS are\VBP spread\VBN far\RB and\CC wide\RB .\.
+htd229	Beautiful\JJ earth\NN wrapped\VBN in\IN green\JJ shawl\NN ,\, flocks\NNS of\IN clouds\NNS clashing\VBG with\IN the\DT mountains\NNS make\VBP us\PRP feel\VB like\IN the\DT Himalayas\NNPS .\.
+htd230	The\DT actual\JJ border\NN of\IN Bastar\NNP starts\VBZ from\IN here\RB .\.
+htd231	One\CD has\VBZ to\TO go\VB through\IN Geedam\NNP to\TO reach\VB Barsur\NNP located\VBN at\IN a\DT distance\NN of\IN 105\CD kilometres\NNS from\IN Jagdalpur\NNP ,\, the\DT sadar\JJ destination\NN of\IN Bastar\NNP .\.
+htd232	Barsur\NNP is\VBZ situated\VBN 22\CD kilometres\NNS away\RB from\IN Geedam\NNP .\.
+htd233	There\EX is\VBZ huge\JJ statue\NN of\IN Lord\NNP Ganesha\NNP here\RB .\.
+htd234	Barsur\NNP has\VBZ been\VBN the\DT capital\NN of\IN Nag\NNP kings\NNS and\CC Kakatiya\NNP administrators\NNS .\.
+htd235	Barsur\NNP is\VBZ famous\JJ for\IN temples\NNS of\IN the\DT eleventh\NN and\CC the\DT twelfth\NN centuries\NNS .\.
+htd236	Among\IN the\DT temples\NNS of\IN Barsur\NNP the\DT Mama-Bhanja\NNP temple\NN is\VBZ basically\RB a\DT Shiva\NNP Temple\NNP .\.
+htd237	Mama-Bhanja\NNP Temple\NNP has\VBZ two\CD sanctum\NN sanctorum\NN .\.
+htd238	The\DT mandapas\NNS of\IN Mama-Bhanja\NNP temples\NNS are\VBP adjoined\VBN .\.
+htd239	Depiction\NN of\IN copulating\JJ statues\NNS are\VBP also\RB found\VBN in\IN the\DT dilapidated\JJ temples\NNS of\IN Barsur\NNP .\.
+htd240	According\VBG to\TO historian\NN and\CC renowned\JJ educationist\NN Dr\NNP .\.NP .\.NP .\: Jha\NNP this\DT town\NN was\VBD known\VBN with\IN name\NN of\IN Vaivashwatpur\NNP in\IN ancient\JJ times\NNS .\.
+htd241	Chandraditya\NNP Temple\NNP was\VBD built\VBN by\IN the\DT Naga\NNP king\NN Chandradita\NNP and\CC it\PRP is\VBZ after\IN his\PRP$ name\NN that\IN this\DT temple\NN is\VBZ known\VBN .\.
+htd242	The\DT Battisa\NNP Temple\NNP standing\NN on\IN thirty\CD two\CD pillars\NNS has\VBZ been\VBN built\VBN with\IN sand\NN stone\NN .\.
+htd243	Mundamahadevi\NNP built\VBD the\DT Battisa\NNP Temple\NNP during\IN the\DT regime\NN of\IN Someshwar\NNP Dev\NNP .\.
+htd244	There\EX are\VBP beautiful\JJ statues\NNS of\IN Shiva\NNP and\CC Nandi\NNP in\IN the\DT Battisa\NNP Temple\NNP .\.
+htd245	This\DT thousand\CD year\NN old\JJ Battisa\NNP Temple\NNP has\VBZ been\VBN built\VBN by\IN organizing\VBG stones\NNS in\IN a\DT very\RB scientific\JJ manner\NN .\.
+htd246	These\DT temples\NNS are\VBP protected\VBN monuments\NNS by\IN the\DT Archaeology\NNP Department\NNP .\.
+htd247	Two\CD huge\JJ statues\NNS of\IN Lord\NNP Ganesha\NNP built\VBD with\IN sand\NN stone\NN are\VBP surprising\JJ .\.
+htd248	Mama-Bhanja\NNP Temple\NNP is\VBZ excellent\JJ in\IN view\NN of\IN the\DT sculpture\NN and\CC worth\JJ visit\NN .\.
+htd249	The\DT Vishnu\NNP Temple\NNP of\IN Narayanpal\NNP was\VBD built\VBN by\IN Queen\NNP Gundamahadevi\NNP of\IN King\NNP Dharavarsha\NNP of\IN Chhindak\NNP Nag\NNP dynasty\NN about\IN 80\CD kilometres\NNS away\RB from\IN Jagdalpur\NNP in\IN the\DT Bastar\NNP developmental\JJ block\NN of\IN Bastar\NNP district\NN .\.
+htd250	The\DT son\NN Gundamahadevi\NNP Someshvar\NNP Dev\NNP was\VBD an\DT influential\JJ king\NN .\.
+htd251	By\IN the\DT completion\NN of\IN the\DT Vishnu\NNP Temple\NNP of\IN Narayanpal\NNP ,\, Dharavarsha\NNP and\CC Someshwar\NNP Dev\NNP had\VBD died\VBN .\.
+htd252	And\CC there\EX was\VBD the\DT regime\NN of\IN Chhindak\NNP Nagvanshi\NNP King\NNP Kanhar\NNP Dev\NNP the\DT grand\JJ son\NN of\IN Gundamahadevi\NNP .\.
+htd253	The\DT inscriptions\NNS of\IN Gundamahadevi\NNP and\CC her\PRP$ daughter-in-law\NN the\DT queen\NN of\IN King\NNP Kanhar\NNP Dev\NNP are\VBP here\RB .\.
+htd254	This\DT Vishnu\NNP Temple\NNP of\IN Narayanpal\NNP is\VBZ a\DT protected\JJ monument\NN by\IN the\DT Archaeological\NNP Department\NNP .\.
+htd255	This\DT Vishnu\NNP Temple\NNP of\IN Narayan\NNP Pal\NNP is\VBZ also\RB the\DT main\JJ source\NN collecting\VBG information\NN of\IN the\DT period\NN of\IN regime\NN of\IN Chhindak\NNP Nag\NNP dynasty\NN .\.
+htd256	Situated\VBN at\IN the\DT confluence\NN of\IN the\DT Shankhini\NNP and\CC the\DT Dankini\NNP rivers\NNS Dantewada\NNP is\VBZ at\IN a\DT distance\NN of\IN 85\CD kilometres\NNS from\IN Jagdalpur\NNP .\.
+htd257	The\DT ancient\JJ temple\NN of\IN the\DT deity\NN of\IN Bastar\NNP Ma\NNP Danteshwari\NNP Devi\NNP is\VBZ here\RB .\.
+htd258	Danteshwari\NNP Devi\NNP is\VBZ the\DT symbol\NN of\IN the\DT residents\NNS of\IN Bastar\NNP .\.
+htd259	During\IN Dashahra\NNP tourists\NNS of\IN the\DT world\NN come\VBN to\TO Bastar\NNP .\.
+htd260	For\IN the\DT devotees\NNS coming\VBG on\IN foot\NN the\DT facilities\NNS of\IN free\JJ food\NN ,\, breakfast\NN ,\, lodging\NN and\CC medical\JJ treatment\NN is\VBZ made\VBN available\JJ by\IN volunteer\NN organizations\NNS .\.
+htd261	Besides\IN the\DT statue\NN of\IN Danteshwari\NNP Maai\NNP the\DT statues\NNS of\IN Shiva\NNP ,\, Ganesha\NNP ,\, the\DT Sun\NNP ,\, Bhairava\NNP are\VBP also\RB in\IN Bastar\NNP .\.
+htd262	These\DT statues\NNS are\VBP also\RB important\JJ from\IN the\DT archaeological\JJ point\NN of\IN view\NN .\.
+htd263	Watching\VBG the\DT excavation\NN of\IN iron\NN ore\NN in\IN Bailadila\NNP is\VBZ also\RB a\DT grand\JJ experience\NN .\.
+htd264	Mines\NNP of\IN N\NNP .\.NP .\.NP .\.NP .\: are\VBP in\IN Bacheli\NNP and\CC Kirandool\NNP .\.
+htd265	One\CD can\MD stay\VB in\IN the\DT guest\NN house\NN in\IN Bailadila\NNP .\.
+htd266	Getting\VBG permission\NN is\VBZ mandatory\JJ to\TO visit\VB the\DT mines\NNS of\IN iron\NN ore\NN in\IN Bailadila\NNP .\.
+htd267	The\DT mines\NNS of\IN Bacheli\NNP are\VBP 25\CD kilometres\NNS away\RB from\IN the\DT township\NN .\.
+htd268	The\DT ores\NNS of\IN Bacheli\NNP are\VBP considered\VBN to\TO be\VB good\JJ grade\NN .\.
+htd269	The\DT percentage\NN of\IN iron\NN in\IN the\DT ores\NNS of\IN Bacheli\NNP is\VBZ up\IN to\TO 86\CD .\.
+htd270	K\NNP .\.NP .\: Railway\NNP Line\NNP -LRB-\-LRB- Kotsavalya\NNP to\TO Kirandool\NNP -RRB-\-RRB- .\.
+htd271	It\PRP is\VBZ a\DT romantic\JJ experience\NN to\TO travel\VB by\IN the\DT passenger\NN in\IN K\NNP .\.NP .\: Railway\NNP Line\NNP .\.
+htd272	On\IN the\DT way\NN ,\, the\DT train\NN passing\NN through\IN the\DT dense\JJ forest\NN and\CC sky-touching\JJ hills\NNS ,\, taking\VBG u-turn\NN and\CC mountains\NNS peeping\VBG through\IN the\DT clouds\NNS present\VBP a\DT hypnotising\VBG scene\NN .\.
+htd273	The\DT kind\NN of\IN bio-diversity\NN seen\VBN in\IN Bastar\NNP is\VBZ not\RB found\VBN anywhere\RB else\RB .\.
+htd274	In\IN the\DT adventurous\JJ journey\NN to\TO Bastar\NNP falls\VBZ Shimliguda\NNP the\DT highest\JJS broad\JJ gauge\NN railway\NN station\NN of\IN Asia\NNP .\.
+htd275	Sellers\NNS of\IN the\DT juicy\NN fruits\NNS of\IN palm\NN are\VBP found\VBN throughout\IN the\DT way\NN .\.
+htd276	It\PRP feels\VBZ good\JJ to\TO eat\VB juicy\NN fruits\NNS of\IN palm\NN .\.
+htd277	In\IN this\DT adventurous\JJ journey\NN the\DT Train\NN running\VBG with\IN two\CD electronic\JJ engines\NNS pass\VBP through\IN 84\CD tunnels\NNS .\.
+htd278	The\DT length\NN of\IN K\NNP .\.NP .\: Line\NNP is\VBZ 50\CD to\TO 900\CD metres\NNS .\.
+htd279	The\DT Japanese\NNP had\VBD done\VBN the\DT construction\NN of\IN K\NNP .\.NP .\: Line\NNP to\TO take\VB the\DT iron\NN ore\NN or\CC Bailadila\NN to\TO Japan\NNP through\IN Vishakhapatnam\NNP .\.
+htd280	From\IN Vishakhapatnam\NNP the\DT iron\NN ore\NN was\VBD taken\VBN to\TO Japan\NNP by\IN ships\NNS .\.
+htd281	Food\NN items\NNS are\VBP not\RB found\VBN in\IN the\DT journey\NN of\IN K\NNP .\.NP .\: Line\NNP .\.
+htd282	Therefore\RB if\IN you\PRP want\VBP to\TO enjoy\VB this\DT journey\NN take\VB enough\JJ amount\NN of\IN food\NN items\NNS along\RB .\.
+htd283	K\NNP .\.NP .\: Line\NNP has\VBZ been\VBN transporting\VBG iron\NN ore\NN since\IN the\DT last\JJ 40\CD years\NNS .\.
+htd284	On\IN an\DT average\JJ 16\CD goods\NNS train\NN run\VBN on\IN the\DT K\NNP .\.NP .\: Line\NNP everyday\JJ .\.
+htd285	By\IN transporting\VBG iron\NN ore\NN on\IN the\DT 535\CD kilometres\NNS long\JJ K\NNP .\.NP .\: Railway\NNP Line\NNP ,\, the\DT Railways\NNP gets\VBZ a\DT profit\NN of\IN about\IN 8\CD billion\CD every\DT year\NN .\.
+htd286	The\DT world\NN famous\JJ Chitrakot\NNP Waterfall\NNP is\VBZ located\VBN at\IN a\DT distance\NN of\IN 40\CD kilometres\NNS from\IN Jagdalpur\NNP .\.
+htd287	Having\VBG expanded\VBN in\IN Chitrakot\NNP the\DT Indrāvati\NNP river\NN forms\VBZ the\DT charming\JJ waterfall\NN .\.
+htd288	Chitrakot\NNP waterfall\NN is\VBZ also\RB called\VBN the\DT Niagara\NNP of\IN Bastar\NNP .\.
+htd289	Watching\VBG the\DT Chitrakot\NNP Waterfall\NNP in\IN flood\NN lights\NNS provides\VBZ quite\RB a\DT different\JJ kind\NN of\IN experience\NN .\.
+htd290	The\DT joy\NN of\IN staying\NN in\IN the\DT fully\RB furnished\VBN hut\NN of\IN the\DT Tourism\NNP Department\NNP is\VBZ quite\RB different\JJ .\.
+htd291	The\DT Tamraghumad\NNP Waterfall\NNP is\VBZ at\IN a\DT distance\NN of\IN 10\CD kilometres\NNS from\IN the\DT Chitrakot\NNP Waterfall\NNP .\.
+htd292	In\IN Tamraghumad\NNP Waterfall\NNP .\.T rivulet\NN falling\VBG from\IN a\DT height\NN of\IN 100\CD feet\NNS forms\VBZ a\DT pleasant\JJ waterfall\NN .\.
+htd293	It\PRP is\VBZ good\JJ to\TO see\VB the\DT waterfall\NN by\IN climbing\VBG down\RP .\.
+htd294	As\IN the\DT road\NN of\IN going\VBG down\RB is\VBZ difficult\JJ it\PRP becomes\VBZ necessary\JJ to\TO take\VB extra\JJ caution\NN .\.
+htd295	There\EX is\VBZ a\DT pleasant\JJ place\NN located\VBN in\IN the\DT heart\NN of\IN Jagdalpur\NNP .\.
+htd296	Children\NNP 's\POS park\NN and\CC train\NN are\VBP available\JJ here\RB .\.
+htd297	Along\IN with\IN this\DT a\DT large\JJ skating\NN ring\NN attracts\VBZ the\DT youths\NNS .\.
+htd298	Beautiful\JJ lawns\NNS and\CC flower\NN parks\NNS hypnotise\VBP the\DT tourists\NNS .\.
+htd299	Built\VBN by\IN the\DT Great\NNP King\NNP Purushottam\NNP Dev\NNP of\IN the\DT Kakatiya\NNP dynasty\NN this\DT pond\NN has\VBZ the\DT pride\NN of\IN being\VBG the\DT largest\JJS pond\NN of\IN Chhattisgarh\NNP .\.
+htd300	This\DT is\VBZ suitable\JJ place\NN for\IN morning\NN and\CC evening\NN walks\VBZ .\.
+htd301	The\DT facility\NN of\IN tour\NN with\IN paddle\NN boat\NN along\IN with\IN motorboat\NN is\VBZ available\JJ in\IN the\DT island\NN formed\VBN in\IN the\DT pond\NN .\.
+htd302	The\DT windmill\NN installed\VBN in\IN the\DT island\NN also\RB attracts\VBZ .\.
+htd303	On\IN the\DT main\JJ gate\NN of\IN the\DT palace\NN of\IN Bastar\NNP there\EX is\VBZ the\DT temple\NN of\IN the\DT deity\NN of\IN Bastar\NNP Maa\NNP Danteshwari\NNP .\.
+htd304	Along\IN with\IN the\DT temple\NN the\DT large\JJ chariot\NN running\VBG during\IN Dashahara\NNP can\MD also\RB be\VB seen\VBN at\IN its\PRP$ gate\NN .\.
+htd305	The\DT statue\NN of\IN the\DT last\JJ Great\NNP King\NNP Pravirchandra\NNP Bhanjadeva\NNP of\IN the\DT Kakatiya\NNP dynasty\NN of\IN Bastar\NNP in\IN front\NN of\IN the\DT Danteshwari\NNP Temple\NNP is\VBZ a\DT symbol\NN of\IN faith\NN the\DT Bastar\NNP residents\NNS .\.
+htd306	The\DT grand\JJ temple\NN of\IN Lord\NNP Balaji\NNP is\VBZ on\IN the\DT Dharampura\NNP road\NN .\.
+htd307	Devotees\NNS from\IN not\RB only\RB the\DT state\NN but\CC other\JJ parts\NNS of\IN the\DT country\NN also\RB come\VBN to\TO visit\VB in\IN the\DT temple\NN of\IN Balaji\NNP of\IN Dharampura\NNP road\NN .\.
+htd308	The\DT state\NN of\IN Kerala\NNP is\VBZ very\RB popular\JJ among\IN tourists\NNS .\.
+htd309	That\DT is\VBZ why\WRB Kerala\NNP is\VBZ called\VBN God\NNP 's\POS own\JJ country\NN .\.
+htd310	There\EX are\VBP several\JJ types\NNS of\IN visiting\VBG places\NNS in\IN Kerala\NNP .\.
+htd311	Main\NNP among\IN the\DT important\JJ visiting\VBG places\NNS of\IN Kerala\NNP are\VBP .\.
+htd312	Innumerous\JJ tourists\NNS from\IN the\DT world\NN over\IN come\VBN for\IN tour\NN to\TO these\DT places\NNS .\.
+htd313	Mountainous\JJ areas\NNS like\IN Munnar\NNP ,\, Nelliyanpati\NNP ,\, Ponmuti\NNP etc\NN .\. sea\NN coasts\NNS like\IN Kovalam\NNP ,\, Warkala\NNP ,\, Cherayi\NNP etc\NN .\. wildlife\NN centres\NNS like\IN Periyar\NNP ,\, Iravikulam\NNP etc\NN .\: are\VBP the\DT centres\NNS of\IN attraction\NN for\IN Kollam\NNP and\CC Alapuzha\NNP .\.
+htd314	Among\IN Indian\JJ medical\JJ systems\NNS Ayurveda\NNP also\RB has\VBZ an\DT important\JJ contribution\NN in\IN the\DT area\NN of\IN tourism\NN .\.
+htd315	Tourism\NNP has\VBZ played\VBN a\DT defining\VBG role\NN in\IN the\DT economy\NN of\IN the\DT state\NN .\.
+htd316	Daman\NNP and\CC Diu\NNP are\VBP also\RB among\IN the\DT National\NNP Territories\NNPS of\IN India\NNP .\.
+htd317	Unfathomable\JJ waters\NNS of\IN the\DT Arabian\NNP sea\NN have\VBP made\VBN them\PRP main\JJ centres\NNS of\IN trade\NN and\CC tourism\NN .\.
+htd318	There\EX are\VBP several\JJ small\JJ islands\NNS in\IN Daman\NNP and\CC Diu\NNP .\.
+htd319	Natural\JJ beauty\NN ,\, mix\NN of\IN diverse\JJ cultures\NNS and\CC beautiful\JJ sea\NN coasts\NNS has\VBZ gifted\JJ abundant\JJ beauty\NN to\TO Daman\NNP and\CC Diu\NNP .\.
+htd320	Nearness\NN of\IN the\DT states\NNS of\IN Gujarat\NNP and\CC Maharashtra\NNP has\VBZ given\VBN the\DT tourism\NN here\RB a\DT full\JJ opportunity\NN to\TO flourish\VB .\.
+htd321	For\IN a\DT long\JJ time\NN Daman\NNP and\CC Diu\NNP were\VBD governed\VBN by\IN the\DT Portuguese\NNP .\.
+htd322	After\IN that\DT having\VBG become\VBN independent\JJ of\IN the\DT Portuguese\NNP ,\, Daman\NNP and\CC Diu\NNP were\VBD merged\VBN with\IN Goa\NNP .\.
+htd323	In\IN 1987\CD Daman\NNP and\CC Diu\NNP were\VBD given\VBN the\DT status\NN of\IN a\DT separate\JJ National\NNP Territory\NNP .\.
+htd324	The\DT distance\NN of\IN Daman\NNP from\IN Mumabi\NNP ,\, the\DT main\JJ trade\NN center\NN of\IN India\NNP ,\, is\VBZ about\RB 193\CD kilometres\NNS .\.
+htd325	Daman\NNP is\VBZ attached\VBN to\TO the\DT state\NN of\IN Gujarat\NNP in\IN the\DT east\JJ and\CC the\DT Arabian\NNP Sea\NNP in\IN the\DT west\NN .\.
+htd326	In\IN the\DT north\NN of\IN Daman\NNP is\VBZ Kolak\NNP and\CC in\IN the\DT south\JJ Kalai\NNP river\NN .\.
+htd327	The\DT neighbor\NN district\NN of\IN Daman\NNP is\VBZ the\DT Valsad\NNP district\NN of\IN Gujarat\NNP .\.
+htd328	Diu\NNP is\VBZ such\JJ an\DT island\NN of\IN India\NNP which\WDT is\VBZ attached\VBN with\IN two\CD bridges\NNS .\.
+htd329	Diu\NNP is\VBZ joined\VBN with\IN Junagarh\NNP district\NN of\IN Gujarat\NNP .\.
+htd330	Daman\NNP is\VBZ divided\VBN into\IN two\CD as\IN Motidaman\NNP and\CC Nanidaman\NNP .\.
+htd331	The\DT river\NN dividing\VBG Daman\NNP into\IN two\CD parts\NNS is\VBZ Damanganga\NNP river\NN .\.
+htd332	There\EX are\VBP several\JJ old\JJ churches\NNS in\IN Motidaman\NNP among\IN which\WDT the\DT main\JJ church\NN is\VBZ the\DT Cathedral\NNP Bom\NNP Jesus\NNP .\.
+htd333	The\DT paintings\NNS related\VBN to\TO the\DT life\NN of\IN Jesus\NNP the\DT Messiah\NNP on\IN the\DT walls\NNS of\IN the\DT churches\NNS of\IN Daman\NNP and\CC the\DT fine\JJ carvings\NNS on\IN the\DT wood\NN draw\VB the\DT tourists\NNS here\RB .\.
+htd334	The\DT main\JJ attraction\NN of\IN Nanidaman\NNP is\VBZ the\DT Saint\NNP Jerome\NNP Fort\NNP .\.
+htd335	The\DT Jerome\NNP Fort\NNP of\IN Daman\NNP was\VBD built\VBN for\IN defense\NN from\IN the\DT attacks\NNS of\IN the\DT Mughals\NNPS .\.
+htd336	Besides\IN this\DT among\IN other\JJ tourist\NN attractions\NNS of\IN Daman\NNP are\VBP Bom\NNP Jesus\NNP Church\NNP ,\, Our\NNP Lady\NNP of\IN the\DT Church\NNP ,\, Our\NNP Lady\NNP of\IN Remidio\NNP 's\POS Church\NNP ,\, Pargoal\NNP Garden\NNP ,\, Amusement\NNP Park\NNP ,\, Damanganga\NNP Tourist\NNP Complex\JJ ,\, Kachigam\NNP ,\, Satya\NNP Sagar\NNP Udyan\NNP ,\, Mirasol\NNP Garden\NNP ,\, Mirasol\NNP Water\NNP Park\NNP etc.\FW .\.
+htd337	The\DT Arabian\NNP sea\NN touching\VBG the\DT lands\NNS of\IN Daman\NNP has\VBZ provided\VBN Daman\NNP with\IN unique\JJ natural\JJ beauty\NN and\CC greenery\NN .\.
+htd338	There\EX are\VBP two\CD beaches\NNS in\IN Daman\NNP -\: Devika\NNP Beach\NNP and\CC the\DT Jampore\NNP Beach\NNP .\.
+htd339	Devika\NNP Beach\NNP is\VBZ five\CD kilometres\NNS north\RB from\IN Daman\NNP .\.
+htd340	Devika\NNP Beach\NNP very\RB much\RB lures\VBZ the\DT children\NNS because\IN there\EX are\VBP parks\NNS for\IN the\DT children\NNS and\CC other\JJ facilities\NNS here\RB .\.
+htd341	Located\VBN in\IN Nanidaman\NNP ,\, Jampore\NNP Beach\NNP is\VBZ a\DT famous\JJ picnic\NN spot\NN also\RB .\.
+htd342	The\DT peaceful\JJ environment\NN of\IN Jampore\NNP draws\VBZ lovers\NNS to\TO Jampore\NNP Beach\NNP .\.
+htd343	Because\IN of\IN peaceful\JJ environment\NN of\IN Jampore\NNP Beach\NNP most\JJS of\IN the\DT loving\JJ couples\NNS come\VBP here\RB in\IN search\NN of\IN freedom\NN .\.
+htd344	Jampore\NNP Beach\NNP is\VBZ a\DT very\RB good\JJ place\NN for\IN swimming\NN also\RB .\.
+htd345	What\WP is\VBZ there\RB in\IN the\DT island\NN .\.
+htd346	Saint\NNP Paul\NNP Church\NNP ,\, Diu\NNP Fort\NNP ,\, Panikota\NNP Fort\NNP ,\, Ghogala\NNP Beach\NNP ,\, Children\NNP 's\POS Park\NNP and\CC Summer\NNP House\NNP are\VBP chief\JJ tourist\NN places\NNS of\IN Diu\NNP .\.
+htd347	Nagoa\NNP Beach\NNP is\VBZ an\DT extremely\RB beautiful\JJ beach\NN of\IN Diu\NNP .\.
+htd348	You\PRP can\MD easily\RB reach\VB Nagoa\NNP Beach\NNP after\IN a\DT 20\CD minute\NN drive\NN from\IN Diu\NNP .\.
+htd349	Due\JJ to\TO being\VBG in\IN the\DT shape\NN of\IN a\DT shoe\NN the\DT Nagoa\NNP island\NN spread\NN in\IN 2\CD K\NNP .\.NP .\.RP has\VBZ now\RB become\VBN the\DT first\JJ choice\NN of\IN tourists\NNS .\.
+htd350	Chakratirtha\NNP Beach\NNP is\VBZ rich\JJ with\IN the\DT beauty\NN of\IN greenery\NN .\.
+htd351	Beautiful\JJ gardens\NNS near\IN the\DT Chakratirtha\NNP Beachand\NNP an\DT open\JJ stadium\NN make\VBP it\PRP a\DT place\NN of\IN full\JJ enjoyment\NN for\IN the\DT tourists\NNS .\.
+htd352	When\WRB to\TO go\VB to\TO Daman\NNP and\CC Diu\NNP .\.
+htd353	Although\IN the\DT climate\NN of\IN Daman\NNP and\CC Diu\NNP attracts\VBZ tourists\NNS throughout\IN the\DT year\NN but\CC suitable\JJ season\NN to\TO come\VB here\RB is\VBZ from\IN October\NNP to\TO May\NNP .\.
+htd354	How\WRB to\TO reach\VB Daman\NNP and\CC Diu\NNP .\.
+htd355	Daman\NNP has\VBZ 191\CD kilometres\NNS of\IN road\NN and\CC the\DT road\NN in\IN Diu\NNP is\VBZ up\IN to\TO 78\CD kilometres\NNS long\RB .\.
+htd356	Daman\NNP is\VBZ situated\VBN on\IN the\DT Delhi-Mumbai\NNP route\NN of\IN the\DT Western\NNP Railway\NNP .\.
+htd357	The\DT nearby\JJ railway\NN station\NN of\IN Daman\NNP is\VBZ Vapi\NNP of\IN Gujarat\NNP .\.
+htd358	Diu\NNP is\VBZ attached\VBN with\IN metre\NN gauge\NN railway\NN line\NN .\.
+htd359	The\DT nearby\JJ railway\NN station\NN of\IN Diu\NNP is\VBZ Dilwada\NNP .\.
+htd360	Daman\NNP and\CC Diu\NNP both\DT are\VBP attached\VBN to\TO airport\NN .\.
+htd361	Several\JJ flights\NNS take\VBP off\RP for\IN Mumbai\NNP from\IN Diu\NNP .\.
+htd362	The\DT main\JJ centres\NNS of\IN temple\NN building\NN activities\NNS of\IN Rajasthan\NNP .\.
+htd363	Temple\NNP building\NN activities\NNS in\IN Udaipur\NNP area\NN of\IN Mewar\NNP .\.
+htd364	In\IN comparison\NN with\IN Vishnu\NNP and\CC Shiva\NNP the\DT worship\NN of\IN Shakti\NNP was\VBD more\RBR popular\JJ in\IN the\DT post-Gupta\JJ period\NN Mewar\NNP .\.
+htd365	Temples\NNS built\VBN at\IN places\NNS like\IN Jagat\NNP and\CC Unwas\NNP are\VBP powerful\JJ examples\NNS of\IN the\DT popularity\NN of\IN Shakt\NNP sect\NN .\.
+htd366	In\IN the\DT temples\NNS of\IN Jagat\NNP and\CC Unwas\NNP the\DT Mahishamardini\NNP form\NN of\IN Durga\NNP has\VBZ been\VBN glorified\VBN .\.
+htd367	Among\IN the\DT people\NNS of\IN Vaishnava\NNP sect\NN ,\, Laxminarayan\NNP and\CC Varaha\NNP forms\NNS of\IN Vishnu\NNP were\VBD specially\RB worshipped\VBN .\.
+htd368	Built\VBN temples\NNS of\IN gods\NNS of\IN Shiva\NNP and\CC the\DT Sun\NNP are\VBP found\VBN very\RB rarely\RB in\IN the\DT Mewar\NNP Udaipur\NNP region\NN .\.
+htd369	The\DT renowned\JJ places\NNS for\IN temple\NN building\NN activities\NNS of\IN the\DT Mewar\NNP province\NN are\VBP being\VBG described\VBN .\.
+htd370	The\DT oldest\JJS Vaishnav\NNP and\CC Sun\NNP temples\NNS in\IN Mewar\NNP were\VBD built\VBN in\IN Chittorgarh\NNP .\.
+htd371	Political\JJ and\CC religious\JJ history\NN and\CC geographical\JJ location\NN of\IN fort\NN have\VBP influenced\VBN the\DT building\NN and\CC renovation\NN of\IN temples\NNS .\.
+htd372	With\IN the\DT archival\JJ and\CC archaeological\JJ evidences\NNS it\PRP is\VBZ found\VBN that\IN from\IN second\JJ century\NN B\NN .\.NP .\: till\IN seventh\JJ century\NN A\NN .\.NP .\: Vaishnav\NNP religion\NN was\VBD popular\JJ in\IN this\DT region\NN .\.
+htd373	Besides\IN this\DT in\IN Mewar\NNP evidences\NNS of\IN several\JJ ancient\JJ pilgrimage\NN related\VBN to\TO the\DT religions\NNS of\IN Shaiv\NNP ,\, Shakta\NNP ,\, Saur\NNP ,\, Buddhists\NNPS and\CC Jains\NNPS are\VBP found\VBN .\.
+htd374	The\DT statues\NNS of\IN meditating\VBG Buddha\NNP are\VBP depicted\VBN on\IN the\DT crevices\NNS of\IN the\DT wall\NN on\IN all\PDT the\DT four\CD sides\NNS of\IN some\DT Daan\NNP Stupas\NNP of\IN 7th\CD -\: 8th\JJ century\NN .\.
+htd375	Apart\RB from\IN this\DT temples\NNS of\IN 7th\JJ century\NN are\VBP found\VBN as\RB well\RB .\.
+htd376	During\IN the\DT difference\NN of\IN 7th\CD to\TO 15th\CD century\NN Chittor\NNP was\VBD continuously\RB the\DT main\JJ center\NN of\IN activities\NNS like\IN temple\NN building\NN and\CC other\JJ sculpting\VBG renovation\NN etcetera\NN .\.
+htd377	In\IN this\DT period\NN the\DT regime\NN of\IN Maharana\NNP Kumbha\NNP -LRB-\-LRB- 1433\CD -\: 1466\CD -RRB-\-RRB- is\VBZ specially\RB notable\JJ for\IN these\DT activities\NNS .\.
+htd378	Materials\NNPS used\VBD for\IN construction\NN were\VBD brought\VBN from\IN Nagari\NNP .\.
+htd379	The\DT abundance\NN of\IN available\JJ stones\NNS also\RB has\VBZ influenced\VBN the\DT architecture\NN in\IN the\DT Mewar\NNP region\NN .\.
+htd380	Some\DT main\JJ temples\NNS of\IN Mewar\NNP are\VBP being\VBG described\VBN thus\RB .\.
+htd381	Kalika\NNP Mata\NNP Mandir\NNP was\VBD basically\RB a\DT Sun\NNP temple\NN .\.
+htd382	Based\VBN on\IN the\DT archival\JJ evidence\NN the\DT Kalika\NNP Mata\NNP Mandir\NNP can\MD be\VB ascertained\VBN to\TO be\VB of\IN the\DT initial\JJ period\NN of\IN 8th\JJ century\NN .\.
+htd383	Kalika\NNP Mata\NNP Mandir\NNP was\VBD renovated\VBN in\IN time\NN .\.
+htd384	Pancharath\JJ sanctum\NN sanctorum\NN ,\, Mandap\NNP ,\, Abhyantariya\NNP ,\, pradakshina\NN path\NN and\CC dwar-mandap\NN are\VBP built\VBN in\IN Kalika\NNP Mandir\NNP .\.
+htd385	Statues\NNS of\IN chariot\NN riding\VBG Sun\NNP god\NN is\VBZ honourably\RB installed\VBN in\IN two\CD of\IN the\DT three\CD main\JJ crevices\NNS of\IN the\DT sanctum\NN sanctorum\NN while\IN in\IN minor\JJ crevices\NNS the\DT statues\NNS of\IN Chandra\NNP and\CC other\JJ direction\NN gods\NNS are\VBP carved\VBN .\.
+htd386	The\DT decoration\NN of\IN the\DT arch\NN and\CC threshold\NN of\IN the\DT entrance\NN of\IN the\DT sanctum\NN sanctorum\NN is\VBZ specially\RB notable\JJ .\.
+htd387	On\IN both\DT sides\NNS of\IN the\DT threshold\NN the\DT goddesses\NNS of\IN the\DT Ganges\NNP and\CC the\DT Yamuna\NNP river\NN seated\VBN on\IN their\PRP$ carriers\NNS are\VBP carved\VBN .\.
+htd388	Kurmavatar\NNP ,\, Uma-Maheshwar\NNP and\CC Lakulish\NNP statues\NNS carved\VBD in\IN the\DT temple\NN indicate\VBP the\DT initial\JJ stage\NN of\IN sculpture\NN .\.
+htd389	Kurmavatar\NNP ,\, Uma-Maheshwar\NNP and\CC Lakulish\NNP statues\NNS carved\VBD in\IN the\DT temple\NN later\RB achieve\VB maturity\NN .\.
+htd390	The\DT top\NN of\IN the\DT temple\NN is\VBZ a\DT completely\RB new\JJ construction\NN .\.
+htd391	In\IN place\NN of\IN 8th\JJ century\NN arch\NN style\NN ,\, dome\NN like\IN new\JJ top\NN has\VBZ been\VBN built\VBN .\.
+htd392	Two\CD half\NN pictures\NNS and\CC one\CD Lakulish\JJ statue\NN attached\VBN on\IN the\DT internal\JJ wall\NN of\IN the\DT canopy\NN seem\VBP to\TO be\VB installed\VBN later\RB .\.
+htd393	In\IN fact\NN the\DT original\JJ place\NN of\IN these\DT rock\NN plates\NNS would\MD have\VB been\VBN on\IN the\DT platform\NN of\IN the\DT temple\NN .\.
+htd394	The\DT subject\JJ matter\NN of\IN the\DT half\JJ picture\NN plates\NNS is\VBZ dance\NN ,\, music\NN and\CC drinking\NN .\.
+htd395	Basically\RB the\DT temple\NN was\VBD built\VBN on\IN a\DT large\JJ platform\NN .\.
+htd396	Some\DT constituents\NNS of\IN the\DT large\JJ platform\NN of\IN the\DT temple\NN are\VBP still\RB left\VBN .\.
+htd397	For\IN communication\NN of\IN light\NN and\CC air\NN in\IN the\DT circumambulation\NN path\NN of\IN the\DT sanctum\NN sanctorum\NN two\CD ventilators\NNS on\IN four\CD pillars\NNS have\VBP been\VBN built\VBN .\.
+htd398	Kumbhaswami\NNP or\CC Kumbhashyam\NNP was\VBD originally\RB a\DT Vaishnav\NNP temple\NN .\.
+htd399	According\VBG to\TO the\DT Kirti\NNP Stambha\NNP edicts\NNS ,\, renovation\NN of\IN the\DT Kumbhaswami\NNP or\CC Kumbhashyam\NNP temple\NN was\VBD done\VBN by\IN King\NNP Kumbhakarna\NNP -LRB-\-LRB- Maharana\NNP Kumbha\NNP -RRB-\-RRB- .\.
+htd400	Due\JJ to\TO renovation\NN being\VBG done\VBN by\IN Maharana\NNP Kumbha\NNP it\PRP started\VBD to\TO be\VB known\VBN with\IN the\DT names\NNS like\IN Kumbhaswami\NNP and\CC Kumbhashyam\NNP etc\NN .\.
+htd401	This\DT temple\NN is\VBZ contemporary\JJ of\IN the\DT Kalika\NNP Mata\NNP temple\NN and\CC its\PRP$ architecture\NN planning\NN and\CC style\NN also\RB matches\VBZ with\IN it\PRP .\.
+htd402	On\IN the\DT one\CD side\NN where\WRB the\DT architecture\NN plan\NN of\IN the\DT temple\NN ,\, prominent\JJ and\CC blank\JJ back\NN ,\, undecorated\JJ thighs\NNS and\CC circumambulation\NN path\NN ,\, the\DT god\NN statues\NNS of\IN the\DT outer\JJ crevices\NNS of\IN the\DT sanctum\NN sanctorum\NN seem\VBP to\TO be\VB a\DT construction\NN of\IN 8th\JJ century\NN .\.
+htd403	At\IN the\DT same\JJ time\NN other\JJ decorations\NNS ,\, seminary\JJ canopy\NN standing\NN on\IN pillars\NNS and\CC the\DT top\NN would\MD have\VB been\VBN constructed\VBN later\RB during\IN the\DT renovation\NN time\NN in\IN the\DT 15th\JJ century\NN .\.
+htd404	Due\JJ to\TO being\VBG built\VBN in\IN different\JJ periods\NNS this\DT temple\NN of\IN Kumbhaswamy\NNP has\VBZ cherished\VBN several\JJ examples\NNS of\IN architecture\NN styles\NNS and\CC statue\NN crafts\NNS .\.
+htd405	According\VBG to\TO Shri\NNP Dhaki\NNP it\PRP was\VBD King\NNP Manbhanga\NNP who\WP built\VBD this\DT temple\NN also\RB .\.
+htd406	King\NNP Manbhanga\NNP has\VBZ the\DT credit\NN of\IN building\VBG the\DT temples\NNS like\IN Kalika\NNP Mata\NNP Sun\NNP Temple\NNP ,\, the\DT nearby\JJ Tadaga\NNP and\CC Tripurvijaya\NNP Prasada\NNP etc\NN .\.
+htd407	According\VBG to\TO Shri\NNP Dhaki\NNP the\DT Kumbhaswamin\NNP Alam\NNP of\IN the\DT Kirtistambha\NNP edict\NN was\VBD the\DT ancient\JJ Tripur\NNP Vijaya\NNP .\.
+htd408	Kumbha\NNP had\VBD rebuilt\VBN the\DT ancient\JJ Tripur\NNP Vijaya\NNP Kumbhaswamin\NNP Alam\NNP .\.
+htd409	The\DT seminary\JJ canopy\NN of\IN the\DT present\JJ Kumbhashyam\NNP temple\NN has\VBZ been\VBN rebuilt\VBN with\IN the\DT ancient\JJ ruins\NNS and\CC new\JJ stones\NNS .\.
+htd410	New\NNP Vaishnava\NNP statues\NNS have\VBP been\VBN installed\VBN instead\RB of\IN old\JJ dilapidated\JJ Shaiva\NNP statues\NNS .\.
+htd411	Protected\NNP Shaiva\NNP temples\NNS have\VBP been\VBN kept\VBN as\IN it\PRP is\VBZ .\.
+htd412	Ashwadhar\NNP ,\, Naradhara\NNP built\VBD on\IN the\DT back\NN of\IN the\DT temple\NN and\CC total\JJ lack\NN of\IN the\DT grass\NN bar\NN certainly\RB defines\VBZ it\PRP to\TO be\VB of\IN the\DT 8th\JJ century\NN .\.
+htd413	Kumbhashyam\NNP is\VBZ a\DT Sandhan\JJ type\NN of\IN east\JJ facing\VBG structure\NN .\.
+htd414	The\DT sanctum\NN sanctorum\NN of\IN the\DT temple\NN is\VBZ of\IN the\DT Trayanga\NNP type\NN .\.
+htd415	Every\DT part\NN of\IN the\DT sanctum\NN sanctorum\NN is\VBZ attached\VBN with\IN a\DT salilantar\NN .\.
+htd416	The\DT statues\NNS of\IN Digpalas\NNP standing\NN in\IN a\DT triangular\JJ way\NN on\IN each\DT corner\NN look\VBP extremely\RB beautiful\JJ .\.
+htd417	There\EX are\VBP three\CD branches\NNS of\IN the\DT chariotlets\NNS of\IN Bhadra\NNP -\: Patravalli\NNP ,\, Nagapasha\NNP and\CC Roopa\NNP branch\NN .\.
+htd418	The\DT Samadhishwar\NNP Temple\NNP in\IN Chittor\NNP Fort\NNP had\VBD a\DT place\NN among\IN the\DT important\JJ temples\NNS .\.
+htd419	Shiva\NNP Samadhish\NNP had\VBD an\DT important\JJ place\NN in\IN the\DT life\NN of\IN the\DT people\NNS of\IN Chittor\NNP .\.
+htd420	According\VBG to\TO some\DT records\NNS Samadhishwar\NNP Temple\NNP is\VBZ known\VBN as\IN `\`` Samidheshwar\NNP '\'' and\CC in\IN colloquial\JJ form\NN as\IN `\`` Samidhesur\NNP '\'' as\RB well\RB .\.
+htd421	There\EX is\VBZ disagreement\NN among\IN the\DT historians\NNS on\IN the\DT builder\NN ,\, installed\JJ god\NN ,\, construction\NN time\NN and\CC name\NN of\IN the\DT Samadhishwar\NNP Temple\NNP .\.
+htd422	According\VBG to\TO an\DT edict\NN of\IN 1428\CD A\NN .\.NP .\: Maharaja\NNP Mokal\NNP had\VBD renovated\VBN the\DT Samadhishwar\NNP Temple\NNP .\.
+htd423	Samadhishwar\NNP Temple\NNP is\VBZ also\RB known\VBN as\IN '\'' Mokal\NNP Temple\NNP '\POS .\.
+htd424	According\VBG to\TO some\DT scholars\NNS like\IN Shri\NNP Dhaki\NNP Samadhishwar\NNP Temple\NNP is\VBZ the\DT Kumar\NNP Vihara\NNP built\VBN by\IN Chalukya\NNP Kumarapala\NNP .\.
+htd425	Based\VBN on\IN the\DT Narathar\NNP and\CC Kumbhak\NNP of\IN Vedi\NNP Bandh\NNP and\CC the\DT statues\NNS of\IN goddesses\NNS and\CC Yaksha\NNP -\: Yakshinis\NNP of\IN the\DT Jain\NNP regime\NN on\IN Jangha\NNP and\CC based\VBN on\IN the\DT edict\NN of\IN 1150\CD A\NN .\.NP .\: of\IN Kumarapala\NNP found\VBD from\IN the\DT complex\NN of\IN the\DT Samadhiswar\NNP Temple\NNP itself\PRP ,\, it\PRP has\VBZ been\VBN considered\VBN to\TO be\VB a\DT Jain\NNP Temple\NNP .\.
+htd426	In\IN the\DT edict\NN of\IN Kumarapala\NNP is\VBZ found\VBN the\DT evidence\NN of\IN his\PRP$ being\VBG a\DT Shiva\NNP worshipper\NN only\RB .\.
+htd427	According\VBG to\TO the\DT Mohaparajay\NNP play\NN of\IN Yashpal\NNP ,\, Kumarapal\NNP had\VBD accepted\VBN Jain\NNP religion\NN in\IN 1159\CD A\NN .\.NP .\: -LRB-\-LRB- Samvat\NNP 1216\CD -RRB-\-RRB- ,\, however\RB late\RB .\.
+htd428	The\DT depiction\NN of\IN scenes\NNS available\JJ in\IN the\DT Samadhishwar\NNP Temple\NNP is\VBZ generally\RB found\VBN from\IN all\PDT the\DT Jain\NNP and\CC Hindu\NNP temples\NNS .\.
+htd429	The\DT palatial\JJ materials\NNS and\CC Takshak\NNP of\IN Jain\NNP and\CC Hindu\NNP religions\NNS used\VBN to\TO be\VB the\DT same\JJ .\.
+htd430	Thus\RB the\DT Samadhishwar\NNP Temple\NNP appears\VBZ to\TO be\VB a\DT Shaivite\JJ mansion\NN from\IN top\NN to\TO end\VB instead\RB of\IN Kumarpala\NNP Vihara\NNP .\.
+htd431	The\DT Mahesha\NNP statue\NN of\IN the\DT Shiva\NNP of\IN Samadhishwar\NNP Temple\NNP that\WDT is\VBZ Vamadev\NNP is\VBZ a\DT form\NN of\IN direct\JJ Bhairav\NNP .\.
+htd432	The\DT largeness\NN and\CC wonderfulness\NN of\IN the\DT Mahesha\NNP statue\NN is\VBZ unique\JJ .\.
+htd433	The\DT Mahesha\NNP statue\NN that\WDT is\VBZ Vamadev\NNP seems\VBZ to\TO be\VB of\IN later\RB than\IN 15th\JJ century\NN from\IN the\DT point\NN of\IN view\NN of\IN style\NN .\.
+htd434	The\DT ground\NN of\IN sanctum\NN sanctorum\NN is\VBZ lower\JJR than\IN the\DT internal\JJ canopy\NN .\.
+htd435	It\PRP appears\VBZ that\IN this\DT change\NN has\VBZ been\VBN done\VBN during\IN renovation\NN .\.
+htd436	Dr\NNP .\: Ramnath\NNP and\CC several\JJ other\JJ scholars\NNS have\VBP tried\VBN to\TO identify\VB this\DT mansion\NN and\CC its\PRP$ construction\NN period\NN with\IN the\DT Tribhuvan\NNP Narayan\NNP temple\NN built\VBN by\IN the\DT Parmar\NNP ruler\NN Bhoja\NNP .\.
+htd437	According\VBG to\TO them\PRP this\DT temple\NN was\VBD built\VBN in\IN 1018\CD -\: 1054\CD A\NN .\.NP .\: by\IN King\NNP Bhoja\NNP .\.
+htd438	Its\PRP$ description\NN is\VBZ in\IN the\DT record\NN found\VBN in\IN Chirawa\NNP .\.
+htd439	Kalyanpur\NNP is\VBZ located\VBN at\IN a\DT distance\NN of\IN 77\CD kilometres\NNS south\RB of\IN Udaipur\NNP and\CC has\VBZ been\VBN popular\JJ as\IN a\DT Shaivapeetha\NNP .\.
+htd440	At\IN present\NN the\DT temple\NN is\VBZ in\IN extreme\JJ dilapidation\NN .\.
+htd441	According\VBG to\TO found\VBN records\NNS it\PRP has\VBZ been\VBN determined\VBN to\TO be\VB of\IN 7th\JJ century\NN .\.
+htd442	The\DT statues\NNS of\IN the\DT temple\NN are\VBP made\VBN of\IN parewa\NN stone\NN having\VBG some\DT greenishness\NN .\.
+htd443	The\DT statues\NNS of\IN the\DT temple\NN are\VBP at\IN present\RB conserved\VBN in\IN the\DT Pratap\NNP Museum\NNP and\CC M\NNP .\.NP .\: College\NNP ,\, Udaipur\NNP .\.
+htd444	Ahar\NNP Mewar\NNP region\NN is\VBZ an\DT important\JJ place\NN from\IN the\DT point\NN of\IN view\NN of\IN sculpture\NN .\.
+htd445	The\DT ancient\JJ names\NNS of\IN Ahar\NNP Mewar\NNP region\NN is\VBZ Aghatpur\NNP ,\, Atpur\NNP and\CC Gangodbhed\NNP Tirtha\NNP .\.
+htd446	This\DT was\VBD a\DT major\JJ center\NN of\IN Vaishnav\NNP sect\NN in\IN the\DT 9th\CD -\: 10th\JJ century\NN .\.
+htd447	Mention\NN of\IN a\DT Vishnu\NNP Temple\NNP is\VBZ found\VBN in\IN a\DT record\NN of\IN 153\CD A\NN .\.NP .\: -LRB-\-LRB- Samvat\NNP 1010\CD -RRB-\-RRB- found\VBN in\IN Ahar\NNP .\.
+htd448	A\DT statue\NN of\IN Adi\NNP Varaha\NNP was\VBD installed\VBN in\IN Ahar\NNP by\IN a\DT Vaishnav\NNP devotee\NN .\.
+htd449	There\EX was\VBD a\DT Sun\NNP Temple\NNP in\IN Ahar\NNP .\.
+htd450	The\DT proof\NN of\IN the\DT Sun\NNP Temple\NNP is\VBZ found\VBN in\IN a\DT record\NN mentioning\VBG the\DT contribution\NN of\IN 14\CD drammas\NNS .\.
+htd451	In\IN another\DT temple\NN the\DT Laxminarayana\NNP form\NN of\IN Vishnu\NNP was\VBD worshipped\VBN which\WDT is\VBZ now\RB known\VBN with\IN the\DT name\NN of\IN Mirabai\NNP temple\NN .\.
+htd452	Besides\IN the\DT statues\NNS of\IN Brahma\NNP -\: Savitri\NNP ,\, Laxmi\NNP -\: Narayan\NNP sitting\VBG on\IN Barud\NNP ,\, Uma\NNP -\: Maheshwar\NNP seated\VBD on\IN Nandi\NNP etc\NN .\: in\IN the\DT outer\JJ crevices\NNS of\IN the\DT temple\NN ,\, the\DT scenes\NNS of\IN contemporary\JJ social\JJ life\NN have\VBP also\RB been\VBN presented\VBN .\.
+htd453	Unwas\NNP is\VBZ famous\JJ for\IN the\DT Durga\NNP Temple\NNP .\.
+htd454	Unwas\NNP is\VBZ situated\VBN near\IN Haldi\NNP Ghati\NNP 48\CD kilometres\NNS away\RB from\IN Udaipur\NNP .\.
+htd455	The\DT Durga\NNP Temple\NNP of\IN Unwas\NNP is\VBZ renowned\VBN with\IN the\DT name\NN of\IN Pippaladmata\NNP in\IN the\DT common\JJ mass\NN .\.
+htd456	The\DT Durga\NNP Temple\NNP of\IN Unwas\NNP built\VBN in\IN 10th\JJ century\NN is\VBZ contemporary\JJ of\IN the\DT Ambika\NNP Temple\NNP of\IN Jagat\NNP and\CC this\DT is\VBZ supposed\VBN to\TO be\VB built\VBN in\IN the\DT regime\NN of\IN a\DT Guhil\NNP ruler\NN Allat\NNP .\.
+htd457	The\DT Durga\NNP Temple\NNP of\IN Unwas\NNP is\VBZ counted\VBN in\IN the\DT group\NN of\IN the\DT temples\NNS of\IN Jhalarapatan\NNP and\CC Jagat\NNP built\VBN under\IN the\DT Matripuja\NNP tradition\NN .\.
+htd458	In\IN the\DT group\NN of\IN the\DT temples\NNS of\IN Jhalarapatan\NNP and\CC Jagat\NNP a\DT form\NN of\IN Shakti\NNP was\VBD worshipped\VBN uniquely\RB .\.
+htd459	In\IN this\DT the\DT Mahishmardini\NNP form\NN as\IN peaceful\JJ and\CC the\DT grandness\NN of\IN Varada\NNP form\NN has\VBZ been\VBN presented\VBN .\.
+htd460	Compared\VBN to\TO sculpture\NN the\DT above\RB mentioned\VBN temple\NN of\IN Unwas\NNP is\VBZ more\RBR important\JJ for\IN the\DT study\NN of\IN the\DT development\NN of\IN meaning\NN in\IN architecture\NN .\.
+htd461	There\EX is\VBZ a\DT lack\NN of\IN decorative\JJ meanings\NNS of\IN the\DT back\NN of\IN the\DT temple\NN .\.
+htd462	Situated\VBN 42\CD kilometres\NNS away\RB from\IN Udaipur\NNP ,\, Jagat\NNP is\VBZ known\VBN for\IN historical\JJ Ambika\NNP Temple\NNP .\.
+htd463	There\EX are\VBP three\CD main\JJ parts\NNS of\IN this\DT group\NN of\IN temple\NN -\: seminary\JJ canopy\NN ,\, main\JJ temple\NN and\CC a\DT small\JJ temple\NN built\VBN on\IN the\DT waterway\NN of\IN the\DT main\JJ temple\NN .\.
+htd464	The\DT use\NN of\IN seminary\JJ canopy\NN would\MD have\VB been\VBN for\IN musical\JJ performances\NNS in\IN occasions\NNS of\IN the\DT goddess\NN .\.
+htd465	Both\DT the\DT pillars\NNS of\IN the\DT entrance\NN are\VBP also\RB almost\RB extinct\JJ .\.
+htd466	A\DT statue\NN of\IN Alaskanya\NNP standing\VBG on\IN the\DT upper\JJ part\NN of\IN these\DT pillars\NNS was\VBD depicted\VBN .\.
+htd467	The\DT carved\VBN meanings\NNS of\IN the\DT Peethika\NNP is\VBZ still\RB safe\JJ .\.
+htd468	Situated\VBN 27\CD kilometres\NNS away\RB from\IN Udaipur\NNP Nagda\NNP has\VBZ been\VBN the\DT ancient\JJ capital\NN of\IN Guhil\NNP rulers\NNS .\.
+htd469	The\DT record\NN of\IN 661\CD A\NN .\.NP .\: -LRB-\-LRB- Samvat\NNP 718\CD -RRB-\-RRB- certifies\VBZ the\DT anciency\NN of\IN the\DT Nagada\NNP place\NN .\.
+htd470	At\IN the\DT same\JJ time\NN based\VBN on\IN the\DT style\NN of\IN archaeological\JJ materials\NNS Nagda\NNP does\VBZ not\RB appear\VB to\TO be\VB so\RB ancient\JJ .\.
+htd471	Possibly\RB ,\, ancient\JJ monuments\NNS would\MD have\VB dilapidated\JJ with\IN time\NN .\.
+htd472	Saas\NNP Temple\NNP is\VBZ big\JJ in\IN size\NN .\.
+htd473	As\IN the\DT Guhil\NNP rulers\NNS were\VBD Suryavanshi\NNP this\DT temple\NN of\IN Nagda\NNP has\VBZ been\VBN dedicated\VBN to\TO Vishnu\NNP .\.
+htd474	A\DT four\CD armed\JJ Vishnu\NNP statue\NN is\VBZ honourably\RB installed\VBN in\IN the\DT main\JJ crevice\NN of\IN the\DT back\NN of\IN the\DT sanctum\NN sanctorum\NN .\.
+htd475	On\IN the\DT external\JJ parts\NNS of\IN both\DT the\DT temples\NNS ,\, depiction\NN of\IN making\VBG up\RP men\NNS and\CC women\NNS have\VBP been\VBN done\VBN .\.
+htd476	A\DT shakti\NN temple\NN is\VBZ built\VBN on\IN the\DT right\JJ side\NN corner\NN of\IN the\DT Saas\NNP Temple\NNP in\IN which\WDT different\JJ forms\NNS of\IN Shakti\NNP have\VBP been\VBN depicted\VBN .\.
+htd477	Another\DT group\NN of\IN temples\NNS near\IN Nagda\NNP itself\PRP is\VBZ known\VBN with\IN the\DT name\NN of\IN Eklinga\NNP or\CC Kailashpuri\NNP .\.
+htd478	The\DT inscription\NN found\VBD from\IN the\DT Lakulish\JJ temple\NN of\IN Nagda\NNP is\VBZ of\IN 971\CD A\NN .\.NP .\: and\CC this\DT is\VBZ the\DT most\RBS ancient\JJ .\.
+htd479	Other\JJ temples\NNS are\VBP of\IN 12th\JJ century\NN .\.
+htd480	Tus\NNP is\VBZ located\VBN on\IN the\DT banks\NNS of\IN the\DT Berach\NNP river\NN near\IN Udaipur\NNP and\CC the\DT Sun\NNP temple\NN here\RB has\VBZ an\DT important\JJ place\NN in\IN the\DT study\NN of\IN sculpting\VBG tradition\NN .\.
+htd481	In\IN comparison\NN with\IN the\DT Vaishnav\NNP sect\NN the\DT Sun\NNP worship\NN was\VBD less\RBR popular\JJ in\IN the\DT Mewar\NNP region\NN .\.
+htd482	A\DT beautiful\JJ landmass\NN located\VBN between\IN the\DT western\JJ side\NN of\IN the\DT Arabian\NNP sea\NN and\CC the\DT Sahyadri\NNP mountain\NN ranges\NNS is\VBZ known\VBN by\IN the\DT name\NN of\IN Kerala\NNP .\.
+htd483	The\DT area\NN of\IN the\DT state\NN of\IN Kerala\NNP is\VBZ 38863\CD square\JJ kilometres\NNS .\.
+htd484	Malayalam\JJ language\NN is\VBZ spoken\VBN in\IN Kerala\NNP .\.
+htd485	Recognized\VBN due\JJ to\TO its\PRP$ culture\NN and\CC language\NN specialties\NNS ,\, Kerala\NNP has\VBZ an\DT important\JJ place\NN among\IN the\DT four\CD states\NNS situated\VBN in\IN the\DT south\NN of\IN India\NNP .\.
+htd486	Major\JJ neighboring\JJ states\NNS of\IN Kerala\NNP are\VBP Tamil\NNP Nadu\NNP and\CC Karnataka\NNP .\.
+htd487	The\DT landmass\NN known\VBN by\IN the\DT name\NN of\IN Mayyazhi\NNP -LRB-\-LRB- Mahe\NNP -RRB-\-RRB- of\IN the\DT state\NN of\IN Pondicherry\NNP -LRB-\-LRB- Puducchery\NNP -RRB-\-RRB- is\VBZ also\RB under\IN the\DT Kerala\NNP state\NN .\.
+htd488	The\DT national\JJ territory\NN of\IN Lakshadweep\NNP situated\VBN in\IN the\DT Arabian\NNP sea\NN also\RB has\VBZ an\DT unbreakable\JJ relation\NN with\IN Kerala\NNP in\IN view\NN of\IN the\DT language\NN and\CC culture\NN .\.
+htd489	Before\IN the\DT achievement\NN of\IN independence\NN there\EX were\VBD estates\NNS of\IN Kings\NNPS in\IN Kerala\NNP .\.
+htd490	In\IN July\NNP 1949\CD the\DT state\NN of\IN Tirukochi\NNP was\VBD constituted\VBN by\IN joining\VBG the\DT estates\NNS of\IN Tiruvitankur\NNP and\CC Cochin\NNP .\.
+htd491	At\IN that\DT time\NN the\DT region\NN of\IN Malbar\NNP was\VBD only\RB a\DT district\NN of\IN the\DT Madras\NNP state\NN -LRB-\-LRB- present\JJ Tamilnadu\NNP -RRB-\-RRB- .\.
+htd492	In\IN November\NNP 1956\CD Malbar\NNP was\VBD also\RB joined\VBN with\IN Tirukochi\NNP and\CC thus\RB the\DT present\JJ Kerala\NNP was\VBD established\VBN .\.
+htd493	Thus\RB by\IN constituting\VBG `\`` Aikya\NNP Keralam\NNP '\POS the\DT long\JJ time\NN desire\NN of\IN the\DT people\NNS of\IN this\DT part\NN of\IN land\NN was\VBD fulfilled\VBN .\.
+htd494	Kerala\NNP can\MD be\VB proud\JJ of\IN its\PRP$ ancient\JJ history\NN ,\, long\JJ time\NN foreign\JJ trade\NN relation\NN and\CC the\DT rich\JJ tradition\NN of\IN science\NN and\CC arts\NNS .\.
+htd495	In\IN view\NN of\IN literacy\NN Kerala\NNP has\VBZ an\DT important\JJ place\NN in\IN the\DT whole\JJ country\NN .\.
+htd496	Kerala\NNP has\VBZ an\DT important\JJ place\NN in\IN the\DT areas\NNS of\IN social\JJ justice\NN ,\, health\NN level\NN ,\, men\NNS -\: women\NNS equality\NN and\CC obedience\NN of\IN law\NN ,\, education\NN etcetera\NN .\.
+htd497	The\DT most\RBS important\JJ thing\NN is\VBZ that\IN infant\JJ mortality\NN rate\NN is\VBZ the\DT lowest\JJS in\IN Kerala\NNP .\.
+htd498	Due\JJ to\TO more\JJR rains\NNS the\DT water\NN mass\NN of\IN the\DT Kerala\NNP region\NN is\VBZ rich\JJ and\CC the\DT land\NN here\RB is\VBZ always\RB covered\VBN with\IN greenery\NN .\.
+htd499	Due\JJ to\TO excellent\JJ weather\NN ,\, the\DT good\JJ facility\NN of\IN transport\NN and\CC the\DT rich\JJ cultural\JJ tradition\NN the\DT state\NN of\IN Kerala\NNP is\VBZ famous\JJ among\IN tourists\NNS .\.
+htd500	Not\RB only\RB this\DT ,\, other\JJ specialties\NNS of\IN Kerala\NNP are\VBP wakened\VBN political\JJ awareness\NN ,\, the\DT impact\NN of\IN media\NNS ,\, the\DT capacity\NN to\TO absorb\VB other\JJ cultures\NNS etc\FW .\.
+htd501	Famous\NNP for\IN mutual\JJ religious\JJ respect\NN Kerala\NNP is\VBZ the\DT confluence\NN land\NN of\IN different\JJ cultures\NNS .\.
+htd502	There\EX is\VBZ no\DT unanimous\JJ opinion\NN among\IN scholars\NNS on\IN the\DT issue\NN of\IN the\DT derivation\NN of\IN the\DT word\NN `\`` kerala\NN '\'' .\.
+htd503	It\PRP is\VBZ said\VBD that\IN the\DT word\NN Kerala\NNP has\VBZ been\VBN formed\VBN with\IN the\DT combination\NN of\IN the\DT words\NNS cher-sthal\JJ ,\, keechad\NN ,\, and\CC Alam-pradesh\JJ .\.
+htd504	There\EX is\VBZ another\DT meaning\NN of\IN Kerala\NNP .\. the\DT land\NN that\WDT came\VBD out\IN of\IN the\DT sea\NN .\.
+htd505	The\DT confluence\NN place\NN of\IN the\DT sea\NN and\CC the\DT mountain\NN is\VBZ also\RB called\VBN Kerala\NNP .\.
+htd506	Ancient\NNP foreign\JJ wanderers\NNS have\VBP addressed\VBN this\DT place\NN with\IN the\DT name\NN of\IN `\`` Malbaar\NNP '\'' as\RB well\RB .\.
+htd507	The\DT culture\NN of\IN Kerala\NNP is\VBZ thousands\NNS of\IN years\NNS old\JJ .\.
+htd508	In\IN the\DT beginning\NN people\NNS used\VBN to\TO live\VB in\IN hilly\JJ areas\NNS .\.
+htd509	Some\DT ruins\NNS of\IN the\DT ancient\JJ Stone\NNP Age\NNP have\VBP been\VBN found\VBN from\IN some\DT parts\NNS of\IN Kerala\NNP .\.
+htd510	Besides\IN the\DT ancient\JJ ruins\NNS the\DT megalithic\JJ commemorative\JJ volumes\NNS also\RB give\VBP authentic\JJ information\NN about\IN the\DT human\JJ life\NN in\IN Kerala\NNP .\.
+htd511	These\DT megalithic\JJ memorabilias\NNS are\VBP found\VBN mostly\RB in\IN the\DT form\NN of\IN crematorium\NN .\.
+htd512	Many\JJ crematoriums\NNS of\IN the\DT ancient\JJ Stone\NNP Age\NNP have\VBP been\VBN found\VBN here\RB .\.
+htd513	These\DT are\VBP known\VBN with\IN the\DT names\NNS as\IN Kudakkallu\NNP -LRB-\-LRB- umbrella-shaped\JJ cliffs\NNS -RRB-\-RRB- ,\, Toppikkallu\NNP -LRB-\-LRB- cap-shaped\JJ stones\NNS -RRB-\-RRB- ,\, Kalmesha\NNP -LRB-\-LRB- table\NN made\VBN of\IN stone\NN -RRB-\-RRB- ,\, Muniyara\NNP -LRB-\-LRB- shed\VBN of\IN saints\NNS -RRB-\-RRB- ,\, Nannangadi\NNP -LRB-\-LRB- pit\NN of\IN ashes\NNS -RRB-\-RRB- etc\FW .\.
+htd514	Their\PRP$ period\NN is\VBZ supposed\VBN to\TO be\VB from\IN 500\CD B\NN .\.NP .\: to\TO 300\CD .\.
+htd515	Most\JJS of\IN commemorative\JJ volumes\NNS of\IN the\DT Megalithic\NNP age\NN have\VBP been\VBN found\VBN from\IN the\DT hilly\JJ areas\NNS .\.
+htd516	So\IN it\PRP is\VBZ proved\VBN that\IN the\DT residence\NN of\IN the\DT humans\NNS was\VBD in\IN Kerala\NNP from\IN the\DT most\RBS ancient\JJ times\NNS .\.
+htd517	The\DT second\JJ stage\NN of\IN the\DT development\NN of\IN the\DT living\NN centers\NNS in\IN Kerala\NNP is\VBZ supposed\VBN to\TO be\VB the\DT Sangam\NNP Age\NNP .\.
+htd518	This\DT is\VBZ the\DT very\JJ age\NN of\IN the\DT formation\NN of\IN ancient\JJ Tamil\NNP literature\NN .\.
+htd519	Sangam\JJ age\NN continued\VBN from\IN 300\CD A\NN .\.NP .\: to\TO 800\CD A\NN .\.NP .\.
+htd520	It\PRP is\VBZ in\IN this\DT period\NN that\IN people\NNS coming\VBG from\IN other\JJ provinces\NNS started\VBD settling\VBG down\RP in\IN Kerala\NNP and\CC the\DT propagation\NN of\IN Buddhism\NNP and\CC Jainism\NNP occurred\VBD .\.
+htd521	The\DT Brahmin\NNP arrival\NN also\RB happened\VBD in\IN this\DT very\JJ period\NN .\.
+htd522	There\EX were\VBD overall\JJ 64\CD settlements\NNS of\IN the\DT Brahmins\NNPS in\IN different\JJ areas\NNS of\IN Kerala\NNP in\IN those\DT days\NNS .\.
+htd523	The\DT Christian\JJ religion\NN had\VBD reached\VBN Kerala\NNP by\IN the\DT first\JJ century\NN of\IN Jesus\NNP .\.
+htd524	In\IN 345\CD AD\NNP ,\, 400\CD Christian\JJ faithful\NN of\IN the\DT seven\CD tribes\NNS of\IN western\JJ Asia\NNP under\IN the\DT leadership\NN of\IN Thomas\NNP of\IN Kanaye\NNP came\VBD and\CC settled\VBD in\IN Kerala\NNP .\.
+htd525	Christian\JJ religion\NN propaganda\NN got\VBD strength\NN in\IN Kerala\NNP with\IN the\DT seven\CD tribes\NNS of\IN the\DT western\JJ Asia\NNP .\.
+htd526	The\DT citizen\NN of\IN Kerala\NNP got\VBD acquainted\VBN with\IN the\DT Islam\NNP religion\NN since\IN eighth\JJ century\NN itself\PRP .\.
+htd527	The\DT historians\NNS considered\VBD the\DT ancient\JJ Kerala\NNP as\IN a\DT part\NN of\IN the\DT Tamil\NNP region\NN .\.
+htd528	The\DT main\JJ elements\NNS which\WDT helped\VBD in\IN the\DT independent\JJ development\NN of\IN Kerala\NNP are\VBP -\: the\DT citizen\NN 's\POS love\NN for\IN nature\NN ,\, the\DT development\NN of\IN residential\JJ centers\NNS ,\, rise\NN of\IN industrial\JJ center\NN and\CC language\NN enrichment\NN .\.
+htd529	A\DT lot\NN of\IN social\JJ changes\NNS occurred\VBD in\IN Kerala\NNP when\WRB the\DT control\NN of\IN agriculture\NN and\CC resources\NNS came\VBD in\IN the\DT hands\NNS of\IN landlords\NNS .\.
+htd530	As\IN a\DT result\NN development\NN from\IN small\JJ Estates\NNP to\TO large\JJ States\NNS took\VBD place\NN .\.
+htd531	Thus\RB the\DT history\NN of\IN Kerala\NNP is\VBZ the\DT history\NN of\IN empires\NNS and\CC wars\NNS .\.
+htd532	It\PRP is\VBZ a\DT history\NN of\IN language\NN and\CC literature\NN .\.
+htd533	It\PRP is\VBZ the\DT history\NN of\IN the\DT arrival\NN of\IN foreign\JJ armies\NNS and\CC becoming\VBG their\PRP$ long\JJ term\NN colony\NN ,\, it\PRP is\VBZ the\DT history\NN of\IN the\DT casteism\NN and\CC exploitation\NN .\.
+htd534	It\PRP is\VBZ the\DT history\NN of\IN the\DT progress\NN occurring\VBG in\IN education\NN and\CC promotion\NN taking\VBG place\NN in\IN the\DT scientific\JJ areas\NNS .\.
+htd535	It\PRP is\VBZ the\DT history\NN of\IN commercial\JJ progress\NN and\CC social\JJ renaissance\NN and\CC the\DT emergence\NN of\IN democratic\JJ institutions\NNS .\.
+htd536	For\IN the\DT sake\NN of\IN convenience\NN ,\, the\DT history\NN of\IN Kerala\NNP can\MD be\VB divided\VBN into\IN three\CD parts\NNS -\: ancient\JJ ,\, middle\JJ age\NN and\CC modern\JJ age\NN .\.
+htd537	Kerala\NNP is\VBZ rich\JJ with\IN rare\JJ vegetation\NN and\CC animals\NNS and\CC bushes\NNS .\.
+htd538	Though\IN there\EX are\VBP large\JJ trees\NNS also\RB here\RB but\CC Chinnar\NNP is\VBZ appropriate\JJ for\IN all\PDT the\DT bushes\NNS here\RB .\.
+htd539	Rare\JJ brown\JJ colored\VBN squirrels\NNS which\WDT are\VBP on\IN the\DT verge\NN of\IN extinction\NN is\VBZ found\VBN here\RB .\.
+htd540	The\DT number\NN of\IN these\DT squirrels\NNS -LRB-\-LRB- Giant\NNP Grizzled\NNP Squirrel\NNP of\IN India\NNP -RRB-\-RRB- in\IN the\DT world\NN is\VBZ about\IN 200\CD .\.
+htd541	Here\RB rain\NN ensues\VBZ very\RB less\JJR in\IN comparison\NN with\IN other\JJ wild\JJ areas\NNS of\IN Kerala\NNP .\.
+htd542	Rain\NN ensues\VBZ here\RB only\RB 48\CD days\NNS on\IN an\DT average\NN in\IN a\DT year\NN .\.
+htd543	A\DT place\NN named\VBN Chandanakkadu\NNP near\IN Chinnar\NNP is\VBZ appropriate\JJ for\IN wildlife\NN view\NN .\.
+htd544	Wild\NNP oxen\NN can\MD be\VB seen\VBN in\IN this\DT dense\JJ forest\NN .\.
+htd545	Elephant\NN ,\, leopard\NN ,\, Hanuman-monkey\NN ,\, peacock\NN etc\NN .\: are\VBP seen\VBN on\IN both\DT sides\NNS of\IN the\DT road\NN .\.
+htd546	The\DT nearest\JJS railway\NN station\NN -\: Ernakulam\NNP ,\, 190\CD K\NNP .\.NP .\.
+htd547	The\DT nearest\JJS airport\NN -\: Kochhi\NNP international\JJ airport\NN ,\, 210\CD K\NNP .\.NP .\.
+htd548	This\DT place\NN is\VBZ filled\VBN with\IN fields\NNS of\IN large\JJ grass\NN and\CC shady\JJ trees\NNS .\.
+htd549	Spread\NN in\IN about\IN 97\CD square\JJ kilometres\NNS this\DT national\JJ park\NN is\VBZ very\RB charming\JJ .\.
+htd550	This\DT is\VBZ the\DT natural\JJ living\NN place\NN of\IN the\DT Nilgiri\NNP cow\NN .\.
+htd551	The\DT Nilgiri\NNP cow\NN is\VBZ becoming\VBG extinct\JJ now\RB .\.
+htd552	Here\RB animals\NNS like\IN Nilgiri\NNP long\RB tailed\VBD monkey\NN ,\, short\RB tailed\VBD monkey\NN ,\, leopard\NN ,\, tiger\NN etc\NN .\: are\VBP also\RB found\VBN .\.
+htd553	This\DT region\NN is\VBZ specially\RB conserved\VBN so\IN tourists\NNS can\MD only\RB enter\VB the\DT `\`` tourist\NN area\NN '\'' .\.
+htd554	There\EX is\VBZ no\DT permission\NN to\TO go\VB there\RB during\IN the\DT time\NN of\IN monsoon\NN .\.
+htd555	Gavi\NNP is\VBZ internationally\RB acclaimed\JJ eco-tourism\NN center\NN .\.
+htd556	Gavi\NNP is\VBZ under\IN the\DT Kerala\NNP Forest\NNP Development\NNP Centre\NNP .\.
+htd557	The\DT world\NN tourism\NN organization\NN called\VBN `\`` Alistair\NNP International\NNP '\POS has\VBZ emphasized\VBN on\IN the\DT necessity\NN of\IN tourism\NN by\IN the\DT tourists\NNS in\IN this\DT area\NN .\.
+htd558	Gavi\NNP is\VBZ an\DT appropriate\JJ place\NN for\IN wild\JJ animal\NN observation\NN ,\, tracking\NN etc\NN .\.
+htd559	Local\JJ people\NNS work\VBP cheap\JJ for\IN all\PDT the\DT works\NNS starting\VBG from\IN erecting\VBG the\DT tent\NN in\IN the\DT forest\NN to\TO providing\VBG ready\JJ food\NN in\IN Gavi\NNP .\.
+htd560	The\DT travel\NN of\IN Gavi\NNP starts\VBZ from\IN the\DT middle\NN of\IN the\DT tea\NN gardens\NNS .\.
+htd561	Crossing\VBG the\DT places\NNS like\IN Mundakkayam\NNP ,\, Kuttikkanam\NNP ,\, Peerumedu\NNP etc\NN .\: we\PRP go\VBP to\TO Gavi\NNP through\IN Vandiperiyar\NNP .\.
+htd562	One\CD can\MD stay\VB in\IN the\DT eco-lodge\NN named\VBN Green\NNP Manson\NNP after\IN reaching\VBG Gavi\NNP .\.
+htd563	If\IN you\PRP want\VBP to\TO stay\VB in\IN tents\NNS after\IN establishing\VBG it\PRP near\IN a\DT tree\NN or\CC houses\NNS made\VBN on\IN trees\NNS ,\, it\PRP is\VBZ also\RB possible\JJ .\.
+htd564	Gavi\NNP Lake\NNP is\VBZ near\RB Eco-lodge\JJ .\.
+htd565	There\EX is\VBZ boating\VBG facility\NN here\RB .\.
+htd566	Forest\NNP ,\, field\NN of\IN grass\NN ,\, hills\NNS ,\, valleys\NNS ,\, garden\NN of\IN cardamom\NN ,\, plants\NNS etc\NN .\: are\VBP seen\VBN around\IN the\DT lake\NN .\.
+htd567	Animals\NNS like\IN the\DT Nilgiri\NNP cow\NN ,\, short\RB tailed\VBD monkeys\NNS etc\FW .\: can\MD be\VB seen\VBN at\IN a\DT very\RB close\JJ distance\NN .\.
+htd568	Overall\RB 260\CD species\NNS of\IN birds\NNS live\VBP here\RB including\VBG malmusshkki\NNS -LRB-\-LRB- the\DT bird\NN whose\WP$ sound\JJ echoes\NNS in\IN the\DT hills\NNS -RRB-\-RRB- ,\, the\DT pied\JJ cuckoo\NN ,\, woodpecker\NN ,\, the\DT blue\JJ jay\NN etc.\NN .\.
+htd569	Coming\VBG out\IN of\IN Gavi\NNP we\PRP can\MD go\VB ahead\RB .\.
+htd570	Animals\NNS coming\VBG out\RP in\IN the\DT night\NN can\MD also\RB be\VB seen\VBN by\IN traveling\VBG Kollur\NNP ,\, Gavi\NNP grass\NN gardens\NNS ,\, Kochhu\NNP Pampa\NNP ,\, Pachhakkanam\NNP etc.\FW .\.
+htd571	Living\VBG in\IN Gavi\NNP tree\NN house\NN and\CC tents\NNS etc\NN one\NN also\RB gets\VBZ the\DT opportunity\NN to\TO savor\VB the\DT wildlife\NN .\.
+htd572	Gavi\NNP is\VBZ 28\CD K\NNP .\.NP .\: from\IN Vandiperiyar\NNP and\CC 46\CD K\NNP .\.NP .\: from\IN Tekkadi\NNP .\.
+htd573	Echo\NNP Point\NNP is\VBZ very\RB appropriate\JJ place\NN for\IN adventure\NN tourism\NN and\CC tracking\NN .\.
+htd574	Echo\NNP Point\NNP falls\VBZ on\IN the\DT way\NN from\IN Munnar\NNP to\TO Top\NNP Station\NNP .\.
+htd575	The\DT area\NN of\IN Echo\NNP Point\NNP is\VBZ surrounded\VBN with\IN hills\NNS like\IN Mankunnu\NNP ,\, Kodiyatturmala\NNP ,\, Tonippara\NNP etc\NN .\: and\CC is\VBZ appropriate\JJ for\IN tracking\NN .\.
+htd576	Ilvishapunchira\NNP is\VBZ near\IN Kanjar\NNP .\.
+htd577	Going\VBG to\TO Kanjara\NNP from\IN Palaya\NNP of\IN Kottayam\NNP district\NN is\VBZ easy\JJ .\.
+htd578	A\DT fascinating\JJ waterfall\NN forms\NNS with\IN the\DT water\NN falling\VBG from\IN a\DT height\NN of\IN 1500\CD metres\NNS along\IN with\IN a\DT fierce\JJ roar\NN in\IN Kanjar\NNP .\.
+htd579	Kanjar\NNP waterfall\NN remains\VBZ filled\VBN with\IN water\NN whole\JJ year\NN .\.
+htd580	Kanjar\NNP is\VBZ appropriate\JJ for\IN tracking\NN .\.
+htd581	Enough\NNP amount\NN of\IN herbs\NNS are\VBP found\VBN in\IN Kanjar\NNP .\.
+htd582	Attukal\NNP presents\VBZ a\DT fascinating\JJ scene\NN with\IN waterfall\NN ,\, curvy\JJ hills\NNS .\.
+htd583	If\IN you\PRP want\VBP to\TO visit\VB the\DT whole\NN of\IN Goa\NNP in\IN the\DT shortest\JJS time\NN and\CC with\IN the\DT least\JJS money\NN then\RB take\VB the\DT services\NNS of\IN the\DT tourist\NN buses\NNS .\.
+htd584	Kanjar\NNP is\VBZ in\IN between\IN Munnar\NNP and\CC Pallivasal\NNP .\.
+htd585	The\DT natural\JJ place\NN for\IN sandal\NN trees\NNS in\IN Kerala\NNP is\VBZ Marayur\NNP .\.
+htd586	The\DT visiting\VBG places\NNS of\IN Marayur\NNP are\VBP the\DT sandal\JJ factory\NN of\IN the\DT Forest\NNP Department\NNP ,\, the\DT caves\NNS decorated\VBN with\IN the\DT Stone\NNP Age\NNP images\NNS ,\, the\DT shady\JJ banyan\NN tree\NN expanding\VBG over\IN one\CD hectare\NN etc\NN .\.
+htd587	Tuvanam\NN waterfall\NN ,\, Rajeev\NNP Gandhi\NNP National\NNP Park\NNP etc\NN .\: are\VBP situated\VBN near\IN Marayur\NNP .\.
+htd588	The\DT archaeological\JJ supremacy\NN of\IN Marayur\NNP is\VBZ also\RB no\RB less\JJR than\IN others\NNS .\.
+htd589	Stone\NNP Age\NNP caves\NNS and\CC several\JJ ancient\JJ graves\NNS have\VBP been\VBN excavated\VBN here\RB .\.
+htd590	Indo-Swiss\NNP Dairy\NNP Farm\NNP is\VBZ one\CD of\IN the\DT visiting\VBG places\NNS in\IN Mattuppetti\NNP .\.
+htd591	The\DT Indo-Swiss\NNP Dairy\NNP Farm\NNP '\POS of\IN Mattuppetti\NNP has\VBZ been\VBN built\VBN 1700\CD metres\NNS above\IN the\DT sea\NN level\NN .\.
+htd592	There\EX are\VBP 11\CD modern\JJ cow-sheds\NNS in\IN Indo-Swiss\NNP Dairy\NNP Farm\NNP .\.
+htd593	From\IN these\DT 11\CD modern\JJ cow-sheds\NNS only\RB three\CD cow-sheds\NNS have\VBP been\VBN opened\VBN for\IN tourists\NNS .\.
+htd594	Other\JJ sights\NNS here\RB are\VBP Mattupetti\NNP dam\NN ,\, lake\NN ,\, the\DT Kundala\NNP tea\NN garden\NN ,\, Kundala\NNP lake\NN etcetera\NN .\.
+htd595	D\NNP .\.NP .\.NP .\.NP .\: has\VBZ managed\VBN the\DT boat\NN travel\NN in\IN this\DT lake\NN .\.
+htd596	The\DT center\NN of\IN Pallivasal\NNP Water\NNP Electricity\NNP Plan\NNP of\IN is\VBZ situated\VBN near\IN Mattupetti\NNP .\.
+htd597	Munnar\NNP is\VBZ one\CD of\IN the\DT popular\JJ hill\NN stations\NNS of\IN India\NNP .\.
+htd598	The\DT natural\JJ splendor\NN of\IN Munnar\NNP drenching\NN the\DT heart\NN and\CC soul\NN with\IN pleasure\NN is\VBZ indescribable\JJ .\.
+htd599	Due\JJ to\TO being\VBG located\VBN at\IN confluence\NN of\IN the\DT rivers\NNS of\IN Mudrappuzha\NNP ,\, Nallatanni\NNP ,\, Kundala\NNP etc\NN .\: unique\JJ greenery\NN is\VBZ seen\VBN in\IN Munnar\NNP .\.
+htd600	Munnar\NNP is\VBZ a\DT hilly\JJ area\NN situated\VBN at\IN a\DT height\NN of\IN 1600\CD metres\NNS above\IN the\DT sea\NN level\NN .\.
+htd601	Munnar\NNP was\VBD one\CD of\IN the\DT important\JJ summer\NN residences\NNS of\IN India\NNP .\.
+htd602	The\DT British\NNP used\VBD to\TO reside\VB in\IN Munnar\NNP during\IN the\DT British\JJ regime\NN .\.
+htd603	It\PRP was\VBD the\DT owners\NNS of\IN the\DT British\JJ gardens\NNS who\WP got\VBD the\DT tea\NN garden\NN planted\VBN in\IN Munnar\NNP .\.
+htd604	It\PRP is\VBZ the\DT specialty\NN of\IN Munnar\NNP is\VBZ that\IN here\RB tourists\NNS never\RB get\VBP bored\JJ .\.
+htd605	It\PRP is\VBZ good\JJ to\TO travel\VB through\IN the\DT middle\NN of\IN the\DT tea\NN garden\NN at\IN a\DT distance\NN of\IN 22\CD K\NNP .\.NP .\: from\IN Munnar\NNP town\NN .\.
+htd606	There\EX is\VBZ a\DT dense\JJ forest\NN around\IN the\DT dam\NN .\.
+htd607	Top\NNP Station\NNP is\VBZ the\DT highest\JJS area\NN 32\CD K\NNP .\.NP .\.BZ away\RB from\IN Munnar\NNP on\IN Munnar\NNP Kodaikanal\NNP road\NN .\.
+htd608	It\PRP is\VBZ here\RB that\IN the\DT world\NN famous\JJ flower\NN called\VBN Neelkurinji\NNP blooms\NNS .\.
+htd609	One\CD can\MD also\RB get\VB to\TO see\VB the\DT glimpse\NN of\IN Tamilnadu\NNP from\IN the\DT top\NN of\IN these\DT hills\NNS .\.
+htd610	Neelkurinji\NNP blooms\VBZ once\RB in\IN twelve\CD years\NNS .\.
+htd611	This\DT is\VBZ boon\NN of\IN nature\NN for\IN Kerala\NNP .\.
+htd612	When\WRB Neelkurinji\NNP blooms\VBZ it\PRP seems\VBZ as\IN if\IN the\DT hills\NNS are\VBP drowned\VBN in\IN blue\JJ color\NN .\.
+htd613	These\DT flowers\NNS are\VBP found\VBN in\IN about\RB 60\CD shades\NNS of\IN blue\JJ color\NN .\.
+htd614	When\WRB it\PRP blooms\VBZ it\PRP appears\VBZ as\IN if\IN whole\JJ nature\NN has\VBZ bathed\VBN in\IN blue\JJ color\NN .\.
+htd615	This\DT mesmerising\JJ view\NN of\IN Nature\NNP enchants\VBZ the\DT tourists\NNS in\IN the\DT areas\NNS of\IN Koviloor\NNP ,\, Kadavari\NNP ,\, Rajmala\NNP ,\, Iravikullam\NNP ,\, Munnar\NNP .\.
+htd616	Last\JJ time\NN Neelkurinji\NNP bloomed\VBD in\IN 2006\CD .\.
+htd617	Although\IN Neelkurinji\NNP blooms\NNS every\DT year\NN on\IN some\DT hills\NNS but\CC for\IN total\JJ blue\JJ flower\NN festival\NN we\PRP will\MD have\VB to\TO wait\VB till\IN 2018\CD .\.
+htd618	Tea\NNP museum\NN should\MD also\RB be\VB given\VBN place\NN in\IN Munnar\NNP tourism\NN program\NN .\.
+htd619	Tea\NNP museum\NN is\VBZ in\IN the\DT `\`` Tea\NNP Estate\NNP '\POS known\VBN as\IN Nalltanni\NNP which\WDT is\VBZ under\IN the\DT ownership\NN of\IN Tata\NNP Tea\NNP .\.
+htd620	Important\JJ among\IN the\DT ancient\JJ items\NNS displayed\VBN in\IN the\DT Tea\NNP Museum\NNP of\IN Munnar\NNP are\VBP :\: the\DT chain\NN of\IN development\NN of\IN tea\NN farming\NN in\IN Munnar\NNP ,\, ancient\JJ instruments\NNS which\WDT were\VBD used\VBN for\IN transforming\VBG the\DT dense\JJ forests\NNS into\IN tea\NN garden\NN .\.
+htd621	Tea\NNP roller\NN of\IN 1905\CD ,\, Peltan\JJ wheel\NN of\IN 1920\CD ,\, parts\NNS of\IN the\DT trains\NNS running\VBG on\IN the\DT light\JJ rail\NN track\NN founded\VBN in\IN high\JJ range\NN for\IN carrying\VBG the\DT tea\NN etcetera\NN .\.
+htd622	The\DT exhibition\NN of\IN different\JJ levels\NNS of\IN the\DT production\NN of\IN tea\NN leaf\NN is\VBZ very\RB attractive\JJ .\.
+htd623	Another\DT important\JJ thing\NN is\VBZ a\DT `\`` funeral-ashes-pot\NN '\'' of\IN second\JJ century\NN before\IN Christ\NNP which\WDT you\PRP can\MD see\VB .\.
+htd624	Besides\IN this\DT the\DT traditional\JJ systems\NNS of\IN tea\NN production\NN ,\, tea\NN leaves\NNS of\IN different\JJ types\NNS have\VBP also\RB been\VBN displayed\VBN here\RB .\.
+htd625	Pandikkushi\NNP area\NN of\IN Idukki\NNP district\NN is\VBZ appropriate\JJ for\IN the\DT photography\NN of\IN forests\NNS and\CC wild\JJ life\NN .\.
+htd626	The\DT abundant\JJ nature\NN of\IN Pandikkushi\NNP and\CC diverse\JJ wild\JJ life\NN enchant\NN visitors\NNS .\.
+htd627	Pandikkushi\NNP is\VBZ situated\VBN on\IN the\DT border\NN of\IN Tamilnadu\NNP near\IN Chellarkovil\NNP .\.
+htd628	Peerumedu\NNP is\VBZ a\DT hill\NN station\NN situated\VBD an\DT a\DT height\NN of\IN 915\CD metres\NNS above\IN the\DT sea\NN level\NN .\.
+htd629	Gardens\NNP of\IN tea\NN ,\, coffee\NN ,\, rubber\NN ,\, cardamom\NN ,\, eucalyptus\VBZ etcetera\RB keep\VB the\DT greenery\NN of\IN Peerumedu\NNP alive\JJ .\.
+htd630	The\DT field\NN of\IN grass\NN ,\, waterfall\NN ,\, pine\VB tree\NN etcetera\NN increase\NN the\DT beauty\NN of\IN Peerumedu\NNP fourfold\RB .\.
+htd631	Peerumedu\NNP is\VBZ a\DT suitable\JJ place\NN for\IN tracking\NN ,\, cycling\NN ,\, horse\NN riding\VBG etcetera\NN .\.
+htd632	Pulmedu\NNP is\VBZ an\DT evergreen\JJ mountain\NN range\NN near\IN the\DT Periyar\NNP river\NN .\.
+htd633	Shabarimala\NN temple\NN is\VBZ visible\JJ from\IN Peerumedu\NNP .\.
+htd634	Pulmedu\NNP falls\VBZ on\IN the\DT way\NN to\TO Shabarimala\NNP temple\NN .\.
+htd635	We\PRP can\MD reach\VB Pulmedu\NNP by\IN Jeep\NNP only\RB .\.
+htd636	As\IN it\PRP is\VBZ a\DT preserved\VBN forest\NN area\NN it\PRP is\VBZ necessary\JJ to\TO take\VB permission\NN from\IN the\DT forest\NN department\NN for\IN visit\NN .\.
+htd637	Chellarkovil\NNP is\VBZ a\DT part\NN of\IN Peerumedu\NNP itself\PRP ,\, there\EX are\VBP several\JJ waterfalls\NNS here\RB .\.
+htd638	Chellarkovil\NNP area\NN is\VBZ rich\JJ with\IN extremely\RB charming\JJ nature\NN .\.
+htd639	Standing\VBG rock\NN is\VBZ a\DT part\NN of\IN Chellarkovil\NNP village\NN .\.
+htd640	Coming\VBG down\IN the\DT standing\JJ rock\NN of\IN Chellarkovil\NNP village\NN is\VBZ standing\VBG up\RP to\TO the\DT coconut\NN gardens\NNS situated\VBN in\IN Kambam\NNP of\IN Tamilnadu\NNP .\.
+htd641	Vandiperiyar\NNP is\VBZ a\DT nature\NN enriched\JJ region\NN .\.
+htd642	Tea\NNP ,\, coffee\NN ,\, black\JJ pepper\NN etcetera\NN are\VBP cultivated\VBN in\IN Vandiperiyar\NNP .\.
+htd643	Periyar\JJ river\NN flows\VBZ through\IN the\DT midst\NN of\IN it\PRP .\.
+htd644	There\EX is\VBZ a\DT government\NN agriculture\NN park\NN and\CC a\DT flower\NN garden\NN here\RB .\.
+htd645	This\DT hill\NN is\VBZ the\DT center\NN of\IN fruits\NNS ,\, flowers\NNS ,\, vegetables\NNS etcetera\RB .\.
+htd646	The\DT meaning\NN of\IN the\DT name\NN `\`` Pattumala\NNP '\'' is\VBZ the\DT mountain\NN filled\VBN with\IN greenery\NN which\WDT appears\VBZ as\IN if\IN covered\VBN with\IN green\JJ silk\NN .\.
+htd647	The\DT beauty\NN of\IN Pattumala\NNP situated\VBD in\IN Peerumedu\NNP is\VBZ transcendental\JJ .\.
+htd648	Pattumala\NNP in\IN its\PRP$ beauty\NN is\VBZ charming\JJ the\DT world\NN .\.
+htd649	Situated\VBN on\IN top\NN of\IN the\DT green\JJ mountain\NN of\IN Pattumala\NNP Velankanni\NNP -\: Mata\NNP -\: Church\NNP is\VBZ a\DT famous\JJ pilgrimage\NN .\.
+htd650	There\EX is\VBZ a\DT beautiful\JJ park\NN also\RB just\RB near\IN the\DT Church\NN .\.
+htd651	Vandanmedu\NNP is\VBZ world\NN famous\JJ cardamom\NN sale\NN center\NN .\.
+htd652	There\EX is\VBZ a\DT crowd\NN of\IN traders\NNS of\IN the\DT world\NN over\IN in\IN the\DT auction\NN center\NN of\IN Vandanmedu\NNP .\.
+htd653	Idukki\NNP is\VBZ a\DT forest\NN region\NN with\IN dense\JJ jungles\NNS and\CC fields\NNS of\IN grass\NN .\.
+htd654	Tattekkad\NNP comes\VBZ under\IN the\DT Devikulam\NNP tehsil\NN of\IN Idukki\NNP district\NN .\.
+htd655	About\IN 500\CD rare\JJ species\NNS of\IN birds\NNS are\VBP found\VBN in\IN Taddekkad\NNP Idukki\NNP .\.
+htd656	Therefore\RB the\DT Government\NN of\IN Kerala\NNP has\VBZ established\VBN a\DT `\`` Bird\NN Sanctuary\NN '\'' in\IN this\DT area\NN after\IN the\DT name\NN of\IN acclaimed\JJ ornithologist\NN Dr\NNP .\: Saleem\NNP Ali\NNP .\.
+htd657	The\DT Bird\NNP Sanctuary\NNP of\IN Tettekkad\NNP Idukki\NNP is\VBZ world\NN famous\JJ .\.
+htd658	Tattekkad\NNP Idukki\NNP is\VBZ 58\CD K\NNP .\.NP .\: away\RB from\IN Kochi\NNP city\NN .\.
+htd659	Situated\VBN between\IN the\DT two\CD streams\NNS of\IN the\DT Periyar\NNP river\NN Tattakkad\NNP is\VBZ an\DT island\NN with\IN an\DT area\NN of\IN 25\CD square\JJ K\NNP .\.NP .\.
+htd660	Besides\IN several\JJ species\NNS of\IN birds\NNS ,\, animals\NNS of\IN 28\CD types\NNS ,\, large\JJ trees\NNS ,\, nine\CD types\NNS of\IN reptiles\NNS etcetera\RB are\VBP found\VBN in\IN Tattekadu\NNP .\.
+htd661	Idukki\NNP Wildlife\NNP Sanctuary\NNP is\VBZ situated\VBN at\IN a\DT height\NN of\IN 450\CD -\: 748\CD metres\NNS above\IN the\DT sea\NN level\NN .\.
+htd662	Idukki\NNP Wildlife\NNP Sanctuary\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 77\CD square\JJ K\NNP .\: Ms\NNP .\.
+htd663	Idukki\NNP Wildlife\NNP Sanctuary\NNP comes\VBZ under\IN the\DT Thodupuzha\NNP and\CC Udumpanchola\NNP tehsils\NNS .\.
+htd664	Idukki\NNP Wildlife\NNP Sanctuary\NNP is\VBZ a\DT forest\NN area\NN in\IN the\DT middle\NN of\IN Periyar\NNP and\CC Cherutonipuzha\NNP .\.
+htd665	Periyar\NNP and\CC Chrutonipuzha\NNP forest\NN area\NN are\VBP evergreen\JJ woods\NNS in\IN this\DT area\NN .\.
+htd666	Animals\NNS like\IN wild\JJ boar\NN ,\, tiger\NN etcetera\NN live\VBP in\IN Periyar\NNP and\CC Cherutonipuzha\NNP .\.
+htd667	Cobra\NNP ,\, viper\NN ,\, shining\VBG serpent\NN ,\, mainah\NN ,\, nightingale\NN ,\, woodpecker\NN ,\, sparrow\NN etc\NN .\: are\VBP also\RB found\VBN in\IN this\DT forest\NN .\.
+htd668	Idukki\NNP Wildlife\NNP Sanctuary\NNP is\VBZ near\IN the\DT Idukki\NNP dam\NN .\.
+htd669	There\EX is\VBZ also\RB a\DT facility\NN of\IN boat\NN travel\NN from\IN Periyar\NNP .\.
+htd670	Vandiperiyar\NNP is\VBZ nature\NN enriched\JJ region\NN .\.
+htd671	Farming\NN of\IN tea\NN ,\, coffee\NN ,\, black\JJ chilly\JJ etc\NN are\VBP done\VBN in\IN Vandiperiyar\NNP .\.
+htd672	Periyar\JJ river\NN flows\VBZ from\IN the\DT middle\NN of\IN Vandiperiyar\NNP .\.
+htd673	Government\NNP agriculture\NN parks\NNS and\CC flower\NN gardens\NNS are\VBP there\RB in\IN Vandiperiyar\NNP .\.
+htd674	Vandiperiyar\JJ hill\NN is\VBZ the\DT center\NN of\IN fruits-flowers\NNS ,\, vegetables\NNS etc\NN .\.
+htd675	Ramakkalmedu\NNP is\VBZ tourist\NN center\NN with\IN calm\JJ beautiful\JJ atmosphere\NN and\CC slow\JJ wind\NN .\.
+htd676	Views\NNS of\IN Kambam\NNP ,\, Bodi\NNP etcetera\NN are\VBP seen\VBN at\IN a\DT distance\NN from\IN the\DT hill\NN .\.
+htd677	Ramakkalmedu\NNP is\VBZ situated\VBN 45\CD K\NNP .\.NP .\: from\IN Idukki\NNP and\CC 75\CD K\NNP .\.NP .\: away\RB from\IN Munnar\NNP .\.
+htd678	The\DT buses\NNS go\VBP for\IN Ramakkalmedu\NNP in\IN the\DT morning\NN at\IN 9\CD .\: 30\CD o'clock\RB from\IN Munnar\NNP ,\, 10\CD .\: 30\CD o'clock\RB from\IN Kottayam\NNP and\CC 9\CD .\: 30\CD o'clock\RB from\IN Ernakulam\NNP .\.
+htd679	The\DT famous\JJ Ayurveda\NNP center\NN named\VBN Sahyadri\NNP is\VBZ in\IN Pallikkunnu\NNP .\.
+htd680	Sahyadri\NNP Ayurveda\NNP Centre\NNP is\VBZ under\IN the\DT Peerumedu\NNP Development\NNP Committee\NNP .\.
+htd681	There\EX is\VBZ a\DT park\NN of\IN herbal\JJ vegetation\NN near\IN Sahyadri\NNP Ayurveda\NNP Center\NNP where\WRB in\IN essential\JJ medical\JJ herbs\NNS have\VBP been\VBN grown\VBN for\IN medicine\NN .\.
+htd682	Besides\IN the\DT treatment\NN of\IN different\JJ diseases\NNS in\IN Sahyadri\NNP herbal\JJ center\NN ,\, welfare\NN treatment\NN i\FW .\.YM .\: health\NN improvement\NN treatment\NN has\VBZ also\RB been\VBN arranged\VBN .\.
+htd683	Kerala\NNP can\MD be\VB proud\JJ of\IN Periyar\NNP Wildlife\NNP Sanctuary\NNP .\.
+htd684	Periyar\NNP Wildlife\NNP Sanctuary\NNP is\VBZ situated\VBN on\IN the\DT shore\NN of\IN Periyar\NNP lake\NN .\.
+htd685	This\DT region\NN of\IN Periyar\NNP Wildlife\NNP Sanctuary\NNP situated\VBD on\IN the\DT western\JJ coast\NN is\VBZ rich\JJ with\IN unique\JJ greenery\NN .\.
+htd686	Animals\NNS like\IN elephant\NN ,\, deer\NN ,\, tiger\NN ,\, short\RB tailed\VBD monkey\NN etc\NN are\VBP found\VBN here\RB .\.
+htd687	Hordes\NNS of\IN elephant\NN grazing\NN in\IN the\DT dense\JJ grass\NN fields\NNS of\IN the\DT shore\NN are\VBP seen\VBN while\IN boating\VBG on\IN the\DT river\NN .\.
+htd688	We\PRP can\MD reach\VB the\DT Shila\NNP Temple\NNP -LRB-\-LRB- Mangla\NNP Devi\NNP Temple\NNP -RRB-\-RRB- situated\VBN at\IN the\DT center\NN of\IN the\DT forest\NN by\IN trekking\VBG in\IN Thekkady\NNP forest\NN .\.
+htd689	Thekkady\NNP is\VBZ the\DT most\RBS appropriate\JJ place\NN to\TO capture\VB the\DT pictures\NNS of\IN wild\JJ elephants\NNS .\.
+htd690	Two\CD institutions\NNS in\IN Thekkady\NNP provide\VBP the\DT lodging\VBG facility\NN -\: Tiruvitankur\NNP kings\NNS '\POS summer\NN bungalow\NN of\IN the\DT Lake\NNP Palace\NNP and\CC Aranyanivas\NNP .\.
+htd691	The\DT Lake\NNP Palace\NNP is\VBZ in\IN a\DT small\JJ island\NN on\IN the\DT shore\NN of\IN Aranyanivas\NNP lake\NN .\.
+htd692	Now\RB both\DT are\VBP under\IN the\DT ownership\NN of\IN K\NNP .\.NP .\.NP .\.NP .\.
+htd693	The\DT mountainous\JJ place\NN of\IN Trishanku\NNP Mala\NNP is\VBZ very\RB charming\JJ .\.
+htd694	An\DT enchanting\JJ charm\NN is\VBZ spread\VBN in\IN Trishanku\NNP Mala\NNP .\.
+htd695	Viewing\VBG sunset\NN from\IN the\DT top\NN of\IN hills\NNS in\IN Trishanku\NNP Mala\NNP equals\VBZ viewing\VBG the\DT beauty\NN directly\RB .\.
+htd696	But\CC it\PRP needs\VBZ courage\NN to\TO look\VB down\RP from\IN the\DT Trishanku\NNP Mala\NNP .\.
+htd697	While\IN enjoying\VBG the\DT silky\JJ touch\NN of\IN the\DT slow\JJ wind\NN in\IN Trishanku\NNP Mala\NNP ,\, it\PRP would\MD be\VB an\DT indescribable\JJ experience\NN to\TO pass\VB touring\VBG the\DT forest\NN areas\NNS .\.
+htd698	Trishanku\NNP Mala\NNP is\VBZ located\VBN at\IN a\DT distance\NN of\IN 4\CD K\NNP .\.NP .\: from\IN Peerumedu\NNP and\CC half\DT K\NNP .\.NP .\: from\IN Kuttikkanam\NNP .\.
+htd699	It\PRP is\VBZ said\VBD that\IN this\DT hill\NN became\VBD famous\JJ with\IN the\DT name\NN of\IN Peerumala\NNP after\IN the\DT name\NN of\IN a\DT Sufi\JJ saint\NN named\VBN Peer\NNP Muhammad\NNP .\.
+htd700	This\DT is\VBZ a\DT favorite\JJ place\NN of\IN the\DT nomadics\NNS and\CC trekking\VBG lovers\NNS .\.
+htd701	Kilimanoor\NNP Palace\NNP is\VBZ 39\CD K\NNP .\.NP .\: away\RB from\IN Thiruvananthapuram\NNP Railway\NNP Station\NNP .\.
+htd702	From\IN the\DT Thiruvananthapuram\NNP Airport\NNP ,\, Kilimanoor\NNP palace\NN is\VBZ 46\CD K\NNP .\.NP .\: away\RB .\.
+htd703	Peerumala\NNP Sufi\JJ mausoleum\NN ,\, Deewan\NNP Bhawan\NNP ,\, the\DT summer\NN palatial\JJ mansion\NN of\IN the\DT member\NN of\IN royal\JJ family\NN are\VBP the\DT things\NNS worth\JJ seeing\VBG .\.
+htd704	Peerumala\NNP is\VBZ 4\CD K\NNP .\.NP .\: away\RB from\IN Peerumedu\NNP and\CC one\CD K\NNP .\.NP .\: away\RB from\IN Kuttikkanam\NNP .\.
+htd705	Peerumala\NNP is\VBZ 75\CD K\NNP .\.NP .\: away\RB from\IN Kottayam\NNP Railway\NNP Station\NNP .\.
+htd706	Kochi\NNP International\NNP Airport\NNP ,\, the\DT nearest\JJS airport\NN of\IN Peerumala\NNP ,\, is\VBZ 180\CD K\NNP .\.NP .\: away\RB .\.
+htd707	Innumerous\JJ stories\NNS about\IN Vagaman\NNP are\VBP popular\JJ .\.
+htd708	The\DT matchless\JJ beauty\NN of\IN Vagaman\NNP gives\VBZ relish\NN to\TO both\DT the\DT eyes\NNS and\CC the\DT ears\NNS .\.
+htd709	It\PRP appears\VBZ that\IN the\DT glimpses\NNS of\IN secret\JJ beauty\NN has\VBZ inadvertently\RB appeared\VBN on\IN the\DT hills\NNS covering\VBG itself\PRP in\IN greens\NNS .\.
+htd710	The\DT beauty\NN of\IN this\DT region\NN unveils\VBZ gradually\RB before\IN the\DT visitors\NNS of\IN this\DT greenery\NN standing\NN in\IN Vagaman\NNP .\.
+htd711	There\EX are\VBP such\JJ hills\NNS around\IN Vagaman\NNP where\WRB the\DT tomb\NN of\IN Muslim\NNP Thangal\NNP ,\, the\DT temple\NN of\IN Hindu\NNP Murugan\NNP ,\, Christian\JJ church\NN identified\VBN as\IN Cruce\NNP Hill\NNP exist\VBP .\.
+htd712	There\EX is\VBZ pine\VB forest\NN at\IN the\DT slopes\NNS in\IN Vagaman\NNP .\.
+htd713	The\DT dairy\NN farm\NN under\IN the\DT church\NN is\VBZ also\RB worth\JJ visiting\VBG .\.
+htd714	Vagaman\NNP is\VBZ 25\CD K\NNP .\.NP .\: away\RB from\IN Peerumedu\NNP .\: One\NN can\MD go\VB to\TO Vagaman\NNP by\IN bus\NN .\.
+htd715	Kottayam\NNP ,\, the\DT nearest\JJS Railway\NNP Station\NNP of\IN Vagaman\NNP ,\, is\VBZ an\DT a\DT distance\NN of\IN 100\CD K\NNP .\.NP .\.
+htd716	Kochhi\NNP International\NNP Airport\NNP ,\, the\DT nearest\JJS airport\NN of\IN Vagaman\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 175\CD K\NNP .\.NP .\.
+htd717	Vattavada\NNP is\VBZ a\DT village\NN located\VBN 45\CD K\NNP .\.NP .\: east\JJ of\IN Munnar\NNP .\.
+htd718	Vattavada\NNP is\VBZ popular\JJ for\IN its\PRP$ natural\JJ beauty\NN and\CC calm\JJ atmosphere\NN .\.
+htd719	Different\JJ places\NNS of\IN tourist\NN attractions\NNS in\IN Vattavada\NNP have\VBP not\RB yet\RB come\VBN forward\RB completely\RB .\.
+htd720	Vattavada\NNP is\VBZ worth\JJ visiting\VBG due\JJ to\TO its\PRP$ Vegetation\NNP Parks\NNPS in\IN the\DT same\JJ fashion\NN as\IN is\VBZ Munnar\NNP beautiful\JJ due\NN to\TO the\DT Tea\NNP Gardens\NNPS .\.
+htd721	Vattavada\NNP is\VBZ also\RB situated\VBN 6500\CD feet\NNS above\IN the\DT sea\NN level\NN still\RB there\EX is\VBZ no\DT unbearable\JJ cold\NN in\IN Vattavada\NNP during\IN winter\NN days\NNS .\.
+htd722	Vegetables\NNS are\VBP farmed\VBN in\IN Vattavada\NNP after\IN leveling\VBG the\DT ascents\NNS of\IN mountain\NN .\.
+htd723	Different\JJ kinds\NNS of\IN butterflies\NNS and\CC birds\NNS are\VBP found\VBN in\IN Vattavada\NNP .\.
+htd724	The\DT journey\NN to\TO Kodaikanal\NNP ,\, Top\NNP Station\NNP ,\, Mattuppetti\NNP ,\, Kantallur\NNP ,\, Meesapulimala\NNP can\MD only\RB be\VB done\VBN from\IN Vattavada\NNP .\.
+htd725	For\IN this\DT the\DT journey\NN can\MD also\RB be\VB done\VBN by\IN jeep\NN or\CC motorcycle\NN .\.
+htd726	Services\NNP of\IN private\JJ agencies\NNS are\VBP also\RB available\JJ for\IN erecting\VBG tent\NN in\IN Vattavada\NNP and\CC the\DT jungle\NN .\.
+htd727	Vattavada\NNP is\VBZ 45\CD K\NNP .\.NP .\: far\RB from\IN Munnar\NNP by\IN road\NN .\.
+htd728	The\DT nearest\JJS railway\NN station\NN Ernakulam\NNP Junction\NNP is\VBZ 175\CD K\NNP .\.NP .\: away\RB from\IN Vattavada\NNP .\.
+htd729	Kochi\NNP International\NNP Airport\NNP is\VBZ 155\CD K\NNP .\.NP .\: away\RB from\IN Vattavada\NNP .\.
+htd730	Aralam\NNP is\VBZ a\DT Wildlife\NNP Sanctuary\NNP .\.
+htd731	Aralam\NNP is\VBZ spread\VBN in\IN an\DT expanse\NN of\IN 55\CD square\JJ K\NNP .\.NP .\: on\IN the\DT slopes\NNS of\IN Sahyadri\NNP .\.
+htd732	Deer\NNS ,\, elephants\NNS ,\, bisons\NNS ,\, wild\JJ boars\NNS etcetera\RB roam\VBP commonly\RB in\IN Aralam\NNP .\.
+htd733	Leopard\JJ ,\, wild\JJ cat\NN and\CC different\JJ types\NNS of\IN squirrels\NNS etcetera\NN can\MD be\VB seen\VBN sometimes\RB .\.
+htd734	Spread\NN in\IN 3060\CD hectares\NNS `\`` Aralam\NNP Farm\NNP '\POS is\VBZ located\VBN near\IN it\PRP .\.
+htd735	Aralam\NNP is\VBZ situated\VBN 35\CD K\NNP .\.NP .\: away\RB from\IN Thalassery\NNP and\CC 60\NNP K\NNP .\.NP .\: away\RB from\IN Kannur\NNP .\.
+htd736	Thalassery\NNP is\VBZ the\DT nearest\JJS railway\NN station\NN from\IN Aralam\NNP .\.
+htd737	The\DT nearest\JJS airport\NN from\IN Aralam\NNP Karipur\NNP International\NNP Airport\NNP is\VBZ 71\CD K\NNP .\.NP .\: away\RB from\IN Thalassery\NNP .\.
+htd738	The\DT lake\NN known\VBN as\IN `\`` Kavvayi\NNP '\'' in\IN this\DT part\NN of\IN north\JJ Kerala\NNP spreads\VBZ matchless\JJ grandeur\NN .\.
+htd739	Canals\NNS like\IN Kavvayi\NNP and\CC Kankol\NNP ,\, Vannathichal\NNP ,\, Kuppithodu\NNP ,\, Kuniyan\FW etcetera\FW form\NN into\IN lake\NN .\.
+htd740	Kavvayi\NNP lake\NN is\VBZ 37\CD square\JJ K\NNP .\.NP .\: long\RB .\.
+htd741	For\IN complete\JJ enjoyment\NN of\IN the\DT beauty\NN of\IN the\DT lake\NN travel\NN should\MD be\VB done\VBN by\IN boat\NN in\IN the\DT Kotti-Kottapuram\NNP way\NN .\.
+htd742	Nearest\JJS to\TO the\DT Kavvayi\NNP lake\NN the\DT Payyannur\NNP Railway\NNP Station\NNP is\VBZ 4\CD K\NNP .\.NP .\: away\RB .\.
+htd743	Karipur\NNP International\NNP Airport\NNP ,\, Kannur\NNP is\VBZ the\DT nearest\JJS airport\NN of\IN Kavvayi\NNP lake\NN at\IN a\DT distance\NN of\IN 93\CD K\NNP .\.NP .\.
+htd744	Sheltered\VBN in\IN Pazhayangadi\NNP of\IN Kannur\NNP ,\, Madayipara\NNP is\VBZ rich\JJ with\IN bio-diversity\NN and\CC historical\JJ tradition\NN .\.
+htd745	Ezhimala\NNP was\VBD the\DT capital\NN of\IN Kolattunad\NNP kings\NNS .\.
+htd746	Coronation\NNP of\IN Kolattunad\NNP kings\NNS used\VBD to\TO complete\VB in\IN Madayipara\NNP from\IN 14th\JJ century\NN till\IN 18th\JJ century\NN .\.
+htd747	The\DT ruins\NNS of\IN the\DT old\JJ castle\NN is\VBZ in\IN the\DT southern\JJ valleys\NNS of\IN the\DT hill\NN .\.
+htd748	A\DT pond\NN is\VBZ here\RB which\WDT has\VBZ the\DT shape\NN of\IN long\RB handled\VBN mirror\NN .\.
+htd749	It\PRP is\VBZ said\VBD that\IN the\DT construction\NN of\IN the\DT pond\NN was\VBD got\VBN done\VBN by\IN the\DT Jews\NNS .\.
+htd750	Other\JJ attractions\NNS of\IN Madayipara\NNP are\VBP the\DT Shaivite\NNP Temple\NNP ,\, the\DT pond\NN of\IN the\DT temple\NN spread\NN over\IN an\DT acre\NN and\CC Madayi\NNP Kavu\NNP -LRB-\-LRB- the\DT sacred\JJ place\NN in\IN the\DT dense\JJ forests\NNS -RRB-\-RRB- .\.
+htd751	The\DT organization\NN of\IN Madayipuram\NNP -LRB-\-LRB- festival\NN -RRB-\-RRB- is\VBZ related\VBN to\TO Madayi\NNP Kavu\NNP .\.
+htd752	Other\JJ attractions\NNS of\IN this\DT hill\NN are\VBP -\: fruits\NNS and\CC flowers\NNS of\IN 300\CD different\JJ species\NNS ,\, tubers\NNS of\IN 30\CD species\NNS ,\, hundreds\NNS of\IN the\DT herb\NN species\NNS ,\, meat\NN eater\NN vegetations\NNS ,\, birds\NNS of\IN 150\CD different\JJ species\NNS etcetera\RB .\.
+htd753	Complete\JJ it\PRP .\.
+htd754	The\DT biggest\JJS butterflies\NNS of\IN the\DT world\NN ,\, atlas\NN butterflies\NNS ,\, use\VBP to\TO come\VB to\TO Madayipara\NNP for\IN getting\VBG hospitality\NN .\.
+htd755	Considering\VBG the\DT historical\JJ and\CC zoological\JJ specialties\NNS of\IN Madayipara\NNP area\NN the\DT State\NNP Government\NNP has\VBZ prepared\VBN special\JJ plans\NNS for\IN their\PRP$ conservation\NN .\.
+htd756	The\DT nearest\JJS railway\NN station\NN of\IN Madayipara\NNP Pazhayangadi\NNP is\VBZ at\IN a\DT distance\NN of\IN 2\CD K\NNP .\.NP .\.
+htd757	The\DT nearest\JJS airport\NN from\IN Madayipara\NNP Karipur\NNP International\NNP Airport\NNP is\VBZ at\IN a\DT distance\NN of\IN 118\CD K\NNP .\.NP .\.
+htd758	Malayala\NNP Kalagramam\NNP is\VBZ a\DT training\NN center\NN for\IN artists\NNS .\.
+htd759	The\DT opportunity\NN to\TO learn\VB several\JJ arts\NNS and\CC to\TO practice\VB them\PRP is\VBZ provided\VBN in\IN Malayala\NNP Kalagramam\NNP .\.
+htd760	Full\JJ time\NN training\NN is\VBZ provided\VBN in\IN picture\NN drawing\NN ,\, sculpture\NN ,\, song\NN ,\, dance\NN ,\, ceramics\NNS etc\NN at\IN Malayala\NNP Kalagramam\NNP .\.
+htd761	The\DT classes\NNS of\IN yoga\NN and\CC Sanskrit\NN etc\NN .\: are\VBP also\RB run\VBN in\IN Malayala\NNP Kalagramam\NNP .\.
+htd762	Seminars\NNS on\IN the\DT subjects\NNS of\IN the\DT culture\NN and\CC history\NN of\IN Kerala\NNP are\VBP organized\VBN in\IN Malayala\NNP Kalagramam\NNP .\.
+htd763	The\DT library\NN of\IN Kalagramam\NNP is\VBZ excellent\JJ .\.
+htd764	Spending\VBG a\DT day\NN with\IN the\DT teacher\NN and\CC the\DT students\NNS of\IN Malayala\NNP Kalagramam\NNP gives\VBZ a\DT new\JJ experience\NN .\.
+htd765	Malayala\NNP Kalagramam\NNP New\NNP Mahi\NNP is\VBZ situated\VBN at\IN a\DT distance\NN of\IN 29\CD K\NNP .\.NP .\: from\IN Kannur\NNP .\.
+htd766	Mahi\NNP is\VBZ the\DT nearest\JJS railway\NN station\NN of\IN Malayala\NNP Kalagramam\NNP .\.
+htd767	The\DT nearest\JJS airport\NN -\: Karipur\NNP International\NNP Airport\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 64\CD K\NNP .\.NP .\: from\IN Malayala\NNP Kalagramam\NNP .\.
+htd768	Kanimangalam\NNP is\VBZ famous\JJ for\IN sculptures\NNS and\CC the\DT lamps\NNS made\VBN of\IN brass\NN .\.
+htd769	Kanimangalam\NNP is\VBZ near\IN Payyannur\NNP .\.
+htd770	Muzhappilangad\JJ beach\NN is\VBZ one\CD of\IN the\DT unique\JJ drive-in\NN coasts\NNS of\IN Kerala\NNP .\.
+htd771	The\DT feeling\NN of\IN journey\NN by\IN a\DT vehicle\NN on\IN the\DT coast\NN of\IN about\RB 4\CD K\NNP .\.NP .\: long\JJ Muzhappilangad\NNP beach\NN is\VBZ extraordinary\JJ .\.
+htd772	Several\JJ gigantic\JJ rocks\NNS are\VBP standing\VBG ,\, stopping\VBG the\DT encroachment\NN of\IN high\JJ waves\NNS of\IN the\DT sea\NN at\IN Muzhappilangad\NNP beach\NN .\.
+htd773	Many\JJ natural\JJ pools\NNS have\VBP formed\VBN due\JJ to\TO these\DT rocks\NNS .\.
+htd774	That\DT is\VBZ why\WRB Muzhappilangad\NNP Beach\NNP is\VBZ considered\VBN as\IN the\DT heaven\NN of\IN the\DT swimmers\NNS .\.
+htd775	The\DT coconut\JJ trees\NNS standing\VBG parallel\RB to\TO the\DT coast\NN cast\VBD shadow\NN on\IN the\DT coast\NN .\.
+htd776	Muzhappilangad\NNP Beach\NNP is\VBZ 15\CD K\NNP .\.NP .\: far\RB from\IN Kannur\NNP and\CC 8\CD K\NNP .\.NP .\: away\RB from\IN Thalassery\NNP .\.
+htd777	Kannur\NNP ,\, the\DT nearest\JJS railway\NN station\NN of\IN Muzhappilangad\NNP Beach\NNP is\VBZ 20\NNP K\NNP .\.NP .\: away\RB .\.
+htd778	Mangalore\NNP ,\, the\DT nearest\JJS airport\NN of\IN Muzhappilangad\NNP Beach\NNP ,\, is\VBZ 140\CD K\NNP .\.NP .\: away\RB while\IN Karipur\NNP International\NNP Airport\NNP is\VBZ 103\CD K\NNP .\.NP .\: away\RB .\.
+htd779	Payyambalam\NN seacoast\NN is\VBZ appropriate\JJ for\IN spending\VBG evening\NN with\IN calm\JJ .\.
+htd780	Till\IN some\DT time\NN ago\IN Payyambalam\NNP sea-bank\NN was\VBD the\DT center\NN of\IN picnic\NN for\IN the\DT local\JJ public\NN .\.
+htd781	Gradually\RB the\DT arrival\NN of\IN tourists\NNS on\IN Payyambalam\NNP sea-bank\NN is\VBZ increasing\VBG .\.
+htd782	Kannur\NNP ,\, the\DT nearest\JJS railway\NN station\NN from\IN Payyambalam\NNP seacoast\NN ,\, is\VBZ at\IN a\DT distance\NN of\IN 2\CD K\NNP .\.NP .\.
+htd783	The\DT nearest\JJS airport\NN from\IN Payyambalam\NNP -\: the\DT Karipur\NNP International\NNP Airport\NNP is\VBZ at\IN a\DT distance\NN of\IN 95\CD K\NNP .\.NP .\.
+htd784	Built\VBN by\IN Portuguese\NNP viceroy\NNP Francisco\NNP de\IN Almeida\NNP in\IN 1505\CD .\.
+htd785	The\DT fort\NN made\VBN of\IN red\JJ stones\NNS is\VBZ in\IN triangular\JJ shape\NN .\.
+htd786	The\DT Dutch\NNP had\VBD captured\VBN the\DT Saint\NNP Angelo\NNP Fort\NNP in\IN 1663\CD and\CC sold\VBN to\TO Ali\NNP King\NNP of\IN Kannur\NNP .\.
+htd787	In\IN 1709\CD the\DT British\NNPS took\VBD Saint\NNP Angelo\NNP Fort\NNP under\IN their\PRP$ own\JJ dominion\NN and\CC made\VBD it\PRP the\DT main\JJ center\NN of\IN the\DT Malabar\NNP soldiers\NNS .\.
+htd788	Today\NN the\DT St\NNP .\: Angelo\NNP Fort\NNP is\VBZ a\DT conserved\JJ monument\NN under\IN the\DT Department\NNP of\IN Archaeology\NNP .\.
+htd789	A\DT sea\NN wall\NN has\VBZ been\VBN built\VBN outside\IN the\DT St\NNP .\: Angelo\NNP Fort\NNP .\.
+htd790	The\DT sea\NN wall\NN saves\VBZ St\NNP .\: Angelo\NNP Fort\NNP from\IN the\DT beatings\NNS of\IN the\DT waves\NNS .\.
+htd791	Mappila\NNP Bay\NNP fish\NN collection\NN harbor\NN ,\, Dharmadam\NNP Island\NNP etcetera\NN can\MD be\VB seen\VBN while\IN standing\VBG at\IN the\DT St\NNP .\: Angelo\NNP Fort\NNP .\.
+htd792	Mappila\NNP Bay\NNP Harbour\NNP is\VBZ a\DT boon\NN of\IN nature\NN .\.
+htd793	Mappila\NNP Bay\NNP Harbour\NNP has\VBZ been\VBN modernized\VBN under\IN the\DT Indo-Norwegian\NNP project\NN .\.
+htd794	Dharmdam\NNP Island\NNP ,\, whose\WP$ expanse\NN is\VBZ 5\CD acre\NN ,\, is\VBZ only\RB 100\CD metre\NN away\RB from\IN seashore\NN .\.
+htd795	Kannur\NNP ,\, the\DT nearest\JJS railway\NN station\NN from\IN St\NNP .\: Angelo\NNP Fort\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 3\NNP K\NNP .\.NP .\.
+htd796	The\DT nearest\JJS airport\NN from\IN Saint\NNP Angelo\NNP -\: Karipur\NNP International\NNP Airport\NNP ,\, is\VBZ 93\CD K\NNP .\.NP .\: away\RB .\.
+htd797	Thalassery\NNP has\VBZ gained\VBN special\JJ place\NN in\IN the\DT history\NN of\IN Kerala\NNP .\.
+htd798	Continuous\JJ connection\NN with\IN overseas\JJ ,\, commercial\JJ -\: tradition\NN ,\, mature\JJ cricket\NN -\: tradition\NN ,\, the\DT tradition\NN of\IN circus\NN etcetera\NN are\VBP included\VBN among\IN the\DT prosperous\JJ heritages\NNS of\IN Thalassery\NNP .\.
+htd799	The\DT Portuguese\NNP and\CC the\DT Dutch\NNP had\VBD tried\VBN to\TO capture\VB Thalassery\NNP .\.
+htd800	The\DT British\JJ army\NN chief\NN Arthur\NNP Miller\NNP ,\, who\WP had\VBD come\VBN to\TO capture\VB the\DT Pazhassi\NNP king\NN ,\, stayed\VBD in\IN Thalassery\NNP for\IN a\DT long\JJ time\NN .\.
+htd801	It\PRP was\VBD Arthur\NNP Millar\NNP who\WP introduced\VBD cricket\NN to\TO Thalassery\NNP .\.
+htd802	Gradually\RB the\DT local\JJ public\NN learned\VBD the\DT game\NN from\IN the\DT British\JJ soldiers\NNS .\.
+htd803	Big\JJ families\NNS like\IN Musa\NNP ,\, Mampalli\NNP etcetera\NN encouraged\VBD cricket\NN .\.
+htd804	There\EX was\VBD also\RB a\DT time\NN when\WRB cricket\NN clubs\NNS used\VBN to\TO come\VB to\TO play\VB from\IN Britain\NNP and\CC Sri\NNP Lanka\NNP in\IN Thalassery\NNP .\.
+htd805	Thus\RB Thalassery\NNP could\MD be\VB given\VBN a\DT place\NN among\IN those\DT leading\VBG places\NNS where\WRB the\DT cricket\NN game\NN was\VBD organized\VBN first\RB .\.
+htd806	Thalassery\NNP has\VBZ an\DT important\JJ contribution\NN in\IN the\DT tradition\NN of\IN circus\NN also\RB .\.
+htd807	The\DT circus\NN artists\NNS of\IN Thalassery\NNP have\VBP earned\VBN fame\NN at\IN the\DT international\JJ level\NN by\IN presenting\VBG the\DT best\JJS presentation\NN .\.
+htd808	Among\IN the\DT important\JJ circus\NN stars\NNS of\IN India\NNP .\.` Udati\NNP Bijali\NNP '\POS is\VBZ a\DT child\NN of\IN Thalassery\NNP .\.
+htd809	The\DT people\NNS of\IN Thalassery\NNP are\VBP experts\NNS in\IN preparing\VBG sweets\NNS and\CC experimenting\VBG with\IN new\JJ sweets\NNS .\.
+htd810	Mampalli\NNP is\VBZ prominent\JJ `\`` Bakery\NNP Family\NNP '\POS of\IN Kerala\NNP .\.
+htd811	Bakery\NNP Family\NNP has\VBZ 120\CD years\NNS of\IN experience\NN in\IN the\DT field\NN of\IN Bakery\NNP .\.
+htd812	Mampalli\NNP family\NN started\VBD a\DT new\JJ revolution\NN by\IN establishing\VBG bakeries\NNS from\IN one\CD corner\NN to\TO the\DT other\JJ corner\NN of\IN Kerala\NNP .\.
+htd813	Bakeries\NNS of\IN Mampalli\NNP are\VBP standing\VBG with\IN grandeur\NN at\IN some\DT places\NNS of\IN Kerala\NNP even\RB today\NN .\.
+htd814	The\DT Logan\NNP Street\NNP of\IN Thalassery\NNP is\VBZ another\DT attraction\NN .\.
+htd815	This\DT place\NN is\VBZ famous\JJ for\IN sweets\NNS ,\, noodles\NNS ,\, clothes\NNS and\CC biryani\NNS .\.
+htd816	The\DT Paris\NNP Hotel\NNP situated\VBD in\IN Logan\NNP Street\NNP is\VBZ famous\JJ for\IN biryani\NNS .\.
+htd817	Other\JJ attractions\NNS of\IN Thalassery\NNP are\VBP 143\CD year\NN old\JJ Brannan\NNP College\NNP ,\, the\DT residence\NN of\IN Herman\NNP Gundert\NNP which\WDT is\VBZ known\VBN as\IN `\`` Illikkunu\NNP Bungalow\NNP '\POS ,\, and\CC Thalassery\NNP Fort\NNP etc\NN .\.
+htd818	The\DT seacoast\NN of\IN North\NNP Goa\NNP beginning\VBG from\IN Fort\NNP Aguada\NNP is\VBZ about\RB 30\CD K\NNP .\.NP .\: long\RB .\.
+htd819	There\EX is\VBZ a\DT railway\NN station\NN in\IN Thalassery\NNP .\.
+htd820	The\DT nearest\JJS airport\NN from\IN Thalassery\NNP is\VBZ Karipur\NNP International\NNP Airport\NNP .\.
+htd821	Todikkulam\NNP Shaiva\NNP Temple\NNP is\VBZ very\RB old\JJ .\.
+htd822	According\VBG to\TO some\DT people\NNS the\DT four\CD cornered\VBD two\CD storey\NN temple\NN of\IN Todikkulam\NNP is\VBZ two\CD thousand\CD years\NNS old\JJ .\.
+htd823	Special\JJ wall\NN picture\NN is\VBZ characteristic\JJ of\IN this\DT temple\NN .\.
+htd824	There\EX are\VBP about\IN 150\CD wall\NN paintings\NNS drawn\VBN in\IN 40\CD lines\NNS on\IN a\DT width\NN of\IN 700\CD square\JJ metres\NNS on\IN the\DT walls\NNS of\IN the\DT cella\NN in\IN Todikkulam\NNP .\.
+htd825	The\DT main\JJ subjects\NNS of\IN these\DT paintings\NNS are\VBP Rukmani\NNP Swayamvar\NNP ,\, Rawan\NNP Wadh\NNP etc\NN .\.
+htd826	Along\IN with\IN this\DT there\EX are\VBP several\JJ other\JJ pictures\NNS which\WDT represent\VBP the\DT village\NN life\NN and\CC whose\WP$ period\NN is\VBZ 16th\JJ -\: 18th\JJ century\NN .\.
+htd827	The\DT nearest\JJS railway\NN station\NN from\IN Todikkulam\NNP -\: Thalassery\NNP is\VBZ at\IN a\DT distance\NN of\IN 34\CD K\NNP .\.NP .\.
+htd828	The\DT nearest\JJS airport\NN from\IN Todikkulam\NNP -\: Karipur\NNP International\NNP Airport\NNP is\VBZ 71\CD K\NNP .\.NP .\: away\RB .\.
+htd829	The\DT extraordinary\JJ and\CC excellent\JJ religious\JJ functions\NNS and\CC customs\NNS are\VBP conducted\VBN in\IN the\DT Parassinikkadavu\NNP Sree\NNP Muthappan\NNP Temple\NNP .\.
+htd830	People\NNS of\IN different\JJ religions\NNS -\: castes\NNS come\VBN to\TO the\DT Parassinikkadavu\NNP Sree\NNP Muthappan\NNP Temple\NNP for\IN worship\NN .\.
+htd831	Parassinikkadavu\NNP Sree\NNP Muthappan\NNP Temple\NNP resonates\VBZ the\DT thought\NN of\IN `\`` Vasudhaivakutumbakam\NNP '\'' .\.
+htd832	Devotee\NNP following\VBG any\DT religion\NN -\: caste\NN can\MD enter\VB the\DT Parassinikkadavu\NNP Sree\NNP Muthappan\NNP Temple\NNP .\.
+htd833	Muthappan\NNP Temple\NNP is\VBZ situated\VBN on\IN the\DT banks\NNS of\IN the\DT Valapattanam\NNP river\NN .\.
+htd834	Muthappan\NNP Temple\NNP is\VBZ 20\NNP K\NNP .\.NP .\: far\RB from\IN Kannur\NNP .\.
+htd835	A\DT folk\NN dance\NN called\VBN Theyyam\NNP can\MD also\RB be\VB seen\VBN in\IN Muthappan\NNP .\.
+htd836	There\EX is\VBZ a\DT myth\NN behind\IN the\DT foundation\NN of\IN the\DT temple\NN presented\VBD .\.
+htd837	A\DT boy\NN appeared\VBD here\RB suddenly\RB .\.
+htd838	After\IN some\DT miraculous\JJ incidents\NNS he\PRP disappeared\VBD .\.
+htd839	After\IN disappearance\NN of\IN the\DT boy\NN the\DT public\NN felt\VBD the\DT divine\JJ realization\NN there\RB .\.
+htd840	As\IN a\DT result\NN this\DT temple\NN was\VBD made\VBN .\.
+htd841	East\NNP India\NNP company\NN had\VBD kept\VBN constant\JJ relation\NN with\IN Thalassery\NNP since\IN 1683\CD .\.
+htd842	In\IN 1703\CD the\DT company\NN built\VBD a\DT fort\NN in\IN Thalassery\NNP .\.
+htd843	A\DT city\NN developed\VBN around\IN this\DT fort\NN later\RB .\.
+htd844	This\DT fort\NN is\VBZ a\DT favorite\NN of\IN the\DT scholars\NNS of\IN history\NN .\.
+htd845	The\DT wall\NN of\IN this\DT fort\NN of\IN Thalassery\NNP is\VBZ very\RB high\JJ .\.
+htd846	There\EX are\VBP several\JJ such\JJ mysterious\JJ tunnels\NNS in\IN this\DT fort\NN of\IN Thalassery\NNP that\WDT open\VBP towards\IN the\DT sea\NN .\.
+htd847	Valapattanam\NNP is\VBZ the\DT most\RBS ancient\JJ industrial\JJ place\NN in\IN wood\NN industry\NN in\IN the\DT whole\NN of\IN Asia\NNP .\.
+htd848	The\DT wood\NN industry\NN of\IN Valapattanam\NNP is\VBZ rich\JJ with\IN the\DT teakwood\NN ,\, iruli\NN ,\, ilva\NN ,\, karimurikku\NN ,\, sandal\NN trees\NNS etc\FW .\: found\VBN in\IN the\DT dense\JJ forest\NN of\IN the\DT Valapattanam\NNP river\NN bank\NN .\.
+htd849	The\DT wood\NN industry\NN company\NN Western\NNP India\NNP Plywood\NNP Limited\NNP is\VBZ a\DT major\JJ wood\NN industry\NN company\NN in\IN South-East\NNP Asia\NNP .\.
+htd850	Tea\NNP ,\, coffee\NN ,\, tobacco\NN ,\, cashew\FW nut\FW etc\FW also\RB are\VBP farmed\VBN in\IN Valapattanam\NNP .\.
+htd851	The\DT name\NN of\IN Valapattanam\NNP figures\NNS in\IN great\JJ agricultural\JJ fields\NNS of\IN tobacco\NN in\IN Kerala\NNP .\: Fish\NN collecting\VBG center\NN ,\, water\NN irrigating\VBG center\NN etc\NN are\VBP the\DT second\JJ attraction\NN .\.
+htd852	The\DT nearest\JJS railway\NN station\NN from\IN Valapattanam\NNP -\: Kannur\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 7\CD K\NNP .\.NP .\.
+htd853	The\DT nearest\JJS airport\NN from\IN Valapattanam\NNP -\: Karipur\NNP International\NNP Airport\NNP is\VBZ 100\CD K\NNP .\.NP .\: far\RB .\.
+htd854	Baikal\NNP Fort\NNP is\VBZ the\DT most\RBS famous\JJ fort\NN of\IN Kerala\NNP .\.
+htd855	The\DT experience\NN of\IN watching\VBG the\DT deep\JJ blueness\NN of\IN the\DT sea\NN from\IN Baikal\NNP Fort\NNP is\VBZ unforgettable\JJ .\.
+htd856	The\DT Baikal\NNP Fort\NNP is\VBZ the\DT favorite\JJ location\NN for\IN the\DT shooting\NN of\IN Malayalam\NNP ,\, Tamil\NNP ,\, Bollywood\NNP cinemas\NNS .\.
+htd857	The\DT Kerala\NNP Government\NNP has\VBZ established\VBN Baikal\NNP Resort\NNP Development\NNP Corporation\NNP for\IN the\DT development\NN of\IN Baikal\NNP Fort\NNP ,\, seashore\NN ,\, and\CC related\JJ tourist\NN centers\NNS .\.
+htd858	Several\JJ projects\NNS have\VBP been\VBN started\VBN for\IN increasing\VBG the\DT beauty\NN of\IN the\DT Baikal\NNP seashore\NN .\.
+htd859	The\DT development\NN of\IN arts\NNS like\IN Theyyam\NNP craft\NN ,\, wall\NN painting\NN ,\, sculpture\NN parks\NNS etc\NN .\: also\RB comes\VBZ under\IN this\DT project\NN .\.
+htd860	Parking\NN -\: There\EX is\VBZ a\DT parking\NN lot\NN in\IN an\DT expanse\NN of\IN 7000\CD square\JJ metre\NN near\IN the\DT shore\NN .\.
+htd861	There\EX are\VBP tree\NN houses\NNS and\CC dormitory\NN facilities\NNS for\IN rest\NN .\.
+htd862	Children\NNP 's\POS Park\NNP -\: This\DT park\NN is\VBZ appropriate\JJ for\IN the\DT entertainment\NN of\IN children\NNS below\IN 14\CD years\NNS .\.
+htd863	One\CD has\VBZ to\TO buy\VB a\DT ticket\NN worth\JJ one\CD rupee\NN per\IN person\NN for\IN entrance\NN onto\IN the\DT Baikal\NNP seashore\NN .\.
+htd864	Parking\NN fee\NN is\VBZ also\RB levied\VBN which\WDT is\VBZ not\RB much\JJ .\.
+htd865	A\DT scheme\NN to\TO construct\VB water\NN theme\NN park\NN in\IN 11\CD acres\NNS of\IN land\NN here\RB is\VBZ also\RB with\IN the\DT RDC\NNP .\.
+htd866	The\DT nearest\JJS railway\NN station\NN of\IN Baikal\NNP Fort\NNP is\VBZ Kasargod\NNP .\.
+htd867	The\DT nearest\JJS airport\NN from\IN Baikal\NNP Fort\NNP -\: Mangalore\NNP ,\, 50\CD K\NNP .\.NP .\. Karipur\NNP International\NNP Airport\NNP ,\, 200\CD K\NNP .\.NP .\.
+htd868	There\EX is\VBZ a\DT fort\NN built\VBN in\IN 17th\JJ century\NN on\IN the\DT banks\NNS of\IN Chandragirippuzha\NNP -LRB-\-LRB- river\NN -RRB-\-RRB- .\.
+htd869	The\DT excellent\JJ scenery\NN of\IN the\DT Arabian\NNP sea\NN and\CC Chandragiri\NNP river\NN can\MD be\VB relished\VBN from\IN that\DT fort\NN .\.
+htd870	The\DT song\NN festival\NN of\IN Kishur\NNP temple\NN near\IN the\DT river\NN bank\NN is\VBZ very\RB famous\JJ .\.
+htd871	Baikal\NNP Resort\NNP Development\NNP Corporation\NNP has\VBZ provided\VBN the\DT boating\VBG facility\NN in\IN Chandragiri\NNP river\NN .\.
+htd872	Chandragiri\NNP is\VBZ very\RB near\JJ to\TO Kasargod\NNP town\NN .\.
+htd873	The\DT nearest\JJS railway\NN station\NN -\: Kasargod\NNP .\.
+htd874	The\DT nearest\JJS airport\NN -\: Mangalore\NNP ,\, 50\CD K\NNP .\.NP .\.
+htd875	Chithari\NNP is\VBZ a\DT small\JJ island\NN covered\VBN with\IN greenery\NN .\.
+htd876	The\DT coastal\JJ area\NN of\IN Chithari\NNP is\VBZ large\JJ .\.
+htd877	Chithari\NNP is\VBZ a\DT part\NN of\IN Baikal\NNP tourism\NN project\NN .\.
+htd878	The\DT commotion\NN of\IN tourism\NN has\VBZ not\RB even\RB touched\VBD this\DT island\NN .\.
+htd879	Chithari\NNP is\VBZ a\DT suitable\JJ place\NN to\TO spend\VB time\NN with\IN peace\NN .\.
+htd880	The\DT nearest\JJS railway\NN station\NN from\IN Chithari\NNP -\: Kasangadu\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 5\CD K\NNP .\.NP .\.
+htd881	Kappil\NNP seashore\NN is\VBZ a\DT suitable\JJ place\NN if\IN you\PRP want\VBP to\TO spend\VB some\DT time\NN in\IN peaceful\JJ environment\NN after\IN the\DT crowded\JJ travel\NN of\IN Baikal\NNP .\.
+htd882	Kappil\NNP is\VBZ situated\VBN six\CD K\NNP .\.NP .\: away\RB from\IN Baikal\NNP and\CC is\VBZ an\DT extremely\RB calm\JJ place\NN .\.
+htd883	The\DT seashore\NN shining\VBG in\IN the\DT sun\NN and\CC the\DT calm\JJ atmosphere\NN are\VBP the\DT attractions\NNS here\RB .\.
+htd884	Those\DT who\WP are\VBP adventurous\JJ can\MD view\VB the\DT expanse\NN of\IN the\DT Arabian\NNP sea\NN by\IN climbing\VBG on\IN the\DT Kodikkunnu\NNP nearby\RB .\.
+htd885	Kasargod\NNP ,\, the\DT nearest\JJS railway\NN station\NN of\IN Kappil\NNP beach\NN is\VBZ at\IN a\DT distance\NN of\IN 12K\NNP .\.NP .\.
+htd886	Mangalore\NNP ,\, the\DT nearest\JJS airport\NN from\IN Kappil\NNP beach\NN is\VBZ 50\CD K\NNP .\.NP .\: far\RB .\.
+htd887	Go\VB to\TO Padanna\NNP if\IN you\PRP want\VBP to\TO see\VB the\DT atmosphere\NN like\IN Alappuzha\NNP in\IN North\NNP Kerala\NNP .\.
+htd888	The\DT factors\NNS making\VBG Padanna\NNP area\NN suitable\JJ for\IN lake\NN tourism\NN are\VBP -\: Valiyaparambu\NNP lake\NN ,\, the\DT island\NN overcast\NN by\IN greenery\NN ,\, canals\NNS etc\NN .\.
+htd889	The\DT cultivation\NN of\IN shells\NNS has\VBZ attracted\VBN the\DT attention\NN of\IN the\DT world\NN towards\IN this\DT .\.
+htd890	Gul\NNP Muhammad\NNP is\VBZ its\PRP$ farmer\NN .\.
+htd891	Having\VBG made\VBN shell\NN farming\VBG a\DT part\NN of\IN tourism\NN Gul\NNP Muhammad\NNP not\RB only\RB introduced\VBD his\PRP$ imagination\NN power\NN but\CC also\RB put\VBD forward\RB the\DT whole\JJ village\NN on\IN the\DT path\NN to\TO progress\VB .\.
+htd892	Gul\NNP Muhammad\NNP taught\VBD his\PRP$ villagers\NNS how\WRB they\PRP could\MD get\VB the\DT benefits\NNS of\IN tourism\NN industry\NN without\IN neglecting\VBG the\DT traditional\JJ way\NN of\IN living\NN .\.
+htd893	Gul\NNP Muhammad\NNP presented\VBD his\PRP$ tourism\NN theory\NN starting\VBG the\DT campaign\NN named\VBN Oyster\NNP Opera\NNP .\.
+htd894	The\DT life\NN of\IN the\DT farmers\NNS can\MD be\VB observed\VBN closely\RB on\IN coming\VBG to\TO Padanna\NNP .\.
+htd895	Oyster\NNP Opera\NNP has\VBZ clean\JJ atmosphere\NN and\CC excellent\JJ residential\JJ facility\NN .\.
+htd896	Group\NNP tourism\NN can\MD be\VB experienced\VBN while\IN staying\VBG at\IN Padanna\NNP .\.
+htd897	Boating\NN can\MD be\VB done\VBN up\IN to\TO the\DT islands\NNS in\IN Padanna\NNP .\.
+htd898	The\DT specialties\NNS of\IN Padanna\NNP area\NN are\VBP -\: vast\JJ seashore\NN and\CC sea\NN estuaries\NNS .\.
+htd899	Oyster\NNP Opera\NNP also\RB gives\VBZ the\DT opportunity\NN to\TO travel\VB through\IN the\DT nearby\JJ Tejaswini\NNP river\NN .\.
+htd900	Places\NNPS like\IN Parassinikadavu\NNP ,\, Baikal\NNP Fort\NNP etc\NN .\: are\VBP near\JJ to\TO it\PRP .\.
+htd901	The\DT nearest\JJS bus\NN terminal\NN and\CC railway\NN station\NN from\IN Padanna\NNP are\VBP at\IN a\DT distance\NN of\IN 9\CD K\NNP .\.NP .\.
+htd902	The\DT nearest\JJS airport\NN from\IN Padanna\NNP -\: Mangalore\NNP ,\, 120\CD K\NNP .\.NP .\: and\CC Karipur\NNP International\NNP Airport\NNP ,\, 180\CD K\NNP .\.NP .\.
+htd903	Agastyarkudam\NNP is\VBZ situated\VBN on\IN the\DT top\NN of\IN Sahyadri\NNP at\IN a\DT height\NN of\IN 1890\CD metres\NNS above\IN the\DT sea\NN level\NN .\.
+htd904	According\VBG to\TO folk\NN tales\NNS Agastya\NNP Forest\NNP Area\NNP was\VBD the\DT living\VBG place\NN of\IN Agastya\NNP the\DT sage\NN .\.
+htd905	To\TO reach\VB to\TO the\DT top\JJ one\NN has\VBZ to\TO cross\VB the\DT difficult\JJ to\TO pass\VB through\IN ways\NNS of\IN the\DT wild\JJ forest\NN .\.
+htd906	Agastya\JJ mountain\NN is\VBZ important\JJ for\IN the\DT garden\NN of\IN rare\JJ herbs\NNS .\.
+htd907	The\DT tribal\JJ people\NNS believe\VBP that\IN the\DT celibate\JJ Sage\NNP Agastya\NNP used\VBD to\TO live\VB here\RB .\.
+htd908	Therefore\RB women\NNS did\VBD not\RB have\VB the\DT permission\NN to\TO go\VB there\RB at\IN a\DT time\NN .\.
+htd909	This\DT place\NN remains\VBZ the\DT center\NN of\IN attraction\NN for\IN tourists\NNS from\IN the\DT second\JJ week\NN of\IN December\NNP to\TO February\NNP .\.
+htd910	To\TO go\VB there\RB it\PRP is\VBZ necessary\JJ to\TO get\VB a\DT permission\NN letter\NN from\IN the\DT wild\JJ life\NN warden\NN located\VBN in\IN the\DT P\NNP .\.NP .\.NP .\: nagar\NN of\IN Thiruvananthapuram\NNP .\.
+htd911	The\DT distance\NN from\IN Thiruvananthapuram\NNP to\TO Agastyarkudam\NNP is\VBZ 61\CD K\NNP .\.NP .\.
+htd912	The\DT distance\NN from\IN Thiruvananthapuram\NNP International\NNP Airport\NNP to\TO Bonakkad\NNP is\VBZ 69\CD K\NNP .\.NP .\.
+htd913	Located\VBN 36\CD K\NNP .\.NP .\: north\RB from\IN Thiruvananthapuram\NNP near\IN the\DT popular\JJ Warkala\NNP Beach\NNP there\EX is\VBZ a\DT costal\JJ area\NN named\VBN Anchuthengu\NNP having\VBG historical\JJ importance\NN .\.
+htd914	The\DT natural\JJ beauty\NN of\IN Anchuthengu\NNP is\VBZ worth\JJ visit\NN .\.
+htd915	Anchuthengu\NNP has\VBZ a\DT relation\NN with\IN the\DT European\JJ colonial\NN administration\NN in\IN India\NNP .\.
+htd916	The\DT empires\NNS of\IN Portugal\NNP ,\, Dutch\NNP and\CC Britain\NNP had\VBD governed\VBN here\RB .\.
+htd917	In\IN 1684\CD British\NNP East\NNP India\NNP company\NN founded\VBD its\PRP$ first\JJ business\NN center\NN in\IN Kerala\NNP at\IN Anchuthengu\NNP .\.
+htd918	Attingal\NNP Queen\NNP had\VBD given\VBN an\DT area\NN to\TO the\DT British\JJ company\NN on\IN annual\JJ tax\NN .\.
+htd919	Due\JJ to\TO five\CD coconut\NN trees\NNS being\VBG here\RB this\DT landmass\NN became\VBD famous\JJ with\IN the\DT name\NN of\IN `\`` Anchuthengu\NNP '\'' .\.
+htd920	The\DT prominent\JJ historical\JJ monument\NN of\IN Anchuthengu\NNP is\VBZ `\`` English\NNP Fort\NNP '\POS which\WDT is\VBZ conserved\VBN .\.
+htd921	There\EX is\VBZ a\DT grave\NN inside\IN the\DT fort\NN in\IN which\WDT there\EX are\VBP the\DT graves\NNS of\IN the\DT period\NN about\IN 1704\CD .\.
+htd922	Lakes\NNP ,\, coconut\NN trees\NNS standing\VBG in\IN a\DT queue\NN and\CC canals\NNS make\VBP the\DT grace\NN of\IN Anchuthengu\NNP pleasant\JJ .\.
+htd923	The\DT seashore\NN of\IN Anchuthengu\NNP also\RB is\VBZ extremely\RB beautiful\JJ .\.
+htd924	Anchuthengu\NNP is\VBZ also\RB a\DT center\NN of\IN fishermen\NNS .\.
+htd925	The\DT nearest\JJS railway\NN station\NN from\IN Anchuthengu\NNP ,\, Varkala\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 8\CD K\NNP .\.NP .\.
+htd926	Anchuthengu\NNP is\VBZ 46\CD K\NNP .\.NP .\: away\RB from\IN Thiruvananthapuram\NNP International\NNP Airport\NNP .\.
+htd927	Akkulam\NN lake\NN is\VBZ important\JJ in\IN view\NN of\IN boating\VBG .\.
+htd928	The\DT picnic\NN spot\NN of\IN Akkulam\NNP lake\NN remains\VBZ open\JJ from\IN 10\CD o'clock\RB in\IN the\DT morning\NN till\IN late\JJ night\NN .\.
+htd929	Children\NNS also\RB like\IN both\DT boating\VBG and\CC children\NNS 's\POS park\NN .\.
+htd930	Akkulam\NNP is\VBZ at\IN a\DT distance\NN of\IN 10\CD K\NNP .\.NP .\: from\IN Thiruvananthapuram\NNP Railway\NNP Station\NNP .\.
+htd931	Akkulam\NNP is\VBZ 7\CD K\NNP .\.NP .\: far\RB from\IN Thiruvananthapuram\NNP International\NNP Airport\NNP .\.
+htd932	Shri\NNP Balchandran\NNP Nayar\NNP is\VBZ the\DT founder\NN of\IN Indian\NNP School\NNP Of\IN Martial\NNP Art\NNP -LRB-\-LRB- ISMA\NNP -RRB-\-RRB- established\VBD in1983\JJ .\.
+htd933	Recognized\VBN by\IN the\DT Government\NN of\IN India\NNP and\CC the\DT Kerala\NNP Sports\NNP Council\NNP this\DT institute\NN is\VBZ also\RB training\VBG center\NN of\IN weaponry\NN art\NN called\VBN Kalariyapattu\NNP .\.
+htd934	Indian\NNP School\NNP of\IN Martial\NNP Arts\NNP is\VBZ situated\VBN in\IN a\DT three\CD storey\NN building\NN .\.
+htd935	Kalari\NNP medicine\NN is\VBZ also\RB available\JJ in\IN Indian\JJ School\NN Of\IN Martial\JJ Arts\NNS .\.
+htd936	The\DT ennathoni\NNS -LRB-\-LRB- the\DT table\NN used\VBN for\IN massage\NN -RRB-\-RRB- used\VBN for\IN uzhichil\NN -LRB-\-LRB- massage\NN -RRB-\-RRB- in\IN the\DT Indian\NNP School\NNP Of\IN Martial\NNP Arts\NNP is\VBZ 600\CD year\NN old\JJ .\.
+htd937	The\DT other\JJ specialties\NNS of\IN Isa\NNP is\VBZ the\DT container\NN of\IN paddy\NN and\CC the\DT roof\NN garden\NN of\IN medicinal\JJ herbs\NNS .\.
+htd938	Facility\NN of\IN middle\JJ class\NN of\IN residence\NN and\CC meal\NN is\VBZ available\JJ for\IN the\DT guests\NNS .\.
+htd939	There\EX are\VBP several\JJ palm\NN leaves\VBZ scriptures\NNS Preserved\VBN in\IN Indian\NNP School\NNP Of\IN Martial\NNP Art\NNP .\.
+htd940	Indian\NNP School\NNP of\IN Martial\NNP Arts\NNP is\VBZ at\IN a\DT distance\NN of\IN 2\CD K\NNP .\.NP .\: from\IN Thiruvananthapuram\NNP Railway\NNP Station\NNP .\.
+htd941	Indian\NNP School\NNP Of\IN Martial\NNP Arts\NNP from\IN Thiruvananthapuram\NNP International\NNP Airport\NNP is\VBZ at\IN a\DT distance\NN of\IN 8\CD K\NNP .\.NP .\.
+htd942	Uttaram\NNP Kayam\NNP is\VBZ situated\VBN in\IN the\DT Neyyar\NNP forest\NN on\IN the\DT sides\NNS of\IN the\DT Agastya\NNP Mountain\NNP .\.
+htd943	Uttaram\NNP Kayam\NNP is\VBZ a\DT small\JJ piece\NN of\IN land\NN rich\JJ with\IN different\JJ sorts\NNS of\IN herbs\NNS and\CC different\JJ types\NNS of\IN birds\NNS .\.
+htd944	Now\RB a\DT days\NNS the\DT forest\NN department\NN of\IN Kerala\NNP has\VBZ provided\VBN the\DT facility\NN of\IN tree\NN house\NN here\RB .\.
+htd945	Taking\VBG a\DT boat\NN from\IN Neyyar\NNP Reservoir\NNP one\CD will\MD have\VB to\TO reach\VB a\DT place\NN named\VBN Komba\NNP to\TO go\VB to\TO Uttaram\NNP Kayam\NNP .\.
+htd946	Uttarakayam\NNP can\MD be\VB reached\VBN by\IN walking\VBG two\CD kilometer\NN through\IN dense\JJ forest\NN from\IN Komba\NNP .\.
+htd947	Minmutti\NNP waterfall\NN is\VBZ at\IN a\DT distance\NN of\IN two\CD K\NNP .\.NP .\: from\IN Uttaram\NNP Kayam\NNP .\.
+htd948	Minmutti\NNP waterfall\NN is\VBZ the\DT birth\NN place\NN of\IN canals\NNS like\IN Valliyar\NNP ,\, Mullayar\NNP and\CC Neyyar\NNP etc\NN .\.
+htd949	Uttaram\NNP Kayam\NNP tourism\NN has\VBZ been\VBN managed\VBN by\IN the\DT Forest\NNP Department\NNP .\.
+htd950	The\DT nearest\JJS railway\NN station\NN of\IN Uttaram\NNP Kayam\NNP Thiruvananthapuram\NNP is\VBZ 32\CD K\NNP .\.NP .\: far\RB .\.
+htd951	The\DT nearest\JJS airport\NN -\: Uttaram\NNP Kayam\NNP is\VBZ at\IN a\DT distance\NN of\IN 38\CD K\NNP .\.NP .\: from\IN Thiruvananthapuram\NNP International\NNP Airport\NNP .\.
+htd952	Kallar\JJ river\NN falls\VBZ on\IN the\DT way\NN to\TO Ponmudi\NNP -LRB-\-LRB- famous\JJ hill\NN luxury\NN center\NN -RRB-\-RRB- .\.
+htd953	This\DT place\NN has\VBZ been\VBN named\VBN Kallar\NNP because\IN of\IN the\DT Kallar\NNP river\NN .\.
+htd954	Pieces\NNP of\IN rounded\JJ stones\NNS are\VBP filled\VBN in\IN the\DT Kallar\NNP river\NN .\.
+htd955	Kallar\NNP situated\VBD at\IN a\DT distance\NN of\IN 50\CD K\NNP .\.NP .\: from\IN Thiruvananthapuram\NNP is\VBZ favorite\JJ entertainment\NN place\NN for\IN tourists\NNS and\CC travellers\NNS .\.
+htd956	The\DT main\JJ attractions\NNS of\IN Kallar\NNP are\VBP the\DT neighbouring\VBG Golden\NNP Valley\NNP -LRB-\-LRB- Suvarna\NNP Upatyaka\NNP -RRB-\-RRB- of\IN Vanantar\NNP and\CC Meenmutty\NNP waterfalls\NNS .\.
+htd957	Golden\JJ valley\NN is\VBZ very\RB near\JJ to\TO the\DT main\JJ road\NN .\.
+htd958	The\DT facility\NN to\TO bathe\VB in\IN the\DT clear\JJ cold\JJ water\NN of\IN Kallar\NNP is\VBZ available\JJ here\RB .\.
+htd959	Flowing\VBG on\IN the\DT rocks\NNS several\JJ small\JJ water\NN bodies\NNS form\VBP in\IN the\DT Kallar\NNP Golden\NNP Valley\NNP .\.
+htd960	If\IN you\PRP walk\VBP on\IN the\DT small\JJ pathway\NN on\IN the\DT right\JJ side\NN of\IN the\DT Kallar\NNP bridge\NN then\RB you\PRP will\MD reach\VB Meenmutty\NNP .\.
+htd961	Many\JJ butterflies\NNS and\CC birds\NNS will\MD be\VB seen\VBN on\IN this\DT journey\NN .\.
+htd962	Meenmutty\JJ jungle\NN has\VBZ itch\JJ causing\VBG worms\NNS during\IN rains\NNS .\.
+htd963	Guides\NNPS have\VBP been\VBN appointed\VBN for\IN forest\NN tour\NN by\IN the\DT Kallar\NNP Forest\NNP Conservation\NNP Committee\NNP .\.
+htd964	Residents\NNS of\IN the\DT area\NN and\CC the\DT Forest\NNP Department\NNP have\VBP together\RB formed\VBN Committee\NNP .\.
+htd965	Facilities\NNPS have\VBP been\VBN made\VBN available\JJ for\IN the\DT tourists\NNS of\IN Kallar\NNP by\IN the\DT District\NNP Tourism\NNP Promotion\NNP Council\NNP .\.
+htd966	Rest\VB and\CC hosting\VBG have\VBP also\RB been\VBN arranged\VBN in\IN Kallar\NNP .\.
+htd967	Facilities\NNPS like\IN dining\NN hall\NN ,\, toilet\NN ,\, changing\VBG room\NN ,\, forest\NN resource\NN sales\NNS center\NN ,\, telephone\NN booth\NN ,\, parking\NN place\NN etc\NN are\VBP available\JJ in\IN Kallar\NNP .\.
+htd968	The\DT nearest\JJS railway\NN station\NN from\IN Kallar\NNP Thiruvananthapuram\NNP is\VBZ at\IN a\DT distance\NN of\IN 61\CD K\NNP .\.NP .\.
+htd969	Kallar\NNP is\VBZ 67\CD K\NNP .\.NP .\: away\RB from\IN the\DT Thiruvananthapuram\NNP International\NNP Airport\NNP .\.
+htd970	If\IN you\PRP have\VBP tasted\VBN the\DT joy\NN of\IN the\DT wild\JJ beauty\NN so\RB far\RB on\IN feet\NNS or\CC in\IN vehicle\NN will\MD you\PRP not\RB enjoy\VB if\IN you\PRP get\VBP the\DT availability\NN of\IN forest\NN tour\NN riding\VBG on\IN an\DT elephant\NN ?\.
+htd971	Under\IN the\DT joint\JJ auspices\NNS of\IN Wildlife\NNP Department\NNP and\CC the\DT Kottur\NNP Development\NNP Committee\NNP the\DT facility\NN of\IN this\DT has\VBZ been\VBN provided\VBN in\IN Kappukatu\NNP .\.
+htd972	Kappukadu\NNP is\VBZ located\VBN near\IN Kattakada\NNP situated\VBD at\IN a\DT distance\NN of\IN 18\CD K\NNP .\.NP .\: from\IN Thiruvananthapuram\NNP .\.
+htd973	Elephant\NN ride\NN starts\VBZ from\IN the\DT boat\NN landing\NN point\NN .\.
+htd974	This\DT half\PDT an\DT hour\NN tour\NN organized\VBN in\IN Agastya\NNP Forest\NNP Area\NNP will\MD prove\VB an\DT unforgettable\JJ experience\NN for\IN the\DT tourists\NNS and\CC nature\NN lovers\NNS .\.
+htd975	Starting\VBG from\IN Kappukadu\NNP this\DT tour\NN passes\VBZ through\IN dense\JJ forest\NN .\.
+htd976	Tourists\NNS can\MD reach\VB back\RB in\IN Kappukadu\NNP through\IN Iravupara\NNP .\.
+htd977	Kappukadu\NNP Tribal\NNP Echo\NNP Development\NNP Committee\NNP has\VBZ arranged\VBN the\DT presented\VBN tour\NN the\DT fair\NN of\IN which\WDT is\VBZ only\JJ Rs\NNS .\: 100\CD .\.
+htd978	Kalakkayam\NNP waterfall\NN scatters\VBZ its\PRP$ splendor\NN at\IN Vanantar\NNP in\IN Idinjar\NNP near\IN Palod\NNP .\.
+htd979	Kalakkayam\NNP waterfall\NN attracts\VBZ courageous\JJ tourists\NNS and\CC nature\NN lovers\NNS towards\IN itself\PRP .\.
+htd980	Palod\NNP is\VBZ 35\CD K\NNP .\.NP .\: away\RB from\IN Thiruvananthapuram\NNP .\.
+htd981	One\CD can\MD reach\VB Peringammala\NNP from\IN Palod\NNP .\.
+htd982	If\IN one\CD goes\VBZ ahead\RB from\IN Peringammala\NN through\IN the\DT way\NN to\TO Idinjar\VB you\PRP will\MD reach\VB Kurissadi\NNP after\IN 12\CD K\NNP .\.NP .\.
+htd983	Kalakkayam\NNP waterfall\NN is\VBZ seen\VBN in\IN Palod\NNP only\RB .\.
+htd984	The\DT Kalakkayam\NNP waterfall\NN and\CC the\DT surrounding\JJ nature\NN lures\VBZ the\DT heart\NN with\IN the\DT eye\NN catching\VBG sight\NN .\.
+htd985	The\DT waterfall\NN is\VBZ part\NN of\IN the\DT Mankayam\NNP stream\NN which\WDT rises\VBZ from\IN the\DT Agastya\NNP kund\NN .\.
+htd986	A\DT water\NN body\NN has\VBZ formed\VBN opposite\NN of\IN the\DT Kalakkayam\NNP waterfall\NN .\.
+htd987	Smooth\JJ stones\NNS are\VBP abundant\JJ in\IN this\DT water\NN body\NN .\.
+htd988	Person\NN going\VBG into\IN this\DT water\NN body\NN should\MD go\VB very\RB carefully\RB .\.
+htd989	The\DT tour\NN organized\VBN for\IN the\DT tourists\NNS through\IN the\DT forest\NN road\NN introduces\VBZ the\DT animals\NNS and\CC the\DT vegetation\NN resource\NN .\.
+htd990	The\DT father\NN of\IN modern\JJ Indian\JJ painting\NN Raja\NNP Ravi\NNP Varma\NNP was\VBD born\VBN in\IN the\DT Kilimanoor\NNP palace\NN .\.
+htd991	It\PRP is\VBZ also\RB notable\JJ that\IN apart\RB from\IN Ravi\NNP Varma\NNP his\PRP$ sister\NN and\CC maternal\JJ uncle\NN were\VBD also\RB good\JJ painters\NNS .\.
+htd992	The\DT first\JJ teacher\NN of\IN Ravi\NNP Varma\NNP born\VBD in\IN Kilimanoor\NNP palace\NN was\VBD his\PRP$ own\JJ maternal\JJ uncle\NN Raj\NNP Varma\NNP .\.
+htd993	Staying\VBG at\IN the\DT palace\NN Raja\NNP Ravi\NNP Varma\NNP got\VBD an\DT introduction\NN to\TO the\DT western\JJ painting\NN technique\NN ,\, specially\RB oil\NN painting\NN .\.
+htd994	Later\RB Raja\NNP Ravi\NNP Varma\NNP became\VBD world\NN renowned\JJ .\.
+htd995	Raja\NNP Ravi\NNP Varma\NNP lived\VBD in\IN Mumbai\NNP and\CC Baroda\NNP for\IN many\JJ years\NNS .\.
+htd996	Located\VBN 39\CD K\NNP .\.NP .\: away\RB from\IN Thiruvananthapuram\NNP ,\, the\DT Kilimanoor\NNP Palace\NNP is\VBZ spread\VBN in\IN 15\CD acres\NNS of\IN land\NN .\.
+htd997	Big\JJ and\CC small\JJ buildings\NNS ,\, ponds\NNS ,\, wells\NNS ,\, sacred\JJ groves\NNS etc\NN .\: have\VBP been\VBN constructed\VBN in\IN the\DT Kilimanoor\NNP Palace\NNP .\.
+htd998	The\DT entrance\NN of\IN the\DT Palace\NNP opens\VBZ towards\IN the\DT Art\NN gallery\NN of\IN Raja\NNP Ravi\NNP Varma\NNP .\.
+htd999	Raja\NNP Ravi\NNP Varma\NNP used\VBD to\TO paint\VB sitting\VBG at\IN the\DT entrance\NN of\IN the\DT palace\NN .\.
+htd1000	Copies\NNS of\IN his\PRP$ creations\NNS have\VBP been\VBN preserved\VBN in\IN the\DT studio\NN here\RB .\.

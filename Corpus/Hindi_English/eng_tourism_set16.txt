@@ -1,0 +1,1001 @@
+ID	Value
+htd15001	Zanskar\NNP '\POS situated\VBN in\IN north-western\JJ Himalaya\NNP is\VBZ the\DT most\RBS parched\JJ and\CC cold\JJ state\NN of\IN the\DT country\NN .\.
+htd15002	This\DT terrain\NN spread\VBD over\IN approximately\RB 3\CD thousand\CD square\JJ metres\NNS is\VBZ surrounded\VBN by\IN Kashmir\NNP in\IN the\DT North\NNP -\: west\NN ,\, Lahol\NNP in\IN the\DT South\NNP ,\, Tibet\NNP in\IN the\DT East\NNP and\CC Kishtwar\NNP in\IN the\DT West\NNP .\.
+htd15003	Two\CD world\NN famous\JJ Himalayan\JJ peaks\NNS '\POS Nun\NN '\'' and\CC '\'' Kun\NNP '\POS are\VBP existent\JJ in\IN this\DT state\NN .\.
+htd15004	For\IN this\DT reason\NN ,\, apart\RB from\IN natural\JJ beauty\NN ,\, Buddhist\JJ caves\NNS and\CC ancient\JJ culture\NN this\DT area\NN is\VBZ a\DT prime\JJ example\NN of\IN mountaineering\VBG also\RB .\.
+htd15005	In\IN the\DT winter\NN season\NN due\JJ to\TO excessive\JJ snowfall\NN the\DT Zanskar\NNP area\NN becomes\VBZ very\RB cold\JJ ,\, impassable\JJ and\CC absolutely\RB like\IN desolate\JJ .\.
+htd15006	Before\IN being\VBG the\DT rule\NN of\IN the\DT rulers\NNS of\IN Dogra\NNP of\IN Jammu\NNP -\: Kashmir\NNP in\IN 1834\CD Zanskar\NNP was\VBD an\DT independent\JJ state\NN within\IN Ladakh\NNP .\.
+htd15007	Zanskar\NNP area\NN also\RB kept\VBD being\VBG known\VBN by\IN the\DT name\NN of\IN Little\NNP Tibet\NNP .\.
+htd15008	The\DT villages\NNS of\IN Zanskar\NNP state\NN are\VBP situated\VBN primarily\RB in\IN the\DT valleys\NNS of\IN two\CD major\JJ rivers\NNS Doda\NNP and\CC Lingti\NNP and\CC their\PRP$ tributaries\NNS .\.
+htd15009	There\EX is\VBZ a\DT clear\JJ effect\NN of\IN the\DT geographical\JJ location\NN and\CC climate\NN of\IN this\DT place\NN on\IN the\DT places\NNS chosen\VBN for\IN establishing\VBG villages\NNS ,\, clothing\NN of\IN men\NNS and\CC women\NNS ,\, religious\JJ festivals\NNS ,\, worshipping\VBG practises\NNS of\IN gods\NNS and\CC goddesses\NNS and\CC ceremonial\JJ conventions\NNS .\.
+htd15010	The\DT social\JJ and\CC religious\JJ lives\NNS of\IN people\NNS is\VBZ regulated\VBN by\IN the\DT worship\NN of\IN temples\NNS .\.
+htd15011	Genteel\JJ art\NN and\CC cultural\JJ .\.
+htd15012	The\DT means\NNS of\IN life\NN maintenance\NN in\IN Doda\NNP and\CC Lingti\NNP village\NN is\VBZ extremely\RB limited\JJ .\.
+htd15013	The\DT art\NN ,\, tradition\NN of\IN these\DT villages\NNS seems\VBZ to\TO have\VB been\VBN started\VBN in\IN the\DT first\JJ millennium\NN A\NN .\.NP .\: by\IN local\JJ animal-tenders\NNS .\.
+htd15014	The\DT remnants\NNS of\IN art\NN in\IN certain\JJ places\NNS in\IN the\DT impassive\JJ roads\NNS are\VBP existent\JJ in\IN the\DT form\NN of\IN those\DT rocks\NNS ,\, on\IN which\WDT the\DT pictures\NNS of\IN reindeer\NN ,\, deer\NN ,\, group\NN dances\NNS ,\, chase\NN scenes\NNS ,\, horses\NNS etc\NN .\: have\VBP been\VBN etched\VBN .\.
+htd15015	On\IN the\DT advent\NN and\CC spread\NN of\IN the\DT Buddhist\JJ religion\NN the\DT major\JJ topic\NN of\IN this\DT art\NN tradition\NN and\CC Buddhists\NNPS monks\NNS and\CC local\JJ .\.
+htd15016	Undoubtedly\NNP the\DT ruins\NNS of\IN the\DT above\RB mentioned\VBN art\NN on\IN the\DT inaccessible\JJ roads\NNS are\VBP proof\NN of\IN the\DT fact\NN that\IN in\IN ancient\JJ times\NNS spread\NN and\CC expansion\NN of\IN Buddhist\JJ religion\NN and\CC culture\NN in\IN Tibet\NNP and\CC Central\NNP Asia\NNP would\MD have\VB taken\VBN place\NN through\IN the\DT medium\NN of\IN this\DT very\JJ period\NN .\.
+htd15017	There\EX is\VBZ important\JJ contribution\NN of\IN this\DT art\NN tradition\NN on\IN local\JJ development\NN also\RB .\.
+htd15018	Apart\RB from\IN this\DT its\PRP$ clear\JJ influence\NN has\VBZ fallen\VBN on\IN the\DT economic\JJ and\CC cultural\JJ sides\NNS of\IN Danda\NNP and\CC Ligli\NNP villages\NNS .\.
+htd15019	Along\IN with\IN the\DT spread\NN of\IN the\DT Buddhist\JJ religion\NN in\IN the\DT Kushan\NNP age\NN the\DT Indian\JJ styles\NNS of\IN art\NN rose\VBD at\IN Mathura\NNP and\CC Gandhar\NNP .\.
+htd15020	Apart\RB from\IN the\DT pre-existent\JJ art\NN of\IN this\DT place\NN the\DT influence\NN of\IN Mathura\NNP and\CC Gandhar\NNP styles\NNS can\MD also\RB be\VB seen\VBN on\IN Buddhist\JJ art\NN .\.
+htd15021	These\DT art\NN patterns\NNS are\VBP seen\VBN carved\VBN on\IN the\DT large\JJ stones\NNS in\IN the\DT Maitrey\NNP and\CC statues\NNS of\IN the\DT Dhyani\NNP Buddhist\NNP creed\NN located\VBN at\IN several\JJ places\NNS like\IN Karshekhar\NNP ,\, Vyamakhar\NNP ,\, Sumdhung\NNP ,\, Sani\NNP ,\, Phe\NNP ,\, Tonde\NNP ,\, Jangla\NNP ,\, Muni\JJ etc.\NN .\.
+htd15022	The\DT religious\JJ significance\NN of\IN these\DT places\NNS was\VBD continuously\RB maintained\VBN and\CC later\RB in\IN about\IN the\DT 9th\JJ -\: 10th\JJ century\NN inspired\VBN by\IN the\DT Tibetan\NNP Buddhist\NNP tradition\NN many\JJ caves\NNS were\VBD constructed\VBN .\.
+htd15023	In\IN this\DT art\NN a\DT great\JJ Tibetan\JJ scholar\NN teacher\NN '\'' Rinchen\NNP Gumpo\NNP '\POS in\IN this\DT area\NN along\IN with\IN the\DT construction\NN of\IN monasteries\NNS and\CC temples\NNS made\VBD a\DT collection\NN of\IN incantations\NNS and\CC Tantric\JJ books\NNS .\.
+htd15024	The\DT most\RBS ancient\JJ and\CC attractive\JJ Buddhist\JJ cave\NN constructed\VBN by\IN Guru\NNP Rinchen\NNP Gumpo\NNP is\VBZ situated\VBN in\IN Samuda\NNP .\.
+htd15025	Constructed\VBN in\IN approximately\RB the\DT 10th\JJ century\NN the\DT dukhang\NN of\IN this\DT cave\NN is\VBZ considered\VBN unexcelled\JJ for\IN its\PRP$ unique\JJ and\CC attractive\JJ decoration\NN .\.
+htd15026	In\IN it\PRP on\IN the\DT branches\NNS of\IN the\DT tree\NN a\DT constructed\VBN in\IN Lhasa\NNP and\CC five\CD meditating\JJ Buddhas\NNS are\VBP displayed\VBN in\IN an\DT impressive\JJ manner\NN .\.
+htd15027	The\DT monasteries\NNS and\CC temples\NNS of\IN Samuda\NNP hold\VBP a\DT similarity\NN to\TO the\DT Buddhist\JJ temples\NNS of\IN Alvi\NNP in\IN structure\NN and\CC design\NN .\.
+htd15028	To\TO reach\VB here\RB one\CD has\VBZ to\TO come\VB via\IN Alvi\NNP and\CC according\VBG to\TO an\DT adage\NN Guru\NNP Rinchen\NNP Gumpo\NNP had\VBD reached\VBN Samuda\NNP by\IN that\DT route\NN only\RB .\.
+htd15029	Jankhul\JJ cave\NN ,\, is\VBZ situated\VBN approximately\RB 33\CD k\NN .\.N .\: east\RB from\IN Padam\NNP on\IN Padam\NNP -\: Kishtwar\NNP road\NN .\.
+htd15030	This\DT is\VBZ famous\JJ in\IN the\DT entire\JJ region\NN for\IN its\PRP$ unparalleled\JJ art\NN works\NNS and\CC wondrous\JJ incidents\NNS .\.
+htd15031	According\VBG to\TO tradition\NN it\PRP is\VBZ believed\VBN that\IN in\IN the\DT 8th\JJ century\NN the\DT maximum\JJ part\NN of\IN Ladakh\NNP had\VBD got\VBN flooded\VBN .\.
+htd15032	At\IN that\DT time\NN Guru\NNP Naropa\NNP had\VBD sat\VBN at\IN this\DT stone\NN and\CC done\VBN deep\JJ meditation\NN .\.
+htd15033	His\PRP$ footsteps\NNS are\VBP still\RB present\JJ on\IN the\DT stone\NN .\.
+htd15034	In\IN approximately\RB 15th\JJ century\NN the\DT construction\NN of\IN a\DT five\CD storey\NN temple\NN was\VBD done\VBN adjoining\JJ that\IN stone\NN ,\, which\WDT goes\VBZ upward\RB gradually\RB along\IN with\IN the\DT height\NN of\IN the\DT stone\NN .\.
+htd15035	In\IN the\DT fourth\JJ floor\NN is\VBZ that\DT part\NN of\IN the\DT stone\NN on\IN which\WDT are\VBP drawn\VBN the\DT foot\NN signs\NNS of\IN Guru\NNP Naropa\NNP .\.
+htd15036	In\IN spite\NN of\IN its\PRP$ natural\JJ architecture\NN also\RB this\DT cave\NN of\IN Jankhul\NNP lends\VBZ vivacity\NN to\TO its\PRP$ lonely\JJ atmosphere\NN .\.
+htd15037	The\DT walls\NNS of\IN the\DT cave\NN are\VBP painted\VBN with\IN Buddhist\JJ gods\NNS and\CC goddesses\NNS and\CC incidents\NNS .\.
+htd15038	Here\RB in\IN the\DT Pujas\NNP the\DT famous\JJ gurus\NNS of\IN Ladakh\NNP ,\, Tibet\NNP ,\, Zenskar\NNP and\CC Bhutan\NNP ,\, temple\NN constructors\NNS ,\, painters\NNS and\CC rare\JJ idols\NNS of\IN the\DT composers\NNS of\IN Buddhist\JJ works\NNS have\VBP been\VBN kept\VBN .\.
+htd15039	Among\IN these\DT the\DT statues\NNS of\IN Guru\NNP Rinchanjangpo\NNP ,\, Fyagaspa\NNP Sherap\NNP and\CC Chherring\NNP Dorje\NNP have\VBP their\PRP$ own\JJ unique\JJ attraction\NN and\CC importance\NN .\.
+htd15040	The\DT Buddhist\JJ memorial\NN of\IN Sani\NNP approximately\RB at\IN a\DT distance\NN of\IN 12\CD k\NN .\.N .\: from\IN Padam\NNP is\VBZ famous\JJ for\IN its\PRP$ art\NN .\.
+htd15041	On\IN the\DT rock\NN slabs\NNS located\VBN in\IN the\DT middle\NN of\IN the\DT village\NN ,\, the\DT statues\NNS of\IN Maitrey\NNP ,\, Buddha\NNP and\CC Awalokiteshwar\NNP have\VBP been\VBN sculpted\VBN .\.
+htd15042	They\PRP are\VBP worshipped\VBN even\RB today\NN .\.
+htd15043	In\IN the\DT Indian\JJ art\NN styles\NNS in\IN these\DT idols\NNS the\DT coordination\NN of\IN Mathura\NNP and\CC Gandhar\NNP is\VBZ seen\VBN .\.
+htd15044	Apart\RB from\IN these\DT idols\NNS the\DT world\NN famous\JJ '\'' Kanika\NNP '\POS chorten\NN of\IN Sani\NNP attracts\VBZ everybody\NN by\IN its\PRP$ shape\NN and\CC architecture\NN .\.
+htd15045	Otherwise\RB the\DT establishment\NN of\IN this\DT Stupa\NNP has\VBZ been\VBN linked\VBN to\TO the\DT rule\NN of\IN Kanishka\NNP ,\, but\CC on\IN the\DT basis\NN of\IN architecture\NN this\DT can\MD not\RB be\VB thought\VBN to\TO be\VB before\IN the\DT 7th\JJ -\: 8th\JJ century\NN .\.
+htd15046	An\DT idol\NN of\IN Guru\NNP Naropa\NNP is\VBZ installed\VBN in\IN the\DT miniature\JJ temple\NN attached\VBN with\IN the\DT Stupa\NNP .\.
+htd15047	Small\JJ cells\NNS of\IN another\DT ancient\JJ temple\NN located\VBN in\IN the\DT side\NN of\IN the\DT temple\NN has\VBZ been\VBN decorated\VBN with\IN the\DT statues\NNS of\IN Buddhist\JJ deities\NNS and\CC walls\NNS have\VBP been\VBN painted\VBN with\IN the\DT life\NN events\NNS of\IN Padmasambhav\NNP .\.
+htd15048	It\PRP seems\VBZ by\IN these\DT pictures\NNS that\IN their\PRP$ artists\NNS must\MD have\VB stayed\VBN in\IN Kashmir\NNP Gate\NNP because\IN picturesque\JJ description\NN of\IN Kashmir\NNP has\VBZ been\VBN done\VBN in\IN the\DT background\NN of\IN the\DT pictures\NNS .\.
+htd15049	In\IN the\DT Buddhist\JJ temple\NN of\IN Sani\NNP a\DT grand\JJ idol\NN of\IN Buddha\NNP of\IN gold\NN is\VBZ placed\VBN .\.
+htd15050	In\IN the\DT 15th\JJ -\: 16th\JJ century\NN it\PRP had\VBD been\VBN made\VBN into\IN two\CD parts\NNS by\IN dacoits\NNS but\CC they\PRP stole\VBD away\RB only\RB the\DT lower\JJR heavy\JJ part\NN and\CC left\VBD the\DT upper\JJ part\NN here\RB itself\PRP .\.
+htd15051	Today\NN the\DT same\JJ upper\JJ part\NN has\VBZ been\VBN joined\VBN with\IN the\DT lower\JJR part\NN constructed\VBN by\IN Stacko\NNP and\CC the\DT entire\JJ idol\NN been\VBN kept\VBN in\IN the\DT temple\NN .\.
+htd15052	The\DT temple\NN constructed\VBD on\IN the\DT summit\NN of\IN the\DT mountain\NN situated\VBN in\IN '\'' Fey\NNP '\POS village\NN is\VBZ also\RB considered\VBN to\TO be\VB of\IN the\DT time\NN of\IN Rinchen\NNP Zangpo\NNP .\.
+htd15053	The\DT most\RBS important\JJ attraction\NN of\IN this\DT temple\NN of\IN Fey\JJ village\NN are\VBP the\DT soulful\JJ depiction\NN of\IN incidents\NNS of\IN the\DT life\NN of\IN Buddha\NNP .\.
+htd15054	In\IN these\DT the\DT sight\NN of\IN the\DT head\NN shaving\VBG of\IN Buddha\NNP has\VBZ become\VBN very\RB poignant\JJ .\.
+htd15055	These\DT wall\NN paintings\NNS have\VBP been\VBN made\VBN by\IN Master\NNP `\`` Fyagaspa\NNP Sarop\NNP '\POS .\.
+htd15056	Sir\NNP Aurel\NNP Steine\NNP in\IN his\PRP$ book\NN `\`` Ancient\NNP Khotan\NNP '\POS has\VBZ given\VBN the\DT details\NNS of\IN Keshmundan\JJ pictures\NNS of\IN Buddha\NNP and\CC according\VBG to\TO him\PRP it\PRP has\VBZ a\DT glimpse\NN of\IN the\DT Indian\NNP Gandhar\NNP style\NN of\IN the\DT fourth\JJ -\: fifth\JJ century\NN .\.
+htd15057	Apart\RB from\IN this\DT a\DT coordination\NN of\IN the\DT arts\NNS of\IN Kashmir\NNP ,\, Indian\NNP ,\, Middle\NNP Asian\NNP and\CC Tibet\NNP is\VBZ also\RB found\VBN to\TO be\VB seen\VBN in\IN the\DT pictures\NNS in\IN this\DT temple\NN .\.
+htd15058	Ancient\NNP relics\NNS are\VBP existent\JJ in\IN the\DT '\'' Karsa\NNP '\POS village\NN situated\VBN on\IN the\DT mountain\NN in\IN front\NN of\IN Padam\NNP .\.
+htd15059	Apart\RB from\IN the\DT remains\NNS of\IN the\DT forts\NNS in\IN Karsa\NNP village\NN are\VBP some\DT Buddhist\JJ temples\NNS .\.
+htd15060	These\DT frescos\NNS of\IN the\DT temples\NNS of\IN Karsa\NNP village\NN seem\VBP to\TO be\VB of\IN the\DT time\NN of\IN Rinchen\NNP Zangpo\NNP .\.
+htd15061	Five\CD meditating\JJ Buddhas\NNS are\VBP painted\VBN on\IN the\DT walls\NNS of\IN the\DT chortens\NNS situated\VBN in\IN Karsa\NNP village\NN .\.
+htd15062	The\DT present\JJ cave\NN of\IN Karsa\NNP is\VBZ the\DT biggest\JJS ,\, most\RBS important\JJ and\CC valuable\JJ cave\NN .\.
+htd15063	There\EX is\VBZ adequate\JJ arrangement\NN for\IN staying\NN of\IN approximately\RB 200\CD lamas\NNS in\IN the\DT present\JJ cave\NN of\IN Karsa\NNP .\.
+htd15064	After\IN the\DT 13th\JJ century\NN the\DT monasteries\NNS ,\, temples\NNS of\IN Ladakh\NNP and\CC Zenskar\NNP had\VBD to\TO go\VB through\IN the\DT phase\NN of\IN external\JJ attacks\NNS ,\, by\IN which\WDT a\DT lot\NN of\IN damage\NN was\VBD caused\VBN to\TO them\PRP .\.
+htd15065	In\IN this\DT time\NN dacoits\NNS took\VBD away\RB innumerable\JJ rare\JJ idols\NNS and\CC only\RB some\DT important\JJ Buddhist\NNP temples\NNS remained\VBD .\.
+htd15066	During\IN this\DT dacoity\NN all\DT monasteries\NNS ,\, temples\NNS and\CC houses\NNS of\IN Kargil\NNP ,\, Suru\NNP ,\, Sod\NNP ,\, Batalik\NNP and\CC Chigtan\NNP area\NN got\VBD destroyed\VBN .\.
+htd15067	Most\JJS monasteries\NNS -\: temples\NNS of\IN Zenskar\NNP were\VBD saved\VBN because\IN of\IN the\DT impassable\JJ and\CC safe\JJ geographical\JJ location\NN .\.
+htd15068	The\DT invaders\NNS could\MD not\RB proceed\VB beyond\IN Parkacha\NNP .\.
+htd15069	After\IN the\DT 15th\JJ -\: 16th\JJ century\NN the\DT maximum\JJ influence\NN of\IN Tibetan\JJ architecture\NN and\CC worshipping\NN practices\NNS was\VBD felt\VBN on\IN the\DT Buddhist\JJ tradition\NN of\IN Zenskar\NNP ,\, whose\WP$ imprint\NN can\MD be\VB seen\VBN seen\VBN in\IN the\DT monasteries\NNS and\CC temples\NNS make\VBP at\IN that\DT time\NN .\.
+htd15070	Apart\RB from\IN this\DT from\IN the\DT point\NN of\IN view\NN of\IN safety\NN also\RB most\JJS monasteries\NNS ,\, temples\NNS of\IN Aslam\NNP had\VBD been\VBN made\VBN on\IN the\DT summits\NNS of\IN mountains\NNS .\.
+htd15071	Lohsar\NNP '\POS the\DT festival\NN of\IN new\JJ year\NN celebrated\VBN in\IN the\DT winters\NNS fills\VBZ them\PRP with\IN such\JJ enthusiasm\NN that\IN they\PRP forget\VBP the\DT chilling\JJ cold\NN of\IN 400\CD also\RB .\.
+htd15072	But\CC because\IN of\IN financial\JJ pressure\NN ,\, modern\JJ tourism\NN and\CC the\DT impractical\JJ policies\NNS of\IN development\NN the\DT tradition\NN of\IN preservation\NN of\IN an\DT ancient\JJ culture\NN and\CC Buddhist\JJ memorials\NNS is\VBZ going\VBG on\IN being\VBG affected\VBN .\.
+htd15073	After\IN the\DT severe\JJ struggles\NNS of\IN the\DT entire\JJ day\NN ,\, after\IN dealing\VBG with\IN the\DT dinner\NN -\: washing\VBG ,\, these\DT mothers\NNS knitting\VBG carpets\NNS for\IN so\RB long\RB could\MD laugh\NN wildly\RB and\CC could\MD happily\RB answer\VB our\PRP$ every\DT question\NN .\.
+htd15074	It\PRP is\VBZ apparent\JJ in\IN all\PDT these\DT journeys\NNS the\DT mention\NN of\IN '\'' Kaddali\NNP Festival\NNP '\POS used\VBN to\TO come\VB in\IN now\RB and\CC then\RB .\.
+htd15075	We\PRP had\VBD promised\VBN many\JJ families\NNS that\IN no\DT matter\NN what\WP happens\VBZ ,\, we\PRP would\MD come\VB to\TO Chaudans\NNP at\IN the\DT time\NN of\IN Kaddali\NNP .\.
+htd15076	Elders\NNP used\VBD to\TO bless\VB that\IN '\'' Badwa\NNP Shyangshe\NNP '\POS keep\VB you\PRP safe\JJ ,\, this\DT earth\NN will\MD definitely\RB call\VB you\PRP no\DT matter\NN what\WP happens\VBZ .\.
+htd15077	Now\RB we\PRP had\VBD a\DT small\JJ daughter\NN Sunanda\NNP also\RB who\WP had\VBD just\RB celebrated\VBN her\PRP$ second\JJ birthday\NN .\.
+htd15078	We\PRP were\VBD concerned\VBN about\IN her\PRP$ health\NN but\CC we\PRP had\VBD to\TO participate\VB in\IN this\DT joyfulness\NN of\IN '\'' Shauka\NNP Samaj\NNP '\POS -\: that\IN Shauka\NNP Samaj\NNP which\WDT was\VBD like\IN our\PRP$ second\JJ family\NN .\.
+htd15079	In\IN Dharchula\NNP our\PRP$ beloved\JJ and\CC respected\JJ Shri\NNP Jawahar\NNP Singh\NNP Nabiyal\NNP and\CC Shri\NNP Harish\NNP Rautela\NNP used\VBD to\TO continuously\RB make\VB available\JJ to\TO us\PRP through\IN letters\NNS every\DT small\JJ and\CC big\JJ information\NN .\.
+htd15080	Kaddali\NNP Mahotsav\NNP was\VBD to\TO happen\VB in\IN October\NNP 1999\CD ,\, which\WDT was\VBD coming\VBG after\IN a\DT gap\NN of\IN twelve\CD years\NNS .\.
+htd15081	In\IN Dharchula\NNP Nabiyalji\NNP and\CC Rautelaji\NNP had\VBD with\IN great\JJ intimacy\NN cared\VBD for\IN us\PRP three\CD ,\, like\IN always\RB .\.
+htd15082	On\IN the\DT left\JJ side\NN of\IN the\DT entrance\NN door\NN of\IN the\DT great\JJ camp\NN of\IN Juna\NNP Akhara\NNP there\EX is\VBZ a\DT great\JJ crowd\NN .\.
+htd15083	A\DT small\JJ banner\NN is\VBZ saying\VBG that\IN this\DT is\VBZ the\DT place\NN of\IN Urdhvabahu\NNP Baba\NNP .\.
+htd15084	An\DT emaciated\JJ ,\, Digambar\NNP ,\, elder\JJR Baba\NNP is\VBZ sitting\VBG to\TO one\CD side\NN of\IN the\DT Dhuni\NNP .\.
+htd15085	Some\DT foreign\JJ girls\NNS were\VBD serving\VBG Urdhvabahu\NNP Baba\NNP .\.
+htd15086	On\IN the\DT spread\NN feet\NNS of\IN Urdhvabahu\NNP Baba\NNP common\JJ Indians\NNPS are\VBP repeatedly\RB touching\VBG their\PRP$ heads\NNS in\IN respect\NN .\.
+htd15087	The\DT right\JJ hand\NN of\IN Urdhvabahu\NNP Baba\NNP is\VBZ constantly\RB upright\JJ in\IN blessing\NN .\.
+htd15088	With\IN the\DT left\JJ hand\NN Urdhvabahu\NNP Baba\NNP is\VBZ applying\VBG ash\NN on\IN the\DT foreheads\NNS of\IN the\DT troubled\JJ Indians\NNPS and\CC beating\VBG their\PRP$ troubles\NNS .\.
+htd15089	It\PRP is\VBZ half\DT past\JJ eleven\NN at\IN night\NN ,\, when\WRB I\PRP am\VBP returning\VBG to\TO media\NNS camp\NN from\IN the\DT world\NN of\IN Akharas\NNP based\VBN on\IN Ganga\NNP .\.
+htd15090	Outside\IN the\DT entrance\NN doors\NNS of\IN the\DT Akharas\NNP the\DT group\NN of\IN band\NN -\: people\NNS are\VBP rehearsing\VBG for\IN the\DT procession\NN of\IN the\DT royal\JJ bath\NN of\IN tomorrow\NN morning\NN .\.
+htd15091	The\DT whole\JJ Kumbh\NNP city\NN is\VBZ bathed\VBN in\IN the\DT dazzle\NN of\IN light\NN .\.
+htd15092	Here\RB it\PRP does\VBZ not\RB seem\VB that\IN there\EX is\VBZ heavy\JJ crisis\NN of\IN electricity\NN in\IN the\DT state\NN .\.
+htd15093	Continuous\JJ electricity\NN is\VBZ being\VBG given\VBN to\TO the\DT Kumbh\NNP by\IN cutting\VBG from\IN industries\NNS ,\, offices\NNS ,\, cities\NNS .\.
+htd15094	On\IN crossing\VBG Pantun\NNP bridge\VB a\DT heavy\JJ crowd\NN of\IN people\NNS sleeping\VBG -\: waking\VBG on\IN the\DT sand\NN ,\, lying\VBG twisted\VBN .\.
+htd15095	The\DT crowd\NN is\VBZ awaiting\VBG the\DT break\NN of\IN dawn\NN ,\, when\WRB the\DT Sun\NNP will\MD enter\VB the\DT Capricorn\NNP constellation\NN and\CC they\PRP will\MD take\VB a\DT dip\NN in\IN the\DT Sangam\NNP .\.
+htd15096	There\EX is\VBZ such\JJ impatient\JJ ,\, such\JJ thrilling\JJ ,\, such\JJ heated\JJ wait\NN for\IN this\DT moment\NN by\IN them\PRP that\IN the\DT dripping\VBG dew\NN from\IN above\IN and\CC the\DT wet\JJ sand\NN from\IN below\IN also\RB does\VBZ not\RB produce\VB any\DT chill\NN .\.
+htd15097	I\PRP am\VBP shivering\VBG despite\IN the\DT warmth\NN of\IN walking\VBG on\IN foot\NN only\RB .\.
+htd15098	It\PRP is\VBZ very\RB cold\JJ but\CC had\VBD a\DT good\JJ sleep\NN inside\IN the\DT Swiss\JJ cottage\NN of\IN the\DT media\NNS camp\NN .\.
+htd15099	Friends\NNS woke\VBD me\PRP up\RP at\IN 4\CD o\NNS '\POS clock\NN then\RB the\DT roaming\NN -LRB-\-LRB- both\DT of\IN the\DT body\NN and\CC mind\NN -RRB-\-RRB- tiredness\NN of\IN the\DT previous\JJ day\NN was\VBD filled\VBN in\IN my\PRP$ body\NN .\.
+htd15100	But\CC had\VBD to\TO get\VB up\RB and\CC walk\VB towards\IN the\DT shore\NN of\IN the\DT Sangam\NNP .\.
+htd15101	Today\NN is\VBZ Makar\NNP Sakranti\NNP -\: the\DT first\JJ royal\JJ bath\NN of\IN the\DT Kumbh\NNP .\.
+htd15102	From\IN five\CD o'clock\RB various\JJ processions\NNS of\IN Akharas\NNP will\MD leave\VB for\IN bath\NN at\IN the\DT Sangam\NNP .\.
+htd15103	Before\IN this\DT had\VBD gone\VBN for\IN the\DT Kumbh\NNP of\IN Haridwar\NNP -LRB-\-LRB- 1998\CD -RRB-\-RRB- but\CC this\DT would\MD be\VB the\DT first\JJ opportunity\NN of\IN seeing\VBG the\DT royal\JJ bath\NN .\.
+htd15104	At\IN half\DT past\JJ four\CD we\PRP were\VBD outside\IN the\DT media\NNS camp\NN .\.
+htd15105	The\DT crowd\NN of\IN bathers\NNS was\VBD going\VBG on\IN the\DT Red\JJ road\NN .\.T long\JJ ,\, homogeneous\JJ affair\NN of\IN men\NNS -\: women\NNS .\.
+htd15106	Some\DT people\NNS had\VBD bags\NNS in\IN their\PRP$ hands\NNS and\CC some\DT had\VBD goods\NNS filled\VBN gunny\NN -\: bags\NNS on\IN their\PRP$ heads\NNS .\.
+htd15107	Some\DT had\VBD held\VBN the\DT hands\NNS of\IN children\NNS tightly\RB and\CC some\DT had\VBD held\VBN small\JJ kids\NNS .\.
+htd15108	People\NNS are\VBP going\VBG continuously\RB -\: taking\VBG long\JJ steps\NNS ,\, murmuring\VBG something\NN or\CC the\DT other\JJ .\.
+htd15109	Standing\VBG in\IN wonder\NN in\IN front\NN of\IN the\DT camp\NN we\PRP were\VBD listening\VBG to\TO snippets\NNS of\IN all\PDT the\DT languages\NNS of\IN India\NNP so\IN many\JJ languages\NNS .\.
+htd15110	Some\DT were\VBD laughing\JJ and\CC joking\JJ ,\, some\DT were\VBD scolding\VBG their\PRP$ group\NN and\CC some\DT were\VBD going\VBG along\IN singing\VBG hymns\NNS .\.
+htd15111	We\PRP also\RB gel\VBP in\IN this\DT crowd\NN ,\, it\PRP is\VBZ just\RB dusk\NN now\RB and\CC we\PRP also\RB met\VBD with\IN a\DT lot\NN of\IN people\NNS coming\VBG back\RB after\IN Makar\NNP Sankranti\NNP bath\NN .\.
+htd15112	It\PRP seems\VBZ that\IN after\IN midnight\NN only\RB the\DT bathing\NN had\VBD begun\VBN .\.
+htd15113	The\DT actual\JJ shore\NN of\IN the\DT Sangam\NNP remains\VBZ reserved\JJ for\IN the\DT Akhara\NNP of\IN royal\JJ bath\NN ,\, so\IN those\DT who\WP have\VBP to\TO bathe\VB at\IN the\DT Sangam\NNP -\: nose\NN they\PRP bathe\VBP at\IN two\CD -\: three\CD at\IN night\NN itself\PRP .\.
+htd15114	People\NNS coming\VBG after\IN bathing\NN are\VBP very\RB satisfied\JJ and\CC are\VBP watching\VBG the\DT crowd\NN going\VBG for\IN bathing\NN with\IN pride\NN .\.
+htd15115	Seeing\VBG their\PRP$ satisfied\JJ walk\NN the\DT people\NNS going\VBG for\IN bath\NN get\VBP even\RB more\JJR impatient\NN .\.
+htd15116	The\DT footsteps\NNS of\IN the\DT people\NNS going\VBG for\IN bath\NN becomes\VBZ quicker\JJR .\.
+htd15117	Hurry\NN and\CC worry\NN surround\VBP them\PRP .\.
+htd15118	There\EX was\VBD so\RB much\JJ crowd\NN that\WDT fear\VBP started\VBN .\.
+htd15119	Stampede\NN and\CC accidents\NNS are\VBP not\RB uncommon\JJ for\IN Kumbh\NNP .\.
+htd15120	On\IN the\DT expanse\NN of\IN the\DT Sangam\NNP shore\NN appearing\VBG ahead\RB its\PRP$ as\IN if\IN the\DT whole\NN of\IN India\NNP spreads\VBZ out\RP in\IN front\NN of\IN the\DT eyes\NNS .\.
+htd15121	There\EX is\VBZ hardly\RB any\DT corner\NN of\IN the\DT country\NN from\IN where\WRB the\DT people\NNS have\VBP not\RB come\VBN to\TO this\DT Kumbh\NNP .\.
+htd15122	People\NNS all\DT around\IN .\.
+htd15123	Going\VBG on\IN bathing\NN .\.
+htd15124	Come\VBN after\IN bathing\NN .\.
+htd15125	Lay\VB down\RP ,\, sat\VBD up\RP .\.
+htd15126	Got\VBD their\PRP$ heads\NNS shaved\VBD .\.
+htd15127	Did\VBD libation\NN .\.
+htd15128	Cooked\VBN food\NN .\.
+htd15129	Ate\VBD meals\NNS .\.
+htd15130	Rolled\VBN at\IN the\DT feet\NNS of\IN priests\NNS .\.
+htd15131	Searched\VBN for\IN lost\JJ ones\NNS .\.
+htd15132	Cried\VBN .\.
+htd15133	Opened\VBD the\DT bundle\NN of\IN difficulties\NNS .\.
+htd15134	Searched\VBN for\IN moksha\NN in\IN the\DT waters\NNS of\IN the\DT Sangam\NNP .\.
+htd15135	People\NNS are\VBP bumping\VBG into\IN one\CD another\DT .\.
+htd15136	They\PRP have\VBP no\DT relation\NN within\IN themselves\PRP .\.
+htd15137	They\PRP are\VBP not\RB even\RB recognizing\VBG each\DT other\JJ 's\POS voices\NNS .\.
+htd15138	But\CC today\NN ,\, here\RB in\IN this\DT Kumbh\NN they\PRP are\VBP in\IN a\DT strange\JJ way\NN looking\VBG one\CD .\.
+htd15139	This\DT Kumbh\NNP ,\, this\DT Ganga\NNP -\: Yamuna\NNP ,\, this\DT Makar\NNP -\: Sakranti\NNP .\.
+htd15140	They\PRP are\VBP joined\VBN in\IN one\CD string\NN .\.
+htd15141	They\PRP have\VBP made\VBN a\DT large\JJ country\NN .\.
+htd15142	This\DT is\VBZ India\NNP .\.
+htd15143	Am\VBP I\PRP being\VBG emotional\JJ ?\.
+htd15144	Is\VBZ any\DT wave\NN soaking\VBG me\PRP too\RB in\IN the\DT Kumbh\NNP ?\.
+htd15145	But\CC what\WP I\PRP am\VBP seeing\VBG is\VBZ the\DT truth\NN .\.
+htd15146	This\DT truth\NN is\VBZ in\IN front\NN of\IN me\PRP .\.
+htd15147	Lucknow\NNP -\: Delhi\NNP -\: Mumbai\NNP -\: Kolkata\NNP is\VBZ not\RB India\NNP .\.
+htd15148	Allahabad\NNP is\VBZ not\RB India\NNP .\.
+htd15149	But\CC this\DT Kumbh\NNP is\VBZ India\NNP .\.
+htd15150	This\DT is\VBZ not\RB just\RB a\DT crowd\NN .\.
+htd15151	The\DT dawn\NN is\VBZ receding\VBG .\.
+htd15152	The\DT first\JJ feel\NN of\IN the\DT light\NN fills\VBZ these\DT people\NNS with\IN even\RB more\JJR commotion\NN .\.
+htd15153	Dawn\NN was\VBD breaking\VBG .\.
+htd15154	The\DT Capricorn\NNP constellation\NN is\VBZ about\IN to\TO welcome\VB the\DT Sun\NNP .\.
+htd15155	Simultaneously\RB a\DT collective\JJ hail\NN resonates\VBZ in\IN the\DT ears\NNS '\POS Har\NNP -\: har\NNP Mahadev\NNP ,\, har\NN -\: har\FW Gange\FW '\'' .\.
+htd15156	In\IN the\DT camps\NNS across\IN the\DT Ganga\NNP the\DT arriving\VBG of\IN the\DT Akharas\NNP had\VBD begun\VBN .\.
+htd15157	The\DT random\JJ tunes\NNS of\IN the\DT band\NN have\VBP begun\VBN to\TO get\VB louder\RBR like\IN noise\NN .\.
+htd15158	The\DT zeal\NN is\VBZ increasing\VBG in\IN the\DT media\NNS people\NNS spread\VBP out\RP here\RB and\CC there\RB on\IN the\DT Sangam\NNP shore\NN .\.
+htd15159	The\DT policemen\NNS have\VBP become\VBN energetic\JJ .\.
+htd15160	The\DT fair\JJ authorities\NNS ,\, commissioner\NN and\CC S\NNP .\.NP .\.NP .\: proceed\VB towards\IN the\DT Pantun\NNP bridge\NN with\IN flower\NN garlands\NNS .\.
+htd15161	They\PRP have\VBP to\TO do\VB a\DT formal\JJ welcome\JJ of\IN the\DT arenas\NNS .\.
+htd15162	We\PRP wanted\VBD to\TO tear\VB the\DT crowd\NN and\CC reach\VB the\DT corner\NN of\IN the\DT procession\NN road\NN .\.
+htd15163	For\IN the\DT blessed\VBN returns\NNS of\IN seeing\VBG the\DT royal\JJ processions\NNS of\IN the\DT arenas\NNS the\DT public\NN is\VBZ sitting\VBG stuck\JJ to\TO each\DT other\JJ since\IN midnight\NN .\.
+htd15164	It\PRP is\VBZ very\RB difficult\JJ to\TO cross\VB this\DT crowd\NN mutually\RB stuck\VBD with\IN belief\NN .\.
+htd15165	Seeing\VBG the\DT procession\NN of\IN the\DT hermits\NNS the\DT crowd\NN is\VBZ emotional\JJ .\.
+htd15166	Again\RB and\CC again\RB they\PRP are\VBP folding\JJ hands\NNS .\.
+htd15167	Respect\NN is\VBZ oozing\VBG in\IN their\PRP$ eyes\NNS .\.
+htd15168	Their\PRP$ faces\NNS is\VBZ shining\VBG in\IN a\DT blessed\VBN manner\NN .\.
+htd15169	When\WRB they\PRP cry\VBP the\DT slogans\NNS of\IN Hail\NNP Mahadev\NNP ,\, Hail\NNP Ganga\NNP then\RB automatically\RB would\MD get\VB up\RP half\NN from\IN their\PRP$ seats\NNS .\.
+htd15170	These\DT are\VBP destitute\JJ people\NNS .\.
+htd15171	This\DT is\VBZ the\DT Indian\JJ middle\JJ class\NN .\.
+htd15172	They\PRP are\VBP always\RB behind\IN railing\NN ,\, brims\NNS and\CC barricading\VBG like\IN they\PRP are\VBP at\IN this\DT time\NN imprisoned\VBN behind\IN the\DT fences\NNS fixed\VBN on\IN the\DT procession\NN road\NN .\.
+htd15173	But\CC they\PRP are\VBP blessed\VBN from\IN there\RB .\.
+htd15174	One\CD procession\NN has\VBZ passed\VBN .\.
+htd15175	The\DT second\JJ one\CD will\MD come\VB when\WRB this\DT will\MD have\VB bathed\VBN .\.
+htd15176	In\IN the\DT midst\NN of\IN this\DT suddenly\RB there\EX has\VBZ been\VBN some\DT stir\VBP in\IN the\DT crowd\NN that\WDT was\VBD sitting\VBG quietly\RB till\IN now\RB near\IN the\DT poles\NNS .\.
+htd15177	Shifting\VBG from\IN the\DT midst\NN of\IN the\DT poles\NNS ,\, saving\VBG themselves\PRP from\IN the\DT view\NN of\IN deployed\VBN soldiers\NNS suddenly\RB many\JJ people\NNS had\VBD reached\VBN the\DT procession\NN road\NN in\IN the\DT middle\NN .\.
+htd15178	Some\DT of\IN them\PRP are\VBP filling\VBG the\DT dirt\NN of\IN the\DT procession\NN road\NN in\IN anjuli\NN ,\, some\DT are\VBP pouring\VBG it\PRP on\IN their\PRP$ heads\NNS ,\, some\DT are\VBP rolling\VBG over\IN there\RB .\.
+htd15179	It\PRP took\VBD a\DT little\JJ time\NN to\TO understand\VB that\IN they\PRP are\VBP taking\VBG the\DT feet\NNS dust\NN of\IN the\DT hermits\NNS -\: saints\NNS .\.
+htd15180	The\DT police\NN constables\NNS are\VBP slamming\VBG batons\NNS ,\, are\VBP abusing\VBG but\CC not\RB only\JJ men\NNS ,\, women\NNS are\VBP also\RB rolling\VBG on\IN the\DT road\NN and\CC not\RB leaving\VBG their\PRP$ chance\NN to\TO do\VB their\PRP$ country\NN -\: paradise\NN gratitude\NN .\.
+htd15181	Maybe\RB this\DT will\MD not\RB give\VB lesser\JJR blessings\NNS than\IN taking\VBG a\DT dip\NN in\IN the\DT Sangam\NNP .\.
+htd15182	When\WRB the\DT sound\NN of\IN the\DT next\JJ procession\NN approaching\VBG was\VBD heard\VBN then\RB the\DT police\NN showed\VBD their\PRP$ true\JJ form\NN .\.
+htd15183	Then\RB the\DT spectators\NNS went\VBD back\RB behind\IN the\DT poles\NNS .\.
+htd15184	Seeing\VBG the\DT Sangam\NNP bath\NN of\IN the\DT Akhara\NNP is\VBZ also\RB an\DT experience\NN .\.
+htd15185	With\IN the\DT feeling\NN of\IN respect\NN ,\, absolute\JJ satisfaction\NN that\IN the\DT crowd\NN takes\VBZ dips\NNS ,\, not\RB only\RB the\DT body\NN ,\, it\PRP purifies\VBZ the\DT body\NN -\: soul\NN inside\NN .\.
+htd15186	I\PRP have\VBP not\RB seen\VBN saints\NNS bathing\NN like\IN that\DT .\.
+htd15187	There\EX was\VBD hardly\RB any\DT saint\NN who\WP did\VBD not\RB dip\VB up\IN to\TO the\DT neck\NN or\CC head\NN .\.
+htd15188	After\IN bathing\NN when\WRB they\PRP were\VBD standing\VBG for\IN return\NN then\RB I\PRP did\VBD not\RB see\VB water\NN dripping\VBG from\IN their\PRP$ tangled\JJ hair\NN .\.
+htd15189	Actually\RB ,\, in\IN the\DT way\NN they\PRP were\VBD taking\VBG the\DT Kumbh\NNP bath\NN ,\, it\PRP was\VBD not\RB like\IN earning\VBG blessing\NN ,\, but\CC looting\NN the\DT blessing\NN .\.
+htd15190	They\PRP were\VBD aggressive\JJ .\.
+htd15191	Shankaracharya\NNP had\VBD built\VBN these\DT Naga\NNP Akharas\NNP for\IN the\DT protection\NN of\IN religion\NN .\.
+htd15192	That\DT is\VBZ why\WRB today\NN they\PRP are\VBP winning\VBG the\DT blessings\NNS with\IN their\PRP$ weapons\NNS on\IN the\DT chest\NN of\IN Ganga\NNP .\.
+htd15193	They\PRP are\VBP protecting\VBG religion\NN .\.
+htd15194	A\DT huge\JJ party\NN of\IN national\JJ -\: international\JJ media\NNS is\VBZ immersed\VBN in\IN capturing\VBG in\IN cameras\NNS this\DT miraculous\JJ sight\NN of\IN the\DT bath\NN .\.
+htd15195	In\IN the\DT midst\NN of\IN the\DT first\JJ rays\NNS of\IN the\DT Sun\NNP bursting\VBG from\IN the\DT horizon\NN the\DT bath\NN of\IN the\DT Naga\NNP -\: saints\NNS ,\, then\RB smearing\VBG ash\NN on\IN the\DT body\NN at\IN the\DT shore\NN and\CC standing\NN waiting\VBG for\IN return\NN -\: is\VBZ a\DT unique\JJ sight\NN for\IN the\DT cameras\NNS .\.
+htd15196	Foreign\JJ media\NNS is\VBZ clicking\VBG and\CC shooting\VBG here\RB and\CC there\RB like\IN mad\JJ .\.
+htd15197	They\PRP are\VBP going\VBG absolutely\RB close\RB to\TO the\DT Naga\NNP saints\NNS and\CC taking\VBG close\JJ -\: ups\NNS .\.
+htd15198	Famous\NNP for\IN anger\NN Naga\NN saints\NNS are\VBP in\IN an\DT amused\VBN mood\NN today\NN .\.
+htd15199	They\PRP are\VBP giving\VBG different\JJ poses\VBZ to\TO the\DT foreigners\NNS by\IN the\DT time\NN of\IN the\DT coming\VBG of\IN the\DT Kumbh\NNP of\IN the\DT twenty\CD first\JJ century\NN the\DT saints\NNS have\VBP become\VBN '\POS media\NNS -\: savvy\NN '\'' .\.
+htd15200	Some\DT enthusiastic\JJ cinematographers\NNS went\VBD far\RB in\IN the\DT water\NN of\IN the\DT Ganga\NNP and\CC took\VBD position\NN and\CC stood\VBD before\IN the\DT Sangam\NNP entry\NN of\IN the\DT Naga\NNP saints\NNS .\.
+htd15201	The\DT Akharas\NNPS did\VBD not\RB object\VB at\IN this\DT .\.
+htd15202	Otherwise\RB no\DT one\NN else\RB can\MD even\RB enter\VB in\IN the\DT Sangam\NNP before\IN them\PRP at\IN festive\JJ bathing\NN .\.
+htd15203	The\DT poor\JJ masses\NNS are\VBP left\VBN searching\VBG for\IN blessing\NN and\CC redemption\NN quite\RB far\RB from\IN the\DT '\POS real\JJ Sangam\NN '\'' at\IN the\DT shores\NNS of\IN Ganga\NNP or\CC Yamuna\NNP .\.
+htd15204	For\IN the\DT media\NNS also\RB this\DT was\VBD really\RB Mahakumbh\NNP -LRB-\-LRB- the\DT great\JJ Kumbh\NNP -RRB-\-RRB- .\.
+htd15205	Where\WRB will\MD one\CD get\VB so\RB many\JJ stories\NNS and\CC so\RB many\JJ sights\NNS together\RB in\IN the\DT world\NN .\.
+htd15206	That\DT is\VBZ why\WRB the\DT media\NNS of\IN the\DT entire\JJ world\NN ,\, independent\JJ journalists\NNS ,\, even\RB '\POS paparazzi\NNS '\POS have\VBP positioned\VBN fronts\NNS in\IN this\DT Kumbh\NNP .\.
+htd15207	Only\RB the\DT information\NN department\NN has\VBZ made\VBN three\CD large\JJ camps\NNS for\IN the\DT media\NNS .\.
+htd15208	Media\NNP persons\NNS are\VBP present\JJ in\IN heavy\JJ numbers\NNS in\IN personal\JJ pandals\NNS ,\, arenas\NNS ,\, hotels\NNS .\.
+htd15209	From\IN morning\NN to\TO late\JJ night\NN they\PRP kept\VBD accumulating\VBG some\DT or\CC the\DT other\JJ valuables\NNS .\.
+htd15210	Here\RB from\IN '\'' Nude\NNP Saints\NNP '\POS and\CC '\POS Bathing\NN Beauty\NN '\'' to\TO '\'' Clad\VBN Mystery\NNP '\POS and\CC '\'' Supernatural\NNP Powers\NNP '\POS everything\NN is\VBZ available\JJ easy\JJ ,\, enough\JJ and\CC free\JJ .\.
+htd15211	In\IN this\DT even\RB national\JJ media\NNS is\VBZ not\RB behind\RB .\.
+htd15212	The\DT photographers\NNS have\VBP booked\VBN the\DT boats\NNS in\IN which\WDT they\PRP are\VBP roaming\VBG and\CC capturing\VBG bathing\NN women\NNS from\IN different\JJ corners\NNS .\.
+htd15213	Volunteers\NNS of\IN different\JJ institutions\NNS deployed\VBN for\IN arrangement\NN on\IN the\DT Sangam\NNP banks\NNS are\VBP not\RB only\RB watching\VBG such\JJ scenes\NNS themselves\PRP very\RB concentratingly\RB but\CC also\RB show\VBP good\JJ shots\NNS to\TO the\DT camerapersons\NNS around\RB .\.
+htd15214	In\IN the\DT Kumbha\NNP of\IN 1977\CD Nirmal\NNP Verma\NNP in\IN a\DT description\NN written\VBN for\IN Dinaman\NNP had\VBD said\VBN at\IN one\CD place\NN .\.RP have\VBP never\RB seen\VBN the\DT policemen\NNS so\RB disciplined\JJ in\IN life\NN .\.
+htd15215	The\DT entire\JJ battalion\NN is\VBZ watching\VBG the\DT bathing\NN women\NNS continuously\RB .\.
+htd15216	Since\IN 2001\CD I\PRP am\VBP seeing\VBG equal\JJ form\NN of\IN discipline\NN in\IN not\RB only\JJ policemen\NNS ,\, servants\NNS themselves\PRP ,\, journalists\NNS and\CC salvation\NN workers\NNS .\.
+htd15217	A\DT crowd\NN of\IN lakhs\NNS is\VBZ present\JJ today\NN on\IN the\DT Sangam\NNP shore\NN -LRB-\-LRB- in\IN this\DT the\DT wharf\NN of\IN this\DT and\CC that\DT side\NN of\IN Ganga\NNP -\: Yamuna\NNP are\VBP also\RB included\VBN -RRB-\-RRB- .\.
+htd15218	It\PRP is\VBZ the\DT initial\JJ estimation\NN of\IN the\DT administration\NN that\IN almost\RB one\CD crore\NN people\NNS will\MD bathe\VB the\DT Kumbh\NNP on\IN Makar\NNP Sakranti\NNP .\.
+htd15219	At\IN the\DT bath\NN of\IN the\DT biggest\JJS ,\, silent\JJ new\JJ moon\NN there\EX is\VBZ an\DT estimation\NN of\IN three\CD crore\JJ people\NNS coming\VBG .\.
+htd15220	The\DT approximation\NN of\IN so\RB much\JJ crowd\NN is\VBZ also\RB producing\VBG terror\NN .\.
+htd15221	I\PRP am\VBP getting\VBG pushed\VBN and\CC roaming\VBG in\IN this\DT crowd\NN .\.
+htd15222	When\WRB I\PRP am\VBP not\RB bathing\NN in\IN some\DT or\CC the\DT other\JJ wave\NN of\IN the\DT Kumbh\NNP then\RB I\PRP would\MD be\VB feeling\VBG scared\RB .\.
+htd15223	God\NNP knows\VBZ when\WRB there\EX could\MD be\VB a\DT stampede\NN .\.
+htd15224	Tingling\NNP happens\VBZ .\.
+htd15225	But\CC the\DT fair\NN of\IN Kumbh\NNP is\VBZ so\RB diverse\JJ and\CC queer\JJ that\IN fear\NN does\VBZ not\RB remain\VB for\IN long\RB .\.
+htd15226	Some\DT or\CC the\DT other\JJ goods\NNS ,\, some\DT or\CC the\DT other\JJ news\NN distracts\VBZ attention\NN .\.
+htd15227	If\IN you\PRP escaped\VBD from\IN the\DT boatmen\NNS insisting\VBG on\IN getting\VBG you\PRP bathed\VBD on\IN the\DT Ain\NNP Sangam\NNP or\CC rather\RB Triven\NNP then\RB the\DT barbers\NNS of\IN `\`` Nai\NNP Bada\NNP '\POS invite\VBP with\IN great\JJ request\NN to\TO get\VB shaved\VBN or\CC tonsured\VBN .\.
+htd15228	For\IN ten\CD rupees\NNS they\PRP will\MD shave\VB the\DT head\NN and\CC beard\NN free\JJ alongside\IN .\.
+htd15229	Otherwise\RB five\CD rupees\NNS for\IN shaving\VBG the\DT beard\NN .\.
+htd15230	The\DT barber\NN shop\NN has\VBZ been\VBN made\VBN by\IN surrounding\VBG with\IN poles\NNS .\.
+htd15231	In\IN which\WDT hundreds\NNS of\IN barbers\NNS are\VBP gossiping\VBG .\.
+htd15232	Many\JJ people\NNS ,\, husband\NN -\: wife\NN and\CC children\NNS are\VBP walking\VBG tied\VBN together\RB with\IN the\DT ends\NNS of\IN dhoti\NNS or\CC sheets\NNS .\.
+htd15233	There\EX is\VBZ great\JJ fear\NN of\IN separating\VBG in\IN the\DT crowd\NN .\.
+htd15234	That\DT is\VBZ why\WRB this\DT arrangement\NN .\.
+htd15235	Announcements\NNS about\IN lost\VBN -\: found\VBN people\NNS are\VBP continuously\RB happening\VBG on\IN the\DT central\JJ transmission\NN system\NN of\IN the\DT Kumbh\NNP .\.
+htd15236	Lost\VBN people\NNS are\VBP calling\VBG to\TO their\PRP$ friends\NNS in\IN their\PRP$ language\NN .\.
+htd15237	The\DT wistful\JJ cries\VBZ of\IN lost\VBN people\NNS in\IN diverse\JJ languages\NNS on\IN the\DT loudspeaker\NN also\RB creates\VBZ terror\NN .\.
+htd15238	There\EX are\VBP two\CD camps\NNS in\IN the\DT Kumbh\NNP area\NN by\IN the\DT name\NN of\IN '\'' lost\VBN -\: found\VBN '\'' .\.
+htd15239	Both\DT are\VBP filled\VBN .\.
+htd15240	The\DT view\NN of\IN the\DT Kumbh\NNP from\IN Shastri\NNP bridge\NN is\VBZ even\RB more\RBR strange\JJ .\.
+htd15241	The\DT flow\NN of\IN the\DT Ganga\NNP cuts\NNS towards\IN the\DT city\NN .\.
+htd15242	That\DT is\VBZ why\WRB on\IN the\DT other\JJ shore\NN ,\, towards\IN Jhunsi\NNP a\DT large\JJ field\NN of\IN sand\NN has\VBZ grown\VBN .\.
+htd15243	On\IN this\DT field\NN this\DT time\NN Kumbh\NNP settlement\NN has\VBZ been\VBN based\VBN .\.
+htd15244	All\DT arenas\NNS ,\, camps\NNS ,\, exhibitions\NNS ,\, all\DT types\NNS of\IN pandals\NNS are\VBP all\RB there\RB .\.
+htd15245	Sangam\JJ shore\NN meaning\NN this\DT end\NN has\VBZ been\VBN left\VBN fully\RB empty\JJ .\.
+htd15246	Where\WRB a\DT crowd\NN of\IN fifty\JJ lakhs\NNS can\MD easily\RB assimilated\VBN .\.
+htd15247	That\DT is\VBZ why\WRB the\DT Kumbh\NNP is\VBZ appearing\VBG very\RB organised\VBN this\DT time\NN ,\, looking\VBG above\IN immeasurable\JJ crowd\NN seems\VBZ to\TO be\VB crawling\VBG like\IN ants\NNS .\.
+htd15248	If\IN the\DT arrangements\NNS are\VBP strong\JJ then\RB the\DT Kumbh\NNP really\RB fits\VBZ in\IN this\DT Sangam\NNP shore\NN in\IN Prayag\NNP .\.
+htd15249	In\IN Haridwar\NNP it\PRP shrinks\VBZ -\: collapses\NNS .\.
+htd15250	I\PRP had\VBD thought\VBN the\DT Sangam\NNP shore\NN would\MD be\VB deserted\VBN today\NN .\.
+htd15251	After\IN the\DT royal\JJ bath\NN of\IN yesterday\NN his\PRP$ condition\NN would\MD be\VB like\IN ploughed\VBN battle\NN field\NN .\.
+htd15252	That\DT is\VBZ why\WRB in\IN spite\NN of\IN excessive\JJ exhaution\NN we\PRP went\VBD in\IN the\DT morning\NN to\TO the\DT Sangam\NNP shore\NN .\.
+htd15253	But\CC it\PRP was\VBD definitely\RB not\RB found\VBD deserted\VBN .\.
+htd15254	The\DT crowd\NN of\IN bathers\NNS is\VBZ all\DT around\IN .\.
+htd15255	Yes\RB ,\, there\EX is\VBZ no\DT chaos\NN of\IN the\DT crowd\NN .\: Sangam\NNP is\VBZ not\RB `\`` royal\JJ '\'' but\CC of\IN common\JJ people\NNS .\.
+htd15256	Women\NNS are\VBP drying\VBG their\PRP$ cloths\NNS in\IN the\DT wind\NN after\IN bathing\NN .\.
+htd15257	Rainbow\NNP waves\NNS of\IN colors\NNS are\VBP rising\VBG -\: falling\VBG .\.
+htd15258	We\PRP went\VBD to\TO the\DT middle\NN of\IN Sangam\NNP taking\VBG a\DT boat\NN .\.
+htd15259	Taking\VBG a\DT boat\NN we\PRP went\VBD to\TO the\DT middle\NN of\IN Sangam\NNP .\.
+htd15260	There\EX is\VBZ a\DT good\JJ crowd\NN of\IN bathers\NNS in\IN the\DT middle\NN of\IN Sangam\NNP .\.
+htd15261	The\DT constables\NNS of\IN water\NN -\: police\NNS are\VBP alert\JJ and\CC are\VBP controlling\VBG -\: regulating\VBG the\DT boaters\NNS .\.
+htd15262	Our\PRP$ boat\NN man\NN shows\VBZ us\PRP the\DT meeting\NN line\NN of\IN Ganga\NNP -\: Yamuna\NNP .\.
+htd15263	The\DT color\NN of\IN Ganga\NNP is\VBZ dirty\JJ -\: brown\JJ .\.
+htd15264	Its\PRP$ flow\NN is\VBZ also\RB fast\RB .\.
+htd15265	Yamuna\NNP is\VBZ calm\JJ -\: deep\JJ .\.
+htd15266	The\DT color\NN of\IN the\DT water\NN is\VBZ green\JJ wherever\WRB Yamuna\NNP is\VBZ meeting\VBG Ganga\NNP ,\, as\IN if\IN a\DT line\NN has\VBZ been\VBN drawn\VBN .\.
+htd15267	This\DT meeting\NN can\MD be\VB seen\VBN clearly\RB .\.
+htd15268	Yamuna\NNP is\VBZ joining\VBG Ganga\NNP with\IN a\DT lot\NN of\IN love\NN .\.
+htd15269	There\EX is\VBZ no\DT resistance\NN ,\, no\DT bet\NN .\: silently\RB get\VB merged\VBN .\.
+htd15270	Such\JJ a\DT large\JJ Yamuna\NNP ,\, how\WRB it\PRP mixes\VBZ its\PRP$ identity\NN in\IN Ganga\NNP .\.
+htd15271	This\DT surrender\NN is\VBZ unique\JJ .\.
+htd15272	The\DT number\NN of\IN times\NNS of\IN Prayag\NNP came\VBD ,\, Sangam\NNP went\VBD ,\, the\DT same\JJ experience\NN happened\VBD .\.
+htd15273	Two\CD days\NNS after\IN the\DT first\JJ royal\JJ bath\NN the\DT camps\NNS of\IN Akharas\NNP and\CC religious\JJ associations\NNS of\IN hermit\NN -\: saints\NNS became\VBD the\DT den\NN of\IN politics\NNS .\.
+htd15274	The\DT second\JJ royal\JJ bath\NN is\VBZ on\IN 24\CD January\NNP .\.
+htd15275	In\IN between\IN this\DT on\IN 19\CD -\: 20\NNP January\NNP the\DT religious\JJ committee\NN of\IN the\DT Vishwa\NNP Hindu\NNP Parishad\NNP is\VBZ going\VBG to\TO happen\VB .\.
+htd15276	That\DT is\VBZ why\WRB there\EX is\VBZ a\DT lot\NN of\IN opportunity\NN for\IN politics\NNS and\CC polarisation\NN .\.
+htd15277	Although\IN the\DT coming\VBG -\: going\VBG of\IN bathers\NNS at\IN Sangam\NNP and\CC the\DT shores\NNS of\IN Ganga\NNP -\: Yamuna\NNP is\VBZ underway\JJ continuously\RB .\.
+htd15278	The\DT focus\NN of\IN the\DT media\NNS has\VBZ shifted\VBN from\IN the\DT shores\NNS because\IN instead\RB of\IN the\DT Sangam\NNP of\IN respect\NN there\EX is\VBZ more\JJR spice\NN in\IN the\DT slime\NN of\IN politics\NNS .\.
+htd15279	After\IN the\DT afternoon\NN we\PRP took\VBD leave\NN from\IN Kumbhnagar\NNP .\.
+htd15280	In\IN the\DT return\NN towards\IN Lucknow\NNP the\DT Kumbh\NNP kept\VBD following\VBG till\IN some\DT time\NN .\.
+htd15281	Then\RB slowly\RB that\DT work\NN -\: business\NN began\VBD to\TO ride\VB on\IN the\DT heart\NN and\CC mind\NN .\.
+htd15282	For\IN which\WDT we\PRP were\VBD returning\VBG .\.
+htd15283	The\DT statue\NN began\VBD saying\VBG that\IN how\WRB in\IN R\NNP .\.NP .\.NP .\.RP .\.T young\JJ scientist\NN has\VBZ discovered\VBN the\DT formula\NN of\IN polythene\NN eating\NN moss\NN .\.
+htd15284	After\IN the\DT publication\NN of\IN his\PRP$ this\DT observation\NN in\IN '\'' Nature\NNP '\POS sensationalism\NN spread\NN .\.
+htd15285	Things\NNS from\IN everywhere\RB ,\, one\CD after\IN the\DT other\JJ ,\, mutually\RB related\JJ and\CC unrelated\JJ also\RB .\.
+htd15286	Nandadevi\NNP Rajjat\NNP '\POS is\VBZ one\CD of\IN the\DT major\JJ popular\JJ festivals\NNS of\IN Uttarakhand\NNP .\.
+htd15287	Jat\NN starts\VBZ from\IN Nanda\NNP Siddha\NNP Peeth\NNP Kurud\NNP and\CC Kansuwa\NNP in\IN Chamoli\NNP -LRB-\-LRB- not\RB from\IN Nauti\NNP as\IN is\VBZ propagated\VBN -RRB-\-RRB- .\.
+htd15288	Besides\IN this\DT Dashamdwar\NNP Doli\NNP Kandara\NNP and\CC Jwalpa\NNP Doli\NNP merge\VBP with\IN Swali\NNP Village\NNP in\IN Rajajat\NNP .\.
+htd15289	More\JJR than\IN about\RB 200\CD Chantolian\NNP ,\, Devi\NNP Nishan\NNP and\CC thousands\NNS of\IN children\NNS ,\, old\JJ ,\, women\NNS -\: men\NNS and\CC daughters\NNS go\VBP to\TO Kailas\NNP -LRB-\-LRB- Hemkunt\NNP 4200\CD m\NN -RRB-\-RRB- to\TO see\VB of\IN Nanda\NNP .\.
+htd15290	Nanda\NNP Raj\NNP Chhantoli\NNP from\IN Almora\NNP and\CC along\IN Nanda\NNP Katar\NNP from\IN Kot\NNP Bhramari\NNP Temple\NNP of\IN Garud\NNP people\NNS participate\VB in\IN Jaat\NNP .\.
+htd15291	It\PRP is\VBZ estimated\VBN that\IN around\IN 10\CD thousand\CD devotees\NNS completed\VBD the\DT inaccessible\JJ journey\NN of\IN 280\CD kms\NNS in\IN 19\CD camps\NNS which\WDT possibly\RB is\VBZ one\CD among\IN the\DT most\RBS difficult\JJ religious\JJ travesl\NN of\IN the\DT world\NN .\.
+htd15292	Shri\NNP Nanda\NNP Devi\NNP Rajajat\NNP 2000\CD started\VBD from\IN the\DT princes\NNS '\POS village\NN Kansuwa\NNP on\IN 21\CD August\NNP and\CC by\IN seeing\VBG off\RP Nanda\NNP on\IN 6\CD September\NNP 2000\CD in\IN Homekund\NNP the\DT Mahakumbha\NNP of\IN the\DT Himalayas\NNPS ended\VBD on\IN 10\CD September\NNP in\IN Nanda\NNP Temple\NNP Nauti\NNP and\CC Nanda\NNP Siddhapith\NNP Kurud\NNP .\.
+htd15293	The\DT Temple\NNP of\IN Nanda\NNP is\VBZ located\VBN at\IN a\DT distance\NN of\IN 25\CD kms\NNS from\IN Nand\NNP Prayag\NNP on\IN the\DT Kunabgad\NNP Tok\NNP of\IN the\DT Kurud\NNP village\NN in\IN the\DT left\JJ side\NN of\IN Bhadragad\NNP emanating\VBG from\IN the\DT Bhadra\NNP Mountain\NNP -LRB-\-LRB- 3322\CD m\NN .\: -RRB-\-RRB- .\.
+htd15294	The\DT neighbouring\VBG villages\NNS of\IN Karud\NNP are\NNP Sung\NNP ,\, Charbang\NNP ,\, Ludtara\NNP ,\, Ghargaon\NNP ,\, Kumjung\NNP ,\, Sung\NNP Mathkot\NNP and\CC Farkhet\NNP .\.
+htd15295	Nanda\NN temple\NN is\VBZ on\IN an\DT open\JJ flat\JJ place\NN in\IN an\DT attractive\JJ ambience\NN .\.
+htd15296	According\VBG priest\NN Jivaram\NNP Gaud\NNP at\IN a\DT time\NN this\DT temple\NN was\VBD towards\IN the\DT other\JJ side\NN of\IN the\DT valley\NN at\IN the\DT top\NN of\IN the\DT Luntara\NNP village\NN at\IN a\DT desolate\JJ place\NN but\CC when\WRB buildings\NNS started\VBD being\VBG built\VBN above\IN the\DT goddess\NN temple\NN then\RB the\DT goddess\NN became\VBD angry\JJ and\CC came\VBD towards\IN the\DT left\JJ side\NN of\IN Bhadragad\NNP .\.
+htd15297	But\CC it\PRP seems\VBZ that\IN this\DT must\MD have\VB happened\VBN by\IN a\DT landslide\NN .\.
+htd15298	Even\RB today\NN the\DT sign\NN of\IN the\DT landslide\NN is\VBZ clearly\RB seen\VBN .\.
+htd15299	In\IN front\NN of\IN the\DT temple\NN there\EX is\VBZ a\DT bird\NN 's\POS eye\NN view\NN of\IN the\DT Nandakini\NNP valley\NN .\.
+htd15300	All\DT around\IN mountains\NNS decorated\VBN with\IN pine\VB ,\, acorn\NN ,\, deodar\FW etc\FW increase\VB the\DT beauty\NN of\IN the\DT temple\NN .\.
+htd15301	The\DT temple\NN constructed\VBN with\IN local\JJ stones\NNS is\VBZ like\IN common\JJ Uttarakhand\NNP temples\NNS .\.
+htd15302	There\EX is\VBZ a\DT square\JJ sanctuary\NN and\CC a\DT small\JJ assembly\NN booth\NN outside\NN .\.
+htd15303	According\VBG to\TO Goud\NNP priests\NNS there\EX is\VBZ a\DT self-emanated\JJ Nandi\NNP idol\NN in\IN the\DT temple\NN .\.
+htd15304	This\DT idol\NN is\VBZ buried\VBN in\IN the\DT earth\NN and\CC its\PRP$ 4\CD .\.D inches\NNS part\NN is\VBZ above\IN the\DT ground\NN .\.
+htd15305	Beside\IN the\DT temple\NN are\VBP two\CD small\JJ temples\NNS of\IN Lakshmi\NNP and\CC Narayana\NNP .\.
+htd15306	In\IN the\DT Nanda\NNP temple\NN premises\NN itself\PRP there\EX is\VBZ a\DT heap\NN of\IN stones\NNS which\WDT is\VBZ called\VBN the\DT place\NN of\IN Latu\NNP the\DT eloquent\JJ brother\NN of\IN Nanda\NNP .\.
+htd15307	An\DT old\JJ tree\NN of\IN cypress\NN is\VBZ in\IN the\DT temple\NN compound\NN ,\, in\IN which\WDT a\DT swing\NN of\IN iron\NN is\VBZ lying\VBG and\CC swinging\VBG here\RB is\VBZ of\IN great\JJ value\NN .\.
+htd15308	The\DT temple\NN 200\CD metre\NN below\IN is\VBZ joined\VBN to\TO the\DT road\NN by\IN a\DT 6\CD foot\NN solid\JJ concrete\JJ path\NN .\.
+htd15309	In\IN the\DT Karud\NNP Nanda\NNP temple\NN a\DT fari\NN took\VBD place\NN for\IN three\CD days\NNS ,\, in\IN which\WDT statues\NNS were\VBD installed\VBN in\IN the\DT temple\NN bringing\VBG from\IN the\DT priests\NNS '\POS house\NN and\CC `\`` Chausingya\NNP Khadu\NNP '\POS -LRB-\-LRB- Medha\NNP -RRB-\-RRB- coming\VBG from\IN Charwang\NNP was\VBD welcomed\VBN in\IN the\DT temple\NN .\.
+htd15310	On\IN 23rd\JJ the\DT cultural\JJ program\NN and\CC on\IN 24th\JJ the\DT completion\NN of\IN the\DT fair\NN happened\VBD .\.
+htd15311	On\IN 25th\JJ there\EX was\VBD the\DT most\JJS crowd\NN in\IN the\DT temple\NN .\.
+htd15312	Chantolis\NNS coming\VBG from\IN outside\NN were\VBD welcomed\VBN and\CC Jaat\NNP departed\VBD from\IN Kailas\NNP -LRB-\-LRB- Homekund\NNP -RRB-\-RRB- .\.
+htd15313	People\NNS from\IN various\JJ places\NNS sang\VBD songs\NNS and\CC hymns\NNS ,\, hailed\VBD the\DT Nanda\NNP gathered\VBD in\IN the\DT temple\NN premises\NN .\.
+htd15314	The\DT priests\NNS came\VBD to\TO the\DT temple\NN compound\NN bare\JJ feet\NNS wearing\VBG a\DT white\JJ dhoti\NN ,\, white\JJ kurta\NN and\CC a\DT turban\NN on\IN his\PRP$ head\NN in\IN Rajasthani\NNP style\NN .\.
+htd15315	There\EX was\VBD unparalleled\JJ enthusiasm\NN in\IN the\DT crowd\NN .\.
+htd15316	Drum\NNP ,\, Damaus\NNP ,\, bhaunkaras\NNS ,\, bells\NNS ,\, gongs\NNS started\VBD playing\VBG .\.
+htd15317	In\IN the\DT midst\NN of\IN the\DT conch\JJ shell\NN melody\NN the\DT goddess\NN descended\VBD on\IN the\DT main\JJ priest\NN Jeevram\NNP Gaur\NNP .\.
+htd15318	Pashwa\NNP was\VBD covered\VBN with\IN a\DT bordered\VBN sheet\NN .\.
+htd15319	The\DT priests\NNS danced\VBD on\IN the\DT shoulders\NNS of\IN the\DT followers\NNS .\.
+htd15320	Wishes\NNS were\VBD given\VBN for\IN the\DT purpose\NN of\IN the\DT journey\NN of\IN the\DT Jaat\NNP .\.
+htd15321	With\IN the\DT shower\VB of\IN akshatas\NNS on\IN the\DT devotees\NNS by\IN the\DT priests\NNS the\DT Jaat\NNP got\VBD the\DT permission\NN to\TO depart\VB .\.
+htd15322	The\DT palanquin\NN of\IN the\DT goddess\NN left\VBD borne\VBN on\IN the\DT shoulders\NNS of\IN the\DT followers\NNS .\.
+htd15323	The\DT Jaat\NNP left\VBD for\IN Bhenti\NNP morning\NN 10\CD o'clock\RB from\IN Ustoli\NNP .\.
+htd15324	Sarpadi\NNP '\POS village\NN came\VBD on\IN the\DT way\NN ,\, where\WRB there\EX was\VBD arrangement\NN of\IN tea\NN -\: snacks\NNS .\.
+htd15325	The\DT male\NN -\: female\JJ students\NNS of\IN the\DT junior\JJ and\CC elementary\JJ school\NN Sarpadi\NNP were\VBD standing\VBG queued\VBN .\.
+htd15326	Flowers\NNS were\VBD being\VBG showered\VBN on\IN the\DT Chantoli\NNP and\CC the\DT palanquin\NN .\.
+htd15327	The\DT next\JJ day\NN there\EX was\VBD lunch\NN for\IN the\DT travellers\NNS in\IN '\'' Lakhi\NNP '\POS village\NN .\.
+htd15328	The\DT responsibility\NN for\IN this\DT was\VBD being\VBG taken\VBN by\IN the\DT principal\NN of\IN the\DT Inter\NNP College\NNP Indra\NNP Singh\NNP Farswad\NNP .\.
+htd15329	The\DT rain\NN beginning\NN at\IN Sarpadi\NNP had\VBD become\VBN quite\RB torrential\JJ by\IN the\DT time\NN we\PRP came\VBD to\TO Lakhi\NNP .\.
+htd15330	The\DT palanquin\NN reached\VBD the\DT village\NN at\IN 12\CD .\: 15\CD .\.
+htd15331	All\DT rushed\VBD into\IN houses\NNS .\.
+htd15332	The\DT temple\NN of\IN Goril\NNP ,\, Hati\NNP Devi\NNP and\CC Pandavas\NNP are\VBP in\IN the\DT middle\NN of\IN the\DT Sar\NNP of\IN the\DT fertile\JJ village\NN Lakhi\NNP .\.
+htd15333	The\DT biggest\JJS village\NN of\IN the\DT area\NN of\IN 300\CD mawasas\NNS is\VBZ influenced\VBN by\IN the\DT landslide\NN .\.
+htd15334	This\DT rain\NN year\NN a\DT person\NN died\VBD due\JJ to\TO landslide\NN .\.
+htd15335	The\DT Jaat\NNP started\VBD in\IN the\DT rains\NNS only\RB for\IN Bhenti\NNP .\.
+htd15336	There\EX was\VBD only\RB water\NN on\IN the\DT road\NN .\.
+htd15337	All\DT travellers\NNS are\VBP afraid\JJ of\IN leeches\NNS .\.
+htd15338	People\NNS coming\VBG from\IN field\NN areas\NNS jump\VBP and\CC fling\VBP their\PRP$ legs\NNS on\IN a\DT leech\NN sticking\NN ,\, but\CC remain\VBP unsuccessful\JJ .\.
+htd15339	Then\RB Dimri\FW ji\FW of\IN the\DT S\NNP .\.NP .\.NP .\: medical\JJ team\NN told\VBD that\WDT apply\VBP salt\NN on\IN the\DT leech\NN and\CC get\VB rid\JJ of\IN it\PRP .\.
+htd15340	Then\RB we\PRP got\VBD relief\NN .\.
+htd15341	We\PRP reached\VBD Bhenti\NNP village\NN in\IN the\DT evening\NN .\.
+htd15342	There\EX were\VBD very\RB less\JJR villagers\NNS .\.
+htd15343	It\PRP came\VBD to\TO be\VB known\VBN that\IN maximum\JJ villagers\NNS have\VBP gone\VBN taking\VBG their\PRP$ animals\NNS in\IN the\DT thatch\NN in\IN the\DT nearby\JJ Bhenti\NNP bugyal\NN .\.
+htd15344	Those\DT which\WDT are\VBP seen\VBN have\VBP also\RB come\VBN here\RB from\IN the\DT Devi\NNP Darshanath\NNP bugyal\NN .\.
+htd15345	Beautiful\JJ work\NN has\VBZ been\VBN done\VBN on\IN the\DT wood\NN in\IN the\DT village\NN .\.
+htd15346	Live\JJ view\NN of\IN woodwork\NN was\VBD done\VBN in\IN old\JJ houses\NNS .\.
+htd15347	There\EX is\VBZ no\DT electricity\NN arrangement\NN in\IN the\DT village\NN right\RB now\RB .\.
+htd15348	Had\VBD lunch\NN on\IN the\DT leaves\NNS of\IN Dolu\NNP ,\, which\WDT was\VBD a\DT pleasant\JJ experience\NN .\.
+htd15349	There\EX were\VBD landslides\NNS at\IN three\CD places\NNS between\IN '\'' Lakhi\NNP '\POS and\CC '\'' Bhenti\NNP '\POS .\.
+htd15350	Acorn\NNP Rhododendron\NNP is\VBZ the\DT major\JJ vegetation\NN there\RB .\.
+htd15351	The\DT forest\NN area\NN is\VBZ good\JJ .\.
+htd15352	The\DT Danu\NNP god\NN of\IN Lakhi\NNP and\CC the\DT Pandava\NNP temple\NN of\IN Bhenti\NNP is\VBZ famous\JJ .\.
+htd15353	It\PRP is\VBZ believed\VBN that\IN the\DT area\NN of\IN Danu\NNP begins\VBZ from\IN Lankhi\NNP .\.
+htd15354	The\DT Jaat\NN walked\VBD almost\RB 31\CD k\NN .\.N .\: and\CC reached\VBD Tharali\NNP .\.
+htd15355	It\PRP came\VBD to\TO be\VB known\VBN that\IN this\DT time\NN also\RB in\IN '\'' Kulsari\NNP '\POS the\DT Sri\NNP Yantra\NNP could\MD not\RB come\VB out\RB .\.
+htd15356	Due\JJ to\TO the\DT controversy\NN in\IN the\DT Raj\NNP Jat\NNP of\IN 1987\CD Sri\NNP Yantra\NNP had\VBD not\RB been\VBN able\JJ to\TO come\VB out\RP .\.
+htd15357	The\DT administration\NN and\CC Kunwar\NNP Balwant\NNP Singh\NNP were\VBD staunch\JJ on\IN not\RB sacrificing\VBG and\CC the\DT priesthood\NN did\VBD not\RB agree\VB to\TO take\VB out\RP the\DT underground\JJ Sri\NNP Yantra\NNP without\IN giving\VBG sacrifice\NN .\.
+htd15358	On\IN the\DT priests\NNS not\RB taking\VBG out\RP the\DT Sri\NNP Yantra\NNP without\IN sacrifice\NN there\RB was\VBD the\DT threat\NN of\IN contretemps\NNS .\.
+htd15359	Now\RB there\EX will\MD be\VB a\DT wait\NN until\IN the\DT next\JJ Raj\NNP Jat\NNP .\.
+htd15360	The\DT goddess\NN will\MD take\VB a\DT gift\NN in\IN Tharali\NNP village\NN .\.
+htd15361	People\NNS were\VBD offering\VBG cucumber\NN ,\, parched\JJ rice\NN ,\, leaves\VBZ of\IN daffodils\NNS ,\, cosmetic\JJ materials\NNS of\IN the\DT goddess\NN ,\, bangles\NNS ,\, bindis\NN ,\, chareus\NN ,\, garlands\NNS ,\, kohls\NNS ,\, phoona\NN ,\, ribbon\NN ,\, sweets\NNS etc\NN .\.
+htd15362	Gift\NN -\: offering\NN was\VBD happening\VBG .\.
+htd15363	The\DT eyes\NNS of\IN many\JJ became\VBD tearful\JJ .\.
+htd15364	There\EX was\VBD a\DT hustle-bustle\NN like\IN that\DT of\IN wedding\NN .\.
+htd15365	Lunch\NN was\VBD in\IN Tharali\NNP village\NN .\.
+htd15366	In\IN the\DT front\NN on\IN the\DT other\JJ side\NN the\DT Rajajaat\NNP was\VBD going\VBG for\IN the\DT Chepadyun\NNP towards\IN the\DT Tharali\NNP market\NN .\.
+htd15367	200\CD m\NN .\: below\IN Tharali\NNP at\IN the\DT confluence\NN of\IN Pindar\NNP and\CC Pranmati\NNP is\VBZ a\DT Shiva\NNP temple\NN and\CC an\DT ancient\JJ Narayan\NNP temple\NN in\IN the\DT village\NN .\.
+htd15368	Here\RB are\VBP stone\NN idols\NNS of\IN Satyanarayana\NNP ,\, Vishnu\NNP ,\, Pandava\NNP ,\, Parvati\NNP ,\, Ganesha\NNP ,\, Ramchandra\NNP ,\, Devi\NNP ,\, Hanuman\NNP and\CC Nandi\NNP .\.
+htd15369	The\DT priest\NN is\VBZ a\DT Chandola\NNP brahmin\NN .\.
+htd15370	Tharali\NNP is\VBZ a\DT village\NN of\IN 300\CD families\NNS .\.
+htd15371	Chantoli\NNP of\IN Dewalgarh\NNP included\VBD from\IN Tharali\NNP .\.
+htd15372	The\DT palanquin\NN came\VBD to\TO the\DT Tharali\NNP market\NN from\IN Tharali\NNP village\NN .\.
+htd15373	A\DT group\NN of\IN almost\RB 5000\CD was\VBD hailing\VBG the\DT goddess\NN and\CC giving\VBG offerings\NNS .\.
+htd15374	The\DT youth\NN were\VBD dancing\VBG at\IN the\DT tunes\NNS of\IN songs\NNS and\CC revelry\NN ,\, many\JJ '\'' elder\JJR amma\NN '\'' and\CC '\'' Boda\NNP '\POS were\VBD also\RB dancing\VBG .\.
+htd15375	At\IN evening\NN 4\CD o'clock\RB the\DT palanquin\NN reached\VBD '\'' Chepdyun\NNP '\POS .\.
+htd15376	Butola\NNP is\VBZ the\DT village\NN of\IN wholesalers\NNS .\.
+htd15377	Chantoli\NNP and\CC Chausingya\NNP Medha\NNP coming\VBG from\IN Nauti\NNP also\RB stopped\VBD in\IN Chepadyun\NNP .\.
+htd15378	But\CC a\DT meeting\NN of\IN the\DT two\CD did\VBD not\RB happen\VB .\.
+htd15379	Despite\IN being\VBG in\IN the\DT same\JJ village\NN the\DT meet\VB of\IN Doli\NNP ,\, Chantoil\NNP and\CC Chausingya\NNP take\VBP place\NN at\IN the\DT next\JJ stop\NN in\IN Nand\NNP Kesari\NNP .\.
+htd15380	There\EX is\VBZ a\DT tradition\NN from\IN Chepadyun\NNP that\IN the\DT doli\NN of\IN Badhan\NNP Nanda\NNP ahead\RB and\CC Khadu\NNP and\CC Chantoli\NNP comes\VBZ from\IN behind\IN and\CC the\DT meet\VBP takes\VBZ place\NN next\JJ day\NN in\IN the\DT Nandkesari\NNP Nanda\NNP temple\NN .\.
+htd15381	The\DT discharge\VBP of\IN this\DT tradition\NN was\VBD also\RB done\VBN in\IN this\DT Jaat\NN ,\, whose\WP$ breach\NN was\VBD done\VBN in\IN the\DT Raj\NNP Jaat\NNP of\IN 1987\CD .\.
+htd15382	In\IN which\WDT the\DT the\DT Dola\NNP of\IN Nanda\NNP had\VBD run\VBN behind\IN Rajachantoli\NNP .\.
+htd15383	Gopeshwar\NNP .\.T waterfall\NN at\IN two\CD miles\NNS from\IN Mandal\NNP village\NN ,\, waterfall\NN at\IN 3\CD 1\CD \/\NN 4\CD miles\NNS .\.T small\JJ square\NN named\VBN Veerbhadra\NNP .\.T small\JJ waterfall\NN at\IN four\CD miles\NNS .\.T big\JJ waterfall\NN at\IN 4\CD 1\CD \/\NN 2\CD miles\NNS .\.T big\JJ waterfall\NN at\IN 4\CD miles\NNS ,\, Veera\NNP river\NN at\IN 4\CD miles\NNS and\CC the\DT confluence\NN of\IN Bala\NNP Soti\NNP river\NN at\IN 4\CD miles\NNS and\CC 5\CD 1\CD \/\NN 4\CD miles\NNS is\VBZ Gopeshwar\NNP .\.
+htd15384	We\PRP have\VBP to\TO climb\VB the\DT mountain\NN 1 1\/4\CD miles\NNS ahead\RB of\IN Mandal\NNP village\NN leaving\VBG the\DT valley\NN of\IN the\DT river\NN .\.
+htd15385	Veerbhadra\NNP square\NN is\VBZ at\IN the\DT bank\NN of\IN the\DT river\NN named\VBN Veera\NNP Ganga\NNP .\.
+htd15386	From\IN there\EX we\PRP have\VBP to\TO walk\VB on\IN the\DT left\JJ bank\NN of\IN the\DT Veera\NNP river\NN .\.
+htd15387	There\EX is\VBZ easy\JJ ascending\VBG -\: descending\VBG from\IN the\DT valley\NN to\TO Gopeshwar\NNP .\.
+htd15388	The\DT pure\JJ name\NN of\IN Gopeshwar\NNP is\VBZ '\'' Gosthal\NNP '\POS .\.
+htd15389	Of\IN the\DT big\JJ villages\NNS of\IN that\DT state\NN Gopeshwar\NNP is\VBZ a\DT village\NN .\.
+htd15390	In\IN that\DT one\CD storey\NN ,\, two\CD storeys\NNS ,\, 20\CD -\: 25\CD cement\NN houses\NNS ,\, two\CD shops\NNS of\IN grocery\NN .\.T Dharamsala\NNP of\IN one\CD -\: two\CD storeys\NNS .\.T big\JJ temple\NN of\IN Gopeshwar\NNP and\CC a\DT small\JJ temple\NN of\IN Chandi\NNP .\.
+htd15391	On\IN the\DT roads\NNS to\TO Badrinath\NNP and\CC Kedarnath\NNP in\IN the\DT middle\NN of\IN Rishikesh\NNP and\CC Kathgodam\NNP only\RB in\IN that\DT place\NN is\VBZ a\DT deep\JJ coupe\NN of\IN nine\CD feet\NNS .\.
+htd15392	Mug\NNP deep\JJ salt\NN water\NN is\VBZ there\RB in\IN it\PRP .\.
+htd15393	1\CD \/\CD 4\CD miles\NNS north\RB -LRB-\-LRB- towards\IN the\DT back\NN -RRB-\-RRB- from\IN the\DT village\NN near\IN a\DT small\JJ temple\NN are\VBP three\CD waterfalls\NNS .\.
+htd15394	Everybody\NN drinks\NNS the\DT water\NN of\IN that\DT only\RB .\.
+htd15395	Because\IN of\IN Chamoli\NNP square\NN being\VBG near\JJ travellers\NNS stay\VBP less\RBR there\RB .\.
+htd15396	The\DT priest\NN of\IN the\DT temple\NN is\VBZ a\DT resident\NN of\IN that\DT village\NN .\.
+htd15397	The\DT temple\NN of\IN Gopeshwar\NNP is\VBZ standing\VBG in\IN the\DT middle\NN of\IN a\DT big\JJ polo\NN ground\NN .\.
+htd15398	All\DT around\IN the\DT polo\NN ground\NN are\VBP houses\NNS and\CC dharamsalas\NNS and\CC a\DT stone\NN floor\NN is\VBZ laid\VBN inside\RB .\.
+htd15399	That\DT old\JJ temple\NN is\VBZ approximately\RB 30\CD feet\NNS long\RB and\CC as\RB much\RB wide\JJ .\.
+htd15400	At\IN the\DT summit\NN of\IN the\DT temple\NN is\VBZ a\DT barahdari\NN of\IN 24\CD doors\NNS .\.
+htd15401	A\DT decorated\VBN idol\NN of\IN silver\NN in\IN proximity\NN of\IN Gopeshwar\NNP Shivalinga\NNP ,\, west\NN idol\NN of\IN Parvati\NNP .\.
+htd15402	A\DT new\JJ path\NN of\IN ascent\NN has\VBZ joined\VBN the\DT Chamoli\NNP road\NN before\IN Gopeshwar\NNP and\CC near\IN the\DT Haat\FW chatti\FW .\.
+htd15403	The\DT travellers\NNS of\IN Badrinath\NNP on\IN going\VBG to\TO southern\JJ Chamoli\NNP from\IN Gopeshwar\NNP reach\NN '\'' Haat\FW chatti\FW '\'' from\IN the\DT road\NN of\IN the\DT northeast\NN turn\NN in\IN Chamoli\NNP .\.
+htd15404	Rudranath\NN from\IN the\DT Panch\NNP Kedar\NNP is\VBZ only\RB 12\CD miles\NNS away\RB from\IN Gopeshwar\NNP .\: but\CC that\DT is\VBZ a\DT difficult\JJ footpath\NN .\.
+htd15405	Because\IN of\IN this\DT reason\NN only\RB hill\NN people\NNS go\VBP to\TO Rudranath\NNP by\IN that\DT route\NN .\.
+htd15406	There\EX is\VBZ a\DT very\RB small\JJ temple\NN to\TO the\DT left\JJ side\NN at\IN 1\CD \/\CD 2\CD miles\NNS from\IN Gopeshwar\NNP and\CC to\TO the\DT right\JJ side\NN a\DT village\NN on\IN the\DT bank\NN of\IN Balasoti\NNP river\NN .\.
+htd15407	Alaknanda\NNP at\IN one\CD mile\NN and\CC at\IN some\DT distance\NN on\IN the\DT right\JJ side\NN the\DT confluence\NN of\IN Alaknanda\NNP and\CC Balasoti\NNP ,\, at\IN 1\CD 1\CD \/\NN 2\CD miles\NNS on\IN the\DT right\JJ bank\NN of\IN the\DT Alaknanda\NNP is\VBZ a\DT small\JJ village\NN named\VBN Kotal\NNP and\CC Chameli\NNP at\IN two\CD miles\NNS ,\, which\WDT people\NNS also\RB call\VBP Lal\NNP Sanga\NNP .\.
+htd15408	The\DT way\NN from\IN Gopeshwar\NNP to\TO Chamoli\NNP is\VBZ one\CD of\IN descent\NN .\.
+htd15409	Travellers\NNS going\VBG to\TO Badrinath\NNP leaving\VBG Kedarnath\NNP go\VB to\TO Chamoli\NNP at\IN the\DT sides\NNS of\IN Alaknanda\NNP from\IN Rudraprayag\NNP .\.
+htd15410	From\IN there\EX one\PRP has\VBZ to\TO walk\VB on\IN the\DT right\JJ bank\NN of\IN Alaknanda\NNP .\.
+htd15411	From\IN Chamoli\NNP in\IN the\DT backward\RB direction\NN Nandaprayag\NNP 7\CD miles\NNS ,\, Karnprayag\NNP 19\CD 1\CD \/\NN 2\CD miles\NNS and\CC Rudraprayag\NNP 40\CD 1\CD \/\NN 2\CD miles\NNS and\CC ahead\RB Badrinath\NNP is\VBZ at\IN 44\CD 1\CD \/\NN 4\CD miles\NNS .\.
+htd15412	There\EX was\VBD a\DT cement\NN market\NN of\IN Chamoli\NNP ,\, hospital\NN ,\, temple\NN and\CC the\DT hanging\NN bridge\NN of\IN iron\NN at\IN Alaknanda\NNP ,\, which\WDT got\VBD swept\VBN away\RB in\IN the\DT '\'' Virhi\NNP '\POS river\NN on\IN breaking\NN of\IN the\DT Gohna\NNP lake\NN in\IN 1894\CD A\NN .\.NP .\.
+htd15413	Now\RB there\EX is\VBZ no\DT sign\NN of\IN anything\NN .\.
+htd15414	At\IN that\DT time\NN the\DT water\NN of\IN Alaknanda\NNP in\IN Chamoli\NNP had\VBD gone\VBN 160\CD feet\NNS high\JJ .\.
+htd15415	Now\RB there\EX is\VBZ a\DT bridge\NN of\IN shafts\NNS on\IN Alaknanda\NNP .\.
+htd15416	Those\DT riding\VBG on\IN Jhampan\JJ cross\NN the\DT river\NN barefeet\NN on\IN the\DT bridge\NN and\CC mountain\NN people\NNS cross\VBP the\DT bundle\NN of\IN goods\NNS .\.
+htd15417	Houses\NNS of\IN grocers\NNS are\VBP being\VBG built\VBN on\IN the\DT banks\NNS of\IN the\DT Alaknanda\NNP 1\CD \/\CD 2\CD mile\NN ahead\RB of\IN the\DT bridge\NN .\.
+htd15418	There\EX the\DT water\NN of\IN Alaknanda\NNP and\CC a\DT waterfall\NN is\VBZ present\JJ .\.
+htd15419	Apart\RB from\IN ordinary\JJ things\NNS in\IN the\DT shops\NNS musk\JJ ,\, shilajit\JJ etc\NN hill\NN things\NNS are\VBP also\RB available\JJ .\.
+htd15420	Some\DT travellers\NNS keep\VBP more\JJR of\IN their\PRP$ baggage\NN than\IN necessary\JJ with\IN the\DT grocers\NNS there\RB .\.
+htd15421	The\DT travellers\NNS going\VBG from\IN Kedarnath\NNP to\TO Badrinath\NNP do\VB no\DT have\VB to\TO get\VB off\RP across\IN Alaknanda\NNP beside\IN Chamoli\NNP but\CC have\VBP to\TO on\IN returning\VBG from\IN Badrinath\NNP .\.
+htd15422	3\CD waterfalls\NNS till\IN 2\CD miles\NNS ahead\RB of\IN Chamoli\NNP .\.T waterfall\NN falling\VBG from\IN the\DT mountain\NN standing\NN on\IN the\DT other\JJ side\NN and\CC 2\CD 1\CD \/\NN 2\CD miles\NNS ahead\RB near\IN a\DT small\JJ river\NN ,\, on\IN which\WDT is\VBZ a\DT wooden\JJ bridge\NN ,\, is\VBZ Mathchatti\NNP .\.
+htd15423	There\EX is\VBZ a\DT village\NN .\.D shop\NN and\CC 1\CD waterfall\NN beyond\IN the\DT bridge\NN .\.
+htd15424	Ahead\RB from\IN there\RB at\IN 3 1\/4\CD miles\NNS ahead\RB from\IN Chamoli\NNP .\.
+htd15425	Till\IN 2\CD miles\NNS ahead\RB of\IN Chamoli\NNP is\VBZ a\DT tight\JJ road\NN .\.
+htd15426	There\EX is\VBZ a\DT jungle\NN of\IN small\JJ trees\NNS on\IN the\DT sides\NNS of\IN the\DT road\NN from\IN Chamoli\NNP till\IN Chatti\NNP .\.
+htd15427	7\CD miles\NNS before\IN Sangam\NNP on\IN the\DT bank\NN of\IN the\DT river\NN Birhi\NNP is\VBZ the\DT Gohna\NNP village\NN .\.
+htd15428	This\DT small\JJ river\NN has\VBZ come\VBN from\IN five\CD -\: seven\CD miles\NNS north\RB from\IN Gohna\NNP .\.
+htd15429	On\IN the\DT day\NN of\IN 6th\JJ September\NNP of\IN 1893\CD a\DT 400\CD yards\NNS high\JJ top\NN of\IN a\DT mountain\NN near\IN the\DT Gohna\NNP river\NN fell\VBD in\IN the\DT Birhi\NNP river\NN .\.
+htd15430	Because\IN of\IN its\PRP$ falling\VBG the\DT flow\NN of\IN the\DT river\NN stopped\VBD .\.
+htd15431	By\IN the\DT side\NN of\IN Birhi\NNP till\IN the\DT other\JJ side\NN a\DT heap\NN of\IN dirt\NN and\CC stones\NNS almost\RB 1\CD 1\CD \/\NN 2\CD miles\NNS wide\RB and\CC 2\CD miles\NNS long\RB has\VBZ formed\VBN .\.
+htd15432	Because\IN of\IN the\DT water\NN stopping\VBG a\DT big\JJ lake\NN was\VBD formed\VBN and\CC the\DT water\NN kept\VBD rising\VBG daily\RB .\.
+htd15433	That\DT lake\NN was\VBD called\VBN by\IN some\DT as\IN Birhi\NNP lake\NN and\CC by\IN some\DT as\IN Gohana\NNP lake\NN for\IN being\VBG near\IN Gohana\NNP village\NN .\.
+htd15434	After\IN pondering\VBG on\IN the\DT future\JJ condition\NN of\IN the\DT fearsome\JJ lake\NN the\DT government\NN made\VBD full\JJ arrangements\NNS of\IN saving\VBG the\DT life\NN of\IN people\NNS by\IN sending\VBG engineers\NNS .\.
+htd15435	The\DT bangalows\NNS of\IN the\DT engineers\NNS ,\, telegram\NN houses\NNS at\IN places\NNS .\.D feet\NNS high\JJ platforms\NNS on\IN the\DT sides\NNS of\IN mountain\NN at\IN a\DT distance\NN of\IN half\NN miles\NNS to\TO gaughe\VB the\DT height\NN of\IN the\DT flood\NN and\CC wired\VBD from\IN Gohna\NNP to\TO Haridwar\NNP .\.
+htd15436	The\DT ones\NNS giving\VBG the\DT news\NN were\VBD made\VBN to\TO sit\VB at\IN places\NNS .\.
+htd15437	At\IN the\DT end\NN of\IN July\NNP the\DT people\NNS staying\VBG below\IN were\VBD lifted\VBN and\CC settled\VBN on\IN the\DT high\JJ mountain\NN .\.
+htd15438	Gohna\NNP lake\NN then\RB came\VBD rising\VBG two\CD -\: three\CD miles\NNS wide\JJ ,\, six\CD -\: seven\CD miles\NNS long\RB and\CC came\VBD till\IN the\DT head\NN because\IN of\IN the\DT stoppage\NN in\IN water\NN .\.
+htd15439	Ahead\RB of\IN .\.
+htd15440	From\IN Sangam\NNP till\IN Haatchatti\NNP the\DT water\NN of\IN Alaknanda\NNP is\VBZ deep\JJ and\CC grave\JJ .\.
+htd15441	There\EX are\VBP only\RB 3\CD sheds\NNS of\IN grocers\NNS in\IN Haatchatti\NNP .\.D waterfalls\NNS there\RB and\CC 1\CD tree\NN .\.
+htd15442	At\IN the\DT time\NN of\IN the\DT rising\NN of\IN the\DT Gohna\NNP lake\NN on\IN the\DT cut\JJ place\NN of\IN the\DT mountain\NN a\DT straight\JJ road\NN was\VBD made\VBN from\IN Haatchatti\NNP to\TO Gopeshwar\NNP ,\, but\CC because\IN of\IN tough\JJ climbing\VBG travellers\NNS do\VBP not\RB come\VBN by\IN that\DT route\NN .\.
+htd15443	Ahead\RB of\IN Hatchatti\NNP towards\IN the\DT left\NN at\IN some\DT distance\NN along\IN the\DT pucca\NN houses\NNS 1\CD big\JJ colony\NN and\CC a\DT deity\NN in\IN a\DT small\JJ cell\NN near\IN the\DT road\NN and\CC in\IN a\DT cell\NN towards\IN the\DT left\NN the\DT Baleshwar\NNP Shiva\NNP and\CC 1\/2\CD mile\NN ahead\RB there\EX is\VBZ a\DT 52\CD feet\NNS long\RB and\CC 6\CD feet\NNS wide\JJ bridge\NN of\IN iron\NN on\IN the\DT Alankananda\NNP river\NN .\.
+htd15444	From\IN there\RB crossing\VBG the\DT bridge\NN we\PRP have\VBP to\TO walk\VB on\IN the\DT left\JJ bank\NN of\IN the\DT Alaknanda\NNP .\.
+htd15445	On\IN the\DT left\JJ corner\NN of\IN Alaknanda\NNP from\IN Chamoli\NNP a\DT footpath\NN has\VBZ come\VBN and\CC joined\VBD a\DT road\NN for\IN travellers\NNS .\.
+htd15446	3\NNP \/\VBD 4\CD miles\NNS ahead\RB of\IN Chatti\NNP on\IN the\DT right\JJ side\NN is\VBZ 1\CD cave\NN ,\, 1 2\/4\CD waterfalls\NNS .\.D caves\NNS and\CC a\DT little\JJ field\NN and\CC at\IN 2\CD miles\NNS from\IN Haatchatti\NNP is\VBZ Pipalkoti\NNP .\.
+htd15447	From\IN Ukhimath\NNP till\IN there\EX three\CD annas\NNS ser\NN flour\NN is\VBZ sold\VBN .\.
+htd15448	There\EX has\VBZ been\VBN easy\JJ climbing\VBG -\: descent\NN from\IN Chamoli\NNP till\IN the\DT bridge\NN .\.
+htd15449	There\EX is\VBZ tough\JJ ascent\NN of\IN 3\CD \/\CD 4\CD miles\NNS from\IN bridge\NN till\IN field\NN .\.
+htd15450	Pipalkoti\NNP is\VBZ one\CD of\IN the\DT big\JJ villages\NNS of\IN that\DT state\NN .\.
+htd15451	Its\PRP$ shops\NNS remain\VBP open\JJ all\DT twelve\CD months\NNS .\.
+htd15452	After\IN Srinagar\NNP ,\, only\RB in\IN Pipalkoti\NNP can\MD you\PRP get\VB all\DT necessary\JJ things\NNS .\.
+htd15453	General\JJ items\NNS like\IN clothes\NNS ,\, pottery\NN ,\, dry\JJ fruits\NNS ,\, spices\NNS ,\, paper\NN ,\, pencil\NN etc\NN .\. mountain\NN items\NNS like\IN chanwar\NN ,\, shilajit\NN ,\, musk\NN ,\, nirvishi\NN ,\, jaharmohra\NN etc\NN .\: and\CC puri\JJ sweets\NNS etc\NN .\: are\VBP available\JJ there\RB .\.
+htd15454	The\DT flow\NN of\IN the\DT Ganga\NNP falls\VBZ down\RP the\DT mountain\NN with\IN much\JJ fanfare\NN ,\, in\IN which\WDT travellers\NNS bathe\VBP .\.
+htd15455	Many\JJ people\NNS offer\VBP peda\NN to\TO Garud\NNP and\CC to\TO save\VB oneself\NN from\IN the\DT fear\NN of\IN snakes\NNS take\VBP home\NN a\DT piece\NN of\IN stone\NN from\IN the\DT river\NN .\.
+htd15456	Many\JJ men\NNS from\IN the\DT travellers\NNS of\IN Kedarnath\NNP and\CC Badrinath\NNP distribute\VBP the\DT gud\FW etc\FW offerings\NNS of\IN Garud\NNP at\IN places\NNS on\IN the\DT chattis\NNS and\CC travellers\NNS take\VBP the\DT name\NN of\IN the\DT Garud\NNP for\IN the\DT mountainous\JJ road\NN to\TO be\VB safe\JJ .\.
+htd15457	One\CD can\MD see\VB the\DT idol\NN of\IN Garud\NNP at\IN places\NNS .\.
+htd15458	Garud\NNP is\VBZ the\DT mountainous\JJ cave\NN standing\NN next\JJ to\TO the\DT Ganga\NNP and\CC in\IN a\DT small\JJ room\NN are\VBP the\DT idols\NNS of\IN Garud\NNP on\IN the\DT right\JJ and\CC Vishnu\NNP on\IN the\DT left\NN .\.
+htd15459	A\DT bridge\NN of\IN wood\NN is\VBZ made\VBN there\RB on\IN the\DT river\NN .\.
+htd15460	Here\RB the\DT river\NN has\VBZ gone\VBN a\DT little\JJ ahead\RB and\CC met\VBD with\IN the\DT Alaknanda\NNP .\.
+htd15461	Eight\CD -\: ten\CD concrete\JJ shops\NNS in\IN Chatti\NNP ,\, many\JJ waterfalls\NNS ,\, among\IN which\WDT one\CD is\VBZ very\RB big\JJ ,\, and\CC one\CD government\NN concrete\NN dharamsala\NN is\VBZ there\RB ,\, on\IN which\WDT is\VBZ written\VBN 1879\CD A\NN .\.NP .\.
+htd15462	Full\JJ sweets\NNS are\VBP also\RB available\JJ in\IN the\DT shops\NNS .\.
+htd15463	There\EX is\VBZ a\DT waterfall\NN 1\CD 1\CD \/\NN 4\CD miles\NNS from\IN Garud\NNP Ganda\NNP and\CC at\IN 1\CD 1\CD \/\NN 2\CD miles\NNS is\VBZ Belchatti\NNP which\WDT is\VBZ also\RB called\VBN Devdaru\NNP chatti\NNS .\.
+htd15464	Near\IN about\IN it\PRP above\IN the\DT mountain\NN there\EX are\VBP many\JJ trees\NNS ,\, from\IN this\DT its\PRP$ name\NN came\VBD to\TO be\VB Devdaru\NNP .\.
+htd15465	There\EX are\VBP 6\CD big\JJ houses\NNS of\IN grocers\NNS ,\, waterfall\NN and\CC a\DT basket\NN maker\NN there\RB and\CC at\IN 3\CD 1\CD \/\NN 4\CD miles\NNS from\IN Garud\FW chatti\FW is\VBZ Patalganga\JJ chatti\NNS .\.
+htd15466	Ahead\RB of\IN Devdaruchatti\NNP there\EX is\VBZ miles\NNS ascent\NN and\CC 1\CD mile\NN difficult\JJ descent\NN .\.
+htd15467	There\EX is\VBZ a\DT serpentine\JJ road\NN of\IN 2\CD miles\NNS ahead\RB of\IN Patalganga\NNP .\.
+htd15468	There\EX are\VBP 2\CD two\CD storied\JJ houses\NNS .\.D houses\NNS with\IN roofs\NNS of\IN thatch\NN and\CC 2\CD waterfalls\NNS and\CC below\IN 1\CD village\NN .\.
+htd15469	In\IN Gulabkoti\NNP chatti\FW 1\CD 3\CD \/\NN 4\CD miles\NNS ahead\RB at\IN small\JJ Kumbharchatti\NNP in\IN the\DT fields\NNS is\VBZ 1\CD house\NN of\IN a\DT grocer\NN and\CC 2\CD 1\CD \/\NN 4\CD miles\NNS ahead\RB is\VBZ greater\JJR Kumbharchatti\NNP .\.
+htd15470	There\EX is\VBZ 1\CD \/\CD 2\CD mile\NN tough\JJ ascent\NN from\IN Gulabkoti\FW chatti\FW .\.D \/\CD 2\CD mile\NN descent\NN ,\, later\RB easy\JJ ascent\NN -\: descent\NN .\.
+htd15471	Vridhbadri\NNP .\.D \/\CD 2\CD mile\NN ahead\RB from\IN Kumbharchatti\NNP is\VBZ 1\CD waterfall\NN and\CC another\DT 1\CD very\RB big\JJ waterfall\NN and\CC 1\CD 1\CD \/\NN 2\CD miles\NNS ahead\RB is\VBZ a\DT small\JJ waterfall\NN .\.
+htd15472	A\DT little\JJ ahead\RB of\IN it\PRP on\IN the\DT left\JJ side\NN a\DT footpath\NN has\VBZ gone\VBN very\RB low\JJ to\TO '\'' Painimath\NNP '\POS .\.
+htd15473	There\EX are\VBP 2\CD houses\NNS and\CC the\DT temple\NN of\IN Vridhbadri\NNP in\IN Painimath\NNP .\.
+htd15474	Painichatti\NNP :\: On\IN that\DT chatti\FW there\EX are\VBP 4\CD houses\NNS of\IN grocers\NNS and\CC 1\CD big\JJ waterfall\NN .\.
+htd15475	1\CD \/\CD 2\CD mile\NN below\IN from\IN Chatti\NNP in\IN Painimath\NNP is\VBZ Vridhbadri\NNP ,\, but\CC there\EX is\VBZ no\DT path\NN to\TO go\VB there\RB from\IN Chatti\NNP .\.
+htd15476	Ahead\RB from\IN Painichatti\NNP at\IN 2\CD miles\NNS is\VBZ a\DT big\JJ cave\NN and\CC that\DT side\NN the\DT confluence\NN of\IN Alaknanda\NNP and\CC another\DT river\NN .\.
+htd15477	Further\RB from\IN that\DT at\IN places\NNS after\IN four\CD -\: five\CD caves\NNS a\DT very\RB big\JJ waterfall\NN and\CC 2\CD miles\NNS ahead\RB 1\CD cave\NN and\CC 1\CD house\NN of\IN a\DT grocer\NN .\.
+htd15478	A\DT road\NN to\TO Vishnuprayag\NNP has\VBZ gone\VBN below\IN that\DT place\NN and\CC to\TO Joshimath\NNP above\IN that\DT .\.
+htd15479	From\IN there\EX Vishnuprayag\NNP is\VBZ 1\CD 3\CD \/\NN 4\CD miles\NNS by\IN the\DT path\NN below\IN and\CC via\IN Joshimath\NNP is\VBZ 2\CD 3\CD \/\NN 4\CD miles\NNS .\.
+htd15480	3\CD 1\CD \/\NN 2\CD miles\NNS ahead\RB from\IN Painichatti\NNP on\IN the\DT left\JJ side\NN a\DT new\JJ small\JJ temple\NN .\.D concrete\JJ houses\NNS ,\, many\JJ waterfalls\NNS at\IN places\NNS and\CC 4\CD 1\CD \/\NN 4\CD miles\NNS ahead\RB is\VBZ Joshimath\JJ .\.
+htd15481	There\EX is\VBZ a\DT path\NN of\IN easy\JJ ascent\NN -\: descent\NN from\IN Kumbharchatti\NNP till\IN Joshimath\NNP .\.
+htd15482	Joshimath\NNP is\VBZ one\CD of\IN the\DT large\JJ villages\NNS of\IN that\DT state\NN .\.
+htd15483	Shri\NNP Shankaracharya\NNP had\VBD ,\, who\WP was\VBD there\RB in\IN the\DT 9th\JJ century\NN ,\, established\VBN Joshimath\NNP .\.
+htd15484	After\IN Srinagar\NNP you\PRP do\VBP not\RB get\VB a\DT village\NN as\RB big\JJ as\IN this\DT .\.
+htd15485	Temple\NNP of\IN Nrisinghji\NNP :\: Before\IN the\DT house\NN of\IN Rawal\NNP ,\, shaded\JJ with\IN the\DT thrones\NNS of\IN stone\NN on\IN the\DT southern\JJ mouth\NN is\VBZ the\DT two\CD storied\JJ temple\NN of\IN Nrisinghji\NNP .\.
+htd15486	On\IN both\DT sides\NNS of\IN it\PRP 2\CD wings\NNS and\CC three\CD earthen\JJ pots\NNS on\IN three\CD places\NNS on\IN its\PRP$ head\NN .\.
+htd15487	Beside\IN each\DT earthen\JJ pot\NN one\CD flag\NN is\VBZ standing\VBG .\.
+htd15488	In\IN the\DT eastern\JJ and\CC southern\JJ facing\VBG room\NN in\IN the\DT floor\NN below\IN the\DT beautiful\JJ idol\NN of\IN Nrisinghji\NNP is\VBZ sitting\VBG facing\VBG west\NN .\.
+htd15489	The\DT crown\NN and\CC umbrella\NN of\IN the\DT beautiful\JJ idol\NN of\IN Nrisingh\NNP is\VBZ golden\JJ .\.
+htd15490	There\EX are\VBP idols\NNS of\IN Rama\NNP and\CC Laxman\NNP on\IN its\PRP$ left\NN and\CC on\IN the\DT right\JJ Badrinath\NNP ,\, Udhavji\NNP ,\, and\CC Chandi\NNP .\.
+htd15491	To\TO the\DT south\NN of\IN the\DT house\NN of\IN Nrisinghji\NNP is\VBZ Shepashai\NNP god\NN and\CC to\TO the\DT south\NN -\: western\JJ is\VBZ the\DT idol\NN of\IN Laxmanji\NNP .\.
+htd15492	Outside\IN the\DT temple\NN all\DT around\IN houses\NNS and\CC in\IN the\DT eastern\JJ direction\NN are\VBP doors\NNS .\.
+htd15493	East\NNP of\IN the\DT temple\NN of\IN Nrisinghji\NNP inside\IN the\DT four\CD walls\NNS the\DT old\JJ temple\NN of\IN Vasudev\NNP is\VBZ standing\VBG westward\RB .\.
+htd15494	The\DT dark\JJ idol\NN of\IN Vasudev\NNP meaning\NN Krishna\NNP as\RB high\JJ as\IN a\DT human\NN and\CC to\TO its\PRP$ right\NN is\VBZ a\DT smaller\JJR idol\NN of\IN Baldevji\NNP .\.
+htd15495	Both\DT idols\NNS are\VBP very\RB old\JJ .\.
+htd15496	The\DT people\NNS there\RB say\VBP that\IN Shankaracharya\NNP had\VBD established\VBN the\DT idols\NNS there\RB .\.
+htd15497	From\IN near\IN the\DT Safakhana\NNP of\IN Joshimath\NNP a\DT way\NN has\VBZ gone\VBN towards\IN Shri\NNP Badrinath\NNP ahead\RB of\IN Joshimath\NNP Temple\NNP and\CC another\DT road\NN towards\IN the\DT right\NN has\VBZ gone\VBN towards\IN Tapovan\NNP ,\, Niti\NNP through\IN `\`` Bhot\NNP '\'' to\TO Kathgodam\NNP .\.
+htd15498	6\CD miles\NNS to\TO the\DT east\JJ of\IN Joshimath\NNP Tapoban\NNP and\CC in\IN the\DT direction\NN of\IN south\NN from\IN Tapoban\NNP is\VBZ Kathgodam\NNP .\.
+htd15499	Bhotia\NN businessmen\NNS ,\, who\WP are\VBP called\VBN Shauks\NNP and\CC been\VBN written\VBN Shaka\NNP in\IN the\DT Puranas\NNP ,\, load\NN commodities\NNS on\IN hundreds\NNS of\IN sheep\NN ,\, goats\NNS ,\, donkeys\NNS ,\, mules\NNS etc\NN animals\NNS and\CC do\VB business\NN from\IN that\DT road\NN .\.
+htd15500	Bhotia\NNP people\NNS are\VBP settled\VBN on\IN the\DT borders\NNS of\IN the\DT three\CD states\NNS of\IN English\NNP ,\, Nepal\NNP and\CC Tibet\NNP and\CC near\IN these\DT borders\NNS .\.
+htd15501	Vyas\NNP ji\NNP had\VBD done\VBN meditation\NN in\IN Bhot\NNP country\NN ,\, that\WDT is\VBZ why\WRB this\DT country\NN is\VBZ also\RB called\VBN Vyaskhand\NNP .\.
+htd15502	Kailash\JJ mountain\NN and\CC that\DT lake\NN are\VBP near\IN that\DT country\NN .\.
+htd15503	Pandukeshwar\NNP is\VBZ one\CD of\IN the\DT big\JJ villages\NNS of\IN Garhwal\NNP district\NN .\.
+htd15504	In\IN Pandukeshwar\NNP Garhwal\NNP there\EX are\VBP small\JJ and\CC big\JJ forty\NN -\: fifty\CD houses\NNS built\VBN .\.
+htd15505	Many\JJ residents\NNS of\IN Pandukeshwar\NNP Garhwal\NNP do\VBP the\DT work\NN of\IN grocer\NN .\.
+htd15506	In\IN Pandukeshwar\NNP Garhwal\NNP there\EX is\VBZ a\DT government\NN dharamsala\NN ,\, many\JJ Panchakkis\NNPS ,\, Alaknanda\NNP and\CC the\DT water\NN of\IN a\DT big\JJ waterfall\NN and\CC a\DT temple\NN of\IN Yogabadri\NNP and\CC Vasudeva\NNP ji\NNP .\.
+htd15507	In\IN the\DT past\JJ King\NNP Pandu\NNP ,\, saddened\VBN by\IN the\DT curse\NN of\IN deer\NN -\: shaped\VBN saint\NN had\VBD done\VBN meditation\NN at\IN this\DT very\JJ spot\NN .\.
+htd15508	People\NNS call\VBP Hanumanchatti\NNP Amlagadchatti\NNP also\RB there\EX are\VBP four\CD -\: five\CD concrete\JJ houses\NNS of\IN grocers\NNS ,\, shops\NNS of\IN puris\NNS and\CC sweets\NNS .\.T small\JJ idol\NN of\IN Hanumanji\NNP in\IN a\DT room\NN .\.T small\JJ dharamshala\NN and\CC the\DT water\NN of\IN Alaknanda\NNP and\CC Dritganga\NNP .\.
+htd15509	Travellers\NNS drink\VBP the\DT water\NN of\IN Dritganga\NNP .\.
+htd15510	Hill\NNP people\NNS take\VBP dry\JJ wood\NN from\IN nearby\JJ jungles\NNS on\IN their\PRP$ backs\NNS to\TO Badri\NNP -\: Kshetra\NNP .\.
+htd15511	3\NNP \/\VBD 4\CD miles\NNS ahead\RB of\IN Kubershila\NNP Hanumanchatti\NNP on\IN Alaknanda\NNP is\VBZ a\DT bridge\NN of\IN wood\NN of\IN 36\CD feet\NNS .\.
+htd15512	On\IN crossing\VBG the\DT bridge\NN one\NN has\VBZ to\TO walk\VB on\IN the\DT right\JJ bank\NN of\IN Alaknanda\NNP .\.
+htd15513	There\EX are\VBP three\CD -\: four\CD waterfalls\NNS ahead\RB from\IN the\DT bridge\NN ,\, many\JJ waterfalls\NNS one\CD mile\NN ahead\RB and\CC on\IN a\DT big\JJ waterfall\NN ,\, which\WDT falls\VBZ from\IN the\DT top\NN of\IN the\DT mountain\NN ,\, snow\NN is\VBZ frozen\VBN ,\, on\IN which\WDT one\NN has\VBZ to\TO walk\VB .\.
+htd15514	Across\IN the\DT bridge\NN many\JJ waterfalls\NNS ,\, from\IN where\WRB one\NN has\VBZ to\TO walk\VB on\IN the\DT left\JJ bank\NN of\IN the\DT Alaknanda\NNP ,\, there\EX is\VBZ no\DT tree\NN south\RB of\IN that\DT bridge\NN till\IN Badrinath\NNP ,\, but\CC there\EX is\VBZ a\DT forest\NN of\IN small\JJ trees\NNS from\IN Hanumanchatti\NNP till\IN there\RB .\.
+htd15515	1\CD 1\CD \/\NN 2\CD miles\NNS ahead\RB from\IN Hanumanchatti\NNP on\IN Alaknanda\NNP from\IN this\DT bank\NN to\TO that\DT bank\NN snow\NN was\VBD frozen\VBN even\RB in\IN the\DT Jyeshta\NNP month\NN .\.
+htd15516	A\DT big\JJ waterfall\NN falls\VBZ from\IN the\DT top\NN of\IN the\DT mountains\NNS on\IN the\DT banks\NNS into\IN the\DT Alaknanda\NNP .\.
+htd15517	Snow\NNP is\VBZ frozen\VBN on\IN a\DT big\JJ waterfall\NN 1\CD 3\CD \/\NN 4\CD miles\NNS from\IN ahead\RB from\IN the\DT chatti\NNS ,\, through\IN which\WDT travellers\NNS go\VBP ahead\RB .\.
+htd15518	2\CD 3\CD \/\NN 4\CD miles\NNS ahead\RB both\DT sides\NNS the\DT waterfall\NN falls\VBZ into\IN the\DT Alaknanda\NNP from\IN the\DT top\NN of\IN the\DT mountain\NN ,\, on\IN the\DT top\NN of\IN which\WDT snow\NN is\VBZ frozen\JJ .\.D miles\NNS ahead\RB the\DT confluence\NN of\IN Alaknanda\NNP and\CC Kanchenganga\NNP .\.D 1\CD \/\NN 4\CD miles\NNS ahead\RB on\IN Alaknanda\NNP from\IN this\DT bank\NN to\TO that\DT bank\NN another\DT two\CD -\: three\CD hundred\CD yard\NN long\JJ ice\NN is\VBZ frozen\VBN ,\, on\IN which\WDT men\NNS can\MD walk\VB ,\, but\CC travellers\NNS do\VBP not\RB have\VB any\DT work\NN to\TO go\VB there\RB for\IN .\.
+htd15519	Kubershila\NNP is\VBZ 3\CD 1\CD \/\NN 2\CD miles\NNS ahead\RB from\IN Hanumanchatti\NNP .\.
+htd15520	There\EX is\VBZ a\DT difficult\JJ climb\NN at\IN places\NNS and\CC narrow\JJ paths\NNS somewhere\RB from\IN Hanumanchatti\NNP to\TO Kubershila\NNP .\.
+htd15521	The\DT water\NN of\IN Alaknanda\NNP from\IN Ghatchatti\NNP to\TO Badrinath\NNP is\VBZ near\IN the\DT path\NN .\.
+htd15522	On\IN sloping\VBG ground\NN the\DT water\NN of\IN Alaknanda\NNP falls\VBZ with\IN vigor\NN .\.
+htd15523	At\IN some\DT places\NNS the\DT water\NN runs\VBZ very\RB strongly\RB going\VBG up\IN and\CC down\IN the\DT mounds\NNS in\IN a\DT bizarre\JJ way\NN .\.
+htd15524	The\DT Alaknanda\NNP river\NN has\VBZ come\VBN from\IN the\DT south\NN in\IN Badrinath\NNP .\.
+htd15525	On\IN the\DT right\JJ bank\NN of\IN Alaknanda\NNP in\IN the\DT district\NN of\IN Garhwal\NNP is\VBZ the\DT village\NN of\IN Badrinath\NNP .\.
+htd15526	On\IN the\DT sloping\VBG ground\NN of\IN the\DT river\NN from\IN north\NN to\TO south\JJ tree\NN -\: four\CD lines\NNS below\IN '\'' Uwa\NNP '\POS are\VBP built\VBN one\CD storey\NN ,\, two\CD storey\NN more\JJR than\IN 100\CD houses\NNS ,\, there\EX are\VBP many\JJ dharamshalas\NNS there\RB .\.
+htd15527	Overall\JJ houses\NNS are\VBP concrete\JJ .\.
+htd15528	On\IN their\PRP$ sloping\VBG roofs\NNS boards\NNS of\IN wood\NN are\VBP studded\VBN .\.
+htd15529	On\IN the\DT roofs\NNS of\IN some\DT houses\NNS dirt\NN has\VBZ been\VBN given\VBN after\IN laying\VBG papyrus\NN .\.
+htd15530	Travellers\NNS lodge\VBP in\IN many\JJ houses\NNS .\.
+htd15531	And\CC there\EX are\VBP shops\NNS in\IN many\JJ .\.
+htd15532	Many\JJ hill\NN people\NNS have\VBP made\VBN houses\NNS for\IN shops\NNS and\CC many\JJ people\NNS come\VBP from\IN Srinagar\NNP etc\FW far\RB away\RB villages\NNS and\CC make\VB shops\NNS in\IN rented\VBN houses\NNS .\.
+htd15533	In\IN the\DT shops\NNS there\RB one\CD gets\VBZ cloth\NN ,\, utensils\NNS ,\, nuts\NNS ,\, spices\NNS ,\, puris\NNS ,\, sweets\NNS ,\, all\DT types\NNS of\IN commodities\NNS ,\, potato\NN ,\, mountainous\JJ things\NNS ,\, sugar\NN ,\, candy\NN all\DT things\NNS are\VBP available\JJ .\.
+htd15534	Bhatia\NNP people\NNS reach\VBP flour\NN ,\, commodities\NNS etc\NN on\IN sheep\NN -\: goats\VBZ etc\NN animals\NNS till\IN Badrinath\NNP village\NN .\.
+htd15535	Wood\NNP coming\VBG from\IN 4\CD miles\NNS away\RB sells\VBZ expensive\JJ in\IN Badrinath\NNP .\.
+htd15536	The\DT water\NN remains\VBZ very\RB cold\JJ .\.
+htd15537	Hundreds\NNS of\IN travellers\NNS reach\VBP Badrinath\NNP everyday\JJ .\.
+htd15538	Common\JJ people\NNS reside\VBP there\EX three\CD or\CC five\CD even\RB seven\CD nights\NNS but\CC poor\JJ people\NNS stay\VBP there\RB that\DT night\NN or\CC one\CD night\NN and\CC leave\NN from\IN there\RB because\IN of\IN the\DT fear\NN of\IN winters\NNS .\.
+htd15539	There\EX all\DT around\IN above\IN the\DT mountains\NNS snow\NN is\VBZ frozen\VBN everywhere\RB ,\, on\IN days\NNS of\IN winters\NNS a\DT pile\NN of\IN snow\NN gets\VBZ collected\VBN everywhere\RB on\IN the\DT ground\NN and\CC houses\NNS .\.
+htd15540	The\DT highest\JJS peak\NN of\IN Badrinath\NNP is\VBZ 23\CD ,\, 200\CD feet\NNS above\IN sea\NN level\NN .\.
+htd15541	People\NNS call\VBP the\DT East\NNP and\CC West\NNP mountains\NNS Jai\NNP and\CC Vijay\NNP .\.
+htd15542	There\EX is\VBZ a\DT long\JJ sloping\NN field\NN South\NNP to\TO North\NNP at\IN a\DT height\NN of\IN 10\CD ,\, 400\CD feet\NNS from\IN sea\NN level\NN in\IN the\DT middle\NN of\IN the\DT mountains\NNS ,\, in\IN which\WDT the\DT Alaknanda\NNP flows\NNS and\CC the\DT Puri\NNP of\IN the\DT Badrinath\NNP is\VBZ there\RB .\.
+htd15543	The\DT name\NN of\IN this\DT place\NN is\VBZ written\VBN Mandaranchal\NNP and\CC Badrikashram\NNP .\.
+htd15544	Of\IN the\DT famous\JJ 4\CD dhamas\NNS of\IN India\NNP near\IN its\PRP$ southern\JJ border\NN Badrikakshram\NNP is\VBZ one\CD dhama\NN .\.
+htd15545	The\DT temple\NN of\IN Badrinath\NNP is\VBZ built\VBN south\RB of\IN the\DT village\NN with\IN the\DT right\JJ stone\NN of\IN Alaknanda\NNP and\CC is\VBZ 45\CD feet\NNS high\JJ -LRB-\-LRB- of\IN East\NNP facing\VBG -RRB-\-RRB- .\.
+htd15546	There\EX is\VBZ dual\JJ chakuti\NNS on\IN the\DT top\NN of\IN the\DT temple\NN .\.
+htd15547	The\DT lower\JJR chakuti\NN is\VBZ spread\VBN with\IN tin\NN or\CC copperplate\NN .\.
+htd15548	In\IN it\PRP there\EX are\VBP three\CD doors\NNS all\RB around\RB .\.
+htd15549	In\IN the\DT other\JJ chakuti\NNS above\IN that\DT also\RB ,\, which\WDT is\VBZ smaller\JJR than\IN the\DT first\JJ ,\, are\VBP 12\CD doors\NNS all\RB around\RB .\.
+htd15550	On\IN its\PRP$ sloping\JJ roof\NN the\DT Maharaja\NNP of\IN Patiala\NNP having\VBG got\VBD studded\VBN plates\NNS of\IN copper\NN got\VBD plating\NN of\IN gold\NN done\VBN .\.
+htd15551	There\EX is\VBZ a\DT golden\JJ urn\NN on\IN its\PRP$ head\NN .\.
+htd15552	Inside\IN the\DT temple\NN in\IN front\NN of\IN the\DT door\NN a\DT one\CD hand\NN high\JJ two\CD -\: limbed\VBD dark\JJ idol\NN of\IN Badrinarayan\NNP is\VBZ seated\VBN .\.
+htd15553	He\PRP is\VBZ sitting\VBG lost\VBN in\IN meditation\NN decorated\VBN with\IN an\DT invaluable\JJ ,\, bejewelled\JJ and\CC unique\JJ crown\NN .\.
+htd15554	A\DT diamond\NN is\VBZ stuck\VBN on\IN his\PRP$ forehead\NN and\CC an\DT umbrella\NN of\IN gold\NN is\VBZ placed\VBN above\IN him\PRP .\.
+htd15555	Near\IN Badrinarayan\NNP are\VBP Lakshmiji\NNP ,\, Nar\NNP ,\, Narayan\NNP ,\, Narad\NNP ,\, Ganeshji\NNP ,\, Kuber\NNP of\IN gold\NN and\CC Garud\NNP and\CC Udhav\NNP of\IN silver\NN .\.
+htd15556	The\DT face\NN of\IN Kuber\NNP is\VBZ merely\RB structure\NN .\.
+htd15557	It\PRP is\VBZ said\VBD that\IN Badrinarayan\NNP was\VBD previously\RB blind\JJ .\.
+htd15558	In\IN the\DT ninth\JJ century\NN B\NN .\.NP .\: Maharaj\NNP Shankaracharya\NNP had\VBD found\VBN his\PRP$ idol\NN in\IN the\DT river\NN and\CC having\VBG got\VBD built\VBN a\DT temple\NN established\VBD the\DT idol\NN .\.
+htd15559	East\NNP of\IN the\DT temple\NN high\RB as\IN the\DT temple\NN with\IN a\DT golden\JJ urn\NN is\VBZ domed\VBN Jagmohan\NNP .\.
+htd15560	The\DT trunk\NN etc\NN stuff\NN of\IN Badrinarayan\NNP are\VBP kept\VBN in\IN the\DT room\NN between\IN the\DT temple\NN and\CC Jagmohan\NN and\CC priests\NNS and\CC councillors\NNS .\.
+htd15561	On\IN both\DT sides\NNS of\IN the\DT door\NN of\IN the\DT room\NN of\IN Jagmohan\JJ stones\NNS Jai\NNP and\CC Vijay\NNP are\VBP standing\VBG .\.
+htd15562	The\DT platter\NN ,\, earthen\JJ pots\NNS ,\, utensils\NNS and\CC ladle\NN etc\NN are\VBP of\IN silver\NN .\.
+htd15563	In\IN front\NN of\IN the\DT temple\NN and\CC .\.
+htd15564	The\DT pot\NN of\IN Badrinathji\NNP opens\VBZ three\CD -\: four\CD times\NNS at\IN scheduled\VBN time\NN in\IN the\DT day\NN -\: night\NN .\.
+htd15565	Travellers\NNS view\VBP from\IN far\RB only\RB by\IN going\VBG sometimes\RB in\IN the\DT middle\JJ devad\NN and\CC sometimes\RB staying\VBG in\IN Jagmohan\NNP .\.
+htd15566	Common\JJ traveller\NN brings\VBZ along\RB from\IN Haridwar\NNP many\JJ kinds\NNS of\IN nuts\NNS and\CC pulses\NNS of\IN gram\NN and\CC offers\VBZ to\TO Badrinath\NNP through\IN the\DT priest\NN .\.
+htd15567	Wealthy\JJ people\NNS present\JJ clothes\NNS ,\, jewels\NNS ,\, money\NN ,\, gold\NN and\CC land\NN etc\NN to\TO Badrinath\NNP and\CC according\VBG to\TO their\PRP$ interest\NN give\VBP the\DT value\NN of\IN their\PRP$ atka\JJ meaning\NN offering\NN and\CC other\JJ stuff\NN to\TO rawal\NN .\.
+htd15568	Pilgrims\NNS get\VBP the\DT bronze\NN and\CC iron\NN bangles\NNS i\FW .\.YM .\: kadas\NNS ,\, finger\NN rings\NNS touched\VBN with\IN the\DT door\NN of\IN the\DT deities\NNS that\WDT is\VBZ statues\NNS of\IN Badrinath\NNP made\VBD on\IN the\DT sheets\NNS of\IN bronze\NN inside\IN the\DT Badrinath\NNP Temple\NNP through\IN the\DT priest\NN and\CC take\VB them\PRP to\TO their\PRP$ homes\NNS .\.
+htd15569	In\IN the\DT direction\NN of\IN South\NNP from\IN Jagmohan\NNP is\VBZ a\DT Ghantakarna\NNP in\IN a\DT room\NN and\CC an\DT eagle\NN of\IN stone\NN in\IN the\DT east\JJ field\NN .\.
+htd15570	There\EX are\VBP many\JJ other\JJ god\NN idols\NNS near\IN about\IN the\DT temple\NN and\CC all\DT around\IN walls\NNS and\CC common\JJ houses\NNS are\VBP built\VBN .\.
+htd15571	To\TO the\DT left\NN of\IN the\DT door\NN from\IN the\DT east\JJ are\VBP rooms\NNS and\CC many\JJ small\JJ verandahs\NNS and\CC inside\IN the\DT door\NN on\IN one\CD side\NN on\IN the\DT notches\NNS of\IN the\DT walls\NNS are\VBP the\DT idols\NNS of\IN Brahma\NNP ,\, Vishnu\NNP ,\, Shiva\NNP and\CC another\DT idol\NN of\IN Surya\NNP .\.
+htd15572	A\DT huge\JJ bell\NN is\VBZ put\VBN on\IN the\DT door\NN .\.
+htd15573	Ahead\RB of\IN the\DT door\NN is\VBZ Taptkund\NNP and\CC Alaknanda\NNP .\.
+htd15574	South\NNP from\IN the\DT Jagmohan\NNP of\IN Badrinath\NNP a\DT gummdadar\NN is\VBZ built\VBN a\DT small\JJ temple\NN of\IN stone\NN of\IN Lakshmiji\NNP .\.
+htd15575	The\DT dark\NN skinned\VBD small\JJ idol\NN of\IN Lakshmiji\NNP has\VBZ been\VBN decorated\VBN with\IN the\DT best\JJS clothes\NNS .\.
+htd15576	The\DT priest\NN of\IN that\DT temple\NN is\VBZ another\DT one\NN .\.
+htd15577	In\IN the\DT eastern\JJ storage\NN room\NN near\IN the\DT temple\NN everyday\JJ bhaath\NN of\IN 3 1\/4\CD mann\NN rice\NN and\CC apart\RB from\IN this\DT on\IN making\VBG the\DT goods\NNS of\IN the\DT offering\NN with\IN lentils\NNS ,\, vegetables\NNS ,\, etc\FW it\PRP is\VBZ offered\VBN to\TO Badrinath\NNP .\.
+htd15578	In\IN the\DT center\NN 1\CD big\JJ and\CC all\DT around\IN small\JJ utensils\NNS are\VBP set\VBN on\IN one\CD big\JJ stove\NN only\RB .\.
+htd15579	Rishiganga\NNP ,\, Prahladhara\NNP ,\, Taptkund\NNP and\CC Naradkund\NNP in\IN Badrinath\NNP the\DT names\NNS of\IN these\DT five\CD are\VBP the\DT Panchateertha\NNP .\.
+htd15580	It\PRP is\VBZ the\DT time\NN of\IN the\DT winters\NNS .\.
+htd15581	Light\NN snow\NN is\VBZ falling\VBG .\.
+htd15582	The\DT eight\CD of\IN us\PRP were\VBD face\NN -\: to\TO -\: face\NN with\IN the\DT photographers\NNS of\IN the\DT North\NNP -\: East\JJ file\NN for\IN the\DT last\JJ time\NN .\.
+htd15583	It\PRP s\VBZ approximately\RB half\JJ past\NN three\CD in\IN the\DT afternoon\NN and\CC we\PRP have\VBP left\VBN for\IN the\DT campaign\NN with\IN two\CD members\NNS of\IN the\DT associate\JJ party\NN ,\, one\CD guard\NN and\CC four\CD local\JJ workers\NNS .\.
+htd15584	We\PRP move\VBP ahead\RB from\IN the\DT small\JJ headquarters\NN of\IN the\DT Western\NNP Kamang\NNP district\NN leaving\VBG behind\IN the\DT others\NNS gradually\RB and\CC along\RB with\IN this\DT leave\NN behind\IN roads\NNS and\CC city\NN luxuries\NNS .\.
+htd15585	The\DT journey\NN till\IN Bamdila\NNP 10,000\CD feet\NNS high\JJ is\VBZ comparatively\RB peaceful\JJ and\CC easy\JJ .\.
+htd15586	Dead\NNP tired\VBD ,\, boils\VBZ on\IN the\DT feet\NNS and\CC three\CD members\NNS of\IN the\DT party\NN found\VBD wandering\VBG and\CC we\PRP pass\VBP the\DT first\JJ quarter\NN of\IN the\DT first\JJ night\NN of\IN the\DT 19\CD nights\NNS of\IN our\PRP$ expedition\NN .\.
+htd15587	This\DT is\VBZ a\DT small\JJ village\NN school\NN of\IN Monpa\NNP tribal\JJ area\NN of\IN Western\NNP Arunachal\NNP .\.
+htd15588	Our\PRP$ name\NN should\MD also\RB be\VB published\VBN in\IN the\DT paper\NN '\'' the\DT head\NN of\IN the\DT village\NN gives\VBZ a\DT plea\NN while\IN seeing\VBG us\PRP off\RP towards\IN another\DT village\NN .\.
+htd15589	Even\RB in\IN these\DT distant\JJ -\: intractable\JJ mountains\NNS the\DT media\NNS love\NN does\VBZ not\RB leave\VB us\PRP alone\RB .\.
+htd15590	Many\JJ times\NNS this\DT beings\NNS us\PRP near\IN to\TO people\NNS who\WP understand\VBP the\DT inapproachability\NN of\IN this\DT difficult\JJ campaign\NN .\.
+htd15591	For\IN this\DT campaign\NN the\DT effect\NN of\IN systematic\JJ publicity\NN reaches\VBZ here\RB too\RB ,\, on\IN 30\CD January\NNP the\DT seeing\VBG off\RP by\IN flag\NN showing\VBG by\IN the\DT President\NNP ,\, the\DT program\NN of\IN Doordarshan\NNP on\IN Bachendri\NNP in\IN which\WDT a\DT mortal\NN like\IN me\PRP was\VBD also\RB shown\VBN speaking\NN on\IN '\POS women\NNS and\CC mountaineering\VBG '\'' .\.
+htd15592	The\DT journey\NN from\IN any\DT part\NN of\IN North\NNP -\: Eastern\NNP Himalayas\NNPS begins\VBZ from\IN the\DT Saraighat\NNP Bridge\NNP built\VBD on\IN the\DT Brahmaputra\NNP in\IN Guwahati\NNP .\.
+htd15593	Travellers\NNS with\IN pure\JJ Mongolian\JJ faces\NNS going\VBG towards\IN the\DT Himalayas\NNPS will\MD proceed\VB straight\RB North\JJ from\IN here\RB .\.
+htd15594	My\PRP$ path\NN is\VBZ this\DT itself\PRP .\.
+htd15595	As\RB soon\RB as\IN the\DT bus\NN crossed\VBD the\DT Saraighat\NNP bridge\NN on\IN leaving\VBG from\IN Adabadi\NNP Adda\NNP of\IN Guwahati\NNP the\DT broken\JJ body\NN of\IN old\JJ dakan\NN will\MD be\VB found\VBN by\IN the\DT Assam\NNP Trunk\NNP Road\NNP proceeding\NN till\IN '\'' Barhattachali\NNP '\POS .\.
+htd15596	Himalaya\NN standing\NN so\RB close\RB to\TO Gondwanaland\NNP can\MD be\VB seen\VBN only\RB in\IN Assam\NNP .\.
+htd15597	The\DT road\NN going\VBG for\IN Tejpur\NNP from\IN Barhattachali\NNP breaks\NNS from\IN here\RB itself\PRP .\.
+htd15598	We\PRP reach\VBP '\'' Rangiya\NNP '\POS which\WDT is\VBZ a\DT big\JJ army\NN cantonment\NN of\IN North\NNP -\: East\NNP .\.
+htd15599	On\IN leaving\VBG Rangiya\NNP there\EX are\VBP fields\NNS of\IN wheat\NN on\IN both\DT sides\NNS of\IN the\DT road\NN .\.
+htd15600	Hidden\VBN in\IN the\DT middle\NN of\IN the\DT bush\NN of\IN banana\NN and\CC bamboo\NN is\VBZ the\DT Kachari\NNP -\: Bodo\NNP village\NN .\.
+htd15601	Palm\NNP ,\, tress\NN of\IN coconut\NN ,\, barns\NNS of\IN betel\NN .\.
+htd15602	Fishermen\NNS spreading\VBG out\RP their\PRP$ nets\NNS in\IN streams\NNS ,\, Bodo\NNP children\NNS covered\VBN in\IN mud\NN gathering\NN lap\NN full\JJ of\IN fishes\NNS .\.
+htd15603	Lowland\NNP begins\VBZ from\IN Tulsibadi\NNP .\.
+htd15604	Full\JJ with\IN water\NN .\.
+htd15605	The\DT wheat\NN will\MD welcome\VB the\DT fragrance\NN of\IN the\DT earth\NN .\.
+htd15606	Bodo\NNP farmers\NNS will\MD be\VB seen\VBN somewhere\RB wearing\VBG large\JJ Top-Japi\NNP of\IN bamboo\NN in\IN total\JJ Assamese\NNP mood\NN holding\NN ploughs\NNS ,\, and\CC somewhere\RB under\IN the\DT influence\NN of\IN the\DT church\NN .\.
+htd15607	Tamilpur\NNP from\IN Rangiya\NNP .\.
+htd15608	Then\RB from\IN Kumrikatta\NNP Bhabar\NNP starts\VBZ .\.
+htd15609	Taxi\NN driver\NN Mohammad\NNP Syed\NNP Ali\NNP says\VBZ -\: here\RB I\PRP feel\VBP hot\JJ .\.
+htd15610	Initially\RB the\DT Khampa\NNP people\NNS of\IN Bhutan\NNP all\DT used\VBN to\TO stay\VB here\RB .\.
+htd15611	Now\RB since\IN there\EX is\VBZ unrest\NN there\RB they\PRP do\VBP n't\RB come\VB here\RB due\JJ to\TO fear\NN .\.
+htd15612	At\IN a\DT little\JJ distance\NN in\IN Bangajuli\NNP is\VBZ the\DT wide\JJ plains\NNS of\IN the\DT seasonal\JJ Kala\NNP river\NN coming\VBG from\IN Bhutan\NNP .\.
+htd15613	The\DT dense\JJ forests\NNS of\IN Bangajuli\NNP are\VBP filled\VBN with\IN the\DT famous\JJ trees\NNS Bonsa\NNP ,\, Titakshya\NNP ,\, Halock\NNP and\CC Gamari\NNP of\IN Assam\NNP .\.
+htd15614	Now\RB the\DT jungles\NNS have\VBP started\VBN thinning\VBG .\.
+htd15615	The\DT fear\NN of\IN elephants\NNS has\VBZ also\RB started\VBN becoming\VBG less\JJR .\.
+htd15616	The\DT '\'' Monka\NNP '\POS tea\NN garden\NN pours\VBZ greenery\NN and\CC freshness\NN on\IN the\DT flowing\JJ slope\NN across\IN the\DT bridge\NN of\IN the\DT Kali\NNP Nadi\NNP .\.
+htd15617	At\IN its\PRP$ last\JJ part\NN the\DT border\NN of\IN Assam\NNP is\VBZ kasba\FW Daranga\NNP ,\, which\WDT is\VBZ called\VBN Bhutan\NNP fair\JJ market\NN .\.
+htd15618	At\IN 4\CD k\NN .\.N .\: from\IN here\RB the\DT entrance\NN door\NN of\IN Bhutan\NNP Samdrup\NNP Jonkar\NNP comes\VBZ .\.
+htd15619	The\DT path\NN of\IN exactly\RB one\CD hundred\CD k\NN .\.N .\: from\IN Guwahati\NNP to\TO Bhutan\NNP passes\NNS through\IN Kamrup\NNP ,\, Nalbadi\NNP and\CC Daranga\NNP districts\NNS .\.
+htd15620	On\IN keeping\VBG foot\NN in\IN Bhutan\NNP by\IN the\DT majestic\JJ door\NN made\VBN in\IN the\DT Buddhist\JJ style\NN in\IN Samdrup\NNP Jonkar\NNP the\DT first\JJ basasat\NN of\IN Bhutan\NNP gives\VBZ the\DT feeling\NN of\IN entering\VBG some\DT big\JJ monastery\NN .\.
+htd15621	The\DT doors\NNS of\IN this\DT Buddhist\JJ monastery\NN could\MD be\VB opened\VBN in\IN a\DT formal\JJ way\NN for\IN the\DT world\NN only\RB after\IN 1974\CD .\.
+htd15622	For\IN this\DT reason\NN Bhutan\NNP has\VBZ been\VBN successful\JJ in\IN evading\VBG the\DT cultural\JJ -\: religious\JJ insurgency\NN and\CC societal\JJ -\: natural\JJ misery\NN and\CC entering\VBG the\DT twenty\CD -\: first\JJ century\NN .\.
+htd15623	Bhutan\NNP is\VBZ not\RB only\RB the\DT medieval\JJ image\NN of\IN Himalayas\NNPS but\CC is\VBZ also\RB the\DT lone\JJ heritage\NN of\IN the\DT entire\JJ Tibetan\JJ cultural\JJ world\NN being\VBG sacrificed\VBN in\IN the\DT flames\NNS of\IN Chinese\JJ communism\NN .\.
+htd15624	Bhutan\NNP is\VBZ one\CD of\IN those\DT rare\JJ parts\NNS of\IN the\DT world\NN where\WRB man\NN is\VBZ gentle\JJ and\CC easy\JJ like\IN the\DT earth\NN and\CC is\VBZ soaked\VBN with\IN earth\NN intimacy\NN .\.
+htd15625	The\DT journey\NN of\IN such\PDT an\DT earth\NN is\VBZ not\RB just\RB of\IN geography\NN -\: history\NN and\CC society\NN -\: culture\NN but\CC more\JJR a\DT journey\NN of\IN the\DT internal\JJ world\NN .\.
+htd15626	The\DT commerce\NN ,\, business\NN and\CC transport\NN of\IN Eastern\NNP Bhutan\NNP in\IN the\DT decade\NN of\IN the\DT sixties\NNS .\.
+htd15627	The\DT formation\NN of\IN the\DT Samdrup\NNP Jonkar\NNP happens\VBZ by\IN combining\VBG the\DT Royal\NNP Bhutan\NNP Police\NNP ,\, immigration\NN office\NN ,\, Jokhang\NNP -LRB-\-LRB- district\NN -RRB-\-RRB- office\NN ,\, school\NN ,\, hospital\NN and\CC bus\NN terminus\NN .\.
+htd15628	The\DT market\NN built\VBN by\IN Marwaris\NNP and\CC Bhutanese\NNP businessmen\NNS has\VBZ not\RB been\VBN able\JJ to\TO get\VB hold\NN of\IN the\DT city\NN .\.
+htd15629	Buddhist\JJ temple\NN ,\, prayer\NN circle\NN ,\, colorful\JJ prayer\NN flags\NNS and\CC Bhutanese\JJ people\NNS wearing\VBG the\DT national\JJ costume\NN of\IN Gho\NNP -\: Kira\NNP can\MD win\VB the\DT heart\NN of\IN any\DT traveller\NN .\.
+htd15630	With\IN the\DT deluge\NN of\IN the\DT four\CD -\: five\CD storied\JJ hotels\NNS the\DT city\NN is\VBZ advancing\VBG fast\RB .\.
+htd15631	With\IN the\DT increasing\VBG number\NN of\IN cars\NNS an\DT arrangement\NN of\IN driving\VBG vehicles\NNS on\IN one\CD side\NN in\IN the\DT main\JJ market\NN has\VBZ been\VBN started\VBN .\.
+htd15632	The\DT old\JJ basasat\NN of\IN Bhutan\NNP Devthang\NNP is\VBZ based\VBN at\IN 19\CD k\NN .\.N .\: in\IN a\DT level\NN saddle\NN .\.
+htd15633	In\IN 1826\CD when\WRB the\DT Assamese\NNP came\VBD under\IN the\DT authority\NN of\IN the\DT British\JJ ,\, this\DT door\NN of\IN Bhutan\NNP was\VBD also\RB taken\VBN by\IN the\DT British\JJ under\IN their\PRP$ authority\NN on\IN a\DT condition\NN of\IN ten\CD thousand\CD rupees\NNS yearly\JJ pay\NN .\.
+htd15634	In\IN 1845\CD the\DT Bhutanese\NN made\VBD an\DT appeal\NN to\TO increase\VB this\DT amount\NN .\.
+htd15635	There\EX was\VBD a\DT war\NN between\IN both\DT sides\NNS .\.
+htd15636	First\RB the\DT British\JJ army\NN lost\VBD but\CC in\IN the\DT second\JJ war\NN happening\VBG on\IN 22\CD November\NNP 1864\CD Bhutan\NNP lost\VBD .\.
+htd15637	25\CD of\IN its\PRP$ soldiers\NNS were\VBD killed\VBN and\CC 50\CD were\VBD wounded\VBN .\.
+htd15638	After\IN the\DT famous\JJ Centula\NNP treaty\NN of\IN 1865\CD the\DT entire\JJ Himalayan\JJ quadrant\JJ state\NN from\IN the\DT Dhansiri\NNP river\NN on\IN the\DT border\NN of\IN Arunachal\NNP to\TO Tista\NNP in\IN the\DT West\NNP came\VBD under\IN the\DT authority\NN of\IN the\DT Britsh\NNP .\.
+htd15639	Devthang\NNP was\VBD snatched\VBN from\IN Bhutan\NNP .\.
+htd15640	On\IN 8\CD August\NNP 1949\CD in\IN Darjeeling\NNP in\IN the\DT treaty\NN between\IN the\DT Bhutan\NNP king\NN Jigme\NNP Wangchuck\NNP and\CC the\DT Prime\NNP Minister\NNP of\IN India\NNP Jawaharlal\NNP Nehru\NNP this\DT Divangiri\NNP area\NN of\IN 32\CD square\JJ miles\NNS was\VBD again\RB returned\VBN to\TO Bhutan\NNP .\.
+htd15641	Whose\JJ name\NN has\VBZ been\VBN changed\VBN and\CC kept\VBN Devthang\NNP .\.
+htd15642	A\DT Hindu\JJ temple\NN situated\VBN in\IN the\DT stony\JJ womb\NN ahead\RB from\IN Narfang\NNP was\VBD built\VBN by\IN the\DT Indian\NNP Road\NNP Association\NNP ,\, where\WRB primarily\RB the\DT cars\NNS of\IN the\DT Indian\NNP Army\NNP and\CC Road\NNP Association\NNP stop\NN .\.
+htd15643	From\IN here\RB is\VBZ the\DT climb\NN .\.
+htd15644	After\IN climbing\VBG 8,200\CD feet\NNS a\DT road\NN goes\VBZ to\TO Pemagalis\NNP from\IN a\DT crack\NN made\VBN in\IN Krishnagiri\NNP .\.
+htd15645	A\DT hut\NN on\IN this\DT crack\NN will\MD give\VB the\DT feeling\NN of\IN a\DT man\NN 's\POS presence\NN .\.
+htd15646	From\IN here\RB all\DT around\IN dense\JJ forests\NNS of\IN Deodar\NNP ,\, Spruce\NNP are\VBP seen\VBN .\.
+htd15647	Directly\RB in\IN the\DT South\NNP is\VBZ Yongla\NNP Gompa\NNP ,\, in\IN which\WDT a\DT 258\CD year\NN old\JJ Guru\NNP Dorjee\NNP Drole\NNP Lakhang\NNP -LRB-\-LRB- Buddhist\NNP temple\NN -RRB-\-RRB- situated\VBN holds\VBZ an\DT important\JJ religious\JJ significance\NN .\.
+htd15648	75\CD Gelong\NNP -LRB-\-LRB- Buddhist\JJ apprentice\NN -RRB-\-RRB- along\IN with\IN Lama\NNP Nitin\NNP -LRB-\-LRB- the\DT main\JJ lama\NN of\IN the\DT district\NN -RRB-\-RRB- of\IN Pomagalis\NNP Rabde\NNP -LRB-\-LRB- the\DT highest\JJS Lama\NNP association\NN of\IN the\DT district\NN -RRB-\-RRB- come\VB and\CC lodge\VB here\RB in\IN summer\NN .\.
+htd15649	Otherwise\RB this\DT canyon\NN always\RB remains\VBZ in\IN the\DT grip\NN of\IN clouds\NNS .\.
+htd15650	On\IN getting\VBG the\DT sky\NN clear\VB the\DT sight\NN of\IN the\DT ice\NN line\NN will\MD become\VB like\IN the\DT great\JJ Himalayas\NNPS visible\JJ from\IN Kausani\NNP .\.
+htd15651	In\IN medieval\JJ Bhutan\NNP there\EX were\VBD four\CD entrance\NN doors\NNS joined\VBD with\IN the\DT four\CD directions\NNS .\.
+htd15652	Khaling\NNP -LRB-\-LRB- Kha\NNP -\: mouth\NN ,\, Ling\NNP -\: village\NN -RRB-\-RRB- was\VBD considered\VBN the\DT door\NN of\IN the\DT East\NNP .\.
+htd15653	Khaling\VBG '\'' based\VBN -LRB-\-LRB- 2250\CD metres\NNS -RRB-\-RRB- in\IN the\DT valley\NN of\IN Jurichu\NNP -LRB-\-LRB- river\NN -RRB-\-RRB- is\VBZ one\CD of\IN the\DT most\RBS dense\JJ and\CC oldest\JJS settlements\NNS .\.
+htd15654	The\DT king\NN Changul\NNP Pai\NNP of\IN Khaling\NNP had\VBD bravely\RB fought\VBN with\IN Drupak\NNP ruler\NN '\'' Chogel\NNP Minjur\NNP Tempa\NNP '\POS .\.
+htd15655	Old\JJ houses\NNS with\IN roofs\NNS of\IN bamboo\NN and\CC the\DT flat\JJ fields\NNS captured\VBN inside\IN fences\NNS of\IN bamboo\NN were\VBD the\DT identification\NN of\IN the\DT old\JJ Khaling\NNP .\.
+htd15656	The\DT new\JJ Khaling\NNP has\VBZ been\VBN made\VBN collaborating\VBG dazzling\JJ houses\NNS with\IN tin\NN roofs\NNS beside\IN the\DT road\NN .\.T market\NN of\IN fifteen\CD -\: twenty\CD shops\NNS ,\, Junior\NNP high\JJ school\NN ,\, hospital\NN ,\, crippled\VBN school\NN ,\, handloom\NN training\NN center\NN ,\, animal\NN clinic\NN and\CC some\DT other\JJ government\NN buildings\NNS .\.
+htd15657	After\IN Khaling\NNP Gamchu\NNP is\VBZ a\DT big\JJ village\NN .\.
+htd15658	Going\VBG ahead\RB from\IN here\RB the\DT limit\NN of\IN lower\JJR Himalayas\NNP has\VBZ begun\VBN to\TO get\VB defined\VBN .\.
+htd15659	The\DT central\JJ deprivation\NN that\WDT divides\VBZ the\DT Lesser\NNP Himalayas\NNPS and\CC Greater\NNP Himalayas\NNPS cuts\VBZ the\DT road\NN four\CD or\CC five\CD times\NNS before\IN reaching\VBG the\DT road\NN .\.
+htd15660	On\IN the\DT left\JJ side\NN on\IN the\DT slope\NN below\IN Ujrong\NNP is\VBZ a\DT big\JJ village\NN ,\, with\IN which\WDT this\DT descends\VBZ into\IN Dagmechu\NNP .\.
+htd15661	Versong\NNP is\VBZ in\IN the\DT extended\JJ Himalayas\NNPS .\.
+htd15662	Of\IN the\DT three\CD major\JJ iron\NN mines\NNS of\IN Bhutan\NNP one\CD was\VBD in\IN Barsong\NNP with\IN the\DT help\NN of\IN which\WDT bridges\NNS were\VBD made\VBN in\IN eastern\JJ Bhutan\NNP with\IN chains\NNS of\IN iron\NN and\CC relationships\NNS were\VBD formed\VBN in\IN divided\VBN communities\NNS .\.
+htd15663	Before\IN this\DT also\RB the\DT river\NN used\VBN to\TO be\VB crossed\VBN sitting\VBG on\IN a\DT basket\NN of\IN bamboo\NN and\CC with\IN the\DT support\NN of\IN a\DT rope\NN .\.
+htd15664	The\DT centremost\JJ point\NN of\IN Bhutan\NNP is\VBZ Yonphula\NNP .\.
+htd15665	The\DT Indian\NNP Army\NNP has\VBZ its\PRP$ base\NN at\IN Yonphula\NNP .\.
+htd15666	At\IN a\DT height\NN of\IN 2700\CD metre\NN a\DT 2\CD k\NN .\.N .\: long\JJ air\NN strip\NN is\VBZ also\RB made\VBN .\.
+htd15667	There\EX is\VBZ a\DT long\JJ line\NN of\IN snowy\JJ mountains\NNS directly\RB in\IN the\DT north\NN and\CC adjoined\VBD to\TO the\DT border\NN of\IN Arunachal\NNP in\IN which\WDT is\VBZ situated\VBN the\DT supreme\JJ summit\NN known\VBN by\IN the\DT name\NN of\IN Gandhi\NNP Topi\NNP .\.
+htd15668	The\DT most\RBS dense\JJ valley\NN of\IN Dangmechu\NNP of\IN Bhutan\NNP is\VBZ seen\VBN from\IN here\RB .\.
+htd15669	Descending\VBG 8\CD k\NN .\.N .\: from\IN Yanphula\NNP we\PRP reach\VBP Kanglung\NNP .\.
+htd15670	The\DT only\JJ Sherubtse\NNP degree\NN college\NN of\IN Bhutan\NNP is\VBZ in\IN Kanglung\NNP .\.
+htd15671	After\IN its\PRP$ establishment\NN in\IN 1983\CD including\VBG the\DT year\NN 2000\CD Sherubtse\NNP has\VBZ been\VBN able\JJ to\TO produce\VB total\JJ 1058\CD graduates\NNS .\.
+htd15672	By\IN 2007\CD Sherubtse\NNP college\NN will\MD change\VB into\IN Ugyen\NNP Wangchuck\NNP university\NN .\.
+htd15673	But\CC it\PRP will\MD take\VB at\IN least\JJS one\CD decade\NN now\RB for\IN Bhutan\NNP to\TO gather\VB its\PRP$ human\JJ resources\NNS .\.
+htd15674	There\EX are\VBP 1,17,746\CD students\NNS in\IN the\DT schools\NNS of\IN Bhutan\NNP .\.
+htd15675	Two\CD thirds\NNS of\IN 3026\CD students\NNS are\VBP Indian\JJ .\.
+htd15676	Even\RB now\RB the\DT place\NN of\IN 650\CD teachers\NNS is\VBZ empty\JJ .\.
+htd15677	Like\IN this\DT ,\, there\EX is\VBZ vacancy\NN at\IN every\DT level\NN .\.
+htd15678	The\DT graduates\NNS of\IN Sherubtse\NNP will\MD gradually\RB fill\VB up\RP these\DT vacancies\NNS .\.
+htd15679	Sherubtse\NNP is\VBZ the\DT brain\NN of\IN Bhutan\NNP .\.
+htd15680	The\DT future\NN of\IN Bhutan\NNP is\VBZ dependent\JJ on\IN the\DT spirit\NN and\CC sensibility\NN of\IN this\DT place\NN .\.
+htd15681	Here\RB not\RB only\RB did\VBD I\PRP get\VB a\DT chance\NN to\TO carry\VB out\RP my\PRP$ teaching\NN duties\NNS fruitfully\RB but\CC also\RB be\VB a\DT part\NN of\IN the\DT national\JJ development\NN of\IN Bhutan\NNP .\.
+htd15682	Kanglung\NNP has\VBZ begun\VBN to\TO feel\VB like\IN my\PRP$ second\JJ home\NN .\.
+htd15683	The\DT main\JJ city\NN of\IN old\JJ Bhutan\NNP '\POS Trashigang\NNP '\POS is\VBZ situated\VBN at\IN the\DT confluence\NN of\IN Dangmechu\NNP and\CC Gamrechu\NNP rivers\NNS 180\CD km\NN away\RB from\IN Samdrup\NNP Jongkhar\NNP .\.
+htd15684	In\IN 1667\CD along\IN with\IN the\DT construction\NN of\IN Trashigang\NNP Jong\NNP by\IN the\DT third\JJ god\NN king\NN Chogyal\NNP Minjur\NNP Tempa\NNP the\DT area\NN came\VBD under\IN the\DT administration\NN of\IN western\JJ Bhutan\NNP .\.
+htd15685	This\DT Jong\NNP of\IN five\CD storeys\NNS is\VBZ the\DT district\NN headquarters\NN of\IN civil\JJ and\CC religious\JJ administration\NN .\.
+htd15686	On\IN entering\VBG the\DT Jong\NNP on\IN the\DT left\JJ side\NN is\VBZ the\DT office\NN of\IN Jongda\NNP -LRB-\-LRB- Jongtrakila\NNP ,\, Datramalik\NNP ,\, which\WDT can\MD now\RB be\VB placed\VBN equal\JJ to\TO Jiladhish\NNP -RRB-\-RRB- .\.
+htd15687	In\IN the\DT whole\NN of\IN the\DT rest\NN of\IN building\NN are\VBP 75\CD lamas\NNS -LRB-\-LRB- Gilongs\NNP -RRB-\-RRB- and\CC their\PRP$ district\NN head\NN Lama\NNP Nitin\NNP .\.
+htd15688	The\DT prayer\NN room\NN of\IN the\DT idols\NNS of\IN various\JJ postures\NNS of\IN Lord\NNP Buddha\NNP and\CC Guru\NNP Padmasambhav\NNP are\VBP made\VBN on\IN every\DT floor\NN .\.
+htd15689	There\EX are\VBP collections\NNS of\IN religious\JJ texts\NNS from\IN the\DT eighth\JJ century\NN till\IN present\NN ,\, wall\NN paintings\NNS and\CC unique\JJ examples\NNS of\IN Tibetan\JJ art\NN here\RB .\.
+htd15690	A\DT little\JJ away\RB from\IN the\DT main\JJ building\NN is\VBZ the\DT temple\NN of\IN Matra\NNP Devi\NNP of\IN Jong\NNP which\WDT protects\VBZ the\DT Jong\NN from\IN enemies\NNS .\.
+htd15691	In\IN Bhutan\NNP the\DT regional\JJ administration\NN is\VBZ conducted\VBN from\IN Jong\NNP .\.
+htd15692	There\EX are\VBP twenty\CD Jong\NNP in\IN all\DT twenty\CD districts\NNS where\WRB Jongda\NNP and\CC Lama\NNP Nitin\NNP are\VBP handling\VBG the\DT civil\JJ and\CC religious\JJ administration\NN .\.
+htd15693	Climbing\VBG down\RB 6\CD k\NN .\.N .\: from\IN Trashigong\NNP crossing\VBG the\DT Chajam\NNP -LRB-\-LRB- iron\NN bridge\NN -RRB-\-RRB- built\VBN on\IN Dangmechu\NNP a\DT road\NN goes\VBZ to\TO Trashiyangsi\NNP 45\CD k\NN .\.N .\: away\RB from\IN here\RB .\.
+htd15694	We\PRP took\VBD the\DT direction\NN of\IN Monger\NNP on\IN crossing\VBG the\DT river\NN .\.
+htd15695	The\DT ruins\NNS of\IN the\DT iron\NN chained\JJ 400\CD year\NN old\JJ bridge\NN remain\VBP at\IN Chajam\NNP .\.
+htd15696	Now\RB the\DT Indian\NNP Border\NNP Roads\NNS Organization\NNP has\VBZ made\VBN iron\NN bridges\NNS on\IN every\DT river\NN .\.
+htd15697	After\IN Chajam\NNP 2\CD k\NN .\.N .\: after\IN Rolang\VBG the\DT road\NN comes\VBZ in\IN the\DT lower\JJR Himalayas\NNPS .\.
+htd15698	There\EX is\VBZ a\DT monastery\NN made\VBN by\IN the\DT descendent\NN of\IN Guru\NNP Padmalingpa\NNP Kunga\NNP Gyeltsen\NNP in\IN Demchi\NNP 17\CD k\NN .\.N .\: climb\NN from\IN the\DT main\JJ road\NN .\.
+htd15699	Across\IN from\IN this\DT is\VBZ the\DT valley\NN of\IN Serichu\NNP .\.
+htd15700	In\IN Senegalese\JJ language\NN the\DT meaning\NN of\IN Seri\NNP is\VBZ a\DT special\JJ type\NN of\IN fragrance\NN .\.
+htd15701	Seeing\VBG the\DT medicinal\JJ herbs\NNS with\IN fragrance\NN and\CC gold\NN colored\VBN '\'' Serichu\NNP '\POS the\DT memory\NN of\IN the\DT Seri\NNP of\IN my\PRP$ village\NN shook\VBD me\PRP .\.
+htd15702	Crossing\VBG Seruchi\NNP the\DT area\NN of\IN Bhuskhalan\NNP begins\VBZ .\.
+htd15703	Near\IN the\DT settlement\NN wherever\WRB the\DT earth\NN became\VBD naked\JJ ,\, the\DT restlessness\NN of\IN the\DT Himalayas\NNPS is\VBZ seen\VBN .\.
+htd15704	Small\JJ units\NNS of\IN purification\NN of\IN lemon\JJ grass\NN oil\NN near\IN the\DT road\NN ,\, only\RB 10\CD kilowatt\NN of\IN hydro\NN electricity\NN units\NNS ,\, pine\VB trees\NNS ,\, one\CD or\CC two\CD houses\NNS and\CC Seruchi\NNP valley\NN wrapped\VBD in\IN mist\NN will\MD be\VB seen\VBN .\.
+htd15705	Yadi\NNP '\POS -LRB-\-LRB- 1415\CD feet\NNS -RRB-\-RRB- is\VBZ a\DT beautiful\JJ village\NN of\IN four\CD storeys\NNS houses\NNS ,\, near\IN which\WDT is\VBZ a\DT dense\JJ jungle\NN of\IN pine\VB and\CC acorn\VB .\.
+htd15706	A\DT little\JJ away\RB from\IN Yadi\NNP after\IN signs\NNS of\IN dry\JJ lakes\NNS in\IN a\DT flat\JJ slope\NN ,\, fields\NNS of\IN potatoes\NNS ,\, school\NN and\CC Lakhang\NNP -LRB-\-LRB- Buddhist\NNP temple\NN -RRB-\-RRB- Korila\NNP state\NN is\VBZ filled\VBN with\IN Deodar\NNP ,\, Spruce\NNP ,\, Fir\NNP ,\, Larch\NNP and\CC Hemlock\NNP forests\NNS .\.
+htd15707	In\IN the\DT middle\NN of\IN these\DT dense\JJ jungles\NNS after\IN 14\CD k\NN .\.N .\: crossing\VBG Korila\NNP Pass\NNPS is\VBZ Kuri\NNP Chu\NNP valley\NN .\.
+htd15708	From\IN Kuri\NNP Chu\NNP valley\NN Monger\NNP Jong\NNP looks\VBZ like\IN a\DT golden\JJ bird\NN .\.
+htd15709	A\DT road\NN taking\VBG a\DT swift\JJ turn\NN going\VBG through\IN Tongsing\NNP ,\, Yangpugang\NNP ,\, Kilikhar\NNP villages\NNS reaches\VBZ the\DT headquarters\NN of\IN Monger\NNP district\NN 91\CD k\NN .\.N .\: away\RB from\IN Trashigong\NNP .\.
+htd15710	This\DT way\NN cloth\NN ,\, grain\NN ,\, sugar\NN ,\, utensils\NNS and\CC oil\NN reaches\VBZ Monger\NNP from\IN Guwahati\NNP .\.
+htd15711	Vegetables\NNS and\CC sweet\JJ tea\NN is\VBZ not\RB available\JJ in\IN the\DT market\NN for\IN working\VBG Indians\NNPS .\.
+htd15712	When\WRB Bhutanese\JJ people\NNS reach\VBP Monger\NNP from\IN far-off\JJ villages\NNS with\IN wild\JJ fruits\NNS ,\, potatoes\NNS ,\, beans\NNS and\CC radishes\NNS ,\, it\PRP becomes\VBZ night\NN .\.
+htd15713	Therefore\RB ,\, on\IN lighting\NN torches\NNS ,\, market\NN is\VBZ set\VBN up\RP in\IN Mongar\NNP .\.
+htd15714	Now\RB some\DT tin\NN sheds\NNS have\VBP been\VBN made\VBN in\IN Mongar\NNP .\.
+htd15715	Perambulation\NNP has\VBZ started\VBN increasing\VBG in\IN the\DT market\NN .\.
+htd15716	In\IN Mongar\NNP ,\, there\EX are\VBP five\CD storey\JJ buildings\NNS on\IN one\CD side\NN and\CC shops\NNS of\IN wood\NN on\IN the\DT other\JJ side\NN .\.
+htd15717	Mongar\NNP Jong\NNP is\VBZ new\JJ ,\, whose\WP$ construction\NN was\VBD got\VBN done\VBN by\IN the\DT third\JJ king\NN of\IN Bhutan\NNP Jigme\NNP Dorji\NNP Wangchuck\NNP .\.
+htd15718	There\EX are\VBP ruins\NNS of\IN an\DT old\JJ Gap\NN or\CC mandal\NN -LRB-\-LRB- officer\NN of\IN block\NN level\NN -RRB-\-RRB- .\.
+htd15719	There\EX is\VBZ an\DT ancient\JJ trade\NN route\NN for\IN going\VBG to\TO Tibet\NNP from\IN Lung\NNP tashi\NNS climbing\VBG down\IN 10\CD k\NN .\.N .\: from\IN Mongar\NNP .\.
+htd15720	Some\DT portion\NN of\IN Trans\NNP Himalayas\NNPS is\VBZ very\RB beautiful\JJ here\RB .\.
+htd15721	Here\RB is\VBZ Singe\NNP Jong\NNP made\VBD of\IN granite\NN stones\NNS .\.
+htd15722	Guru\NNP Padmasambhava\NNP had\VBD meditated\VBN here\RB near\IN of\IN this\DT tiger\NN shaped\VBD natural\JJ Jong\NNP .\.
+htd15723	On\IN walking\VBG 15\CD k\NN .\.N .\: from\IN Mongar\NNP .\.
+htd15724	There\EX are\VBP horticultural\JJ ,\, poultry\NN and\CC pig\NN farms\NNS in\IN the\DT broad\JJ Bagad\NNP -LRB-\-LRB- 700\CD m\NN .\: -RRB-\-RRB- of\IN Limithang\NNP on\IN crossing\VBG Kurichu\NNP .\.
+htd15725	The\DT horse\NN of\IN Arabian\JJ breed\NN gifted\JJ to\TO the\DT prince\NN of\IN Bhutan\NNP by\IN former\JJ prime\JJ minister\NN late\JJ Rajiv\NNP Gandhi\NNP has\VBZ also\RB been\VBN kept\VBN here\RB .\.
+htd15726	There\EX are\VBP relics\NNS of\IN old\JJ Jongar\NNP Jong\NNP near\IN Limithang\NNP .\.
+htd15727	Myth\NNP is\VBZ rife\JJ that\IN a\DT young\JJ man\NN from\IN these\DT ruins\NNS used\VBN to\TO come\VB visit\VB a\DT beautiful\JJ girl\NN staying\NN in\IN the\DT village\NN nearby\RB .\.
+htd15728	Later\RB it\PRP was\VBD known\VBN that\IN the\DT young\JJ man\NN was\VBD a\DT cobra\NN .\.
+htd15729	His\PRP$ offspring\NN lives\NNS in\IN these\DT areas\NNS .\.
+htd15730	People\NNS have\VBP full\JJ faith\NN on\IN this\DT myth\NN .\.
+htd15731	Leaving\VBG the\DT valley\NN of\IN Jimgon\NNP at\IN 3\CD k\NN .\.N .\: from\IN Limithang\NNP we\PRP proceed\VBP towards\IN Yongkhu\NNP .\.
+htd15732	The\DT fifty\JJ k\NN .\.N .\: road\NN between\IN Yongkhu\NNP till\IN Sengor\NNP is\VBZ filled\VBN with\IN dangers\NNS .\.
+htd15733	Now\RB apart\RB from\IN the\DT horizon\NN kissing\VBG jungles\NNS there\EX is\VBZ no\DT other\JJ view\NN on\IN the\DT ground\NN .\.
+htd15734	We\PRP were\VBD in\IN the\DT southern\JJ slope\NN of\IN the\DT famous\JJ Thrumshingla\NNP Wildlife\NNP Conservation\NNP point\NN .\.
+htd15735	There\EX are\VBP rain\NN forests\NNS in\IN Thrumshingla\NNP Wildlife\NNP Conservation\NNP .\.
+htd15736	25\CD k\NN .\.N .\: from\IN Limithang\NNP is\VBZ the\DT village\NN of\IN the\DT labourers\NNS of\IN Namling\NNP Road\NNP .\.
+htd15737	There\EX was\VBD more\RBR natural\JJ glow\NN on\IN the\DT faces\NNS of\IN the\DT children\NNS living\VBG here\RB than\IN in\IN the\DT jungles\NNS .\.
+htd15738	This\DT is\VBZ the\DT area\NN of\IN land\NN subsidence\NN and\CC landslides\NNS .\.
+htd15739	The\DT whole\JJ summit\NN state\NN was\VBD collapsing\VBG .\.
+htd15740	The\DT forest\NN was\VBD in\IN the\DT flow\NN of\IN the\DT stemming\VBG Ganga\NNP by\IN its\PRP$ own\JJ stomach\NN .\.
+htd15741	Water\NNP all\RB around\RB ,\, trees\NNS became\VBD crooked\JJ ,\, the\DT heap\NN of\IN granite\NN rocks\NNS on\IN the\DT road\NN as\IN if\IN they\PRP would\MD tumble\VB with\IN a\DT gust\NN of\IN wind\NN .\.
+htd15742	The\DT forest\NN extensively\RB wounded\VBN by\IN its\PRP$ own\JJ beauty\NN is\VBZ beset\VBN with\IN tectonic\JJ movements\NNS -LRB-\-LRB- because\IN of\IN the\DT passing\NN of\IN the\DT central\JJ faults\NNS -RRB-\-RRB- .\.
+htd15743	On\IN such\JJ ground\NN cramped\JJ road\NN ,\, sharp\JJ slopes\NNS on\IN blind\JJ turns\NNS ,\, afternoons\NNS getting\VBG blind\JJ because\IN of\IN not\RB reaching\VBG on\IN the\DT earth\NN are\VBP suitable\JJ for\IN silencing\VBG the\DT travellers\NNS .\.
+htd15744	The\DT bus\NN accident\NN of\IN June\NNP 1998\CD had\VBD happened\VBN here\RB .\.
+htd15745	70\CD passengers\NNS died\VBD in\IN the\DT bus\NN accident\NN of\IN June\NNP 1998\CD .\.
+htd15746	Reaching\VBG a\DT height\NN of\IN Thrumshingla\NNP at\IN 12,300\CD feet\NNS the\DT experience\NN is\VBZ like\IN that\DT of\IN climbing\VBG the\DT back\NN of\IN an\DT elephant\NN .\.
+htd15747	From\IN here\RB in\IN the\DT North\NNP the\DT border\NN of\IN Yumthang\NNP Jokhang\NNP begins\VBZ .\.
+htd15748	Lantushi\NNP in\IN the\DT North\NNP -\: East\NNP ,\, Jemgaon\NNP in\IN the\DT South\NNP and\CC South\NNP -\: East\JJ and\CC near\JJ Thrumsingala\NN along\IN with\IN Monger\NNP districts\NNS the\DT borders\NNS of\IN four\CD districts\NNS come\VBP and\CC meet\VBP .\.
+htd15749	The\DT rivers\NNS going\VBG East\NNP from\IN here\RB meet\VB at\IN Kurichu\NNP and\CC the\DT rivers\NNS going\VBG West\NNP at\IN Yumthangchu\NNP .\.
+htd15750	The\DT Royal\NNP Bengal\NNP Tiger\NNP has\VBZ been\VBN sighted\VBN in\IN Thrumsingla\NNP .\.
+htd15751	The\DT first\JJ village\NN in\IN the\DT midst\NN of\IN dense\JJ forests\NNS of\IN fir\NN ,\, spruce\VB ,\, larch\NN and\CC deodar\NN is\VBZ `\`` Gejam\NNP '\'' -LRB-\-LRB- 3,280\CD metres\NNS -RRB-\-RRB- .\.
+htd15752	There\EX are\VBP eight\CD -\: ten\CD houses\NNS of\IN wood\NN in\IN Gejam\NNP village\NN .\.
+htd15753	Two\CD big\JJ bukharis\NNS remain\VBP busy\JJ in\IN preparing\VBG the\DT shuja\NN -LRB-\-LRB- salty\NN snacks\NNS ,\, tea\NN -RRB-\-RRB- ,\, gomans\NNS and\CC rice\NN for\IN the\DT travellers\NNS going\VBG back\RB and\CC forth\RB in\IN the\DT Gojam\NNP hotel\NN .\.
+htd15754	To\TO come\VB out\IN of\IN Gejam\NNP is\VBZ an\DT experience\NN like\IN coming\VBG out\IN of\IN the\DT mouth\NN of\IN some\DT big\JJ tunnel\NN .\.
+htd15755	The\DT river\NN which\WDT was\VBD born\VBN from\IN Thrumsinghala\NNP and\CC goes\VBZ along\RB till\IN Gejam\NNP that\WDT suddenly\RB gets\VBZ lost\VBN in\IN deep\JJ caves\NNS .\.
+htd15756	Leaving\VBG that\IN ,\, crossing\VBG a\DT slight\JJ backbone\NN -\: type\NN mountain\NN side\NN we\PRP go\VBP down\RP Ura\NNP valley\NN .\.
+htd15757	Ura\NN valley\NN opens\VBZ out\RP in\IN all\DT directions\NNS .\.
+htd15758	It\PRP is\VBZ as\IN if\IN the\DT heights\NNS get\VBP a\DT break\NN .\.
+htd15759	Like\IN veils\NNS fluttering\VBG in\IN the\DT breeze\NN is\VBZ the\DT '\'' Ura\NNP '\POS village\NN of\IN animal\NN tenders\NNS based\VBN on\IN 3,000\CD metres\NNS between\IN the\DT mountains\NNS sleeping\VBG in\IN the\DT sky\NN .\.
+htd15760	Intermediate\NNP rulers\NNS of\IN Bhutan\NNP like\IN Gayden\NNP Lama\NNP were\VBD born\VBN in\IN Ura\NNP .\.
+htd15761	Even\RB today\NN this\DT is\VBZ the\DT village\NN of\IN authors\NNS like\IN Karma\NNP Ura\NNP .\.
+htd15762	The\DT next\JJ camp\NN was\VBD Kurjelkhang\NNP .\.
+htd15763	On\IN entering\VBG Kurjelkhang\NNP bound\VBD within\IN a\DT hundred\CD and\CC eight\CD chortens\NNS the\DT first\JJ temple\NN comes\VBZ ,\, which\WDT had\VBD been\VBN made\VBN by\IN Sindhu\NNP king\NN .\.
+htd15764	The\DT old\JJ pine\VBP tree\NN planted\VBN in\IN this\DT temple\NN seems\VBZ to\TO have\VB grown\VBN from\IN the\DT stick\NN of\IN the\DT Guru\NNP .\.
+htd15765	Guru\NN had\VBD sat\VBN here\RB to\TO meditate\VB and\CC on\IN whichever\WDT stone\NN the\DT marks\NNS of\IN his\PRP$ back\NN were\VBD left\VBN ,\, that\WDT has\VBZ begun\VBN to\TO be\VB called\VBN Kurje\NNP .\.
+htd15766	Ugyen\NNP Wangchuck\NNP the\DT first\JJ king\NN of\IN Bhutan\NNP ,\, when\WRB he\PRP was\VBD the\DT Trongsa\NNP Penlap\NNP -LRB-\-LRB- Governor\NNP -RRB-\-RRB- ,\, had\VBD got\VBN made\VBN the\DT big\JJ idol\NN and\CC temple\NN of\IN Guru\NNP .\.
+htd15767	Now\RB the\DT third\JJ largest\JJS temple\NN has\VBZ been\VBN made\VBN .\.
+htd15768	In\IN the\DT compound\NN of\IN this\DT temple\NN group\NN the\DT tombs\NNS of\IN all\DT three\CD late\JJ kings\NNS of\IN Bhutan\NNP is\VBZ there\RB .\.
+htd15769	Bumthang\NNP remained\VBD the\DT capital\NN of\IN Bhutan\NNP till\IN 1952\CD .\.
+htd15770	The\DT birth\NN of\IN the\DT first\JJ king\NN of\IN Bhutan\NNP Ugyen\NNP Wangchuck\NNP also\RB happened\VBD in\IN Bumthang\NNP .\.
+htd15771	The\DT Wangdicholing\NNP -LRB-\-LRB- Palace\NNP -RRB-\-RRB- made\VBN in\IN Jakar\NNP is\VBZ the\DT birth\NN place\NN of\IN the\DT first\JJ king\NN .\.
+htd15772	The\DT other\JJ major\JJ attraction\NN of\IN Bumthang\NNP is\VBZ Jakar\NNP Jong\NNP .\.
+htd15773	It\PRP is\VBZ believed\VBN that\IN when\WRB Lama\NNP -\: Nage\NNP -\: Wangchuck\NNP wanted\VBD to\TO get\VB the\DT construction\NN of\IN a\DT castle\NN done\VBN near\IN the\DT confluence\NN of\IN the\DT Chokhochu\NNP and\CC Tangchu\NNP then\RB he\PRP had\VBD found\VBN a\DT white\JJ bird\NN sitting\VBG near\IN the\DT present\JJ Jakar\NNP Jong\NNP .\.
+htd15774	Probably\RB it\PRP is\VBZ possible\JJ that\IN this\DT could\MD be\VB the\DT stork\NN which\WDT comes\VBZ on\IN migration\NN from\IN Tibet\NNP in\IN the\DT winter\NN .\.
+htd15775	The\DT meaning\NN of\IN '\POS Ja\NN '\'' is\VBZ big\JJ -\: wide\JJ and\CC the\DT meaning\NN of\IN '\POS kar\NN '\'' is\VBZ white\JJ .\.
+htd15776	The\DT '\'' Jong\NNP '\POS was\VBD known\VBN by\IN the\DT name\NN made\VBN by\IN these\DT two\CD words\NNS and\CC its\PRP$ foundation\NN -\: stone\NN was\VBD laid\VBN at\IN that\DT place\NN .\.
+htd15777	In\IN 1646\CD Chogel\NNP Minjur\NNP Timpa\NNP expanded\VBD the\DT Jong\NNP .\.
+htd15778	In\IN 1676\CD Devraja\NNP Gese\NNP Tenzing\NNP Rabge\NNP got\VBD the\DT construction\NN of\IN this\DT Jong\NN completed\VBN .\.
+htd15779	The\DT intermediate\JJ Minar\NNP of\IN this\DT Jong\NN is\VBZ 50\CD feet\NNS high\JJ .\.
+htd15780	Bumthang\NNP '\POS has\VBZ remained\VBN a\DT follower\NN of\IN the\DT Buddhist\NNP religion\NN .\.
+htd15781	Guru\NNP Pema\NNP Lingpa\NNP -LRB-\-LRB- 1450\CD -\: 1521\CD B\NN .\.NP .\: -RRB-\-RRB- believed\VBN to\TO be\VB the\DT reincarnation\NN of\IN Padmasambhav\NNP was\VBD born\VBN in\IN the\DT ironsmith\JJ family\NN of\IN Lunglachel\NNP village\NN of\IN Chokhor\NNP .\.
+htd15782	He\PRP had\VBD established\VBN Tamsing\NNP Lakhang\NNP believed\VBD to\TO be\VB the\DT center\NN of\IN Nigampa\NNP community\NN a\DT current\NN of\IN Tantric\NNP Buddhist\NNP religion\NN .\.
+htd15783	Coming\VBG down\RB from\IN Jakar\NNP Jong\NNP we\PRP came\VBD to\TO Wangchungling\NNP village\NN .\.
+htd15784	The\DT fields\NNS filled\VBN with\IN potatoes\NNS and\CC mustard\NN were\VBD decorated\VBN with\IN hives\NNS of\IN bees\NNS .\.
+htd15785	Lines\NNS of\IN school\NN children\NNS were\VBD on\IN both\DT sides\NNS of\IN the\DT road\NN .\.
+htd15786	I\PRP threw\VBD a\DT sad\JJ glance\NN towards\IN the\DT forests\NNS collapsing\VBG from\IN the\DT valley\NN .\.
+htd15787	To\TO escape\VB the\DT threat\NN of\IN cold\JJ climate\NN the\DT forests\NNS were\VBD being\VBG taken\VBN care\NN of\IN very\RB well\RB .\.
+htd15788	It\PRP was\VBD possible\JJ only\RB then\RB to\TO enjoy\VB the\DT happiness\NN of\IN Bumthang\NNP Bukhari\NNP .\.
+htd15789	The\DT market\NN of\IN Bumthang\NNP is\VBZ very\RB clean\JJ and\CC open\JJ .\.
+htd15790	The\DT next\JJ camp\NN of\IN the\DT journey\NN was\VBD at\IN 440\CD k\NN .\.N .\: from\IN Trashigang\NNP .\.
+htd15791	Now\RB we\PRP had\VBD to\TO cover\VB a\DT journey\NN of\IN 282\CD k\NN .\.N .\: from\IN here\RB to\TO Thimpu\NNP .\.
+htd15792	Who\WP has\VBZ seen\VBN the\DT entire\JJ Bumthang\NNP anyway\RB .\.
+htd15793	Seeing\VBG Bumthang\NNP valley\NN means\VBZ having\VBG seen\VBN its\PRP$ four\CD valleys\NNS in\IN which\WDT are\VBP conglomerated\VBN Uma\NNP ,\, Tang\NNP ,\, Chokhor\NNP and\CC Chume\NNP .\.
+htd15794	We\PRP reached\VBD Chume\NNP valley\NN based\VBN at\IN 2,600\CD metres\NNS from\IN Bumthang\NNP .\.
+htd15795	The\DT wool\NN business\NN of\IN Chume\NNP valley\NN is\VBZ famous\JJ .\.
+htd15796	The\DT shops\NNS decorated\VBN with\IN colorful\JJ clothes\NNS of\IN Yata\NNP -LRB-\-LRB- Una\NNP -RRB-\-RRB- of\IN Jugne\NNP village\NN in\IN Chume\NNP and\CC active\JJ women\NNS on\IN Bhutanese\JJ traditional\JJ handloom\NN captured\VBD the\DT heart\NN .\.
+htd15797	Pralkhang\NNP near\IN Jugne\NNP and\CC Tharpling\NNP cave\NN made\VBN on\IN the\DT right\JJ mountain\NN give\VBP a\DT feel\NN of\IN the\DT religious\JJ prosperity\NN of\IN the\DT 14th\JJ century\NN .\.
+htd15798	The\DT continuation\NN of\IN houses\NNS with\IN orchards\NNS of\IN apples\NNS and\CC roofs\NNS of\IN wood\NN is\VBZ found\VBN till\IN Jasta\JJ village\NN .\.
+htd15799	Himani\NNP valley\NN begins\VBZ ahead\RB and\CC we\PRP get\VBP lost\VBN in\IN seas\NNS of\IN fir\NN ,\, birch\NN ,\, spruce\VB and\CC deodar\VB .\.
+htd15800	Let\VB the\DT Sonmarg\NNP Baltal\NNP valley\NN of\IN Kashmir\NNP be\VB made\VBN wider\JJR and\CC .\.
+htd15801	Yontongla\NNP rising\VBG gradually\RB from\IN the\DT wide\JJ ,\, beautiful\JJ ,\, plain\JJ Himani\NNP valley\NN seemed\VBD sleeping\VBG like\IN a\DT python\NN .\.
+htd15802	The\DT area\NN of\IN Himani\NNP valleys\NNS of\IN 100\CD k\NN .\.N .\: from\IN Trumsingala\NNP to\TO Yontongla\NNP is\VBZ ordinarily\RB 2,976\CD metres\NNS high\JJ .\.
+htd15803	All\DT around\IN it\PRP are\VBP mountains\NNS 14\CD to\TO 16\CD thousand\CD feet\NNS high\JJ .\.
+htd15804	Monsoon\NN also\RB gets\VBZ weak\JJ in\IN Bumthang\NNP based\VBN between\IN these\DT two\CD valleys\NNS .\.
+htd15805	In\IN comparison\NN to\TO Mongar\NNP and\CC Trashigang\NNP of\IN old\JJ Bhutan\NNP there\EX is\VBZ enough\JJ humidity\NN here\RB .\.
+htd15806	My\PRP$ daughter\NN Aditi\NNP had\VBD gained\VBN success\NN in\IN recognizing\VBG eleven\JJ species\NNS of\IN Buransh\NNP between\IN these\DT two\CD cracks\NNS and\CC I\PRP had\VBD thought\VBN as\IN if\IN the\DT connection\NN with\IN the\DT ground\NN was\VBD lost\VBN .\.
+htd15807	Opposite\JJ to\TO the\DT Western\NNP Himalayas\NNPS split\NN in\IN small\JJ and\CC sharp\JJ valleys\NNS here\RB are\VBP Himalayas\NNPS of\IN aerial\JJ fields\NNS and\CC wide\JJ brow\NN .\.
+htd15808	The\DT slope\NN of\IN the\DT other\JJ side\NN of\IN Yongtongla\NNP -LRB-\-LRB- 3,200\CD metres\NNS -RRB-\-RRB- .\.
+htd15809	The\DT Gonpa\NNP or\CC Gumpa\NNP built\VBN in\IN high\JJ places\NNS in\IN Bhutan\NNP are\VBP the\DT meditation\NN places\NNS of\IN the\DT Lamas\NNPS .\.
+htd15810	Some\DT families\NNS have\VBP also\RB begun\VBN settling\NN near\IN Gonpa\NNP .\.
+htd15811	The\DT wintery\JJ basasatas\NNS based\VBN in\IN the\DT valleys\NNS are\VBP known\VBN by\IN the\DT name\NN of\IN '\'' Pam\NNP '\'' in\IN Gonpa\NNP .\.
+htd15812	There\EX is\VBZ movement\NN of\IN seasonal\JJ immigration\NN between\IN Pam\NNP and\CC Gumpa\NNP .\.
+htd15813	Near\IN Dorsang\VBG the\DT old\JJ prayer\NN place\NN has\VBZ been\VBN changed\VBN to\TO fields\NNS .\.
+htd15814	From\IN here\RB the\DT highest\JJS summit\NN Gankar\NNP ,\, Punsu\NNP is\VBZ sighted\VBN .\.
+htd15815	Bhutanese\JJ call\NN the\DT 7,561\CD metre\NN high\JJ Gankar\NNP mountain\NN '\'' Bhrata\NNP '\POS with\IN spiritual\JJ sentiment\NN .\.
+htd15816	Mangdenchu\NNP coming\VBG from\IN the\DT root\NN of\IN Gankar\NNP divides\VBZ Bhutan\NNP in\IN two\CD parts\NNS .\.
+htd15817	Without\IN crossing\VBG the\DT Mangdechu\NNP one\NN can\MD not\RB go\VB across\IN Bhutan\NNP .\.
+htd15818	Therefore\RB this\DT valley\NN is\VBZ important\JJ both\DT from\IN the\DT strategic\JJ and\CC political\JJ viewpoint\NN .\.
+htd15819	Trongsa\NNP Jong\NNP seen\VBN from\IN a\DT view\NN point\NN made\VBD 12\CD k\NN .\.N .\: before\IN reaching\VBG Trongsa\NNP and\CC from\IN the\DT horror\NN of\IN the\DT black\JJ mountain\NN standing\NN in\IN its\PRP$ background\NN the\DT traveller\NN as\IN if\IN trembles\NNS .\.
+htd15820	The\DT first\JJ two\CD kings\NNS of\IN Bhutan\NNP had\VBD ruled\VBN from\IN Trongsa\NNP itself\PRP .\.
+htd15821	The\DT greatest\JJS '\'' Trongsa\NNP '\POS Jong\NNP of\IN Bhutan\NNP is\VBZ this\DT .\.
+htd15822	On\IN reaching\VBG Trongsa\NNP we\PRP got\VBD relief\NN .\.
+htd15823	244\CD k\NN .\.N .\: road\NN goes\VBZ from\IN Trongsa\NNP till\IN Gelfu\NNP based\VBN at\IN the\DT foothills\NNS of\IN Middle\NNP Bhutan\NNP .\.
+htd15824	cmlplt\VB it\PRP .\.
+htd15825	In\IN 1648\CD with\IN the\DT purpose\NN of\IN liberating\JJ Bhutan\NNP from\IN internal\JJ calamities\NNS however\RB many\JJ forts\NNS made\VBN in\IN present\JJ Bhutan\NNP in\IN them\PRP Trongsa\NNP Jong\NNP is\VBZ also\RB included\VBN .\.
+htd15826	It\PRP is\VBZ believed\VBN that\IN in\IN the\DT times\NNS of\IN Nagiwandchuk\NNP -LRB-\-LRB- 1517\CD -\: 1554\CD A\NN .\.NP .\: -RRB-\-RRB- the\DT construction\NN of\IN a\DT big\JJ Chorten\NNP was\VBD got\VBN done\VBN here\RB .\.
+htd15827	This\DT Jong\NNP made\VBD on\IN a\DT cliff\NN standing\NN over\IN the\DT Trongsa\NNP river\NN got\VBD completed\VBN in\IN many\JJ phases\NNS .\.
+htd15828	Trongsa\NNP situated\VBD at\IN 2\CD .\: 060\CD metres\NNS seems\VBZ like\IN a\DT common\JJ Himalayan\JJ settlements\NNS .\.
+htd15829	Taking\VBG a\DT round\NN of\IN 15\CD k\NN .\.N .\: the\DT road\NN again\RB comes\VBZ close\RB to\TO Trongsa\NNP Jong\NNP from\IN across\IN Mangde\NNP Chhu\NNP again\RB .\.
+htd15830	After\IN seeing\VBG Sarchop\NNP or\CC eastern\JJ Bhutan\NNP in\IN the\DT east\JJ from\IN Thrumsingala\NNP ,\, Jupcho\NNP or\CC middle\JJ Bhutan\NNP between\IN Thrumsingala\NNP and\CC Pelela\NNP we\PRP are\VBP advancing\VBG towards\IN Jangcho\NNP or\CC western\JJ Bhutan\NNP .\.
+htd15831	From\IN Rubakji\NNP to\TO Novding\NNP across\IN Pelela\NNP not\RB only\RB is\VBZ extraordinary\JJ natural\JJ beauty\NN spread\NN instead\RB it\PRP was\VBD a\DT unique\JJ experience\NN to\TO see\VB the\DT various\JJ borders\NNS of\IN ascending\VBG and\CC descending\VBG vegetation\NN covered\VBN in\IN the\DT heights\NNS .\.
+htd15832	We\PRP were\VBD climbing\VBG with\IN the\DT support\NN of\IN Nikachu\NNP coming\VBG out\RP from\IN Morothong\NNP and\CC meeting\NN in\IN Chendbaji\NNP in\IN that\DT direction\NN .\.
+htd15833	Now\RB we\PRP will\MD have\VB to\TO descend\VB with\IN Dangchu\NNP merging\VBG in\IN Sankosh\NNP the\DT large\JJ river\NN of\IN Western\NNP Bhutan\NNP .\.
+htd15834	Near\IN about\IN Khelekha\NNP and\CC Garjikha\NNP village\NN we\PRP met\VBD '\'' Dangchu\NNP '\POS .\.
+htd15835	While\IN passing\VBG through\IN Chodojha\NNP near\IN Lantenjanga\NNP crossing\VBG this\DT Wangdi\NNP valley\NN opens\VBZ .\.
+htd15836	Wangdi\NNP -LRB-\-LRB- 1,380\CD metres\NNS -RRB-\-RRB- situated\VBN between\IN the\DT forests\NNS of\IN scattered\JJ pines\NNS and\CC mountains\NNS in\IN the\DT distance\NN is\VBZ the\DT only\JJ such\JJ valley\NN of\IN Bhutan\NNP ,\, which\WDT is\VBZ identical\JJ to\TO many\JJ valleys\NNS of\IN Kumaon\NNP .\.
+htd15837	Seeing\VBG the\DT houses\NNS with\IN roofs\NNS of\IN slate\NN reminded\VBD me\PRP of\IN Kumaon\NNP .\.
+htd15838	Chiring\VBG the\DT stewardess\NN of\IN hotel\NN Orchard\NNP said\VBD that\IN workers\NNS making\VBG carvings\NNS on\IN stone\NN and\CC Jong\NNP -LRB-\-LRB- forts\NNS -RRB-\-RRB- stay\NN in\IN Riching\NNP gong\NN situated\VBD nearby\JJ .\.
+htd15839	cmplt\VB it\PRP .\.
+htd15840	Trosing\VBG in\IN the\DT East\NNP ,\, Chirang\NNP and\CC Dagna\NNP in\IN the\DT South\NNP ,\, Punakha\NNP in\IN the\DT North\NNP and\CC Thimpu\NNP ,\, Paro\NNP and\CC Ha\NNP Jongkhal\NNP fall\NN in\IN the\DT West\NNP .\.
+htd15841	In\IN the\DT big\JJ prayer\NN room\NN of\IN Wangdi\NNP Phodrang\NNP the\DT stories\NNS relating\VBG to\TO the\DT previous\JJ birth\NN of\IN Padmasambhava\NNP and\CC Buddha\NNP are\VBP drawn\VBN .\.
+htd15842	The\DT importance\NN of\IN Wandgi\NNP Phodrang\NNP Jong\NNP also\RB increased\VBD due\JJ to\TO its\PRP$ proximity\NN to\TO Punakha\NNP .\.
+htd15843	Punakha\NNP remained\VBD the\DT winter\NN capital\NN of\IN Bhutan\NNP till\IN 1955\CD .\.
+htd15844	Even\RB today\NN the\DT Central\NNP Lama\NNP Association\NNP of\IN Bhutan\NNP travels\NNS to\TO Punakha\NNP in\IN winters\NNS .\.
+htd15845	By\IN the\DT time\NN of\IN crossing\VBG '\'' Mochu\NNP '\POS which\WDT flows\VBZ in\IN the\DT root\NN of\IN Wangdi\NNP Phodrang\NNP night\NN has\VBZ fallen\VBN .\.
+htd15846	White\JJ sand\NN shining\VBG at\IN the\DT bank\NN of\IN Mochu\NNP and\CC in\IN between\IN the\DT setting\VBG celestial\JJ redness\NN the\DT beauty\NN of\IN the\DT Wangdi\NNP Fodrung\NNP Jong\NNP is\VBZ to\TO be\VB seen\VBN to\TO be\VB believed\VBN .\.
+htd15847	The\DT approximately\RB 300\CD year\NN old\JJ bridge\NN built\VBN on\IN Mochu\NNP had\VBD been\VBN swept\VBN away\RB by\IN the\DT flood\NN of\IN 1968\CD .\.
+htd15848	Now\RB a\DT new\JJ iron\NN bridge\NN has\VBZ been\VBN built\VBN here\RB .\.
+htd15849	The\DT new\JJ Wandgi\NNP Phodrang\NNP city\NN is\VBZ settling\VBG by\IN the\DT support\NN of\IN Mochu\NNP .\.
+htd15850	Although\IN the\DT old\JJ Wangdi\NNP city\NN is\VBZ also\RB clean\JJ and\CC open\JJ .\.
+htd15851	At\IN some\DT distance\NN in\IN Lobasa\NNP the\DT natural\JJ resources\NNS center\NN began\VBD in\IN 1992\CD .\.
+htd15852	A\DT road\NN from\IN Lobasa\NNP goes\VBZ to\TO Talo\NNP .\.
+htd15853	Thimpu\NNP is\VBZ now\RB only\RB 68\CD k\NN .\.N .\.
+htd15854	There\EX was\VBD no\DT opportunity\NN of\IN going\VBG to\TO Talo\NNP .\.
+htd15855	In\IN Talo\NNP the\DT reincarnation\NN of\IN the\DT spiritual\JJ teacher\NN Sabdrung\NNP Navang\NNP Nagmel\NNP of\IN Bhutan\NNP has\VBZ been\VBN taking\VBG birth\NN .\.
+htd15856	In\IN November\NNP 1995\CD a\DT two\CD feet\NNS 3\CD inches\NNS high\JJ golden\JJ idol\NN of\IN Sabdrung\NNP Jigme\NNP Dorjee\NNP has\VBZ been\VBN established\VBN in\IN Machelkhang\NNP of\IN Talo\NNP .\.
+htd15857	In\IN Mache\NNP -LRB-\-LRB- remains\VBZ -RRB-\-RRB- Lakhang\NNP many\JJ old\JJ remains\NNS of\IN Sabdrung\NNP have\VBP been\VBN kept\VBN safe\JJ .\.
+htd15858	The\DT body\NN of\IN Sabdrung\NNP is\VBZ protected\VBN in\IN Punakha\NNP Jong\NNP itself\PRP .\.
+htd15859	We\PRP reached\VBD '\POS Dorchula\NN '\'' at\IN ten\CD '\POS o\NN clock\NN at\IN night\NN .\.
+htd15860	Dorchula\NNP is\VBZ the\DT dividing\VBG line\NN of\IN Thimpu\NNP and\CC Punakha\NNP valleys\NNS .\.
+htd15861	In\IN Dorchula\NNP there\EX is\VBZ an\DT old\JJ chorten\NN and\CC a\DT prayer\NN pole\NN .\.
+htd15862	The\DT road\NN goes\VBZ down\RP towards\IN Thimpu\NNP .\.
+htd15863	The\DT bright\JJ light\NN of\IN Ghantaghar\NNP has\VBZ given\VBN the\DT feeling\NN of\IN reaching\VBG Thimpu\NNP .\.
+htd15864	Shimmering\NNP Thimpu\NNP is\VBZ the\DT image\NN of\IN the\DT present\NN of\IN Bhutan\NNP .\.
+htd15865	From\IN the\DT main\JJ market\NN Norjim\NNP of\IN Thimpu\NNP towards\IN Chorten\NNP Lama\NNP -LRB-\-LRB- road\NN -RRB-\-RRB- on\IN walking\VBG just\RB a\DT few\JJ steps\NNS on\IN the\DT left\NN is\VBZ hotel\NN 89\CD .\.
+htd15866	Today\NN is\VBZ 20th\JJ April\NNP of\IN 1999\CD .\.
+htd15867	In\IN the\DT forest\NN of\IN blue\NN pine\VBP on\IN the\DT western\JJ mountains\NNS of\IN Thimpu\NNP the\DT golden\JJ rays\NNS of\IN the\DT sunrise\NN have\VBP reached\VBN .\.
+htd15868	Thimpu\NNP has\VBZ awakened\VBN .\.
+htd15869	Gradually\RB children\NNS dressed\VBN in\IN pink\JJ banded\VBN and\CC blue\JJ colored\VBN Gho\NNP -\: Kira\NNP -LRB-\-LRB- the\DT gradual\JJ national\JJ costume\NN of\IN men\NNS and\CC women\NNS -RRB-\-RRB- have\VBP begun\VBN to\TO be\VB seen\VBN on\IN the\DT road\NN .\.
+htd15870	I\PRP reach\VBP at\IN Norjen\NNP corner\NN .\.
+htd15871	There\EX is\VBZ an\DT abundant\JJ number\NN of\IN vehicles\NNS in\IN the\DT city\NN .\.
+htd15872	Both\DT sides\NNS lined\VBD shops\NNS ,\, houses\NNS are\VBP made\VBN in\IN the\DT traditional\JJ style\NN of\IN Bhutan\NNP .\.
+htd15873	Houses\NNS with\IN flat\JJ roofs\NNS of\IN concrete\NN have\VBP started\VBN breaking\VBG this\DT grandeur\NN .\.
+htd15874	There\EX are\VBP Indian\JJ items\NNS at\IN shops\NNS but\CC the\DT cars\NNS running\VBG on\IN the\DT roads\NNS are\VBP Japanese\JJ .\.
+htd15875	Now\RB the\DT Maruti\NNP car\NN has\VBZ also\RB finished\VBN this\DT competition\NN .\.
+htd15876	Thimpu\NNP is\VBZ a\DT city\NN budding\VBG with\IN the\DT produce\NN of\IN the\DT power\NN of\IN its\PRP$ increasing\VBG external\JJ contacts\NNS and\CC its\PRP$ past\NN .\.
+htd15877	Along\IN with\IN the\DT capital\NN Thimpu\NNP is\VBZ also\RB a\DT city\NN of\IN hope\NN for\IN the\DT future\NN .\.
+htd15878	Thimpu\NNP is\VBZ a\DT center\NN of\IN beliefs\NNS and\CC faith\NN .\.
+htd15879	Thimpu\NNP is\VBZ the\DT dearest\JJS city\NN of\IN every\DT Bhutanese\NN .\.
+htd15880	The\DT house\NN of\IN their\PRP$ king\NN is\VBZ in\IN Thimpu\NNP .\.
+htd15881	Thimpu\NNP also\RB loves\VBZ every\DT Bhutanese\NN equally\RB .\.
+htd15882	This\DT quality\NN will\MD be\VB less\JJR in\IN other\JJ cities\NNS .\.
+htd15883	In\IN the\DT first\JJ meeting\NN that\WDT happened\VBD with\IN Thimpu\NNP this\DT had\VBD started\VBN feeling\VBG like\IN my\PRP$ own\JJ .\.
+htd15884	We\PRP saw\VBD Thimpu\NNP city\NN on\IN coming\VBG to\TO the\DT Bhutan\NNP Radio\NNP Broadcast\NNP Centre\NNP attached\VBD to\TO Motithang\NNP .\.
+htd15885	This\DT city\NN is\VBZ based\VBN by\IN the\DT support\NN of\IN Thimpu\NNP chu\NNP in\IN the\DT North\NNP South\NNP direction\NN in\IN the\DT middle\NN of\IN Docin\NNP Choling\NNP to\TO Simtokha\NNP .\.
+htd15886	Limes\NNS of\IN snow\NN were\VBD still\RB remaining\VBG in\IN the\DT mountains\NNS of\IN Dorchula\NNP there\RB .\.
+htd15887	Thimpu\NNP valley\NN is\VBZ approximately\RB 15\CD k\NN .\.N .\: long\RB and\CC 5\CD k\NN .\.N .\: wide\RB taking\VBG a\DT height\NN of\IN 2,350\CD metres\NNS from\IN sea\NN level\NN makes\VBZ a\DT shape\NN of\IN a\DT drawn\VBN bow\NN with\IN Thimpu\NNP chu\NNP -LRB-\-LRB- river\NN -RRB-\-RRB- .\.
+htd15888	The\DT center\NN of\IN this\DT valley\NN is\VBZ Tashi\NNP Chojong\NNP -LRB-\-LRB- of\IN Jong\NNP of\IN a\DT great\JJ religion\NN -RRB-\-RRB- .\.
+htd15889	In\IN 1641\CD while\IN changing\VBG an\DT ancient\JJ cave\NN to\TO a\DT Jong\NNP Sabdrung\NNP Navang\NNP had\VBD given\VBN this\DT name\NN .\.
+htd15890	Although\IN in\IN 1216\CD B\NN .\.NP .\.
+htd15891	In\IN 1694\CD the\DT third\JJ deshi\NN -LRB-\-LRB- king\NN -RRB-\-RRB- of\IN Bhutan\NNP got\VBD the\DT expansion\NN of\IN this\DT done\VBN .\.
+htd15892	Here\RB in\IN 1730\CD the\DT religious\JJ rupture\NN continuing\VBG between\IN Tibet\NNP and\CC Bhutan\NNP was\VBD ended\VBN by\IN signing\VBG on\IN the\DT treaty\NN .\.
+htd15893	Subject\JJ to\TO this\DT treaty\NN the\DT Bhutanese\JJ delegate\NN kept\VBD being\VBG sent\VBN to\TO Lhasa\NNP .\.
+htd15894	In\IN principle\NN the\DT Dongon\NNP gumpha\NN was\VBD not\RB in\IN the\DT valley\NN but\CC a\DT little\RB higher\JJR up\IN ,\, where\WRB now\RB the\DT central\JJ gumpha\NN school\NN of\IN Bhutan\NNP runs\VBZ .\.
+htd15895	The\DT 13th\NNP Devraj\NNP of\IN Bhutan\NNP Serab\NNP Wangchuk\NNP had\VBD got\VBN the\DT construction\NN of\IN this\DT done\VBN at\IN the\DT place\NN of\IN the\DT present\JJ Jong\NN made\VBN in\IN the\DT valley\NN in\IN 1775\CD .\.
+htd15896	Damages\NNS had\VBD been\VBN caused\VBN to\TO this\DT Jong\NN in\IN the\DT fire\NN of\IN 1771\CD and\CC 1869\CD .\.
+htd15897	In\IN 1870\CD the\DT father\NN of\IN the\DT first\JJ king\NN of\IN Bhutan\NNP Jigme\NNP Namgel\NNP had\VBD got\VBN the\DT renovation\NN of\IN this\DT Jong\NN done\VBN and\CC the\DT construction\NN of\IN a\DT temple\NN done\VBN .\.
+htd15898	After\IN 10\CD days\NNS we\PRP left\VBD for\IN '\'' Paro\NNP '\POS .\.
+htd15899	We\PRP descended\VBD 21\CD k\NN .\.N .\: by\IN the\DT support\NN of\IN Thimpu\NNP chu\NNP .\.
+htd15900	Parochu\NNP '\POS beside\IN Kinsilsila\NNP mixes\VBZ in\IN the\DT Thimpu\NNP chu\NN .\.
+htd15901	From\IN here\RB we\PRP recognized\VBD the\DT road\NN going\VBG towards\IN Paro\NNP .\.
+htd15902	Paro\NNP is\VBZ 52\CD k\NN .\.N .\: from\IN Thimpu\NNP .\.
+htd15903	The\DT lower\JJR valley\NN of\IN Paro\NNP is\VBZ Sankri\NNP and\CC Shushk\NNP .\.
+htd15904	At\IN Sunjajom\NNP on\IN crossing\VBG Paro\NNP chu\NN we\PRP move\VBP ahead\RB from\IN the\DT left\JJ bank\NN Paro\NN remains\VBZ 15\CD k\NN .\.N .\: from\IN here\RB and\CC the\DT valley\NN starts\VBZ opening\NN .\.
+htd15905	We\PRP headed\VBD straight\RB towards\IN the\DT Paro\NNP air\NN strip\NN .\.
+htd15906	The\DT only\JJ aircraft\NN of\IN Bhutan\NNP B\NNP .\.NP .\.NP .\: 146\CD -\: 100\CD has\VBZ left\VBN on\IN the\DT flight\NN for\IN Bangkok\NNP .\.
+htd15907	I\PRP remembered\VBD the\DT European\NNP Father\NNP Jovo\NNP Cabrel\NNP and\CC Istebhavo\NNP Casilla\NNP who\WP entered\VBD Bhutan\NNP on\IN 25th\JJ March\NNP 1627\CD .\.
+htd15908	On\IN reaching\VBG Paro\NNP both\DT these\DT travellers\NNS were\VBD made\VBN imprisoned\VBN by\IN a\DT Bhutanese\NN traveling\VBG with\IN them\PRP in\IN his\PRP$ house\NN .\.
+htd15909	Somehow\RB on\IN escaping\VBG from\IN his\PRP$ grasp\NN these\DT two\CD had\VBD met\VBN Sabdung\NNP Navang\NNP Namgel\NNP the\DT propagandist\NN of\IN Spanish\JJ religion\NN .\.
+htd15910	To\TO live\VB with\IN these\DT monks\NNS three\CD lamas\NNS had\VBD been\VBN given\VBN relaxation\NN .\.
+htd15911	Some\DT local\JJ people\NNS came\VBD to\TO see\VB the\DT idols\NNS of\IN Jesus\NNP and\CC Mary\NNP and\CC to\TO tell\VB their\PRP$ sorrows\NNS .\.
+htd15912	But\CC on\IN not\RB seeing\VBG any\DT interest\NN developing\VBG towards\IN Christianity\NNP these\DT two\CD monks\NNS had\VBD gone\VBN to\TO Western\NNP Tibet\NNP after\IN staying\VBG in\IN Paro\NNP till\IN 8\CD months\NNS .\.
+htd15913	In\IN Bhutan\NNP then\RB there\EX was\VBD refusal\NN to\TO any\DT outside\JJ person\NN coming\VBG barring\VBG saints\NNS and\CC hermits\NNS .\.
+htd15914	Bhutanese\JJ historians\NNS write\VBP that\IN once\RB when\WRB the\DT uncle\NN of\IN the\DT king\NN of\IN Cooch\NNP Behar\NNP reached\VBD Paro\NNP in\IN the\DT eagerness\NN of\IN seeing\VBG Bhutan\NNP he\PRP had\VBD also\RB been\VBN imprisoned\VBN here\RB .\.
+htd15915	The\DT alliance\NN of\IN Bhutan\NNP with\IN the\DT rest\NN of\IN the\DT world\NN was\VBD subsisted\VBN only\RB after\IN the\DT Indo\NNP -\: China\NNP war\NN .\.
+htd15916	The\DT development\NN work\NN began\VBD in\IN Bhutan\NNP with\IN Indian\JJ help\NN .\.
+htd15917	In\IN 1962\CD the\DT first\JJ school\NN opened\VBD in\IN '\'' Paro\NNP '\POS .\.
+htd15918	In\IN 1968\CD electricity\NN came\VBD ,\, roads\NNS were\VBD built\VBN and\CC now\RB an\DT air\NN strip\NN is\VBZ also\RB made\VBN here\RB .\.
+htd15919	The\DT nearby\JJ villages\NNS still\RB have\VBP houses\NNS with\IN roof\NN of\IN wood\NN and\CC walls\NNS of\IN mud\NN .\.
+htd15920	Wealthy\JJ families\NNS have\VBP started\VBN putting\VBG roofs\NNS of\IN steel\NN .\.
+htd15921	We\PRP reached\VBD Paro\NNP market\NN directly\RB .\.
+htd15922	The\DT Dungse\NNP chorten\NN Lakhang\NN built\VBN here\RB is\VBZ unparalleled\JJ in\IN the\DT whole\NN of\IN Bhutan\NNP .\.
+htd15923	Paro\NN market\NN of\IN clean\JJ and\CC wide\JJ roads\NNS has\VBZ been\VBN settled\VBN in\IN a\DT systematic\JJ manner\NN .\.
+htd15924	The\DT crowd\NN of\IN villagers\NNS buying\VBG Yak\NNP meat\NN and\CC the\DT shops\NNS of\IN video\NN cassettes\NNS together\RB presented\VBD a\DT new\JJ -\: old\JJ Paro\NNP .\.
+htd15925	On\IN going\VBG a\DT little\JJ ahead\RB only\RB is\VBZ the\DT temple\NN of\IN Yongthang\NNP Gyalpo\NNP .\.
+htd15926	All\PDT the\DT iron\NN -\: chain\NN bridges\NNS built\VBN in\IN the\DT 16th\JJ century\NN in\IN Bhutan\NNP is\VBZ the\DT contribution\NN of\IN this\DT Lama\NNP engineer\NN .\.
+htd15927	Now\RB we\PRP reached\VBD Tajong\NNP by\IN taking\VBG a\DT long\JJ circular\JJ route\NN .\.
+htd15928	From\IN this\DT Tajong\NN of\IN five\CD storied\JJ cyclorama\NNS at\IN some\DT time\NN royal\JJ soldiers\NNS must\MD be\VB guarding\VBG the\DT main\JJ Jong\NNP .\.
+htd15929	The\DT district\NN headquarters\NN is\VBZ still\RB in\IN the\DT main\JJ Jong\NNP .\.
+htd15930	But\CC the\DT only\JJ museum\NN of\IN Bhutan\NNP is\VBZ now\RB situated\VBN in\IN Tajong\NNP .\.
+htd15931	We\PRP saw\VBD Paro\NNP valley\NN from\IN Tajong\NNP .\.
+htd15932	The\DT crop\NN of\IN Jowar\NNP in\IN the\DT valley\NN is\VBZ prospering\VBG .\.
+htd15933	Apples\NNS have\VBP swollen\JJ on\IN the\DT slopes\NNS .\.
+htd15934	Descending\VBG from\IN Paro\NN market\NN we\PRP proceeded\VBD towards\IN Drugyel\NNP Jong\NNP 18\CD k\NN .\.N .\: away\RB from\IN here\RB .\.
+htd15935	The\DT entire\JJ valley\NN gets\VBZ divided\VBN in\IN exactly\RB two\CD parts\NNS by\IN Paro\NNP market\NN .\.
+htd15936	There\EX are\VBP fields\NNS of\IN wheat\NN and\CC pine\VB below\IN Paro\NNP market\NN .\.
+htd15937	The\DT upper\JJ valley\NN is\VBZ covered\VBN with\IN spruce\VB ,\, birch\NN ,\, Hemlock\NN and\CC blue\NN pine\VBP forests\NNS .\.
+htd15938	In\IN the\DT upper\JJ valley\NN only\RB is\VBZ the\DT biggest\JJS Buddhist\JJ pilgrimage\NN Takchang\NNP cave\NN of\IN Bhutan\NNP .\.
+htd15939	Any\DT traveller\NN returning\VBG from\IN Bhutan\NNP is\VBZ filled\VBN up\RP with\IN nature\NN consciousness\NN .\.
+htd15940	Such\JJ vibrant\JJ and\CC complete\JJ nature\NN will\MD be\VB found\VBN only\RB in\IN some\DT areas\NNS .\.
+htd15941	Bhutan\NNP reared\VBD in\IN the\DT shadow\NN of\IN Lamas\NNPS like\IN Gurupadmasambhava\NNP ,\, Pemalingpa\NNP ,\, Sabdrung\NNP ,\, Navang\NNP Namgale\NNP and\CC Tenzing\NNP and\CC their\PRP$ reincarnations\NNS is\VBZ completely\RB a\DT religious\JJ place\NN .\.
+htd15942	The\DT second\JJ big\JJ happiness\NN of\IN this\DT journey\NN is\VBZ also\RB seeing\VBG the\DT new\JJ ,\, just\RB created\VBN -\: budding\VBG and\CC taking\VBG the\DT speed\NN of\IN development\NN society\NN .\.
+htd15943	We\PRP have\VBP not\RB relished\VBN the\DT happiness\NN of\IN creation\NN in\IN India\NNP .\.
+htd15944	The\DT Lama\NNP Gurus\NNP coming\VBG from\IN Tibet\NNP have\VBP strengthened\VBN the\DT religious\JJ cornerstone\NN of\IN Bhutan\NNP so\RB not\RB only\RB did\VBD the\DT foundation\NN of\IN economy\NN go\VBP from\IN India\NNP to\TO Butan\VB on\IN the\DT other\JJ hand\NN Indian\NNP Buddhist\NNP religion\NN taught\VBD Bhutan\NNP the\DT first\JJ lesson\NN in\IN civilization\NN and\CC culture\NN .\.
+htd15945	Bhutan\NNP is\VBZ running\VBG towards\IN the\DT west\NN with\IN great\JJ speed\NN .\.
+htd15946	In\IN this\DT race\NN it\PRP is\VBZ difficult\JJ to\TO maintain\VB the\DT identity\NN of\IN Bhutan\NNP .\.
+htd15947	I\PRP had\VBD to\TO go\VB straight\RB in\IN the\DT direction\NN of\IN North\NNP till\IN Mansarovar\NNP .\.
+htd15948	Now\RB this\DT decision\NN had\VBD to\TO be\VB taken\VBN that\IN how\WRB to\TO reach\VB there\RB .\.
+htd15949	I\PRP only\RB had\VBD the\DT support\NN of\IN a\DT compass\NN .\.
+htd15950	I\PRP had\VBD to\TO go\VB forward\RB from\IN '\'' Atkal\NNP '\POS itself\PRP .\.
+htd15951	Stopping\VBG walking\NN north\NN -\: east\RB I\PRP hoisted\VBD the\DT package\NN on\IN my\PRP$ back\NN and\CC started\VBD descending\VBG .\.
+htd15952	Till\IN now\RB the\DT side\NN of\IN the\DT mountain\NN that\IN I\PRP was\VBD walking\VBG on\IN ,\, the\DT heat\NN of\IN the\DT Sun\NNP was\VBD more\JJR on\IN that\DT side\NN ,\, the\DT snow\NN was\VBD also\RB not\RB more\JJR than\IN 5\CD -6\CD inches\NNS but\CC now\RB I\PRP had\VBD to\TO walk\VB on\IN the\DT other\JJ side\NN .\.
+htd15953	There\EX the\DT heat\NN of\IN the\DT Sun\NNP used\VBD to\TO reach\VB very\RB less\JJR .\.
+htd15954	So\IN my\PRP$ feet\NNS used\VBN to\TO sink\VB till\IN 14\CD -\: 15\CD inches\NNS in\IN the\DT snow\NN at\IN some\DT places\NNS .\.
+htd15955	In\IN some\DT places\NNS the\DT snow\NN was\VBD only\RB 7\CD -8\CD inches\NNS because\IN of\IN which\WDT I\PRP started\VBD feeling\VBG increasing\VBG tiredness\NN .\.
+htd15956	I\PRP had\VBD the\DT support\NN of\IN a\DT stick\NN .\.
+htd15957	At\IN places\NNS my\PRP$ feet\NNS used\VBN to\TO get\VB stuck\VBN in\IN stones\NNS of\IN ice\NN and\CC extraction\NN used\VBN to\TO become\VB difficult\JJ .\.
+htd15958	My\PRP$ Tibetan\JJ shoes\NNS tore\VBD completely\RB .\.
+htd15959	Blood\NNP began\VBD flowing\VBG from\IN the\DT cuts\NNS from\IN the\DT legs\NNS .\.
+htd15960	My\PRP$ load\NN was\VBD not\RB heavy\JJ ,\, but\CC now\RB it\PRP seemed\VBD that\IN strenuous\JJ .\.
+htd15961	Like\IN this\DT found\VBD a\DT three\CD mile\NN straight\JJ road\NN .\.
+htd15962	On\IN going\VBG five\CD miles\NNS ahead\RB I\PRP found\VBD two\CD lakes\NNS .\.
+htd15963	These\DT were\VBD made\VBN by\IN the\DT melting\NN of\IN snow\NN .\.
+htd15964	The\DT circumference\NN of\IN one\CD was\VBD almost\RB five\CD miles\NNS and\CC of\IN the\DT other\JJ was\VBD 2\CD miles\NNS .\.
+htd15965	Colourful\JJ ducks\NNS were\VBD swimming\VBG in\IN it\PRP .\.
+htd15966	The\DT number\NN of\IN ducks\NNS was\VBD so\RB much\JJ that\IN the\DT water\NN of\IN the\DT lake\NN was\VBD also\RB not\RB visible\JJ .\.
+htd15967	Seeing\VBG the\DT view\NN there\RB I\PRP got\VBD so\RB enchanted\VBN that\IN I\PRP forgot\VBD the\DT pains\NNS of\IN my\PRP$ body\NN completely\RB .\.
+htd15968	I\PRP kept\VBD the\DT name\NN of\IN the\DT big\JJ lake\NN as\IN Ikai\NNP and\CC of\IN the\DT smaller\JJR one\CD Jinko\NNP .\.
+htd15969	On\IN looking\VBG at\IN the\DT compass\NN I\PRP realized\VBD that\IN for\IN going\VBG North\NNP -\: East\NNP I\PRP had\VBD to\TO cross\VB the\DT river\NN .\.
+htd15970	But\CC this\DT was\VBD not\RB pleasant\JJ as\IN the\DT previous\JJ experience\NN was\VBD still\RB fresh\JJ .\.
+htd15971	The\DT time\NN when\WRB I\PRP was\VBD thinking\VBG this\DT at\IN that\DT time\NN I\PRP saw\VBD a\DT man\NN crossing\VBG the\DT river\NN .\.
+htd15972	On\IN asking\VBG it\PRP was\VBD known\VBN that\IN he\PRP was\VBD going\VBG from\IN Kham\NNP to\TO Gilang\NNP Ringponch\NNP for\IN a\DT visit\NN .\.
+htd15973	I\PRP explained\VBD to\TO him\PRP that\IN I\PRP am\VBP getting\VBG very\RB weak\JJ give\VBP me\PRP help\NN in\IN crossing\VBG the\DT river\NN .\.
+htd15974	Saying\VBG this\DT I\PRP gave\VBD him\PRP a\DT lot\NN of\IN eatables\NNS .\.
+htd15975	He\PRP became\VBD very\RB happy\JJ with\IN my\PRP$ generosity\NN and\CC he\PRP picked\VBD up\RP my\PRP$ things\NNS on\IN his\PRP$ back\NN ,\, and\CC holding\VBG my\PRP$ hand\NN began\VBD walking\VBG forward\RB .\.
+htd15976	After\IN helping\VBG me\PRP cross\VB the\DT river\NN he\PRP told\VBD me\PRP the\DT road\NN ahead\RB and\CC again\RB crossing\VBG the\DT river\NN he\PRP went\VBD away\RB .\.
+htd15977	I\PRP also\RB took\VBD my\PRP$ route\NN .\.
+htd15978	On\IN walking\VBG fourteen\CD miles\NNS we\PRP found\VBD the\DT Kyangchu\NNP river\NN .\.
+htd15979	At\IN a\DT distance\NN of\IN fifty\CD miles\NNS from\IN here\RB a\DT mountain\NN covered\VBN with\IN snow\NN can\MD be\VB seen\VBN .\.
+htd15980	This\DT comes\VBZ out\RP from\IN this\DT mountain\NN only\RB .\.
+htd15981	Its\PRP$ span\NN is\VBZ maximum\JJ 450\CD yards\NNS and\CC minimum\NN 60\CD yards\NNS .\.
+htd15982	Before\IN descending\VBG we\PRP had\VBD our\PRP$ supper\NN .\.
+htd15983	That\DT time\NN I\PRP was\VBD a\DT guest\NN of\IN the\DT Ladakh\NNP merchant\NN .\.
+htd15984	His\PRP$ servants\NNS collected\VBD dry\JJ dung\NN etc\NN ,\, prepared\VBN food\NN and\CC I\PRP would\MD read\VB religious\JJ texts\NNS .\.
+htd15985	While\IN leaving\VBG Alchu\NNP Lama\NNP had\VBD given\VBN me\PRP a\DT little\JJ rice\NN .\.
+htd15986	Here\RB the\DT rice\NN comes\VBZ from\IN Nepal\NNP and\CC is\VBZ available\JJ very\RB expensive\JJ .\.
+htd15987	I\PRP had\VBD eaten\VBN rice\NN after\IN a\DT very\RB long\JJ time\NN so\IN it\PRP felt\VBD very\RB tasty\JJ .\.
+htd15988	I\PRP had\VBD reached\VBN the\DT bank\NN of\IN the\DT river\NN by\IN 9\CD o\NN '\'' clock\NN .\.
+htd15989	The\DT ice\NN on\IN the\DT bank\NN was\VBD frozen\VBN as\IN it\PRP is\VBZ .\.
+htd15990	I\PRP waited\VBD till\IN the\DT melting\NN of\IN the\DT snow\NN and\CC began\VBD making\VBG arrangements\NNS for\IN lunch\NN .\.
+htd15991	I\PRP had\VBD wished\VBN this\DT that\IN the\DT load\NN of\IN the\DT goats\NNS be\VB left\VBN on\IN their\PRP$ backs\NNS and\CC to\TO release\VB them\PRP across\IN the\DT river\NN .\.
+htd15992	But\CC this\DT could\MD not\RB happen\VB as\IN the\DT river\NN was\VBD deep\JJ .\.
+htd15993	In\IN the\DT end\NN I\PRP removed\VBD the\DT load\NN and\CC took\VBD them\PRP with\IN the\DT help\NN of\IN a\DT rope\NN .\.
+htd15994	The\DT depth\NN of\IN the\DT water\NN was\VBD a\DT lot\NN so\RB even\RB on\IN gathering\VBG my\PRP$ clothes\NNS properly\RB they\PRP got\VBD wet\JJ .\.
+htd15995	The\DT goats\NNS would\MD have\VB swam\VBN but\CC without\IN the\DT rope\NN they\PRP would\MD definitely\RB have\VB been\VBN swept\VBN away\RB by\IN the\DT force\NN of\IN the\DT water\NN .\.
+htd15996	We\PRP crossed\VBD easily\RB .\.
+htd15997	On\IN getting\VBG to\TO the\DT other\JJ bank\NN I\PRP tied\VBD the\DT goats\NNS to\TO a\DT tree\NN .\.
+htd15998	I\PRP took\VBD off\RP all\DT my\PRP$ clothes\NNS and\CC putting\VBG them\PRP out\RP to\TO dry\VB went\VBD naked\JJ to\TO the\DT other\JJ shore\NN for\IN getting\VBG things\NNS .\.
+htd15999	Getting\VBG there\RB I\PRP applied\VBD oil\NN to\TO the\DT body\NN for\IN a\DT second\JJ time\NN and\CC made\VBD such\PDT a\DT bundle\NN of\IN all\PDT my\PRP$ things\NNS which\WDT I\PRP could\MD lift\VB on\IN my\PRP$ head\NN .\.
+htd16000	Keeping\VBG the\DT bundle\NN on\IN my\PRP$ head\NN I\PRP entered\VBD the\DT river\NN for\IN the\DT third\JJ time\NN .\.

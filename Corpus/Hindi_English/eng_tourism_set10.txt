@@ -1,0 +1,1001 @@
+ID	Value
+htd9001	The\DT Marine\NNP National\NNP Park\NNP is\VBZ situated\VBN in\IN Andaman\NNP district\NN .\.
+htd9002	The\DT area\NN of\IN Marine\NNP National\NNP Park\NNP is\VBZ 281\CD .\: 50\CD square\JJ kilometres\NNS .\.
+htd9003	The\DT capital\NN of\IN the\DT Andaman\NNP group\NN of\IN islands\NNS ,\, Port\NNP Blair\NNP ,\, which\WDT has\VBZ an\DT airport\NN as\RB well\RB as\IN a\DT sea\NN port\NN ,\, is\VBZ 20\CD kilometres\NNS away\RB from\IN the\DT park\NN .\.
+htd9004	On\IN the\DT sea\NN coast\NN of\IN Marine\NNP National\NNP Park\NNP ,\, five\CD types\NNS of\IN turtles\NNS are\VBP found\VBN .\.
+htd9005	These\DT turtles\NNS found\VBD on\IN the\DT sea\NN coast\NN are\VBP :\: Green\NNP Sea\NNP Turtle\NNP ,\, hawksbill\NN Turtle\NNP ,\, Loggerhead\JJ turtle\NN ,\, and\CC Leather\NNP Back\NNP turtle\NN .\.
+htd9006	Wild\NNP boars\NNS ,\, sea-moles\NNS ,\, dolphins\NNS ,\, various\JJ kinds\NNS of\IN snakes\NNS are\VBP other\JJ creatures\NNS found\VBN in\IN the\DT Marine\NNP National\NNP Park\NNP .\.
+htd9007	Among\IN birds\NNS are\VBP White-breasted\JJ sea-eagle\JJ ,\, Andamanese\JJ wild\JJ pigeon\NN ,\, Andamanese\NNP Teal\NNP ,\, Hariyal\NNP ,\, peacock\NN ,\, parrots\NNS ,\, Kilkila\NNP -LRB-\-LRB- stork-billed\JJ kingfisher\NN -RRB-\-RRB- etc\FW .\.
+htd9008	The\DT red\JJ coral\JJ rocks\NNS and\CC fishes\NNS of\IN this\DT place\NN are\VBP the\DT center\NN of\IN attraction\NN for\IN the\DT tourists\NNS .\.
+htd9009	For\IN visiting\VBG the\DT Marine\NNP National\NNP Park\NNP ,\, the\DT best\JJS time\NN is\VBZ between\IN December\NNP and\CC March-April\NNP .\.
+htd9010	Mouling\NNP National\NNP Park\NNP is\VBZ situated\VBN in\IN Eastern\NNP Siang\NNP district\NN of\IN Arunachal\NNP Pradesh\NNP .\.
+htd9011	Mouling\NNP National\NNP Park\NNP is\VBZ spread\VBN over\IN an\DT area\NN of\IN 483\CD square\JJ kilometres\NNS .\.
+htd9012	The\DT nearest\JJS town\NN to\TO Mouling\NNP National\NNP Park\NNP is\VBZ Pasghat\NNP ,\, which\WDT is\VBZ 18\CD kilometres\NNS away\RB .\.
+htd9013	To\TO reach\VB Mouling\NNP National\NNP Park\NNP ,\, the\DT nearest\JJS railway\NN station\NN is\VBZ Murkongselek\NNP which\WDT is\VBZ 36\CD kilometres\NNS away\RB ,\, and\CC the\DT nearest\JJS airport\NN is\VBZ Lilabadi\NNP which\WDT is\VBZ 230\CD kilometres\NNS away\RB from\IN the\DT park\NN .\.
+htd9014	The\DT rainy\JJ season\NN lasts\VBZ from\IN July\NNP till\IN October\NNP in\IN Mouling\NNP National\NNP Park\NNP .\.
+htd9015	Mouling\NNP National\NNP Park\NNP is\VBZ canopied\VBN with\IN humid\JJ ,\, thorny\JJ ,\, semi-evergreen\JJ forests\NNS .\.
+htd9016	The\DT important\JJ animals\NNS found\VBN in\IN Mouling\NNP National\NNP Park\NNP are\VBP tiger\JJ ,\, leopard\JJ ,\, snow-leopard\JJ ,\, elephant\NN ,\, wild\JJ buffalo\NN ,\, barahsingha\NN -LRB-\-LRB- swamp\VB deer\NN -RRB-\-RRB- ,\, panda\NN ,\, Kakad\NNP -LRB-\-LRB- Indian\NNP Munjtac\NNP deer\NN -RRB-\-RRB- ,\, and\CC python\NN snake\NN .\.
+htd9017	In\IN the\DT Mouling\NNP National\NNP Park\NNP ,\, several\JJ kinds\NNS of\IN birds\NNS are\VBP found\VBN ,\, the\DT most\RBS important\JJ of\IN which\WDT is\VBZ Dhanesh\NNP -LRB-\-LRB- pied\JJ hornbill\NN -RRB-\-RRB- .\.
+htd9018	For\IN visiting\VBG the\DT Mouling\NNP National\NNP Park\NNP ,\, the\DT time\NN between\IN November\NNP and\CC April\NNP is\VBZ the\DT best\JJS .\.
+htd9019	Namdapha\NNP National\NNP Park\NNP ,\, located\VBN in\IN North\NNP East\NNP Himalayas\NNP ,\, in\IN Tarip\NNP district\NN of\IN Arunachal\NNP Pradesh\NNP ,\, is\VBZ spread\VBN over\IN an\DT area\NN of\IN 1985\CD .\: 23\CD square\JJ kilometres\NNS .\.
+htd9020	The\DT town\NN nearest\IN to\TO Namdapha\NNP National\NNP Park\NNP is\VBZ Margarita\NNP ,\, 62\CD kilometres\NNS away\RB from\IN it\PRP .\.
+htd9021	To\TO reach\VB Namdapha\NNP National\NNP Park\NNP ,\, the\DT nearest\JJS rail\NN head\NN is\VBZ at\IN Ledo\NNP ,\, 90\CD kilometre\NN away\RB ,\, and\CC the\DT airport\NN is\VBZ at\IN Dibrugarh\NNP ,\, 140\CD kilometres\NNS away\RB .\.
+htd9022	The\DT animals\NNS found\VBN in\IN Namdapha\NNP National\NNP Park\NNP are\VBP tiger\NN ,\, leopard\NN ,\, Lam\NNP Cheetah\NNP ,\, snow\NN leopard\NN ,\, wild\JJ buffalo\NN ,\, Gaur\NNP -LRB-\-LRB- a\DT kind\NN of\IN wild\JJ buffalo\NN -RRB-\-RRB- ,\, elephant\NN ,\, bear\NN ,\, Sambhar\NNP deer\NN ,\, Kakad\NNP -LRB-\-LRB- barking\VBG deer\NN -RRB-\-RRB- ,\, shy-cat\NN ,\, Hulak\NNP ,\, Gibbon\NNP ,\, Red\NNP Panda\NNP ,\, and\CC rare\JJ animals\NNS like\IN bear-cat\NN ,\, musk\FW deer\FW Goral\NNP and\CC Takin\NNP .\.
+htd9023	The\DT Namdapha\NNP National\NNP Park\NNP is\VBZ home\NN to\TO various\JJ kinds\NNS of\IN birds\NNS .\.
+htd9024	Among\IN the\DT pageant\NN birds\NNS found\VBN in\IN Namdapha\NNP National\NNP Park\NNP are\NNP Monal\NNP ,\, Kaleej\NNP pheasant\NN and\CC the\DT peacock\NN .\.
+htd9025	The\DT Dhanesh\NNP bird\NN is\VBZ also\RB found\VBN in\IN huge\JJ numbers\NNS in\IN Namdapha\NNP National\NNP Park\NNP .\.
+htd9026	Under\IN the\DT Tiger\NNP Project\NNP ,\, the\DT Namdapha\NNP National\NNP Park\NNP is\VBZ also\RB a\DT tiger\NN reserve\NN ,\, and\CC therefore\RB the\DT tigers\NNS enjoy\VBP special\JJ protection\NN here\RB .\.
+htd9027	The\DT best\JJS time\NN to\TO visit\VB Namdapha\NNP National\NNP Park\NNP is\VBZ between\IN November\NNP and\CC March\NNP .\.
+htd9028	Assam\NNP 's\POS Kaziranga\NNP National\NNP Park\NNP is\VBZ famous\JJ for\IN being\VBG the\DT home\NN of\IN the\DT endangered\JJ rhinoceros\NNS .\.
+htd9029	Though\NNP Kaziranga\NNP National\NNP Park\NNP was\VBD established\VBN as\IN a\DT forest\NN in\IN 1950\CD ,\, it\PRP was\VBD converted\VBN to\TO being\VBG a\DT National\NNP Park\NNP in\IN 1974\CD .\.
+htd9030	Kaziranga\NNP National\NNP Park\NNP ,\, spread\VBN over\IN 430\CD square\JJ kilometres\NNS ,\, is\VBZ spread\VBN over\IN Jorhat\NNP and\CC Naugaon\NNP districts\NNS .\.
+htd9031	To\TO the\DT south\NN of\IN the\DT Kaziranga\NNP National\NNP Park\NNP are\VBP Mikir\NNP hills\NNS ,\, and\CC in\IN the\DT north\NN it\PRP is\VBZ surrounded\VBN by\IN the\DT Brahmaputra\NNP river\NN .\.
+htd9032	The\DT other\JJ town\NN near\IN Kaziranga\NNP National\NNP Park\NNP is\VBZ Voke\NNP Ghat\NNP which\WDT is\VBZ 23\CD kilometres\NNS away\RB from\IN the\DT park\NN .\.
+htd9033	To\TO reach\VB Kaziranga\NNP National\NNP Park\NNP ,\, the\DT nearest\JJS airport\NN is\VBZ at\IN Jorhat\NNP ,\, which\WDT is\VBZ 96\CD kilometres\NNS away\RB .\.
+htd9034	To\TO reach\VB Kaziranga\NNP National\NNP Park\NNP ,\, the\DT nearest\JJS rail\NN head\NN is\VBZ Mariani\NNP ,\, which\WDT is\VBZ 115\CD kilometres\NNS away\RB .\.
+htd9035	Unfortunately\RB at\IN this\DT time\NN ,\, illegal\JJ poaching\VBG is\VBZ on\IN the\DT rise\NN in\IN Kaziranga\NNP National\NNP Park\NNP .\.
+htd9036	There\EX are\VBP densely\RB populated\VBN areas\NNS in\IN all\DT directions\NNS around\IN Kaziranga\NNP National\NNP Park\NNP .\.
+htd9037	Tea\NNP and\CC rice\NN cultivation\NN ,\, and\CC Jhoom\NNP cultivation\NN are\VBP happening\VBG till\IN the\DT periphery\NN of\IN the\DT park\NN ,\, owing\VBG to\TO which\WDT trespassing\NN is\VBZ happening\VBG which\WDT is\VBZ leading\VBG to\TO violations\NNS of\IN the\DT park\NN 's\POS natural\JJ habitat\NN and\CC context\NN .\.
+htd9038	Kaziranga\NNP National\NNP Park\NNP is\VBZ famous\JJ for\IN one-horned\JJ Indian\JJ rhinos\NNS and\CC wild\JJ buffaloes\NNS ,\, and\CC is\VBZ a\DT center\NN of\IN attraction\NN because\IN of\IN them\PRP .\.
+htd9039	Both\DT these\DT animal\NN species\NNS are\VBP endangered\VBN and\CC efforts\NNS are\VBP being\VBG made\VBN to\TO stall\VB the\DT decline\NN in\IN their\PRP$ numbers\NNS .\.
+htd9040	According\VBG to\TO the\DT 1991\CD census\NN ,\, there\EX were\VBD 1129\CD ,\, and\CC according\VBG to\TO the\DT 1993\CD census\NN ,\, there\EX were\VBD 1164\CD rhinos\NNS in\IN the\DT Kaziranga\NNP National\NNP Park\NNP ,\, which\WDT is\VBZ 70\CD per\IN cent\NN of\IN all\PDT the\DT rhinos\NNS in\IN India\NNP .\.
+htd9041	There\EX is\VBZ a\DT myth\NN associated\VBN with\IN the\DT horn\NN of\IN the\DT endangered\JJ rhino\NN ,\, according\VBG to\TO which\WDT an\DT aphrodisiac\JJ medicinal\JJ powder\NN can\MD be\VB extracted\VBN from\IN its\PRP$ horn\NN .\: and\CC it\PRP is\VBZ because\IN of\IN this\DT that\IN its\PRP$ horn\NN is\VBZ in\IN great\JJ demand\NN .\.
+htd9042	The\DT horn\NN of\IN the\DT endangered\JJ rhinoceros\NNS is\VBZ very\RB costly\JJ in\IN the\DT international\JJ market\NN .\.
+htd9043	Therefore\RB ,\, the\DT rhinos\NNS ,\, for\IN the\DT illegal\JJ trade\NN of\IN their\PRP$ horns\NNS ,\, are\VBP killed\VBN clandestinely\RB with\IN great\JJ cruelty\NN .\.
+htd9044	And\CC so\RB ,\, the\DT protection\NN of\IN the\DT endangered\JJ rhinoceros\NNS has\VBZ become\VBN a\DT challenge\NN .\.
+htd9045	There\EX is\VBZ a\DT motorable\JJ road\NN inside\IN Kaziranga\NNP National\NNP Park\NNP ,\, and\CC elephants\NNS are\VBP also\RB available\JJ for\IN sight-seeing\NN .\.
+htd9046	There\EX are\VBP rest-houses\NNS also\RB inside\IN Kaziranga\NNP National\NNP Park\NNP .\.
+htd9047	To\TO travel\VB to\TO Kaziranga\NNP National\NNP Park\NNP ,\, the\DT suitable\JJ time\NN is\VBZ between\IN November\NNP and\CC March\NNP .\.
+htd9048	Manas\NNP National\NNP Park\NNP ,\, located\VBN in\IN Kamrup\NNP and\CC Golpada\NNP districts\NNS ,\, has\VBZ an\DT area\NN of\IN 500\CD square\JJ kilometres\NNS .\.
+htd9049	Situated\VBN between\IN the\DT Brahmaputra\NNP and\CC the\DT Manas\NNP rivers\NNS in\IN the\DT south\NN and\CC north\NN respectively\RB ,\, Manas\NNP National\NNP Park\NNP is\VBZ very\RB quiet\JJ ,\, full\JJ of\IN natural\JJ beauty\NN ,\, and\CC is\VBZ enchanting\VBG .\.
+htd9050	The\DT land\NN of\IN Manas\NNP National\NNP Park\NNP slopes\VBZ down\RP from\IN North\NNP to\TO South\NNP .\.
+htd9051	Manas\NNP river\NN and\CC its\PRP$ tributaries\NNS ,\, Veki\NNP and\CC Hakuwa\NNP ,\, separate\JJ Manas\NNP National\NNP Park\NNP from\IN the\DT state\NN of\IN Bhutan\NNP .\.
+htd9052	To\TO reach\VB Manas\NNP National\NNP Park\NNP ,\, the\DT nearest\JJS airport\NN is\VBZ at\IN Guwahati\NNP ,\, which\WDT is\VBZ 180\CD kilometres\NNS away\RB .\.
+htd9053	The\DT rail\NN head\NN is\VBZ Vadpeta\NNP Road\NNP ,\, from\IN where\WRB there\EX is\VBZ a\DT motorable\JJ road\NN till\IN the\DT border\NN of\IN Manas\NNP National\NNP Park\NNP .\.
+htd9054	Manas\NNP National\NNP Park\NNP is\VBZ situated\VBN in\IN an\DT area\NN of\IN heavy\JJ rainfall\NN .\.
+htd9055	The\DT climate\NN of\IN Manas\NNP National\NNP Park\NNP is\VBZ warm\JJ and\CC humid\JJ ,\, and\CC the\DT forest\NN here\RB comprises\VBZ of\IN wet\JJ and\CC mixed\JJ grasslands\NNS ,\, deciduous\JJ and\CC semi-evergreen\JJ trees\NNS .\.
+htd9056	Amidst\VB these\DT forests\NNS of\IN Manas\NNP National\NNP Park\NNP ,\, there\EX are\VBP quagmires\NNS .\.
+htd9057	In\IN the\DT forests\NNS of\IN Manas\NNP National\NNP Park\NNP ,\, apart\RB from\IN Sal\NNP ,\, the\DT vegetation\NN includes\VBZ Khair\NNP ,\, Sheesham\NNP ,\, grass\NN and\CC various\JJ species\NNS of\IN semi-evergreen\NN trees\NNS .\.
+htd9058	In\IN the\DT forests\NNS of\IN Manas\NNP National\NNP Park\NNP ,\, at\IN various\JJ places\NNS are\VBP found\VBN trees\NNS that\WDT shed\VBP leaves\NNS ,\, Narkul\NNP of\IN the\DT quagmires\NNS and\CC other\JJ plants\NNS .\.
+htd9059	Amidst\IN the\DT dense\JJ and\CC rich\JJ vegetation\NN ,\, various\JJ kinds\NNS of\IN birds\NNS and\CC animals\NNS live\VBP here\RB .\.
+htd9060	The\DT wildlife\NN of\IN Manas\NNP National\NNP Park\NNP includes\VBZ elephant\NN ,\, tiger\NN ,\, leopard\NN ,\, snow\NN leopard\NN ,\, Gaur\NNP ,\, wild\JJ buffalo\NN ,\, hippopotamus\NN ,\, Sambhar\NNP deer\NN ,\, swamp\VB deer\NN ,\, Pada\NNP Kattas\NNP ,\, bear\NN ,\, squirrel\NN ,\, wild\JJ boar\NN ,\, golden\JJ langoor\NN ,\, capped\JJ monkey\NN ,\, Ghadiyal\NNP ,\, python\NN ,\, mole\NN ,\, otter\NN etc\NN .\.
+htd9061	Manas\NNP National\NNP Park\NNP is\VBZ the\DT dwelling\NN place\NN of\IN the\DT maximum\JJ number\NN of\IN elephants\NNS in\IN the\DT North\NNP East\NNP .\.
+htd9062	Two\CD rare\JJ animals\NNS like\IN drudhlomi\NN rabbit\NN and\CC pigmy\JJ boar\NN reside\VBP in\IN the\DT Manas\NNP National\NNP Park\NNP .\.
+htd9063	Rare\JJ animals\NNS like\IN the\DT category\NN of\IN black\JJ and\CC brown\JJ panther\NN and\CC golden\JJ monkey\NN also\RB reside\VBP in\IN the\DT Manas\NNP National\NNP Park\NNP .\.
+htd9064	Elephants\NNS for\IN its\PRP$ teeth\NNS ,\, tigers\NNS for\IN its\PRP$ bones\NNS ,\, teeth\NNS ,\, skin\NN etc\NN and\CC rhinoceros\NNS for\IN its\PRP$ horns\NNS are\VBP killed\VBN stealthily\RB in\IN Manas\NNP National\NNP Park\NNP .\.
+htd9065	For\IN the\DT safety\NN of\IN tigers\NNS ,\, Tiger\NNP Reserve\NNP Project\NNP has\VBZ been\VBN implemented\VBN in\IN the\DT Manas\NNP National\NNP Park\NNP .\.
+htd9066	Due\JJ to\TO Tiger\NNP Reserve\NNP Project\NNP along\IN with\IN the\DT safety\NN of\IN tigers\NNS the\DT conservation\NN of\IN other\JJ rare\JJ animals\NNS like\IN elephant\NN ,\, rhinoceros\NNS and\CC other\JJ rare\JJ animals\NNS also\RB get\VB enforced\VBN .\.
+htd9067	The\DT months\NNS of\IN January\NNP -\: February\NNP are\VBP the\DT best\JJS for\IN tour\NN in\IN Manas\NNP National\NNP Park\NNP .\.
+htd9068	There\EX are\VBP rest\NN houses\NNS in\IN '\'' Vasari\NNP '\POS and\CC '\'' Motagudi\NNP '\'' of\IN Manas\NNP National\NNP Park\NNP .\.
+htd9069	Camps\NNS have\VBP also\RB been\VBN formed\VBN here\RB to\TO view\VB the\DT scenes\NNS of\IN Manas\NNP National\NNP Park\NNP .\.
+htd9070	Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP is\VBZ spread\VBN in\RB in\IN the\DT Chittoor\NNP and\CC Kadapa\NNP districts\NNS of\IN Andhra\NNP Pradesh\NNP .\.
+htd9071	The\DT area\NN of\IN Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP is\VBZ 352\CD .\: 62\CD square\JJ kilometres\NNS .\.
+htd9072	Tirupati\NNP is\VBZ the\DT rail\NN head\NN to\TO reach\VB Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP .\.
+htd9073	There\EX is\VBZ also\RB an\DT airport\NN in\IN Tirupati\NNP which\WDT is\VBZ 50\CD kilometres\NNS away\RB from\IN Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP .\.
+htd9074	Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP falls\VBZ in\IN the\DT tropical\JJ region\NN .\.
+htd9075	The\DT forests\NNS of\IN Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP are\VBP dry\JJ and\CC deciduous\JJ .\.
+htd9076	Red\NNP Sanders\NNP of\IN Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP is\VBZ a\DT valuable\JJ tree\NN .\.
+htd9077	Wild\NNP animals\NNS found\VBN in\IN Shri\NNP Venkatetshwar\NNP National\NNP Park\NNP are\VBP tiger\NN ,\, panther\NN ,\, bear\NN ,\, wild\JJ boar\NN ,\, sambhar\NN ,\, chausing\NN ,\, wild\JJ dogs\NNS ,\, wolves\NNS ,\, jackal\NN ,\, fox\NN ,\, monkey\NN ,\, and\CC squirrel\NN .\.
+htd9078	Among\IN the\DT birds\NNS partridge\NN ,\, quails\NNS ,\, forest\NN hen\NN ,\, pigeon\NN etc\NN .\: are\VBP found\VBN in\IN Shri\NNP Venkateshwar\NNP National\NNP Park\NNP .\.
+htd9079	Months\NNS from\IN November\NNP to\TO February\NNP are\VBP appropriate\JJ for\IN tour\NN to\TO Shri\NNP Venkateshwar\NNP National\NNP Park\NNP .\.
+htd9080	Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1981\CD .\.
+htd9081	Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 87\CD .\: 50\CD square\JJ kilometres\NNS in\IN Chamoli\NNP district\NN .\.
+htd9082	The\DT lone\JJ Valley\NNP of\IN Flowers\NNPS in\IN the\DT angular\JJ shape\NN is\VBZ 10\CD kilometres\NNS long\RB and\CC 2\CD kilometres\NNS wide\JJ .\.
+htd9083	From\IN Joshimath\NNP Nagar\NNP located\VBD on\IN the\DT Hrishikesh\NNP -\: Badrinath\NNP main\JJ motorway\NN the\DT Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP is\VBZ 34\CD kilometres\NNS away\RB .\.
+htd9084	18\CD kilometres\NNS away\RB from\IN Joshimath\NNP is\VBZ the\DT Govind\NNP Ghat\NNP after\IN a\DT trekking\NN of\IN 16\CD kilometres\NNS from\IN where\WRB one\PRP can\MD reach\VB this\DT Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP .\.
+htd9085	Hrishikesh\NNP ,\, which\WDT is\VBZ the\DT rail-head\NN for\IN Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 300\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9086	The\DT nearest\JJS airport\NN from\IN the\DT Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP is\VBZ about\RB 310\CD kilometres\NNS away\RB in\IN Dehradoon\NNP -LRB-\-LRB- Jolly\JJ Grant\NNP -RRB-\-RRB- .\.
+htd9087	Mountaineers\NNPS Frank\NNP Smith\NNP and\CC Holdsworth\NNP had\VBD incidentally\RB discovered\VBN Valley\NNP of\IN Flowers\NNPS in\IN 1931\CD while\IN returning\VBG from\IN successful\JJ Kamet\NNP snow\NN journey\NN and\CC had\VBD shown\VBN this\DT worth\JJ visit\NN valley\NN ,\, which\WDT was\VBD hidden\VBN from\IN the\DT outer\JJ world\NN ,\, to\TO the\DT world\NN .\.
+htd9088	The\DT climate\NN of\IN Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP is\VBZ alpine\JJ .\.
+htd9089	The\DT height\NN of\IN Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP is\VBZ up\IN to\TO 3,350\CD metres\NNS from\IN the\DT sea\NN level\NN .\.
+htd9090	Pushpavati\NNP river\NN '\POS flows\NNS along\IN the\DT Valley\NNP of\IN Flowers\NNP Park\NNP and\CC the\DT '\'' Ratvan\NNP '\POS peak\NN of\IN the\DT Himalayas\NNPS stands\VBZ magnificently\RB in\IN its\PRP$ backyard\NN .\.
+htd9091	When\WRB the\DT snow\NN melts\VBZ in\IN June\NNP then\RB different\JJ types\NNS of\IN innumerous\JJ flowers\NNS bloom\VBP in\IN the\DT months\NNS of\IN July\NNP -\: August\NNP in\IN the\DT Valley\NNP of\IN Flowers\NNP ,\, the\DT view\NN of\IN which\WDT enchants\VBZ the\DT tourists\NNS .\.
+htd9092	Chief\NNP among\IN these\DT flowers\NNS of\IN the\DT Valley\NNP of\IN Flowers\NNPS are\VBP rhododendron\NN ,\, primroses\NNS and\CC potentillas\NNS .\.
+htd9093	Chief\JJ animals\NNS of\IN Valley\NNP of\IN Flowers\NNP National\NNP Park\NNP are\VBP brown\JJ bear\NN ,\, black\JJ beer\NN ,\, snow\NN panther\NN ,\, bharal\JJ ,\, musk\JJ deer\NN .\.
+htd9094	Nanda\NNP Devi\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 630\CD kilometres\NNS in\IN Chamoli\NNP district\NN .\.
+htd9095	There\EX was\VBD a\DT time\NN when\WRB innumerous\JJ peddlers\NNS ,\, mountaineers\NNS and\CC nature\NN lovers\NNS used\VBN to\TO come\VB to\TO Nanda\NNP Devi\NNP National\NNP Park\NNP but\CC damage\NN to\TO its\PRP$ environment\NN occurred\VBD fast\RB therefore\RB to\TO stop\VB this\DT adverse\JJ effect\NN it\PRP was\VBD made\VBN a\DT park\NN from\IN wild\JJ forest\NN in\IN 1982\CD .\.
+htd9096	Nanda\NNP Devi\NNP National\NNP Park\NNP is\VBZ 291\CD kilometres\NNS from\IN Hrishikesh\JJ railhead\NN .\.
+htd9097	Hrishikesh\NNP is\VBZ 250\CD kilometres\NNS from\IN Joshimath\NNP Nagar\NNP located\VBD on\IN the\DT Hrishikesh\NNP -\: Badrinath\NNP main\JJ motorway\NN .\.
+htd9098	Nanda\NNP Devi\NNP Park\NNP is\VBZ 41\CD kilometres\NNS away\RB from\IN Joshimath\NNP .\.
+htd9099	The\DT nearest\JJS airport\NN of\IN Nanda\NNP Devi\NNP National\NNP Park\NNP is\VBZ about\RB 310\CD kilometres\NNS away\RB in\IN Dehradoon\NNP -LRB-\-LRB- Jolly\JJ Grant\NNP -RRB-\-RRB- .\.
+htd9100	The\DT average\JJ height\NN of\IN Nanda\NNP Devi\NNP National\NNP Park\NNP from\IN the\DT sea\NN level\NN is\VBZ 4500\CD metres\NNS .\.
+htd9101	Nanda\NNP Devi\NNP National\NNP Park\NNP is\VBZ surrounded\VBN by\IN 70\CD high\JJ snow\NN valleys\NNS among\IN which\WDT the\DT peak\NN of\IN Nanda\NNP Devi\NNP 7,817\CD metres\NNS is\VBZ the\DT highest\JJS .\.
+htd9102	The\DT wild\JJ animals\NNS residing\VBG in\IN Nanda\NNP Devi\NNP National\NNP Park\NNP are\VBP snow\NN leopards\NNS ,\, wild\JJ boar\NN ,\, brown\JJ and\CC black\JJ Himalayan\JJ bear\NN ,\, bharal\JJ ,\, thar\JJ ,\, serao\JJ ,\, goral\JJ ,\, sambhar\JJ ,\, musk\JJ deer\NN .\.
+htd9103	From\IN May\NNP to\TO September\NNP is\VBZ the\DT convenient\JJ weather\NN for\IN tour\NN of\IN Nanda\NNP Devi\NNP National\NNP Park\NNP .\.
+htd9104	Considering\VBG the\DT present\JJ status\NN of\IN Nanda\NNP Devi\NNP National\NNP Park\NNP it\PRP has\VBZ been\VBN closed\VBN for\IN tourists\NNS and\CC mountaineers\NNS .\.
+htd9105	Govind\NNP Wildlife\NNP Sanctuary\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 472\CD square\JJ kilometres\NNS in\IN Uttarkashi\NNP district\NN .\.
+htd9106	Dehradoon\NNP is\VBZ the\DT nearest\JJS airport\NN and\CC rail\NN head\NN to\TO reach\VB up\RP to\TO this\DT Govind\NNP Wildlife\NNP Sanctuary\NNP .\.
+htd9107	The\DT distance\NN of\IN Govind\NNP Wildlife\NNP Sanctuary\NNP by\IN motorway\NN from\IN Dehradoon\NNP through\IN Mussoorie\NNP is\VBZ 180\CD kilometres\NNS and\CC 200\CD kilometres\NNS through\IN Vikas\NNP Nagar\NNP .\.
+htd9108	The\DT wildlife\NN of\IN Govind\NNP Wildlife\NNP Sanctuary\NNP are\VBP snow\NN leopard\NN ,\, brown\JJ and\CC black\JJ bear\NN ,\, musk\JJ deer\NN ,\, thar\NN ,\, bharal\NN ,\, serao\NN ,\, buffalo\NN .\.
+htd9109	The\DT months\NNS from\IN April\NNP to\TO mid-June\NNP and\CC September\NNP -\: October\NNP are\VBP appropriate\JJ for\IN the\DT tour\NN of\IN Govind\NNP Wildlife\NNP Sanctuary\NNP .\.
+htd9110	Rest\VB houses\NNS of\IN Forest\NNP Department\NNP for\IN the\DT stay\NN of\IN tourists\NNS in\IN Govind\NNP Wildlife\NNP Sanctuary\NNP are\VBP in\IN Netwar\NNP ,\, Taluka\NNP ,\, Osla\NNP ,\, Hari\NNP ki\NNP Doon\NNP ,\, Jakhol\NNP ,\, Dooni\NNP .\.
+htd9111	Gangotri\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 2,390\CD square\JJ kilometres\NNS in\IN Uttarkashi\NNP district\NN .\.
+htd9112	The\DT nearest\JJS colony\NN of\IN Gangotri\NNP National\NNP Park\NNP Harsil\NNP is\VBZ at\IN a\DT distance\NN of\IN 30\CD kilometres\NNS .\.
+htd9113	Uttarkashi\NNP Nagar\NNP ,\, which\WDT is\VBZ the\DT headquarters\NN of\IN t\NN he\PRP district\NN ,\, is\VBZ at\IN a\DT distance\NN of\IN 100\CD kilometres\NNS from\IN Gangotri\NNP National\NNP Park\NNP .\.
+htd9114	Wild\NNP animals\NNS found\VBN in\IN Gangotri\NNP National\NNP Park\NNP are\VBP brown\JJ bear\NN ,\, bharal\NN ,\, serao\NN .\.
+htd9115	Among\IN the\DT birds\NNS found\VBN in\IN Gangotri\NNP National\NNP Park\NNP are\VBP monal\JJ ,\, chir\NN ,\, pheasant\NN ,\, partridge\NN .\.
+htd9116	Months\NNS from\IN May\NNP to\TO October\NNP are\VBP convenient\JJ for\IN the\DT tour\NN of\IN Gangotri\NNP National\NNP Park\NNP .\.
+htd9117	Tourist\NNP houses\NNS of\IN Garhwal\NNP District\NNP Development\NNP Corporation\NNP are\VBP in\IN Uttarkashi\NNP ,\, Bhaironghati\NNP ,\, Lanka\NNP ,\, Gangotri\NNP and\CC Bhojwasa\NNP .\.
+htd9118	Corbett\NNP National\NNP Park\NNP was\VBD earlier\RB known\VBN with\IN the\DT name\NN of\IN '\'' Hailey\NNP National\NNP Park\NNP '\POS .\.
+htd9119	In\IN 1935\CD AD\NN the\DT contemporary\JJ governor\NN Sir\NNP Malcolm\NNP Hailey\NNP had\VBD established\VBN the\DT Corbett\NNP National\NNP Park\NNP .\.
+htd9120	After\IN the\DT independence\NN of\IN India\NNP it\PRP was\VBD named\VBN as\IN '\'' Ramganga\NNP National\NNP Park\NNP '\POS and\CC at\IN last\JJ it\PRP was\VBD renamed\VBN after\IN the\DT name\NN of\IN the\DT well\RB known\VBN nature\NN lover\NN Jim\NNP Corbett\NNP as\IN Corbett\NNP National\NNP Park\NNP .\.
+htd9121	Jim\NNP Corbett\NNP had\VBD spent\VBN a\DT long\JJ period\NN of\IN his\PRP$ life\NN in\IN this\DT very\JJ region\NN .\.
+htd9122	Since\IN 1973\CD AD\NNP Corbett\NNP National\NNP Park\NNP is\VBZ also\RB a\DT Tiger\NNP Reserve\NNP under\IN the\DT Tiger\NNP Project\NNP .\.
+htd9123	The\DT area\NN of\IN Corbett\NNP National\NNP Park\NNP is\VBZ 521\CD square\JJ kilometres\NNS .\.
+htd9124	Corbett\NNP National\NNP Park\NNP is\VBZ located\VBN in\IN the\DT Kalagarh\NNP and\CC Ramnagar\NNP forest\NN parts\NNS of\IN Garhwal\NNP and\CC Nainital\NNP districts\NNS .\.
+htd9125	The\DT nearest\JJS city\NN of\IN Corbett\NNP National\NNP Park\NNP Ramnagar\NNP is\VBZ at\IN a\DT distance\NN of\IN 3\CD kilometres\NNS .\.
+htd9126	Ramnagar\NNP is\VBZ also\RB the\DT rail\NN head\NN .\.
+htd9127	The\DT nearest\JJS airport\NN from\IN Corbett\NNP National\NNP Park\NNP is\VBZ 80\CD kilometres\NNS away\RB in\IN Phoolbagh\NNP -LRB-\-LRB- Nainitaal\NNP -RRB-\-RRB- .\.
+htd9128	From\IN Delhi\NNP ,\, Ramnagar\NNP is\VBZ 240\CD kilometres\NNS by\IN rail\NN and\CC 290\CD kilometres\NNS through\IN motorway\NN .\.
+htd9129	This\DT work\NN place\NN of\IN Jim\NNP Corbett\NNP ,\, rife\JJ with\IN folk\NN tales\NNS ,\, is\VBZ heaven\NN for\IN nature\NN lovers\NNS .\.
+htd9130	Corbett\NNP National\NNP Park\NNP is\VBZ also\RB popular\JJ by\IN the\DT name\NN of\IN the\DT Land\NN of\IN Tigers\NNP .\.
+htd9131	Corbett\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN the\DT magnificent\JJ mountain\NN ranges\NNS of\IN the\DT Himalayas\NNPS ,\, Patlidoon\NNP spread\VBD on\IN the\DT shores\NNS of\IN Ramganga\NNP river\NN and\CC fields\NNS of\IN plain\JJ grass\NN touching\VBG the\DT slopy\JJ ranges\NNS of\IN the\DT Shivalik\NNP ,\, which\WDT is\VBZ called\VBN '\'' Chaur\NNP '\POS .\.
+htd9132	Estimated\JJ number\NN of\IN tigers\NNS in\IN Corbett\NNP National\NNP Park\NNP is\VBZ 250\CD .\.
+htd9133	Tiger\NNP Reserve\NNP has\VBZ been\VBN established\VBN to\TO provide\VB protection\NN to\TO the\DT tigers\NNS .\.
+htd9134	Apart\RB from\IN tigers\NNS the\DT wild\JJ animals\NNS of\IN Jim\NNP Corbett\NNP are\VBP elephant\NN ,\, leopard\NN and\CC panther\NN ,\, wild\JJ boar\NN ,\, bear\NN ,\, spotted\JJ cats\NNS ,\, wild\JJ cats\NNS ,\, nilgai\NN ,\, sambhar\NN ,\, cheetal\NN ,\, buffalo\NN ,\, kakad\NN ,\, antelope\NNS ,\, porcupines\NNS ,\, monkey\NN ,\, apes\FW etc\FW .\.
+htd9135	Several\JJ varieties\NNS of\IN snakes\NNS are\VBP found\VBN in\IN Corbett\NNP National\NNP Park\NNP among\IN which\WDT python\NN and\CC king\NN cobra\NNS are\VBP particular\JJ .\.
+htd9136	More\JJR than\IN 600\CD species\NNS of\IN birds\NNS are\VBP found\VBN in\IN Corbett\NNP National\NNP Park\NNP .\.
+htd9137	In\IN winters\NNS migratory\JJ birds\NNS in\IN big\JJ numbers\NNS come\VB and\CC settle\VB down\RP in\IN Corbett\NNP National\NNP Park\NNP .\.
+htd9138	This\DT Dudhwa\NNP National\NNP Park\NNP located\VBN in\IN Kheri\NNP district\NN was\VBD established\VBN in\IN 1968\CD .\.
+htd9139	The\DT area\NN of\IN Dudhwa\NNP National\NNP Park\NNP is\VBZ 488\CD square\JJ kilometres\NNS .\.
+htd9140	Dudhwa\NNP city\NN is\VBZ located\VBN 4\CD kilometres\NNS away\RB from\IN this\DT Dudhwa\NNP National\NNP Park\NNP .\.
+htd9141	Dudhwa\NNP city\NN is\VBZ also\RB the\DT rail\NN head\NN for\IN the\DT Park\NNP .\.
+htd9142	The\DT nearest\JJS airport\NN of\IN Dudhwa\NNP National\NNP Park\NNP is\VBZ in\IN Lucknow\NNP -LRB-\-LRB- Amausi\NNP -RRB-\-RRB- which\WDT is\VBZ about\RB 250\CD kilometres\NNS away\RB .\.
+htd9143	By\IN train\NN the\DT Dudhwa\NNP National\NNP Park\NNP is\VBZ 338\CD kilometres\NNS from\IN Lucknow\NNP and\CC 422\CD kilometres\NNS from\IN Delhi\NNP .\.
+htd9144	Sal\JJ tree\NN covers\VBZ the\DT 80\CD percent\NN part\NN of\IN the\DT forest\NN of\IN Dudhwa\NNP National\NNP Park\NNP and\CC fields\NNS of\IN grass\NN ,\, lakes\NNS ,\, ponds\NNS and\CC rivers\NNS are\VBP in\IN the\DT 20\CD percent\NN wet\JJ land\NN .\.
+htd9145	The\DT forest\NN areas\NNS of\IN Dudhwa\NNP National\NNP Park\NNP are\VBP hard\JJ and\CC the\DT areas\NNS of\IN fields\NNS of\IN grass\NN and\CC swampy\JJ and\CC soft\JJ .\.
+htd9146	The\DT fields\NNS of\IN grass\NN of\IN Dudhwa\NNP National\NNP Park\NNP are\VBP plain\JJ and\CC swampy\JJ .\.
+htd9147	Dudhwa\NNP National\NNP Park\NNP is\VBZ the\DT protection\NN ground\NN of\IN antelopes\NNS that\WDT run\VBP on\IN soft\JJ land\NN .\.
+htd9148	These\DT extinct\JJ antelopes\NNS have\VBP been\VBN given\VBN special\JJ protection\NN in\IN Dudhwa\NNP National\NNP Park\NNP .\.
+htd9149	A\DT century\NN ago\IN Indian\JJ rhinoceros\NNS had\VBD become\VBN extinct\JJ from\IN the\DT Dudhwa\NNP National\NNP Park\NNP .\.
+htd9150	Under\IN a\DT scheme\NN rhinoceros\NNS were\VBD brought\VBN from\IN Assam\NNP and\CC Nepal\NNP in\IN 1984\CD -\: 85\CD and\CC resettled\VBD in\IN Dudhwa\NNP National\NNP Park\NNP .\.
+htd9151	Now\RB they\PRP are\VBP growing\VBG in\IN the\DT Dudhwa\NNP National\NNP Park\NNP and\CC along\IN with\IN tigers\NNS ,\, rhinoceroses\NNS are\VBP center\NN of\IN attraction\NN in\IN this\DT park\NN .\.
+htd9152	Other\JJ wild\JJ animals\NNS found\VBN in\IN Dudhwa\NNP National\NNP Park\NNP are\VBP leopard\JJ ,\, wild\JJ boar\NN ,\, sambhar\NN ,\, cheetal\NN ,\, buffalo\NN ,\, kakad\NN ,\, porcupine\NN ,\, python\NN ,\, fox\NN ,\, jackal\NN .\.
+htd9153	400\CD types\NNS of\IN birds\NNS are\VBP found\VBN in\IN Dudhwa\NNP National\NNP Park\NNP .\.
+htd9154	Peacock\NNP ,\, wild\JJ cock\NN ,\, teetar\FW etc\FW .\: are\VBP there\RB in\IN Dudhwa\NNP National\NNP Park\NNP .\.
+htd9155	Rajaji\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 820\CD square\JJ kilometres\NNS in\IN the\DT Shivalik\NNP hills\NNS of\IN Hardwar\NNP and\CC Paudi\NNP -\: Garhwal\JJ districts\NNS .\.
+htd9156	Rajaji\NNP National\NNP Park\NNP has\VBZ been\VBN organized\VBN by\IN merging\VBG Rajaji\NNP ,\, Motichur\NNP and\CC Cheela\NNP forest\NN reserves\NNS built\VBN prior\RB to\TO it\PRP .\.
+htd9157	The\DT nearest\JJS city\NN of\IN Rajaji\NNP National\NNP Park\NNP Hardwar\NNP is\VBZ 6\CD kilometres\NNS away\RB ,\, which\WDT is\VBZ also\RB the\DT rail\NN head\NN to\TO reach\VB the\DT park\NN .\.
+htd9158	At\IN least\JJS 20\CD mammal\JJ wild\JJ animals\NNS and\CC more\JJR than\IN 300\CD other\JJ animal\NN species\NNS are\VBP found\VBN in\IN Rajaji\NNP National\NNP Park\NNP .\.
+htd9159	Most\JJS -LRB-\-LRB- 300\CD to\TO 400\CD -RRB-\-RRB- of\IN elephants\NNS of\IN North\NNP India\NNP reside\VBP in\IN Rajaji\NNP National\NNP Park\NNP .\.
+htd9160	The\DT ecosystem\NN of\IN Rajaji\NNP National\NNP Park\NNP is\VBZ getting\VBG damaged\VBN with\IN the\DT human\JJ population\NN inside\NN and\CC contiguous\JJ with\IN the\DT border\NN .\.
+htd9161	Besides\IN the\DT residence\NN of\IN Gujars\NNP ,\, Tongias\NNP and\CC Gothias\NNP in\IN Rajaji\NNP National\NNP Park\NNP there\EX are\VBP also\RB army\NN camps\NNS here\RB .\.
+htd9162	Cheela\NNP Power\NNP Station\NNP is\VBZ also\RB built\VBN inside\IN the\DT Rajaji\NNP Park\NNP and\CC the\DT displaced\VBN people\NNS of\IN the\DT Tehri\NNP Dam\NNP have\VBP also\RB been\VBN resettled\VBN here\RB .\.
+htd9163	Population\NNP like\IN this\DT and\CC their\PRP$ activities\NNS are\VBP surely\RB affecting\VBG the\DT life\NN and\CC behavior\NN of\IN the\DT animals\NNS here\RB adversely\RB .\.
+htd9164	North\NNP Simlipal\NNP National\NNP Park\NNP of\IN Orissa\NNP state\NN has\VBZ been\VBN established\VBN in\IN an\DT area\NN of\IN 845\CD .\: 70\CD square\JJ kilometres\NNS in\IN the\DT 1980\CD in\IN Mayurbhanj\NNP district\NN .\.
+htd9165	The\DT nearest\JJS city\NN of\IN North\NNP Simlipal\NNP National\NNP Park\NNP Baripada\NNP is\VBZ at\IN a\DT distance\NN of\IN 17\CD kilometres\NNS .\.
+htd9166	Baripada\NNP is\VBZ also\RB the\DT rail\NN head\NN to\TO reach\VB Simlipal\NNP Park\NNP .\.
+htd9167	Kolkata\JJ airport\NN is\VBZ 240\CD kilometres\NNS away\RB from\IN Baripada\NNP .\.
+htd9168	Simlipal\NNP has\VBZ a\DT tropical\JJ climate\NN .\.
+htd9169	In\IN Simlipal\NNP National\NNP Park\NNP tropical\JJ wet\JJ peninsular\NN sal\NN forest\NN ,\, wet\JJ mixed\JJ ,\, deciduous\JJ forest\NN without\IN sal\NN and\CC dry\JJ mixed\JJ -LRB-\-LRB- without\IN sal\NN -RRB-\-RRB- deciduous\JJ forest\NN are\VBP found\VBN .\.
+htd9170	Simlipal\NNP National\NNP Park\NNP is\VBZ filled\VBN with\IN vast\JJ mountains\NNS and\CC sea\NN valleys\NNS .\.
+htd9171	At\IN several\JJ places\NNS in\IN Simlipal\NNP National\NNP Park\NNP there\EX are\VBP sources\NNS of\IN water\NN ,\, streams\NNS and\CC rivers\NNS .\.
+htd9172	Due\JJ to\TO plenty\NN of\IN water\NN the\DT forest\NN wealth\NN of\IN Simlipal\NNP National\NNP Park\NNP remains\VBZ green\JJ .\.
+htd9173	There\EX is\VBZ a\DT great\JJ store\NN below\IN the\DT ground\NN due\JJ to\TO good\JJ forests\NNS in\IN Simlipal\NNP National\NNP Park\NNP .\.
+htd9174	Simlipal\NNP National\NNP Park\NNP is\VBZ famous\JJ for\IN elephants\NNS and\CC singing\VBG hilly\JJ mynah\NN .\.
+htd9175	Among\IN other\JJ wild\JJ animals\NNS of\IN Simlipal\NNP National\NNP Park\NNP are\VBP tiger\NN ,\, leopard\NN ,\, sal\NN ,\, bear\NN ,\, wolf\NN ,\, wild\JJ dog\NN ,\, gaur\NN ,\, sambhar\NN ,\, cheetal\NN ,\, buffalo\NN ,\, chausinga\NN ,\, wild\JJ boar\NN ,\, flying\VBG squirrel\NN ,\, crocodiles\NNS ,\, python\NN ,\, monkey\NN and\CC short\JJ tailed\VBN apes\NNS .\.
+htd9176	Among\IN the\DT carnivorous\JJ animals\NNS of\IN Simlipal\NNP National\NNP Park\NNP are\VBP hyena\NN ,\, fox\NN and\CC vultures\NNS .\.
+htd9177	Among\IN the\DT various\JJ types\NNS of\IN birds\NNS found\VBN in\IN Simlipal\NNP National\NNP Park\NNP are\VBP dhanesh\JJ ,\, peacock\NN and\CC wild\JJ cock\NN .\.
+htd9178	The\DT months\NNS from\IN October\NNP to\TO June\NNP are\VBP excellent\JJ for\IN the\DT tour\NN of\IN Simlipal\NNP National\NNP Park\NNP .\.
+htd9179	There\EX are\VBP four\CD shelter\NN houses\NNS in\IN Simlipal\NNP National\NNP Park\NNP .\.
+htd9180	Bhitarkanika\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 367\CD square\JJ kilometres\NNS in\IN Cuttack\NNP district\NN .\.
+htd9181	The\DT nearest\JJS city\NN of\IN Bhitarkanika\NNP National\NNP Park\NNP Chandvalli\NNP is\VBZ 35\CD kilometres\NNS away\RB .\.
+htd9182	The\DT rail\NN head\NN for\IN Bhitarkanika\NNP National\NNP Park\NNP is\VBZ '\'' Bhadrak\NNP '\POS which\WDT is\VBZ 87\CD kilometres\NNS away\RB and\CC the\DT airport\NN is\VBZ in\IN Bhuvaneshwar\NNP which\WDT is\VBZ 190\CD kilometres\NNS away\RB .\.
+htd9183	The\DT climate\NN of\IN Bhitarkanika\NNP National\NNP Park\NNP is\VBZ peninsular\JJ .\.
+htd9184	The\DT vegetation\NN of\IN Bhitarkanika\NNP National\NNP Park\NNP is\VBZ coastal\JJ which\WDT keeps\VBZ on\IN being\VBG washed\VBN with\IN the\DT oceanic\JJ waves\NNS .\.
+htd9185	There\EX are\VBP mangrove\NN and\CC forests\NNS of\IN trees\NNS of\IN the\DT mixed\JJ species\NNS growing\VBG in\IN the\DT saline\NN water\NN .\.
+htd9186	The\DT biggest\JJS mangrove\JJ forest\NN of\IN the\DT country\NN is\VBZ in\IN Bhitarkanika\NNP National\NNP Park\NNP in\IN which\WDT 62\CD species\NNS of\IN mangroves\NNS are\VBP found\VBN .\.
+htd9187	These\DT trees\NNS of\IN Bhitarkanika\NNP National\NNP Park\NNP save\VB the\DT coastal\JJ land\NN from\IN the\DT impact\NN of\IN oceanic\JJ waves\NNS and\CC stop\VB the\DT oceanic\JJ storms\NNS .\.
+htd9188	Four\CD species\NNS of\IN turtles\NNS found\VBN in\IN Bhitarkanika\NNP National\NNP Park\NNP are\VBP Olive\NNP Ridley\NNP ,\, green\JJ sea\NN turtle\NN ,\, hoxbill\NN and\CC leather\NN bank\NN .\.
+htd9189	Reptiles\NNPS in\IN Bhitarkanika\NNP National\NNP Park\NNP are\VBP python\NN ,\, cobra\NN ,\, salvator\NN iguana\NN .\: Fish\NN eating\NN cat\NN and\CC Gangetic\JJ dolphins\NNS are\VBP among\IN the\DT danger\NN facing\VBG species\NNS .\.
+htd9190	The\DT months\NNS from\IN November\NNP to\TO February\NNP of\IN winter\NN season\NN are\VBP appropriate\JJ for\IN tour\NN in\IN Bhitarkanika\NNP National\NNP Park\NNP .\.
+htd9191	Shelter\NN houses\NNS are\VBP also\RB available\JJ in\IN Bhitarkanika\NNP National\NNP Park\NNP .\.
+htd9192	Bandipur\NNP National\NNP Park\NNP was\VBD established\VBN in\IN Mysore\NNP district\NN in\IN 1974\CD .\.
+htd9193	The\DT area\NN of\IN Bandipur\NNP National\NNP Park\NNP is\VBZ 874\CD square\JJ kilometres\NNS .\.
+htd9194	The\DT nearest\JJS city\NN of\IN Bandipur\NNP National\NNP Park\NNP Gundulpet\NNP is\VBZ at\IN a\DT distance\NN of\IN 20\CD kilometres\NNS .\.
+htd9195	The\DT nearest\JJS rail\NN head\NN of\IN Bandipur\NNP National\NNP Park\NNP Nanjangud\NNP is\VBZ at\IN a\DT distance\NN of\IN 55\CD kilometres\NNS .\.
+htd9196	The\DT airport\NN to\TO reach\VB Bandipur\NNP National\NNP Park\NNP in\IN Mysore\NNP is\VBZ at\IN a\DT distance\NN of\IN 80\CD kilometres\NNS .\.
+htd9197	Bannerghatta\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1974\CD .\.
+htd9198	Bannerghatta\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 104\CD square\JJ kilometres\NNS in\IN Bangalore\NNP district\NN .\.
+htd9199	The\DT nearest\JJS settled\JJ city\NN of\IN Bannerghatta\NNP National\NNP Park\NNP is\VBZ '\'' Arkel\NNP '\POS 19\CD kilometres\NNS away\RB .\.
+htd9200	Bangalore\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN only\RB 25\CD kilometres\NNS from\IN the\DT Bannerghatta\NNP National\NNP Park\NNP ,\, is\VBZ the\DT airport\NN and\CC rail\NN head\NN to\TO reach\VB the\DT park\NN .\.
+htd9201	The\DT area\NN of\IN Nagerhole\NNP National\NNP Park\NNP located\VBN in\IN Kodagu\NNP and\CC Mysore\NNP districts\NNS is\VBZ 644\CD square\JJ kilometres\NNS .\.
+htd9202	The\DT nearest\JJS town\NN of\IN Nagerhole\NNP National\NNP Park\NNP Kutta\NNP is\VBZ 7\CD kilometres\NNS away\RB .\.
+htd9203	The\DT rail\NN of\IN Nagerhole\NNP National\NNP Park\NNP Mysore\NNP city\NN is\VBZ at\IN a\DT distance\NN of\IN 90\CD kilometres\NNS and\CC airport\NN at\IN a\DT distance\NN 220\CD kilometres\NNS in\IN Bangalore\NNP .\.
+htd9204	At\IN a\DT time\NN one\CD part\NN of\IN Nagerhole\NNP National\NNP Park\NNP was\VBD protected\VBN for\IN the\DT royals\NNS of\IN Mysore\NNP .\.
+htd9205	From\IN 1890\CD to\TO 1971\CD '\'' Kheda\NNP '\POS campaign\NN used\VBN to\TO be\VB done\VBN to\TO catch\VB wild\JJ elephants\NNS in\IN Nagerhole\NNP National\NNP Park\NNP .\.
+htd9206	1536\CD elephants\NNS were\VBD caught\VBN in\IN the\DT Khedas\NNP that\WDT were\VBD done\VBN during\IN this\DT period\NN .\.
+htd9207	Kudremukh\NNP National\NNP Park\NNP is\VBZ located\VBN in\IN South\NNP Kanada\NNP and\CC Chikmagalur\NNP districts\NNS in\IN an\DT area\NN of\IN 600\CD square\JJ kilometres\NNS .\.
+htd9208	Chikmagalur\NNP city\NN is\VBZ the\DT nearest\JJS of\IN Kudremukh\NNP National\NNP Park\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 40\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9209	The\DT nearby\JJ rail\NN head\NN and\CC airport\NN is\VBZ in\IN Mangalore\NNP city\NN which\WDT is\VBZ at\IN a\DT distance\NN of\IN 180\CD kilometres\NNS from\IN Kudremukh\NNP National\NNP Park\NNP .\.
+htd9210	The\DT climate\NN of\IN Kudremukh\NNP National\NNP Park\NNP is\VBZ tropical\JJ .\.
+htd9211	The\DT forests\NNS of\IN Kudremukh\NNP National\NNP Park\NNP are\VBP semi-evergreen\JJ and\CC wet\JJ deciduous\NN .\.
+htd9212	The\DT land\NN of\IN Kudremukh\NNP National\NNP Park\NNP are\VBP hilly\JJ and\CC slopy\JJ .\.
+htd9213	Anshi\NNP National\NNP Park\NNP is\VBZ spanning\VBG in\IN an\DT area\NN of\IN 250\CD square\JJ kilometres\NNS in\IN North\NNP Kanada\NNP district\NN .\.
+htd9214	Dandeli\NNP city\NN ,\, at\IN a\DT distance\NN of\IN 60\CD kilometres\NNS from\IN Anshi\NNP National\NNP Park\NNP ,\, falls\VBZ the\DT nearest\JJS .\.
+htd9215	Dandeli\NNP is\VBZ also\RB the\DT rail\NN head\NN of\IN Anshi\NNP National\NNP Park\NNP .\.
+htd9216	The\DT nearest\JJS airport\NN is\VBZ in\IN Belgaum\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 150\CD kilometres\NNS from\IN Anshi\NNP National\NNP Park\NNP .\.
+htd9217	Eravikulam\NNP National\NNP Park\NNP had\VBD been\VBN established\VBN in\IN 1978\CD in\IN Idukki\NNP district\NN .\.
+htd9218	The\DT area\NN of\IN Eravikulam\NNP National\NNP Park\NNP is\VBZ 97\CD square\JJ kilometres\NNS .\.
+htd9219	Kochin\NNP city\NN is\VBZ 140\CD kilometres\NNS away\RB from\IN Eravikulam\NNP National\NNP Park\NNP which\WDT is\VBZ the\DT rail\NN head\NN and\CC airport\NN to\TO reach\VB here\RB .\.
+htd9220	Dominant\JJ jungles\NNS with\IN dry\JJ tropical\JJ ,\, wide\JJ leafed\NN and\CC grass\NN are\VBP the\DT forests\NNS of\IN Eravikulam\NNP National\NNP Park\NNP .\.
+htd9221	Sagwan\JJ trees\NNS are\VBP found\VBN in\IN plenty\NN in\IN Eravikulam\NNP National\NNP Park\NNP .\.
+htd9222	Major\JJ wild\JJ animals\NNS found\VBN in\IN Eravikulam\NNP National\NNP Park\NNP are\VBP elephant\NN ,\, malwari\FW kattas\FW ,\, wild\JJ boar\NN ,\, nilgiri\JJ thar\NN ,\, gaur\NN ,\, nilgai\NN ,\, sambhar\NN ,\, kakad\NN ,\, wild\JJ dog\NN ,\, malwari\FW squirrel\NN ,\, shy\JJ cat\NN ,\, python\NN .\.
+htd9223	Common\JJ birds\NNS of\IN Eravikulam\NNP National\NNP Park\NNP are\VBP dhanesh\JJ ,\, peacock\NN ,\, porcupine\NN ,\, pigeon\NN ,\, brown\JJ wild\JJ hens\NNS .\.
+htd9224	Silent\JJ Valley\NNP National\NNP Park\NNP was\VBD established\VBN in\IN an\DT area\NN of\IN 89\CD .\: 52\CD square\JJ kilometres\NNS in\IN Palghat\NNP district\NN in\IN 1984\CD .\.
+htd9225	The\DT nearest\JJS city\NN of\IN Silent\NNP Valley\NNP National\NNP Park\NNP is\VBZ Mannarghat\NNP at\IN a\DT distance\NN of\IN 57\CD kilometres\NNS .\.
+htd9226	The\DT nearest\JJS rail\NN head\NN to\TO reach\VB Silent\NNP Valley\NNP National\NNP Park\NNP through\IN rail\NN is\VBZ Palghat\NNP .\.
+htd9227	The\DT nearby\JJ airport\NN to\TO reach\VB Silent\NNP Valley\NNP National\NNP Park\NNP is\VBZ Coimbatore\NNP which\WDT falls\VBZ at\IN a\DT distance\NN of\IN 155\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9228	The\DT climate\NN of\IN Silent\NNP Valley\NNP Park\NNP is\VBZ tropical\JJ -LRB-\-LRB- monsoonal\JJ -RRB-\-RRB- .\.
+htd9229	The\DT forests\NNS of\IN Silent\NNP Valley\NNP National\NNP Park\NNP are\VBP wet\JJ evergreen\NN ,\, semi-evergreen\NN and\CC wet\JJ deciduous\NN .\.
+htd9230	Periyar\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1950\CD in\IN Idukki\NNP district\NN .\.
+htd9231	The\DT area\NN of\IN Periyar\NNP National\NNP Park\NNP is\VBZ 350\CD square\JJ kilometres\NNS .\.
+htd9232	Periyar\JJ river\NN flows\VBZ through\IN this\DT park\NN therefore\RB the\DT naming\NN of\IN the\DT park\NN was\VBD done\VBN after\IN the\DT name\NN of\IN this\DT river\NN .\.
+htd9233	The\DT nearest\JJS city\NN of\IN Periyar\NNP National\NNP Park\NNP 4\CD kilometres\NNS away\RB is\VBZ Kumily\NNP .\.
+htd9234	The\DT rail\NN head\NN of\IN Periyar\NNP National\NNP Park\NNP 114\CD kilometres\NNS away\RB is\VBZ Kottayam\NNP and\CC the\DT airport\NN is\VBZ 200\CD kilometres\NNS away\RB in\IN Cochin\NNP .\.
+htd9235	There\EX is\VBZ a\DT large\JJ lake\NN inside\IN Periyar\NNP Park\NNP ,\, which\WDT was\VBD once\RB used\VBN with\IN the\DT purpose\NN of\IN irrigation\NN and\CC now\RB this\DT is\VBZ a\DT major\JJ part\NN of\IN the\DT park\NN .\.
+htd9236	Gir\NNP National\NNP Park\NNP was\VBD established\VBN in\IN the\DT Saurashtra\NNP region\NN of\IN Gujarat\NNP in\IN 1975\CD .\.
+htd9237	Gir\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 258\CD .\: 71\CD square\JJ kilometres\NNS in\IN Junagarh\NNP district\NN .\.
+htd9238	The\DT nearest\JJS town\NN of\IN Gir\NNP National\NNP Park\NNP is\VBZ Berawal\NNP which\WDT is\VBZ 42\CD kilometres\NNS away\RB from\IN the\DT park\NN .\.
+htd9239	The\DT rail\NN head\NN to\TO reach\VB Gir\NNP National\NNP Park\NNP Sasan\NNP Village\NNP is\VBZ very\RB near\JJ to\TO the\DT park\NN .\.
+htd9240	The\DT airport\NN of\IN Gir\NNP National\NNP Park\NNP is\VBZ 80\CD kilometres\NNS away\RB in\IN Keshod\NNP .\.
+htd9241	Bansda\NNP National\NNP Park\NNP was\VBD established\VBN in\IN Wulsar\NNP district\NN in\IN 1976\CD .\.
+htd9242	The\DT area\NN of\IN Bansda\NNP National\NNP Park\NNP is\VBZ 24\CD square\JJ kilometres\NNS .\.
+htd9243	The\DT nearest\JJS city\NN of\IN Bansda\NNP National\NNP Park\NNP is\VBZ Dadhi\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN only\RB 3\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9244	Dadhi\NNP town\NN is\VBZ also\RB the\DT rail\NN head\NN for\IN Bansda\NNP National\NNP Park\NNP .\.
+htd9245	The\DT nearest\JJS airport\NN to\TO reach\VB Bansda\NNP National\NNP Park\NNP through\IN airways\NNS is\VBZ in\IN Badodara\NNP at\IN a\DT distance\NN of\IN 249\CD kilometres\NNS .\.
+htd9246	Bansda\NNP National\NNP Park\NNP falls\VBZ in\IN the\DT warm\JJ tropical\JJ climatic\JJ region\NN .\.
+htd9247	The\DT forests\NNS of\IN Bansda\NNP National\NNP Park\NNP are\VBP wet\JJ deciduous\NNS .\.
+htd9248	The\DT trees\NNS of\IN sagwan\JJ and\CC thorny\JJ plants\NNS are\VBP found\VBN in\IN Bansda\NNP National\NNP Park\NNP .\.
+htd9249	Marine\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 163\CD square\JJ kilometres\NNS in\IN Gulf\NNP of\IN Kutch\NNP in\IN Jamnagar\NNP district\NN .\.
+htd9250	Marine\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1982\CD .\.
+htd9251	The\DT nearest\JJS city\NN of\IN Marine\NNP National\NNP Park\NNP is\VBZ at\IN a\DT distance\NN of\IN only\RB 7\CD kilometres\NNS from\IN Jamnagar\NNP .\.
+htd9252	Bhagwan\NNP Mahavir\NNP National\NNP Park\NNP -LRB-\-LRB- Goa\NNP -RRB-\-RRB- was\VBD established\VBN in\IN 1978\CD AD\NN .\.
+htd9253	Bhagwan\NNP Mahavir\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 107\CD square\JJ kms\NNS .\.
+htd9254	The\DT nearest\JJS city\NN of\IN Bhagwan\NNP Mahavir\NNP National\NNP Park\NNP Ponda\NNP is\VBZ 25\CD kilometres\NNS away\RB .\.
+htd9255	The\DT rail\NN head\NN of\IN Bhagwan\NNP Mahavir\NNP National\NNP Park\NNP is\VBZ at\IN a\DT distance\NN of\IN 5\CD kilometres\NNS .\.
+htd9256	Dachigam\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1981\CD AD\NNP in\IN the\DT Srinagar\NNP district\NN of\IN Jammu\NNP and\CC Kashmir\NNP .\.
+htd9257	The\DT area\NN of\IN Dachigam\NNP National\NNP Park\NNP is\VBZ 141\CD square\JJ kilometres\NNS .\.
+htd9258	The\DT nearest\JJS city\NN of\IN Dachigam\NNP National\NNP Park\NNP is\VBZ Srinagar\NNP 32\CD kilometres\NNS away\RB from\IN here\RB .\.
+htd9259	Srinagar\NNP is\VBZ also\RB the\DT airport\NN to\TO reach\VB this\DT Dachigam\NNP Park\NNP .\.
+htd9260	The\DT rail\NN head\NN to\TO reach\VB Dachigam\NNP Park\NNP is\VBZ Jammu\NNP city\NN 315\CD kilometres\NNS away\RB .\.
+htd9261	Dachigam\NNP Park\NNP can\MD be\VB reached\VBN by\IN road\NN in\IN Jammu\NNP .\.
+htd9262	Dachigam\NNP National\NNP Park\NNP is\VBZ in\IN the\DT high\JJ levelled\JJ subarea\NN of\IN the\DT Western\NNP Himalayas\NNPS .\.
+htd9263	The\DT climate\NN of\IN Dachigam\NNP National\NNP Park\NNP is\VBZ lukewarm\JJ .\.
+htd9264	Average\JJ height\NN of\IN Dachigam\NNP National\NNP Park\NNP from\IN the\DT sea\NN level\NN is\VBZ 2990\CD metre\NN .\.
+htd9265	In\IN Dachigam\NNP Park\NNP Himalayan\NNP lukewarm\JJ ,\, wet\JJ deciduous\JJ and\CC bushy\JJ trees\NNS are\VBP found\VBN .\.
+htd9266	Among\IN the\DT trees\NNS of\IN Dachigam\NNP National\NNP Park\NNP cedar\NN ,\, pine\VB and\CC Banjh\NNP are\VBP include\VBP .\.
+htd9267	Established\VBN in\IN the\DT Kishtawar\NNP district\NN the\DT Kishtawar\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 310\CD square\JJ kilometres\NNS .\.
+htd9268	60\CD kilometres\NNS away\RB from\IN here\RB Kishtawar\NNP Nagar\NNP is\VBZ the\DT city\NN falling\VBG nearest\IN to\TO the\DT Park\NNP .\.
+htd9269	The\DT nearest\JJS rail\NN head\NN and\CC airport\NN for\IN Kishtawar\NNP National\NNP Park\NNP is\VBZ in\IN Jammu\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 245\CD kilometres\NNS from\IN the\DT Park\NNP .\.
+htd9270	Kishtawar\NNP Park\NNP is\VBZ in\IN the\DT western\JJ Himalayas\NNP and\CC its\PRP$ height\NN from\IN the\DT sea\NN level\NN is\VBZ 4000\CD metres\NNS .\.
+htd9271	The\DT climate\NN of\IN Kishtawar\NNP National\NNP Park\NNP is\VBZ lukewarm\JJ and\CC the\DT forest\NN here\RB are\VBP dry\JJ lukewarm\JJ and\CC with\IN wide\JJ leaves\NNS and\CC coniferous\JJ trees\NNS .\.
+htd9272	Trees\NNP of\IN cedar\NN ,\, pine\VB etc\NN .\: are\VBP found\VBN in\IN Kishtawar\NNP National\NNP Park\NNP .\.
+htd9273	In\IN Leh\NNP district\NN the\DT area\NN of\IN the\DT Hemis\NNP High\NNP Altitude\NNP National\NNP Park\NNP established\VBD in\IN 1981\CD is\VBZ 3350\CD square\JJ kilometres\NNS .\.
+htd9274	The\DT nearest\JJS city\NN of\IN Hemis\NNP High\NNP Altitude\NNP Leh\NNP is\VBZ at\IN a\DT distance\NN of\IN 30\CD kilometres\NNS from\IN here\RB .\.
+htd9275	There\EX is\VBZ also\RB an\DT airport\NN in\IN Leh\NNP .\.
+htd9276	The\DT nearest\JJS rail\NN head\NN to\TO reach\VB Hemis\NNP High\NNP Altitude\NNP Park\NNP is\VBZ in\IN Jammu\NNP at\IN a\DT distance\NN of\IN 695\CD kilometres\NNS .\.
+htd9277	The\DT height\NN of\IN the\DT Hemis\NNP High\NNP Park\NNP from\IN the\DT sea\NN level\NN is\VBZ from\IN 3140\CD to\TO 5840\CD metres\NNS and\CC general\JJ height\NN is\VBZ 3500\CD metres\NNS .\.
+htd9278	The\DT temperature\NN of\IN Hemis\NNP High\NNP Altitude\NNP is\VBZ from\IN -40\JJ degree\NN Celsius\NNP to\TO 20\CD degree\NN Celsius\NNP .\.
+htd9279	In\IN such\JJ lukewarm\JJ climate\NN alpine\NN forest\NN is\VBZ found\VBN in\IN the\DT Hemis\NNP High\NNP Park\NNP .\.
+htd9280	Only\RB some\DT special\JJ type\NN of\IN fauna\NNS able\JJ to\TO bear\VB the\DT cold\NN can\MD reside\VB in\IN Hemis\NNP High\NNP National\NNP Park\NNP .\.
+htd9281	City\NNP Forest\NNP National\NNP Park\NNP is\VBZ spread\VBN near\IN Srinagar\NNP city\NN in\IN an\DT area\NN of\IN 9\CD square\JJ kilometres\NNS .\.
+htd9282	Airport\NNP for\IN City\NNP Forest\NNP National\NNP Park\NNP is\VBZ in\IN Srinagar\NNP at\IN a\DT distance\NN of\IN 12\CD kilometres\NNS from\IN the\DT Park\NNP .\.
+htd9283	The\DT rail\NN head\NN of\IN City\NNP Forest\NNP Park\NNP Jammu\NNP is\VBZ at\IN a\DT distance\NN of\IN 200\CD kilometres\NNS .\.
+htd9284	The\DT climate\NN of\IN City\NNP Forest\NNP National\NNP Park\NNP is\VBZ Himalayan\JJ lukewarm\JJ .\.
+htd9285	Among\IN the\DT wild\JJ animals\NNS found\VBN in\IN City\NNP Forest\NNP National\NNP Park\NNP are\VBP Hangul\JJ ,\, Serva\JJ etc\NN .\.
+htd9286	Chakor\NNP ,\, Monal\NNP ,\, snow-cock\JJ birds\NNS are\VBP found\VBN in\IN City\NNP Forest\NNP National\NNP Park\NNP .\.
+htd9287	The\DT time\NN from\IN April\NNP to\TO October\NNP is\VBZ suitable\JJ for\IN tour\NN in\IN the\DT City\NNP Forest\NNP National\NNP Park\NNP .\.
+htd9288	The\DT Guindy\NNP National\NNP Park\NNP established\VBD in\IN 1976\CD in\IN Chennai\NNP district\NN is\VBZ spread\VBN in\IN an\DT area\NN of\IN 2\CD .\: 82\CD kilometres\NNS .\.
+htd9289	Chennai\NNP itself\PRP is\VBZ the\DT rail\NN head\NN and\CC airport\NN to\TO reach\VB Guindy\NNP National\NNP Park\NNP .\.
+htd9290	Marine\NNP National\NNP Sea\NNP Park\NNP is\VBZ spread\VBN in\IN 21\CD islands\NNS of\IN the\DT Tirunelweli\NNP and\CC Ramanathapuram\NNP in\IN an\DT area\NN of\IN 6\CD .\: 25\CD square\JJ kilometres\NNS in\IN the\DT Bay\NNP of\IN Munnar\NNP .\.
+htd9291	The\DT nearest\JJS city\NN and\CC rail\NN head\NN of\IN Marin\NNP National\NNP Park\NNP is\VBZ Tutikorin\NNP .\.
+htd9292	The\DT airport\NN for\IN Marine\NNP National\NNP Park\NNP is\VBZ Madurai\NNP .\.
+htd9293	Marine\NNP National\NNP Park\NNP comes\VBZ in\IN the\DT tropical\JJ region\NN .\.
+htd9294	In\IN the\DT coastal\JJ forests\NNS of\IN Marine\NNP National\NNP Park\NNP are\VBP bushy\JJ trees\NNS which\WDT are\VBP found\VBN in\IN groups\NNS .\.
+htd9295	In\IN some\DT islands\NNS of\IN the\DT Marine\NNP National\NNP Park\NNP acacia\NN has\VBZ been\VBN grown\VBN through\IN artificial\JJ means\NNS .\.
+htd9296	Indira\NNP Gandhi\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 117\CD square\JJ kilometres\NNS in\IN the\DT Coimbatore\NNP district\NN .\.
+htd9297	The\DT rail\NN head\NN for\IN Indira\NNP Gandhi\NNP National\NNP Park\NNP is\VBZ 35\CD kilometres\NNS away\RB in\IN Polchi\NNP .\.
+htd9298	The\DT forest\NN of\IN Indira\NNP Gandhi\NNP National\NNP Park\NNP is\VBZ semi-evergreen\NN in\IN which\WDT trees\NNS of\IN teak\NN ,\, rosewood\NN etc\NN .\: are\VBP found\VBN .\.
+htd9299	These\DT seas\NNS of\IN India\NNP are\VBP somewhat\RB special\JJ .\.
+htd9300	There\EX are\VBP hundreds\NNS of\IN charming\JJ beaches\NNS on\IN the\DT thousands\NNS of\IN miles\NNS long\JJ coastline\NN of\IN our\PRP$ country\NN .\.
+htd9301	From\IN the\DT point\NN of\IN view\NN of\IN tourism\NN all\DT these\DT beaches\NNS are\VBP ideal\JJ places\NNS of\IN fun\NN .\.
+htd9302	Reaching\VBG these\DT beaches\NNS tourists\NNS want\VBP to\TO play\VB with\IN the\DT waves\NNS of\IN the\DT sea\NN ,\, stroll\VBP on\IN the\DT golden\JJ sand\NN and\CC enjoy\VB the\DT marine\JJ wind\NN .\.
+htd9303	These\DT activities\NNS themselves\PRP make\VBP the\DT holidays\NNS of\IN the\DT tourists\NNS memorable\JJ .\.
+htd9304	There\EX are\VBP some\DT such\JJ beaches\NNS among\IN these\DT which\WDT are\VBP different\JJ from\IN other\JJ coasts\NNS .\.
+htd9305	Those\DT sea\NN beaches\NNS have\VBP several\JJ particular\JJ specialties\NNS of\IN their\PRP$ own\JJ .\.
+htd9306	Goa\NNP is\VBZ such\JJ an\DT state\NN of\IN our\PRP$ country\NN which\WDT can\MD also\RB be\VB called\VBN the\DT king\NN of\IN sea\NN shores\NNS .\.
+htd9307	On\IN the\DT coastline\NN of\IN this\DT small\JJ state\NN Goa\NNP there\EX are\VBP 30\CD grand\JJ beaches\NNS .\.
+htd9308	On\IN some\DT of\IN the\DT beaches\NNS among\IN these\DT a\DT crowd\NN of\IN tourists\NNS can\MD always\RB be\VB seen\VBN .\.
+htd9309	Such\JJ a\DT beach\NN of\IN Goa\NNP is\VBZ '\POS Arambol\NNP Beach\NNP '\POS .\: The\DT biggest\JJS specialty\NN of\IN this\DT beach\NN is\VBZ that\IN this\DT is\VBZ the\DT favorite\NN of\IN foreign\JJ tourists\NNS .\.
+htd9310	Arambol\NNP Beach\NNP is\VBZ counted\VBN among\IN the\DT 10\CD most\RBS beautiful\JJ seashores\NNS of\IN the\DT world\NN .\.
+htd9311	On\IN the\DT basis\NN of\IN the\DT number\NN of\IN these\DT reviews\NNS the\DT name\NN of\IN Arambol\NNP Beach\NNP is\VBZ included\VBN in\IN the\DT list\NN of\IN the\DT charming\JJ shores\NNS of\IN the\DT world\NN .\.
+htd9312	That\DT is\VBZ why\WRB foreign\JJ tourists\NNS come\VBP the\DT most\JJS on\IN this\DT Arambol\NNP Beach\NNP of\IN Goa\NNP .\.
+htd9313	Arambol\NNP Beach\NNP is\VBZ about\IN 50\CD kilometres\NNS away\RB from\IN Panaji\NNP .\.
+htd9314	Kovalam\NNP Beach\NNP located\VBD near\IN Tiruvnantapuram\NNP also\RB is\VBZ an\DT eye-catching\JJ beach\NN of\IN the\DT country\NN .\.
+htd9315	The\DT beauty\NN of\IN Kovalam\NNP Beach\NNP and\CC geographical\JJ location\NN has\VBZ made\VBN it\PRP the\DT heaven\NN of\IN holidayed\JJ tourists\NNS .\.
+htd9316	Today\NN very\RB few\JJ people\NNS know\VBP that\IN Kovalam\NNP Beach\NNP is\VBZ the\DT first\JJ beach\NN of\IN international\JJ level\NN of\IN India\NNP .\.
+htd9317	Seeing\VBG the\DT increasing\VBG attraction\NN of\IN foreign\JJ tourists\NNS ,\, facilities\NNS of\IN the\DT international\JJ level\NN was\VBD gathered\VBN nearby\JJ Kovalam\NNP in\IN the\DT decade\NN of\IN 1970\CD .\.
+htd9318	Along\IN with\IN that\DT Kovalam\NNP Beach\NNP became\VBD the\DT first\JJ sea\NN shore\NN of\IN the\DT country\NN making\VBG a\DT particular\JJ identity\NN on\IN the\DT world\NN tourism\NN map\NN .\.
+htd9319	For\IN the\DT tourists\NNS interested\JJ in\IN '\'' sun\NN ,\, sand\NN and\CC surf\NN '\'' this\DT shore\NN is\VBZ like\IN a\DT dream\NN land\NN today\NN .\.
+htd9320	The\DT form\NN of\IN Kovalam\NNP Beach\NNP attracts\VBZ everyone\NN in\IN the\DT form\NN of\IN three\CD small\JJ bays\NNS .\.
+htd9321	Among\IN these\DT the\DT two\CD bays\NNS located\VBN between\IN lighthouse\NN and\CC Kovalam\NNP Ashoka\NNP Beach\NNP Resort\NNP are\VBP major\JJ .\.
+htd9322	Surrounded\VBN with\IN dates\NNS and\CC palm\NN trees\NNS the\DT Kovalam\NNP Beach\NNP really\RB seem\VBP to\TO be\VB the\DT most\RBS beautiful\JJ beach\NN of\IN the\DT country\NN .\.
+htd9323	Kanyakumari\NNP in\IN the\DT extreme\JJ south\NN of\IN India\NNP is\VBZ a\DT coastal\JJ city\NN .\.
+htd9324	The\DT first\JJ thing\NN is\VBZ that\IN Kanyakumari\NNP is\VBZ located\VBN on\IN the\DT southern\JJ tip\NN of\IN our\PRP$ country\NN .\.
+htd9325	There\EX is\VBZ a\DT confluence\NN of\IN the\DT Arabian\NNP Sea\NNP ,\, Indian\NNP Ocean\NNP and\CC Bay\NNP of\IN Bengal\NNP i\FW .\.YM .\: three\CD seas\NNS in\IN Kanyakumari\NNP .\.
+htd9326	At\IN a\DT distance\NN of\IN about\IN 400\CD metres\NNS from\IN the\DT sea\NN shore\NN in\IN Kanyakumari\NNP on\IN a\DT large\JJ cliff\NN is\VBZ the\DT Vivekanand\NNP Memorial\NNP .\.
+htd9327	Going\VBG by\IN boat\NN to\TO Vivekanand\NNP Memorial\NNP and\CC watching\VBG the\DT confluence\NN of\IN three\CD seas\NNS are\VBP also\RB no\RB less\RBR interesting\JJ .\.
+htd9328	From\IN the\DT sea\NN shore\NN of\IN Kanyakumari\NNP besides\IN the\DT sunrise\NN one\NN also\RB gets\VBZ to\TO see\VB the\DT view\NN of\IN sunset\NN for\IN some\DT months\NNS in\IN the\DT year\NN .\.
+htd9329	There\EX is\VBZ one\CD more\RBR special\JJ thing\NN about\IN the\DT coast\NN of\IN Kanyakumari\NNP which\WDT very\RB few\JJ people\NNS know\VBP .\.
+htd9330	On\IN full\JJ moon\NN day\NN tourists\NNS get\VBP a\DT unique\JJ experience\NN sometimes\RB on\IN the\DT coast\NN of\IN Kanyakumari\NNP when\WRB moon\NN rises\VBZ just\RB as\IN sun\NN sets\NNS in\IN the\DT west\NN .\.
+htd9331	That\DT is\VBZ while\IN on\IN one\CD side\NN the\DT sun\NN descends\VBZ into\IN the\DT sea\NN then\RB on\IN the\DT other\JJ side\NN the\DT full\JJ moon\NN starts\VBZ emerging\VBG from\IN the\DT sea\NN .\.
+htd9332	This\DT in\IN fact\NN is\VBZ a\DT rare\JJ scene\NN .\.
+htd9333	Have\VB you\PRP ever\RB seen\VBD the\DT world\NN inside\IN a\DT submarine\JJ ship\NN .\.
+htd9334	On\IN the\DT Ramakrishna\NNP Beach\NNP of\IN Vishakhapattanam\NNP this\DT wish\NN of\IN yours\NNS can\MD get\VB fulfilled\VBN .\.
+htd9335	A\DT submarine\JJ ship\NN on\IN the\DT Ramakrishna\NNP Beach\NNP has\VBZ been\VBN given\VBN the\DT form\NN of\IN a\DT museum\NN .\.
+htd9336	This\DT is\VBZ the\DT only\JJ such\JJ museum\NN of\IN the\DT country\NN .\.
+htd9337	We\PRP get\VBP to\TO see\VB these\DT water\NN border\NN guards\NNS often\RB on\IN film\NN or\CC television\NN .\.
+htd9338	But\CC in\IN the\DT Vishakhapattanam\NNP Beach\NNP tourists\NNS get\VBP to\TO see\VB this\DT after\IN entering\VBG inside\IN this\DT museum\NN shaped\VBD like\IN a\DT submarine\JJ ship\NN .\.
+htd9339	Understanding\VBG the\DT work\NN system\NN of\IN submarine\JJ ship\NN by\IN reaching\VBG inside\NN is\VBZ a\DT unique\JJ and\CC adventurous\JJ experience\NN .\.
+htd9340	This\DT is\VBZ a\DT unique\JJ museum\NN which\WDT is\VBZ only\RB in\IN Vishakhapattanam\NNP .\.
+htd9341	A\DT small\JJ hill\NN named\VBN Dolphin\NNP Nose\NNP on\IN its\PRP$ southern\JJ tip\NN also\RB is\VBZ a\DT place\NN of\IN Ramakrishna\NNP Beach\NNP worth\JJ visit\NN .\.
+htd9342	The\DT architecture\NN of\IN Tamilnadu\NNP ,\, the\DT Dravid\NNP style\NN of\IN architecture\NN is\VBZ very\RB magnificent\JJ .\.
+htd9343	The\DT specimens\NNS of\IN unique\JJ architecture\NN styles\NNS of\IN the\DT temples\NNS like\IN Kumbhakonam\NNP ,\, Kanch\NNP ,\, Rameshwar\NNP ,\, Mahabalipuram\NNP ,\, Michi\NNP etc\NN .\: are\VBP not\RB seen\VBN anywhere\RB else\RB .\.
+htd9344	As\IN a\DT result\NN of\IN reorganisation\NN of\IN 1960\CD AD\NNP the\DT name\NN of\IN Madras\NNP State\NNP was\VBD changed\VBN in\IN 1969\CD AD\NN to\TO Tamilnadu\NNP Pradesh\NNP .\.
+htd9345	Due\JJ to\TO an\DT abundance\NN of\IN unique\JJ temples\NNS of\IN the\DT world\NN in\IN Tamilnadu\NNP Pradesh\NNP this\DT is\VBZ also\RB called\VBN city\NN of\IN temples\NNS .\.
+htd9346	The\DT people\NNS of\IN Tamilnadu\NNP are\VBP religious\JJ along\IN with\IN respectful\JJ and\CC dutiful\JJ .\.
+htd9347	Tamil\JJ residents\NNS celebrate\VBP Pongal\NNP as\IN national\JJ holiday\NN .\.
+htd9348	World\NNP renowned\VBD Bharatnatyam\NNP and\CC Karnataka\NNP Music\NNP are\VBP inseparable\JJ parts\NNS of\IN the\DT cultural\JJ life\NN of\IN Tamilnadu\NNP .\.
+htd9349	The\DT food\NN style\NN of\IN Tamilnadu\NNP despite\IN having\VBG diversity\NN is\VBZ nutritious\JJ and\CC easily\RB digestible\JJ .\.
+htd9350	The\DT name\NN of\IN the\DT chief\NN of\IN a\DT Portuguese\JJ merchant\NN crew\NN was\VBD Madra\NNP and\CC it\PRP was\VBD after\IN his\PRP$ name\NN that\IN this\DT city\NN was\VBD named\VBN Madras\NNP .\.
+htd9351	Madras\NNP is\VBZ now\RB called\VBN Chennai\NNP .\.
+htd9352	The\DT residents\NNS of\IN Madras\NNP are\VBP of\IN straight\JJ and\CC simple\JJ nature\NN and\CC are\VBP naturally\RB pro\JJ to\TO the\DT guest\NN .\.
+htd9353	Tourists\NNS can\MD fulfil\VB their\PRP$ hobby\NN of\IN shopping\NN at\IN places\NNS like\IN Paris\NNP Corner\NNP ,\, Subhash\NNP Road\NNP etc\NN .\.
+htd9354	The\DT print\NN of\IN the\DT culture\NN here\RB gets\VBZ clearly\RB visible\JJ in\IN the\DT jewelleries\NNS and\CC clothes\NNS of\IN Madras\NNP .\.
+htd9355	Pongal\NNP is\VBZ a\DT special\JJ festival\NN of\IN Madras\NNP .\.
+htd9356	Which\WDT the\DT people\NNS of\IN Madras\NNP celebrate\VBP with\IN full\JJ fervor\NN .\.
+htd9357	For\IN the\DT people\NNS interested\JJ in\IN touring\VBG Madras\NNP there\EX is\VBZ much\JJ here\RB among\IN which\WDT Fort\NNP Saint\NNP George\NNP is\VBZ a\DT magnificent\JJ palace\NN .\.
+htd9358	Magnificent\JJ palace\NN fort\NN St\NNP .\: George\NNP is\VBZ protected\VBN with\IN 20\CD feet\NNS high\JJ walls\NNS .\.
+htd9359	The\DT architecture\NN of\IN the\DT temple\NN of\IN Parthasarathi\NNP -LRB-\-LRB- Krishna\NNP Temple\NNP -RRB-\-RRB- built\VBN by\IN Pallava\NNP Kings\NNPS in\IN 8th\JJ century\NN is\VBZ unique\JJ .\.
+htd9360	The\DT litterateurs\NNS of\IN Kerala\NNP had\VBD built\VBN Bellur\NNP Kottayam\NNP Temple\NNP in\IN the\DT memory\NN of\IN Tamil\NNP poet\NN Thiruvalluvar\NNP .\.
+htd9361	For\IN the\DT protection\NN of\IN the\DT lives\NNS of\IN conspirators\NNS the\DT special\JJ disciple\NN of\IN Christ\NNP '\POS St\NNP .\: Taus\NNP '\POS had\VBD taken\VBN shelter\NN in\IN the\DT Little\NNP Mount\NNP Cave\NNP .\.
+htd9362	This\DT art\NN gallery\NN of\IN Madras\NNP was\VBD built\VBN after\IN the\DT style\NN of\IN Victoria\NNP Memorial\NNP .\.
+htd9363	In\IN 1861\CD AD\NN this\DT museum\NN was\VBD established\VBN in\IN Madras\NNP .\.
+htd9364	In\IN this\DT museum\NN a\DT unique\JJ collection\NN of\IN south\JJ Indian\JJ copper\NN architecture\NN is\VBZ present\JJ .\.
+htd9365	In\IN Madras\NNP the\DT Perambur\NNP Integral\NNP Coach\VBP Factory\NN is\VBZ the\DT factory\NN of\IN North\NNP -\: Western\JJ making\VBG railway\NN coaches\NNS .\.
+htd9366	The\DT goal\NN of\IN the\DT Theosophical\NNP Society\NNP of\IN Madras\NNP is\VBZ to\TO discover\VB truth\NN .\.
+htd9367	The\DT Puranic\NNP city\NN Mahabalipuram\NNP was\VBD established\VBN in\IN eighteenth\NN century\NN .\.
+htd9368	There\EX is\VBZ a\DT myth\NN about\IN Mahabalipuram\NNP that\IN Deoraj\NNP Indra\NNP felt\VBD threatened\VBN with\IN the\DT fame\NN and\CC glory\NN of\IN Danveer\NNP Asura\NNP King\NNP Mahabali\NNP .\.
+htd9369	Deoraj\NNP Indra\NNP feared\VBD whether\IN Mahabali\NNP would\MD grab\VB his\PRP$ throne\NN .\.
+htd9370	Therefore\RB having\VBG become\VBN excited\JJ ,\, Indra\NNP prayed\VBD to\TO Lord\NNP Vishnu\NNP and\CC sympathetic\JJ Lord\NNP Vishnu\NNP appeared\VBD before\IN Mahabali\NNP in\IN the\DT form\NN of\IN Vamana\NNP and\CC asked\VBD for\IN three\CD steps\NNS of\IN land\NN as\IN alms\NNS .\.
+htd9371	Mahabali\NNP promised\VBD to\TO give\VB the\DT land\NN ,\, just\RB after\IN promising\VBG Lord\NNP Vishnu\NNP made\VBD his\PRP$ size\NN greater\JJR and\CC within\IN two\CD steps\NNS mapped\VBD the\DT whole\NN of\IN the\DT earth\NN .\.
+htd9372	When\WRB for\IN the\DT third\JJ step\NN Lord\NNP Vishnu\NNP asked\VBD for\IN land\NN then\RB Mahabali\NNP kept\VBD his\PRP$ head\NN in\IN His\PRP$ feet\NNS .\.
+htd9373	And\CC provided\VBD three\CD steps\NNS of\IN land\NN to\TO Lord\NNP Vishnu\NNP .\.
+htd9374	Based\VBN on\IN the\DT name\NN of\IN that\DT charity\NN king\NN Mahabali\NNP this\DT city\NN was\VBD named\VBN Mahabalipuram\NNP .\.
+htd9375	Mahendra\NNP Varman\NNP became\VBD Hinduism\NNP follower\NN after\IN quitting\VBG Jainism\NNP and\CC he\PRP did\VBD the\DT most\RBS sacred\JJ works\NNS of\IN building\VBG the\DT temples\NNS of\IN Lord\NNP Ashutosh\NNP Shiva\NNP Shankar\NNP and\CC Lord\NNP Vishnu\NNP .\.
+htd9376	Besides\IN temples\NNS the\DT crocodile\NN bank\NN ,\, nuclear\JJ research\NN center\NN etc\NN .\: can\MD also\RB be\VB seen\VBN .\.
+htd9377	Vellore\NNP City\NNP is\VBZ famous\JJ for\IN the\DT palace\NN silent\JJ witness\NN of\IN historical\JJ ups\NNS and\CC downs\NNS .\.
+htd9378	The\DT construction\NN of\IN this\DT fort\NN of\IN Vellor\NNP was\VBD done\VBN by\IN the\DT king\NN of\IN Vijayanagar\NNP Samanta\NNP Sinna\NNP Bommi\NNP Nayak\NNP .\.
+htd9379	The\DT Jalakantheshwar\NNP Shiva\NNP Temple\NNP built\VBN in\IN fine\JJ arts\NNS and\CC magnificent\JJ architecture\NN just\RB near\IN the\DT fort\NN is\VBZ also\RB worth\JJ visiting\VBG .\.
+htd9380	Not\RB only\RB this\DT ,\, the\DT magnificent\JJ hospital\NN built\VBN by\IN American\NNP Missionary\NNP in\IN 1990\CD AD\NN is\VBZ also\RB a\DT center\NN of\IN attraction\NN of\IN Vellore\NNP area\NN .\.
+htd9381	Treatment\NNP of\IN incurable\JJ diseases\NNS take\VBP place\NN in\IN the\DT magnificent\JJ hospital\NN built\VBN by\IN the\DT American\NNP Missionary\NNP .\.
+htd9382	The\DT Kartikeya\NNP temple\NN built\VBN in\IN Ratnagiri\NNP also\RB attract\VBP tourists\NNS towards\IN itself\PRP .\.
+htd9383	Kanchipuram\NNP is\VBZ also\RB called\VBN Moksha\NNP provider\NN city\NN .\.
+htd9384	It\PRP is\VBZ said\VBD that\IN like\IN Mathura\NNP ,\, Ujjain\NNP ,\, Hardwar\NNP ,\, Dwarka\NNP ,\, Varanasi\NNP ,\, Ayodhya\NNP the\DT living\VBG being\NN breathing\VBG their\PRP$ last\NN in\IN Kanchipuram\NNP also\RB ,\, never\RB fall\NN again\RB in\IN the\DT cycle\NN of\IN birth\NN and\CC death\NN .\.
+htd9385	Main\NNP worshipped\VBD god\NN of\IN Kanchipuram\NNP are\VBP Adi\NNP Shiva\NNP and\CC nurturer\NN Lord\NNP Vishnu\NNP .\.
+htd9386	The\DT whole\NN of\IN Kanchipuram\NNP is\VBZ dotted\VBN with\IN temples\NNS and\CC each\DT of\IN the\DT temples\NNS seem\VBP to\TO be\VB more\RBR beautiful\JJ and\CC magnificent\JJ than\IN the\DT other\JJ .\.
+htd9387	In\IN the\DT Sri\NNP Vaikund\NNP Perumal\NNP Temple\NNP of\IN Kanchipuram\NNP built\VBN by\IN King\NNP Nandi\NNP Varman\NNP in\IN 7th\JJ century\NN the\DT statue\NN of\IN Lord\NNP Vishnu\NNP presides\VBZ auspiciously\RB .\.
+htd9388	At\IN the\DT call\NN of\IN his\PRP$ queen\NN the\DT Pallava\NNP King\NNP Raisingh\NNP built\VBD the\DT temple\NN of\IN Kailashnath\NNP in\IN 700\CD AD\NN .\.
+htd9389	In\IN the\DT Deorajaswami\NNP Temple\NNP of\IN Kanchipuram\NNP Lord\NNP Vishnu\NNP is\VBZ presiding\VBG .\.
+htd9390	Kanchipuram\NNP the\DT city\NN of\IN temples\NNS does\VBZ not\RB lag\VB behind\IN even\RB with\IN regard\NN to\TO business\NN .\.
+htd9391	The\DT silk\JJ saris\NNS manufactured\VBN here\RB are\VBP very\RB much\RB popular\JJ in\IN the\DT country\NN and\CC abroad\RB .\.
+htd9392	In\IN Chidambaram\NNP one\CD form\NN of\IN Lord\NNP Shiva\NNP is\VBZ Nataraja\NNP also\RB .\.
+htd9393	The\DT Nataraja\NNP form\NN of\IN Lord\NNP is\VBZ specially\RB worth\JJ worshipping\VBG among\IN the\DT dancing\VBG artists\NNS .\.
+htd9394	The\DT Tandava\NNP dance\NN of\IN Shiva\NNP is\VBZ world\NN famous\JJ though\IN .\.
+htd9395	The\DT Nataraja\NNP Temple\NNP and\CC Annamalai\NNP University\NNP are\VBP glories\NNS of\IN Chidambaram\NNP city\NN .\.
+htd9396	The\DT Nataraja\NNP Temple\NNP of\IN Chidambaram\NNP is\VBZ built\VBN with\IN granite\NN stone\NN .\.
+htd9397	The\DT statue\NN of\IN worshipped\VBN god\NN Lord\NNP Shiva\NNP in\IN Nataraja\NNP Temple\NNP is\VBZ built\VBN of\IN pancha-dhatu\NN .\.
+htd9398	The\DT sacred\JJ Hindu\NNP pilgrimage\NN '\'' Mayuram\NNP '\POS is\VBZ also\RB in\IN Chidambaram\NNP .\.
+htd9399	Along\IN ,\, the\DT Muslim\NNP pilgrimage\NN Nagaur\NNP is\VBZ also\RB on\IN the\DT sacred\JJ land\NN of\IN Chidambaram\NNP .\.
+htd9400	The\DT Sri\NNP Vrihadeshwar\NNP Temple\NNP of\IN Thanjore\NNP attracts\VBZ the\DT visitors\NNS especially\RB .\.
+htd9401	The\DT architecture\NN of\IN Sri\NNP Vrihadeshwar\NNP Temple\NNP ,\, magnificent\JJ vastu\NN amazes\VBZ the\DT tourists\NNS .\.
+htd9402	Shivaji\NNP is\VBZ presiding\VBG in\IN the\DT Sri\NNP Vrihadeshwar\NNP Temple\NNP and\CC His\PRP$ carrier\NN Nandi\NNP which\WDT is\VBZ of\IN black\JJ stone\NN also\RB presides\VBZ in\IN front\NN of\IN His\PRP$ gate\NN .\.
+htd9403	Sri\NNP Vrihadeshwar\NNP Temple\NNP was\VBD built\VBN by\IN Chola\NNP Kings\NNPS in\IN 11th\JJ century\NN .\.
+htd9404	The\DT Kendrayani\NNP Fort\NNP and\CC Schuartz\NNP Church\NNP just\RB nearby\RB can\MD also\RB be\VB visited\VBN .\.
+htd9405	Famous\NNP due\JJ to\TO charming\JJ natural\JJ views\NNS and\CC eye-catching\JJ scenes\NNS the\DT Kodaikanal\NNP hill\NN station\NN is\VBZ located\VBN in\IN the\DT southern\JJ part\NN on\IN the\DT Palani\NNP hill\NN .\.
+htd9406	The\DT Berijam\NNP Lake\NNP enhances\VBZ by\IN four\CD folds\NNS the\DT beauty\NN of\IN the\DT hilly\JJ ambience\NN of\IN Kodaikanal\NNP rich\JJ with\IN charming\JJ weather\NN .\.
+htd9407	The\DT pillar\NN rocks\NNS ,\, Coakers\FW etc\FW .\: on\IN the\DT Kodaikanal\NNP hill\NN are\VBP also\RB worth\JJ visiting\VBG .\.
+htd9408	Tourists\NNS wishing\VBG to\TO stay\VB in\IN the\DT Kodaikanal\NNP picnic\NN place\NN can\MD stay\VB according\VBG to\TO their\PRP$ convenience\NN in\IN Hotel\NNP Sunrise\NNP ,\, Hotel\NNP Kodai\NNP International\NNP ,\, Holiday\NNP Home\NNP ,\, Youth\NNP Hostel\NNP etc\FW .\.
+htd9409	Tiruchirapalli\NNP city\NN is\VBZ settled\VBN on\IN the\DT banks\NNS of\IN the\DT Cauvery\NNP river\NN .\.
+htd9410	The\DT cave\NN temple\NN ,\, golden\JJ rock\NN ,\, rock\NN port\NN ,\, museum\NN ,\, Sriranganath\NNP temple\NN ,\, Jambukeshwar\JJ temple\NN of\IN Tiruchirapalli\NNP inadvertently\RB attract\VBP tourists\NNS towards\IN themselves\PRP .\.
+htd9411	In\IN Jambukeshwar\NNP Temple\NNP Lord\NNP Shiva\NNP is\VBZ installed\VBN in\IN water\NN and\CC is\VBZ famous\JJ by\IN the\DT name\NN of\IN Jambukeshwar\NNP .\.
+htd9412	Jambukeshwar\NNP Temple\NNP is\VBZ built\VBN below\IN a\DT jamun\NN -LRB-\-LRB- black\JJ plum\NN -RRB-\-RRB- tree\NN .\.
+htd9413	Perhaps\RB that\DT is\VBZ why\WRB the\DT name\NN of\IN this\DT temple\NN came\VBD to\TO be\VB Jambukeshwar\JJ .\.
+htd9414	An\DT attractive\JJ collection\NN of\IN statues\NNS of\IN granite\NN stone\NN and\CC copper\NN statues\NNS have\VBP been\VBN gathered\VBN in\IN the\DT Golden\NNP Rock\NNP Museum\NNP .\.
+htd9415	Worshipped-statue\NN is\VBZ installed\VBN in\IN a\DT rectangular\JJ cell\NN of\IN the\DT Cave\NNP Temple\NNP .\.
+htd9416	Cave\NNP Temple\NNP is\VBZ standing\VBG on\IN a\DT total\NN of\IN seven\CD pillars\NNS .\.
+htd9417	The\DT walls\NNS of\IN the\DT Cave\NNP Temple\NNP is\VBZ decorated\VBN with\IN beautiful\JJ pictures\NNS with\IN which\WDT the\DT temple\NN has\VBZ achieved\VBN a\DT unique\JJ magnificence\NN .\.
+htd9418	In\IN the\DT Sriranganath\NNP Swami\NNP Temple\NNP Lord\NNP Vishnu\NNP is\VBZ worshipped\VBN in\IN the\DT form\NN of\IN Ranganath\NNP .\.
+htd9419	The\DT top\NN of\IN the\DT Sriranganath\NNP Swami\NNP Temple\NNP built\VBN in\IN 16th\JJ century\NN is\VBZ built\VBN in\IN gold\NN .\.
+htd9420	The\DT gold\JJ statue\NN of\IN Vishnu\NNP Ji\NNP on\IN the\DT top\NN ,\, the\DT Talgad\NNP of\IN copper\NN ,\, four\CD golden\JJ pitchers\NNS enhance\VBP the\DT view\NN of\IN the\DT temple\NN even\RB more\JJR .\.
+htd9421	Rock\NNP Fort\NNP Temple\NNP is\VBZ built\VBN on\IN the\DT 83\CD m\NN .\: high\JJ mountain\NN of\IN granite\NN rocks\NNS .\.
+htd9422	Besides\IN other\JJ deities\NNS in\IN the\DT Rock\NNP Fort\NNP Temple\NNP Lord\NNP Shiva\NNP and\CC Ganapati\NNP are\VBP chiefly\RB worshipped\VBN .\.
+htd9423	It\PRP is\VBZ said\VBD that\IN Rock\NNP Fort\NNP Temple\NNP was\VBD built\VBN in\IN 18th\JJ century\NN .\.
+htd9424	Devotees\NNS wishing\VBG to\TO stay\VB can\MD stay\VB according\VBG to\TO their\PRP$ convenience\NN in\IN Hotel\NNP Ajanta\NNP ,\, Hotel\NNP Sangam\NNP ,\, Hotel\NNP Laxmi\NNP ,\, Hotel\NNP Ananad\NNP etc\NN .\.
+htd9425	Pandu\NNP King\NNP Kulashekhar\NNP had\VBD founded\VBN the\DT Madurai\NNP City\NNP in\IN 600\CD BC\NNP .\.
+htd9426	The\DT main\JJ attractions\NNS of\IN Madurai\NNP City\NNP are\VBP Thirumalai\NNP Nayak\NNP Palace\NNP ,\, Mariamman\NNP Tempakulam\NNP and\CC Minakshi\NNP Temple\NNP .\.
+htd9427	Tempakulam\NNP Sacred\NNP Lake\NNP was\VBD constructed\VBN in\IN 1949\CD AD\NN .\.
+htd9428	Entrance\NN of\IN water\NN in\IN Tempakulam\NNP Lake\NNP takes\VBZ place\NN through\IN a\DT naturally\RB built\VBN tunnel\NN from\IN the\DT nearby\JJ Baigai\NNP river\NN .\.
+htd9429	On\IN the\DT sacred\JJ place\NN of\IN Tiruparankundram\NNP Temple\NNP the\DT marriage\NN of\IN Devraj\NNP Indra\NNP 's\POS daughter\NN and\CC Shankar\NNP Ji\NNP 's\POS son\NN Kartikeya\NNP Ji\NNP had\VBD completed\VBN .\.
+htd9430	The\DT grandeur\NN of\IN the\DT main\JJ gate\NN of\IN Thirumalai\NNP Nayak\NNP Palace\NNP ,\, magnificent\JJ room\NN ,\, museum\NN etc\NN .\: are\VBP spectacular\JJ .\.
+htd9431	There\EX are\VBP two\CD major\JJ god\NN places\NNS having\VBG a\DT beauty\NN overwhelming\JJ tourists\NNS in\IN Minakshi\NNP Temple\NNP .\.
+htd9432	Only\RB two\CD gods\NNS are\VBP worshipped\VBN in\IN the\DT Minakshi\NNP Temple\NNP .\.
+htd9433	At\IN first\JJ Adidev\NNP -LRB-\-LRB- Mundodeshwar\NNP -RRB-\-RRB- and\CC Lord\NNP Shiva\NNP 's\POS wife\NN -LRB-\-LRB- Minakshi\NNP -RRB-\-RRB- both\DT of\IN these\DT places\NNS are\VBP in\IN south\JJ direction\NN of\IN the\DT temple\NN .\.
+htd9434	It\PRP is\VBZ said\VBD that\IN Devraj\NNP Indra\NNP had\VBD discovered\VBN Minakshi\NNP Temple\NNP .\.
+htd9435	Not\RB just\RB this\DT ,\, statues\NNS in\IN the\DT Minakshi\NNP temple\NN were\VBD also\RB installed\VBN by\IN Devraj\NNP Indra\NNP himself\PRP .\.
+htd9436	The\DT kaleidoscope\NN of\IN the\DT hall\NN of\IN the\DT temple\NN holding\NN on\IN to\TO a\DT thousand\CD pillars\NNS charms\VBZ the\DT visitors\NNS .\.
+htd9437	Rameshwaram\NNP is\VBZ one\CD of\IN the\DT most\RBS sacred\JJ places\NNS of\IN the\DT Hindus\NNPS .\.
+htd9438	The\DT construction\NN of\IN Rameshwaram\NNP Temple\NNP completed\VBD in\IN 12th\JJ century\NN .\.
+htd9439	Rameshwaram\NNP Temple\NNP is\VBZ built\VBN in\IN the\DT Dravid\NNP architecture\NN .\.
+htd9440	While\IN the\DT roofs\NNS of\IN the\DT temple\NN of\IN Rameshwaram\NNP have\VBP been\VBN painted\VBN beautifully\RB then\RB the\DT pillars\NNS have\VBP been\VBN decorated\VBN with\IN craftsmanship\NN .\.
+htd9441	Bathing\NN in\IN the\DT sacred\JJ kundas\NNS located\VBN in\IN the\DT courtyard\NN of\IN the\DT temple\NN ,\, pilgrims\NNS become\VBP a\DT part\NN of\IN the\DT punya\NN .\.
+htd9442	When\WRB Ravana\NNP kidnapped\VBD Sita\NNP then\RB Shrirama\NNP had\VBD to\TO fight\VB with\IN Ravana\NNP to\TO get\VB her\PRP released\VBN .\.
+htd9443	Having\VBG constructed\VBN a\DT bridge\NN at\IN a\DT place\NN named\VBN Dhanushkoti\NNP to\TO reach\VB Srilanka\NNP across\IN the\DT sea\NN ,\, Sriram\NNP invaded\VBD Ravana\NNP the\DT lord\NN of\IN Lanka\NNP and\CC defeated\VBD him\PRP in\IN war\NN .\.
+htd9444	As\IN told\VBN by\IN Lord\NNP Vishnu\NNP Devraj\NNP Indra\NNP performed\VBD yajna\NN and\CC from\IN its\PRP$ sacred\JJ fire\NN emerged\VBD Kanyakumari\NNP .\.
+htd9445	In\IN the\DT temple\NN built\VBD here\RB the\DT very\JJ statue\NN of\IN Kanyakumari\NNP is\VBZ installed\VBN .\.
+htd9446	Shiva\NNP Ardhangini\NNP mother\NN Parvati\NNP herself\PRP presides\VBZ here\RB in\IN the\DT form\NN of\IN Kanyakumari\NNP .\.
+htd9447	Like\IN Minakshi\NNP Temple\NNP in\IN the\DT Kanyakumari\NNP Temple\NNP also\RB there\EX are\VBP four\CD musical\JJ pillars\NNS .\.
+htd9448	The\DT distance\NN from\IN Trivendram\NNP to\TO Kanyakumari\NNP is\VBZ 87\CD kilometres\NNS .\.
+htd9449	From\IN Kochin\NNP Kanyakumari\NNP is\VBZ 300\CD kilometres\NNS away\RB .\.
+htd9450	From\IN Pondicherry\NNP Kanyakumari\NNP is\VBZ 580\CD kilometres\NNS away\RB .\.
+htd9451	From\IN Bangalore\NNP Kanyakumari\NNP is\VBZ 700\CD kilometres\NNS away\RB .\.
+htd9452	From\IN Chennai\NNP Kanyakumari\NNP is\VBZ 700\CD kilometres\NNS away\RB .\.
+htd9453	From\IN Kolkata\NNP Kanyakumari\NNP is\VBZ 2380\CD kilometres\NNS away\RB .\.
+htd9454	From\IN Mumbai\NNP Kanyakumari\NNP is\VBZ 1655\CD kilometres\NNS away\RB .\.
+htd9455	From\IN Delhi\NNP Kanyakumari\NNP is\VBZ 2690\CD kilometres\NNS away\RB .\.
+htd9456	At\IN Shiva\NNP Temple\NNP Shuchindram\NNP place\NN Lord\NNP Shiva\NNP had\VBD saved\VBN the\DT cursed\VBN Indra\NNP .\.
+htd9457	Shiva\NNP Temple\NNP is\VBZ built\VBN amidst\IN unfathomable\JJ water\NN .\.
+htd9458	At\IN Vivekanand\NNP Cliff\NNP Swami\NNP Vivekanand\NNP had\VBD achieved\VBN siddhi\RB after\IN tapasya\NN .\.
+htd9459	Today\NNP Vivekanand\NNP Temple\NNP is\VBZ built\VBN here\RB .\.
+htd9460	In\IN the\DT temple\NN state\NN of\IN Vivekanand\NNP Ji\NNP has\VBZ been\VBN installed\VBN .\.
+htd9461	In\IN the\DT Madhumalai\NNP Wildlife\NNP Museum\NNP the\DT shelter\NN of\IN the\DT avians\NNS ,\, the\DT land\NN animals\NNS and\CC the\DT avian\JJ animals\NNS the\DT wildlife\NN lovers\NNS can\MD see\VB all\DT of\IN these\DT creatures\NNS .\.
+htd9462	In\IN Madhumalai\NNP Wildlife\NNP Museum\NNP among\IN the\DT land\NN animals\NNS are\VBP elephants\NNS ,\, panthers\NNS ,\, deer\NN ,\, bears\VBZ etc\NN .\.
+htd9463	In\IN Madhumalai\NNP Wildlife\NNP Museum\NNP among\IN the\DT aquatic\JJ are\VBP crocodiles\NNS etc\FW .\. and\CC colorful\JJ different\JJ species\NNS of\IN birds\NNS among\IN avians\NNS .\.
+htd9464	All\DT of\IN these\DT animals\NNS move\VBP freely\RB in\IN the\DT Madhumalai\NNP Museum\NNP .\.
+htd9465	In\IN 1638\CD AD\NNP ,\, Mughal\NNP Emperor\NNP Shahjahan\NNP had\VBD taken\VBN the\DT decision\NN of\IN changing\VBG his\PRP$ headquarters\NN from\IN Agra\NNP and\CC settling\VBG a\DT new\JJ capital\NN near\IN the\DT old\JJ ruins\NNS of\IN Firozabad\NNP beside\IN the\DT Yamuna\NNP river\NN .\.
+htd9466	In\IN Delhi\NNP a\DT huge\JJ and\CC effective\JJ Red\NNP Fort\NNP embellished\VBD with\IN strong\JJ ,\, walls\NNS ,\, gates\NNS ,\, minarets\NNS and\CC arches\NNS was\VBD built\VBN in\IN about\RB eight\CD years\NNS .\.
+htd9467	Emperor\NNP Shahjahan\NNP had\VBD ruled\VBN from\IN here\RB itself\PRP residing\VBG in\IN the\DT Red\NNP Fort\NNP .\.
+htd9468	This\DT fort\NN in\IN itself\PRP was\VBD a\DT royal\JJ city\NN in\IN which\WDT about\IN 5000\CD people\NNS used\VBN to\TO live\VB .\.
+htd9469	The\DT decoration\NN of\IN the\DT Red\NNP Fort\NNP is\VBZ unique\JJ .\.
+htd9470	In\IN conception\NN the\DT Red\NNP Fort\NNP is\VBZ octagonal\JJ .\.
+htd9471	Two\CD long\JJ walls\NNS in\IN the\DT east\JJ and\CC west\NN of\IN the\DT Red\NNP Fort\NNP and\CC there\EX are\VBP six\CD small\JJ walls\NNS in\IN the\DT north\NN and\CC south\NN .\.
+htd9472	There\EX are\VBP several\JJ special\JJ buildings\NNS in\IN the\DT Red\NNP Fort\NNP .\.
+htd9473	Out\IN of\IN which\WDT Diwan-e-Aam\NNP was\VBD the\DT hall\NN for\IN the\DT court\NN of\IN the\DT people\NNS .\.
+htd9474	Diwan-e-Khas\NNP was\VBD the\DT sitting\VBG place\NN of\IN the\DT honored\VBN people\NNS .\.
+htd9475	Rang-Mahal\NNP is\VBZ renowned\VBN as\IN an\DT excellent\JJ gem\NN of\IN Shahjahan\NNP 's\POS harem\NN .\.
+htd9476	Nahar-e-Bihist\NNP .\.T branch\NN of\IN the\DT Ali\NNP Mardan\NNP canal\NN ,\, which\WDT was\VBD source\NN of\IN fountains\NNS and\CC waterfalls\NNS .\.
+htd9477	Due\JJ to\TO royal\JJ and\CC grand\JJ buildings\NNS of\IN the\DT Red\NNP Fort\NNP Fergusson\NNP had\VBD called\VBN it\PRP the\DT most\RBS magnificent\JJ palace\NN of\IN the\DT east\JJ ,\, possibly\RB the\DT world\NN .\.
+htd9478	The\DT heritage\NN of\IN the\DT Red\NNP Fort\NNP is\VBZ inherent\JJ not\RB just\RB in\IN the\DT magnificent\JJ of\IN its\PRP$ design\NN or\CC the\DT grandeur\NN of\IN its\PRP$ buildings\NNS or\CC the\DT beauty\NN of\IN its\PRP$ gardens\NNS or\CC the\DT sound\NN of\IN its\PRP$ fountains\NNS .\.
+htd9479	Each\DT of\IN the\DT stone\NN ,\, each\DT of\IN the\DT pillars\NNS ,\, each\DT of\IN the\DT canopy\NN painting\NN and\CC footpath\NN narrate\VBP the\DT story\NN of\IN the\DT past\JJ era\NN .\.
+htd9480	All\DT of\IN the\DT places\NNS of\IN the\DT Red\NNP Fort\NNP tell\VBP us\PRP how\WRB this\DT great\JJ empire\NN formed\VBD .\.
+htd9481	How\WRB unparalleled\JJ color\NN of\IN grandeur\NN were\VBD filled\VBN in\IN the\DT grand\JJ buildings\NNS of\IN the\DT Red\NNP Fort\NNP .\.
+htd9482	How\WRB the\DT Red\NNP Fort\NNP remained\VBD the\DT witness\NN of\IN mercy\NN and\CC cruelty\NN .\.
+htd9483	How\WRB a\DT supremely\RB powerful\JJ fort\NN finally\RB became\VBD the\DT victim\NN of\IN its\PRP$ own\JJ pride\NN ,\, inaction\NN and\CC illusion\NN and\CC how\WRB it\PRP went\VBD into\IN the\DT hands\NNS of\IN an\DT indifferent\JJ and\CC selfish\JJ company\NN and\CC later\RB the\DT British\JJ rulers\NNS .\.
+htd9484	After\IN a\DT sad\JJ event\NN of\IN 1857\CD the\DT English\JJ army\NN captured\VBD the\DT Red\NNP Fort\NNP .\.
+htd9485	For\IN an\DT obstacle\NN free\JJ communication\NN of\IN its\PRP$ soldiers\NNS and\CC weapons\NNS the\DT English\JJ army\NN demolished\VBD all\PDT the\DT buildings\NNS in\IN a\DT hemisphere\NN of\IN about\IN 448\CD yards\NNS towards\IN one\CD side\NN of\IN which\WDT was\VBD the\DT Jama\NNP Masjid\NNP and\CC Chandani\NNP Chowk\NNP and\CC on\IN the\DT other\JJ side\NN was\VBD the\DT wall\NN of\IN the\DT Red\NNP Fort\NNP .\.
+htd9486	Despite\IN such\JJ destructive\JJ works\NNS nearby\RB the\DT Red\NNP Fort\NNP the\DT English\JJ rulers\NNS could\MD not\RB escape\VB the\DT glitter\NN of\IN its\PRP$ royal\JJ traditions\NNS .\.
+htd9487	This\DT very\RB royal\JJ tradition\NN was\VBD on\IN its\PRP$ full\JJ glitter\NN on\IN 14th\JJ December\NNP ,\, 1911\CD when\WRB King\NNP George\NNP the\DT Fifth\NNP and\CC his\PRP$ queen\NN dressed\VBN in\IN the\DT shining\VBG crown\NN and\CC colorful\JJ clothes\NNS and\CC along\IN with\IN grandeur\NN of\IN the\DT kings\NNS had\VBD accepted\VBN the\DT greetings\NNS of\IN about\RB five\CD lac\JJ people\NNS from\IN the\DT arches\NNS of\IN the\DT Red\NNP Fort\NNP .\.
+htd9488	For\IN Indian\JJ Freedom\NN fighters\NNS as\RB well\RB the\DT Red\NNP Fort\NNP remained\VBD a\DT symbol\NN of\IN power\NN .\.
+htd9489	The\DT slogan\NN given\VBN by\IN Netaji\NNP Subhash\NNP Chandra\NNP Bose\NNP to\TO his\PRP$ Indian\NNP National\NNP Army\NNP was\VBD Dilli\NNP Chalo\NNP .\.
+htd9490	Pt\NNP .\: Nehru\NNP also\RB hoisted\VBD the\DT first\JJ flag\NN of\IN independent\JJ India\NNP on\IN 15\CD August\NNP ,\, 1947\CD .\.
+htd9491	For\IN years\NNS the\DT Red\NNP Fort\NNP has\VBZ borne\VBN several\JJ downs\NNS of\IN the\DT time\NN .\.
+htd9492	History\NN has\VBZ left\VBN the\DT marks\NNS of\IN its\PRP$ wounds\NNS on\IN the\DT Red\NNP Fort\NNP .\.
+htd9493	The\DT remaining\VBG energy\NN of\IN the\DT Red\NNP Fort\NNP also\RB got\VBD destroyed\VBN due\JJ to\TO carelessness\NN .\.
+htd9494	Till\IN a\DT few\JJ months\NNS earlier\RB with\IN the\DT ambience\NN inside\IN and\CC outside\IN near\IN the\DT Red\NNP Fort\NNP we\PRP understand\VBP how\WRB careless\JJ we\PRP were\VBD towards\IN our\PRP$ cultural\JJ wealth\NN .\.
+htd9495	After\IN becoming\VBG the\DT Culture\NNP and\CC Tourism\NNP minister\NN when\WRB I\PRP visited\VBD the\DT Fort\NNP for\IN an\DT intensive\JJ study\NN of\IN the\DT Red\NNP Fort\NNP I\PRP saw\VBD several\JJ dilapidated\JJ constructions\NNS .\.
+htd9496	In\IN the\DT eastern\JJ direction\NN of\IN the\DT Red\NNP Fort\NNP there\RB was\VBD a\DT filth\NN filled\VBN colony\NN where\WRB there\EX were\VBD Chor\NNP Bazar\NNP ,\, open\JJ urinals\NNS and\CC obstacled\JJ sewers\NNS .\.
+htd9497	In\IN place\NN of\IN these\DT now\RB a\DT charming\JJ park\NN has\VBZ been\VBN built\VBN which\WDT is\VBZ spread\VBN to\TO the\DT front\NN of\IN the\DT Rajghat\NNP from\IN the\DT norther\JJ tip\NN of\IN the\DT Red\NNP Fort\NNP .\.
+htd9498	Its\PRP$ views\NNS appear\VBP very\RB beautiful\JJ at\IN night\NN when\WRB the\DT walls\NNS of\IN the\DT Red\NNP Fort\NNP ,\, urban\JJ arches\NNS and\CC green\JJ parks\NNS in\IN front\NN of\IN them\PRP create\VBP a\DT pleasant\JJ environment\NN in\IN the\DT interesting\JJ lighting\NN system\NN .\.
+htd9499	In\IN the\DT same\JJ way\NN the\DT neglected\VBN area\NN spread\NN high\JJ and\CC low\JJ towards\IN Chandni\NNP Chowk\NNP have\VBP also\RB been\VBN decorated\VBN which\WDT has\VBZ been\VBN converted\VBN into\IN a\DT national\JJ park\NN -\: 15\CD August\NNP Park\NNP .\.
+htd9500	With\IN the\DT green\JJ parks\NNS built\VBN on\IN both\DT the\DT sides\NNS of\IN the\DT Red\NNP Fort\NNP its\PRP$ view\NN in\IN the\DT future\NN will\MD get\VB finer\JJ .\.
+htd9501	Along\IN with\IN this\DT all\DT of\IN the\DT landmarks\NNS of\IN Red\NNP Fort\NNP have\VBP been\VBN renovated\VBN and\CC protected\VBN and\CC they\PRP have\VBP been\VBN strengthened\VBN .\.
+htd9502	The\DT whole\NN of\IN the\DT floor\NN of\IN 21,219\CD square\JJ metre\NN wall\NN of\IN the\DT Red\NNP Fort\NNP has\VBZ been\VBN washed\VBN well\RB and\CC cleaned\VBN with\IN chemicals\NNS .\.
+htd9503	1\CD .\.D km\NN long\JJ ditch\NN of\IN the\DT Red\NNP Fort\NNP filled\VBD with\IN mud\NN for\IN years\NNS has\VBZ been\VBN cleaned\VBN .\.
+htd9504	23,000\CD cubic\JJ metre\NN of\IN wastage\NN came\VBD out\IN of\IN the\DT Red\NNP Fort\NNP which\WDT was\VBD removed\VBN by\IN filling\VBG in\IN 3500\CD trucks\NNS .\.
+htd9505	About\IN 2,220\CD square\JJ metre\NN road\NN ,\, which\WDT were\VBD made\VBN of\IN flag\NN stone\NN and\CC which\WDT was\VBD later\RB changed\VBN with\IN Moram\NNP due\JJ to\TO being\VBG dilapidated\JJ ,\, has\VBZ been\VBN prepared\VBN again\RB in\IN its\PRP$ original\JJ design\NN .\.
+htd9506	The\DT cemented\JJ plaster\NN of\IN the\DT Mumtaj\NNP Mahal\NNP ,\, the\DT Rang\NNP Mahal\NNP and\CC the\DT walls\NNS of\IN Hamam\NNP in\IN the\DT Red\NNP Fort\NNP had\VBD come\VBN out\RP which\WDT has\VBZ been\VBN redone\NN now\RB .\.
+htd9507	All\PDT the\DT 23\CD netted\JJ windows\NNS made\VBN of\IN sand\NN stone\NN had\VBD broken\VBN ,\, they\PRP have\VBP been\VBN installed\VBN again\RB .\.
+htd9508	Diwan-e-Khas\NNS of\IN the\DT Red\NNP Fort\NNP ,\, Khas\NNP Mahal\NNP ,\, Naubatkhana\NNP ,\, basement\NN etc\NN .\: have\VBP also\RB been\VBN returned\VBN their\PRP$ old\JJ grandeur\NN .\.
+htd9509	Hyatt\NNP Baksha\NNP of\IN the\DT Red\NNP Fort\NNP and\CC its\PRP$ fountains\NNS ,\, water\NN bodies\NNS and\CC waterfalls\NNS have\VBP been\VBN renovated\VBN .\.
+htd9510	From\IN below\IN the\DT Musamman\NNP Burja\NNP the\DT old\JJ tunnel\NN opening\NN in\IN front\NN of\IN the\DT Yamuna\NNP river\NN has\VBZ been\VBN opened\VBN towards\IN the\DT Ring\NNP Road\NNP after\IN having\VBG been\VBN cleaned\VBN .\.
+htd9511	The\DT work\NN of\IN cleaning\VBG the\DT Nahar-e-Bihist\NNP which\WDT seemed\VBD impossible\JJ has\VBZ been\VBN completed\VBN .\.
+htd9512	An\DT unknown\JJ moat\NN of\IN the\DT Red\NNP Fort\NNP has\VBZ also\RB been\VBN given\VBN special\JJ attention\NN ,\, with\IN which\WDT is\VBZ related\VBN a\DT small\JJ but\CC inspiration\NN part\NN of\IN the\DT history\NN of\IN our\PRP$ freedom\NN fight\NN .\.
+htd9513	About\IN 28\CD feet\NNS below\IN from\IN the\DT ground\NN of\IN the\DT land\NN in\IN Red\NNP Fort\NNP there\EX is\VBZ a\DT bathing\NN pond\NN built\VBN with\IN indigenous\JJ design\NN and\CC a\DT courtyard\NN to\TO reach\VB where\WRB stairs\NNS are\VBP built\VBN .\.
+htd9514	This\DT moat\NN was\VBD not\RB used\VBN during\IN the\DT capture\NN of\IN the\DT British-army\NN and\CC prison-cells\NNS were\VBD built\VBN in\IN a\DT bigger\JJR part\NN of\IN the\DT courtyard\NN .\.
+htd9515	The\DT freedom\NN fighters\NNS whom\WP the\DT British\NNP Intelligence\NNP considered\VBD dangerous\JJ prisoners\NNS were\VBD brought\VBN in\IN these\DT prison-cells\NNS for\IN interrogation\NN .\.
+htd9516	After\IN 1945\CD these\DT moats\NNS and\CC cells\NNS of\IN the\DT Red\NNP Fort\NNP were\VBD closed\VBN .\.
+htd9517	Later\RB useless\JJ items\NNS ,\, wastage\NN and\CC materials\NNS of\IN house\NN building\NN were\VBD put\VBN in\IN them\PRP .\.
+htd9518	A\DT document\NN and\CC information\NN interpretation\NN center\NN is\VBZ being\VBG established\VBN at\IN the\DT Red\NNP Fort\NNP .\.
+htd9519	Besides\IN providing\VBG information\NN regarding\VBG the\DT Red\NNP Fort\NNP this\DT center\NN will\MD also\RB provide\VB comprehensive\JJ knowledge\NN of\IN the\DT history\NN from\IN the\DT ancient\JJ times\NNS to\TO the\DT present\JJ time\NN .\.
+htd9520	This\DT center\NN will\MD also\RB present\VB copies\NNS of\IN the\DT speeches\NNS delivered\VBN by\IN the\DT prime\JJ ministers\NNS of\IN India\NNP from\IN the\DT battlement\NN of\IN the\DT Red\NNP Fort\NNP from\IN 16th\JJ August\NNP ,\, 1947\CD till\IN today\NN .\.
+htd9521	Wildlife\NNP tourism\NN is\VBZ well\RB developed\VBN in\IN America\NNP ,\, Canada\NNP and\CC countries\NNS of\IN southern\JJ Africa\NNP like\IN Kenya\NNP ,\, Tanjania\NNP etc\NN .\.
+htd9522	Wildlife\NNP tourism\NN is\VBZ a\DT big\JJ source\NN of\IN income\NN in\IN countries\NNS of\IN eastern\JJ Africa\NNP .\.
+htd9523	Thousands\NNS of\IN tourists\NNS come\VBN to\TO the\DT national\JJ parks\NNS of\IN these\DT countries\NNS and\CC enjoy\VB the\DT adventurous\JJ forest\NN view\NN here\RB .\.
+htd9524	Tourists\NNS get\VBP full\JJ happiness\NN of\IN viewing\VBG the\DT wildlife\NN in\IN natural\JJ condition\NN and\CC take\VB their\PRP$ pictures\NNS .\.
+htd9525	More\JJR than\IN one\CD crore\NN tourists\NNS come\VBP to\TO see\VB the\DT Nairobi\NNP National\NNP Park\NNP of\IN Kenya\NNP .\.
+htd9526	Tourism\NNP industry\NN has\VBZ emerged\VBN as\IN the\DT biggest\JJS source\NN of\IN earning\VBG foreign\JJ currency\NN in\IN India\NNP but\CC it\PRP has\VBZ been\VBN able\JJ to\TO attract\VB only\RB 3\CD percent\NN of\IN the\DT tourists\NNS of\IN the\DT world\NN .\.
+htd9527	India\NNP tourism\NN till\IN now\RB has\VBZ been\VBN centred\VBN on\IN the\DT places\NNS of\IN religious\JJ ,\, cultural\JJ ,\, historical\JJ and\CC geographical\JJ importance\NN .\.
+htd9528	Therefore\RB foreign\JJ tourists\NNS are\VBP given\VBN the\DT tour\NN to\TO pilgrimages\NNS ,\, ancient\JJ temples\NNS ,\, historical\JJ forts\NNS ,\, memorials\NNS ,\, memorials\NNS ,\, stupas\NNS or\CC ruins\NNS ,\, art\NN galleries\NNS ,\, museums\NNS and\CC pleasant\JJ cities\NNS and\CC sea\NN shores\NNS .\.
+htd9529	Tourism\NNP based\VBN on\IN wild-life\NN has\VBZ not\RB yet\RB got\VBD priority\NN in\IN India\NNP .\.
+htd9530	Tourists\NNS in\IN India\NNP do\VBP not\RB come\VB with\IN an\DT approach\NN solely\RB towards\IN wild-life\JJ tourism\NN .\.
+htd9531	Still\RB gradually\RB an\DT inclination\NN away\RB from\IN historical\JJ and\CC cultural\JJ tourism\NN towards\IN entertainment\NN and\CC aesthetics\NNS based\VBN tourism\NN has\VBZ come\VBN and\CC in\IN this\DT change\NN wild\JJ life\NN tourism\NN is\VBZ also\RB included\VBN .\.
+htd9532	The\DT location\NN of\IN the\DT national\JJ parks\NNS ,\, forest\NN reserves\NNS ,\, tiger\NN reserves\NNS and\CC other\JJ protected\JJ areas\NNS in\IN our\PRP$ country\NN is\VBZ in\IN different\JJ views\NNS ,\, residing\VBG places\NNS and\CC climate\NN areas\NNS .\.
+htd9533	Therefore\RB they\PRP have\VBP a\DT divergence\NN and\CC diversity\NN of\IN fauna\NNS and\CC flora\NNS in\IN them\PRP .\.
+htd9534	Among\IN the\DT wild\JJ animals\NNS residing\VBG in\IN these\DT protected\JJ areas\NNS like\IN lions\NNS ,\, tigers\NNS ,\, panthers\NNS ,\, snow-panthers\NNS ,\, elephant\NN ,\, wild\JJ buffalo\NN ,\, ox\NN ,\, several\JJ species\NNS of\IN wild\JJ sheep\NN and\CC goat\NN ,\, apes\NNS ,\, monkeys\NNS ,\, squirrels\NNS ,\, crocodiles\NNS ,\, fish\NN ,\, wild\JJ cats\NNS ,\, wild\JJ dogs\NNS ,\, bears\VBZ etc\NN .\: along\IN with\IN colorful\JJ birds\NNS are\VBP natural\JJ attraction\NN of\IN tourists\NNS .\.
+htd9535	The\DT National\NNP Parks\NNPS of\IN Africa\NNP are\VBP vast\JJ and\CC no\DT damage\NN occurs\VBZ to\TO them\PRP with\IN the\DT entrance\NN of\IN a\DT big\JJ number\NN of\IN tourists\NNS together\RB in\IN them\PRP .\.
+htd9536	Wild\NNP animals\NNS like\IN lions\NNS of\IN Africa\NNP are\VBP tolerant\JJ towards\IN tourists\NNS while\IN the\DT animals\NNS like\IN tiger\NN living\VBG in\IN the\DT national\JJ parks\NNS of\IN India\NNP are\VBP shy\JJ and\CC like\VB to\TO stay\VB away\RB from\IN tourists\NNS .\.
+htd9537	It\PRP is\VBZ also\RB a\DT matter\NN of\IN attention\NN that\IN the\DT tourists\NNS of\IN African\JJ parks\NNS are\VBP often\RB foreigners\NNS which\WDT are\VBP disciplined\JJ and\CC follow\VB the\DT rules\NNS and\CC orders\NNS with\IN alertness\NN .\.
+htd9538	Tourists\NNS in\IN the\DT parks\NNS of\IN India\NNP are\VBP generally\RB local\JJ people\NNS who\WP have\VBP not\RB yet\RB developed\VBN such\JJ behavior\NN that\WDT are\VBP suitable\JJ to\TO follow\VB the\DT rules\NNS list\NN of\IN the\DT park\NN .\.
+htd9539	Therefore\RB we\PRP will\MD have\VB to\TO prepare\VB rules\NNS and\CC regulations\NNS and\CC codes\NNS of\IN conduct\NN according\VBG to\TO our\PRP$ situations\NNS to\TO run\VB wild\JJ life\NN tourism\NN in\IN our\PRP$ country\NN .\.
+htd9540	We\PRP need\VBP to\TO be\VB more\RBR alert\JJ to\TO systematise\VB and\CC regularise\VB tourists\NNS in\IN our\PRP$ national\JJ parks\NNS .\.
+htd9541	It\PRP has\VBZ been\VBN estimated\VBN that\IN among\IN the\DT tourists\NNS of\IN the\DT country\NN five\CD percent\NN tourists\NNS tour\VBP national\JJ parks\NNS and\CC forest\NN reserves\NNS .\.
+htd9542	In\IN those\DT parks\NNS of\IN India\NNP that\WDT can\MD be\VB reached\VBN easily\RB and\CC which\WDT has\VBZ achieved\VBN fame\NN wild\JJ life\NN tourism\NN has\VBZ increased\VBN there\RB .\.
+htd9543	Among\IN these\DT parks\NNS Kajiranga\NNP ,\, Manas\NNP ,\, Sundarban\NNP ,\, Gir\NNP ,\, Corbett\NNP ,\, Sultanpur\NNP ,\, Tadowa\NNP ,\, Sanjay\NNP Gandhi\NNP ,\, Keoladeo\NNP ,\, Sariska\NNP ,\, Kanha\NNP ,\, Bandipur\NNP ,\, Madumalaya\NNP ,\, Nagarhole\NNP ,\, Bannerghatti\NNP ,\, Periyar\NNP are\VBP prominent\JJ .\.
+htd9544	Latest\JJS data\NNS of\IN tourists\NNS touring\VBG every\DT year\NN in\IN all\DT of\IN these\DT parks\NNS are\VBP not\RB available\JJ .\.
+htd9545	Yet\CC it\PRP has\VBZ been\VBN estimated\VBN that\IN up\IN to\TO 90,000\CD in\IN Gir\NNP National\NNP Park\NNP and\CC up\IN to\TO 70,000\CD tourists\NNS in\IN Kajiranga\NNP national\JJ park\NN reach\NN every\DT year\NN .\.
+htd9546	About\IN 63\CD -\: 70,000\CD tourists\NNS visit\NN in\IN Manas\NNP National\NNP Park\NNP also\RB .\.
+htd9547	While\IN Periyar\NNP National\NNP Park\NNP attract\VBP 2\CD lac\JJ tourists\NNS every\DT year\NN .\.
+htd9548	Sanjay\NNP Gandhi\NNP National\NNP Park\NNP Borivali\NNP ,\, is\VBZ quite\RB near\IN Mumbai\NNP metropolis\NN and\CC more\JJR than\IN 30\CD lac\NN tourists\NNS come\VBP here\RB .\.
+htd9549	In\IN the\DT whole\NN of\IN Asia\NNP this\DT is\VBZ the\DT biggest\JJS number\NN entering\VBG any\DT protected\JJ wild\JJ life\NN area\NN .\.
+htd9550	About\IN 45,000\CD tourists\NNS come\VBN to\TO Betla\NNP ,\, Corbett\NNP and\CC Kanha\NNP National\NNP parks\NNS .\.
+htd9551	The\DT number\NN of\IN tourists\NNS of\IN Sultanpur\NNP ,\, Keoladeo\NNP and\CC Tadowa\NNP national\JJ parks\NNS is\VBZ from\IN 60\CD to\TO 65,000\CD every\DT year\NN .\.
+htd9552	30,000\CD to\TO 35,000\CD tourists\NNS come\VBN to\TO Sariska\NNP ,\, Bandipur\NNP ,\, Sundarban\NNP ,\, Bannerghatta\NNP and\CC Nagarhole\NNP national\JJ parks\NNS .\.
+htd9553	The\DT number\NN of\IN tourists\NNS in\IN the\DT Madhav\NNP and\CC Bandhavgarh\NNP national\JJ parks\NNS of\IN Madhya\NNP Pradesh\NNP is\VBZ nearly\RB 5,000\CD to\TO 10,000\CD .\.
+htd9554	Very\RB less\JJR tourists\NNS reach\VBP parks\NNS like\IN Dachigam\NNP ,\, Valley\NNP of\IN Flowers\NNP ,\, Namdafa\NNP ,\, Indravati\NNP ,\, Keibul\NNP Lamjao\NNP ,\, Pin\NNP Valley\NNP ,\, Great\NNP Himalaya\NNP parks\NNS which\WDT are\VBP either\DT distant\JJ or\CC unreachable\JJ .\.
+htd9555	However\RB there\EX is\VBZ no\DT about\IN in\IN it\PRP that\IN the\DT number\NN of\IN tourists\NNS going\VBG to\TO these\DT parks\NNS are\VBP constantly\RB increasing\VBG and\CC in\IN future\JJ there\EX is\VBZ a\DT great\JJ possibility\NN of\IN wild\JJ life\NN tourism\NN increasing\VBG in\IN India\NNP in\IN future\NN .\.
+htd9556	There\RB ,\, for\IN the\DT managers\NNS of\IN these\DT parks\NNS it\PRP is\VBZ necessary\JJ that\IN they\PRP prepare\VBP early\JJ schemes\NNS to\TO solve\VB the\DT problem\NN of\IN constantly\RB increasing\VBG tourists\NNS .\.
+htd9557	When\WRB we\PRP talk\VBP about\IN wild\JJ life\NN tourism\NN then\RB saying\VBG this\DT would\MD not\RB be\VB irrelevant\JJ that\IN some\DT tourists\NNS do\VBP not\RB lose\VB to\TO misuse\NN these\DT guest\JJ houses\NNS .\.
+htd9558	Showing\VBG their\PRP$ wealth\NN they\PRP break\VBP the\DT peace\NN of\IN the\DT parks\NNS .\.
+htd9559	They\PRP create\VBP noise\NN by\IN running\VBG transistor\NN and\CC tape\NN recorder\NN and\CC musical\JJ instruments\NNS on\IN these\DT national\JJ parks\NNS which\WDT are\VBP forbidden\VBN in\IN these\DT parks\NNS .\.
+htd9560	Such\JJ people\NNS inspire\VBP the\DT staff\NN of\IN the\DT guest\NN house\NN by\IN giving\VBG the\DT lure\NN of\IN their\PRP$ position\NN and\CC wealth\NN to\TO ignore\VB the\DT discipline\NN and\CC rules\NNS of\IN the\DT park\NN .\.
+htd9561	Guest\NN houses\NNS are\VBP built\VBN in\IN almost\RB all\DT of\IN the\DT parks\NNS in\IN our\PRP$ country\NN .\.
+htd9562	So\RB as\IN no\DT problem\NN of\IN residence\NN occurs\VBZ on\IN reaching\VBG in\IN the\DT park\NN one\NN should\MD reserve\VB these\DT guest\NN houses\NNS before\RB .\.
+htd9563	These\DT parks\NNS are\VBP often\RB open\JJ for\IN tour\NN from\IN morning\NN till\IN sunset\NN .\.
+htd9564	Several\JJ parks\NNS are\VBP closed\VBN for\IN travellers\NNS in\IN special\JJ parts\NNS of\IN the\DT year\NN like\IN rains\NNS .\.
+htd9565	Different\JJ fee\NN is\VBZ decided\VBN for\IN entrance\NN ,\, accommodation\NN ,\, food\NN ,\, cameras\NNS ,\, guides\NNS ,\, passengers\NNS ,\, private\JJ vehicles\NNS etc\NN .\: in\IN the\DT parks\NNS .\.
+htd9566	There\EX is\VBZ a\DT ban\NN on\IN carrying\VBG fire\NN weapons\NNS inside\IN the\DT park\NN .\.
+htd9567	It\PRP is\VBZ mandatory\JJ for\IN tourists\NNS to\TO follow\VB some\DT rules\NNS to\TO maintain\VB the\DT peace\NN and\CC safety\NN inside\IN the\DT park\NN .\.
+htd9568	Tourism\NNP is\VBZ mainly\RB for\IN entertainment\NN .\.
+htd9569	Along\IN with\IN entertainment\NN historical\JJ and\CC religious\JJ tourism\NN can\MD also\RB be\VB achieved\VBN .\.
+htd9570	But\CC wild\JJ life\NN tourism\NN has\VBZ a\DT different\JJ objective\NN and\CC that\DT is\VBZ evoking\VBG awareness\NN towards\IN the\DT protection\NN and\CC conservation\NN of\IN environment\NN .\.
+htd9571	In\IN this\DT era\NN of\IN the\DT deformity\NN of\IN the\DT nature\NN the\DT message\NN of\IN improvement\NN in\IN the\DT environment\NN has\VBZ great\JJ importance\NN .\.
+htd9572	To\TO bring\VB this\DT message\NN to\TO the\DT tourists\NNS parks\NNS can\MD play\VB a\DT certain\JJ role\NN .\.
+htd9573	Tourists\NNS should\MD take\VB great\JJ precaution\NN and\CC alertness\NN while\IN touring\VBG in\IN the\DT complex\NN of\IN the\DT park\NN because\IN any\DT encounter\NN of\IN tourists\NNS and\CC wild\JJ life\NN due\JJ to\TO any\DT lapse\NN can\MD result\VB in\IN sad\JJ event\NN .\.
+htd9574	In\IN this\DT regard\NN reminding\VBG the\DT incident\NN of\IN the\DT death\NN of\IN a\DT British\JJ bird-lover\NN on\IN 20\CD January\NNP 1985\CD in\IN Corbett\NNP National\NNP Park\NNP in\IN such\PDT an\DT incident\NN would\MD not\RB be\VB irrelevant\JJ .\.
+htd9575	David\NNP Hunt\NNP reached\VBD such\PDT a\DT desolate\JJ place\NN in\IN the\DT Dhikala\NNP forest\NN range\NN following\VBG an\DT owl\NN alone\RB where\WRB a\DT wild\JJ animal\NN killed\VBD and\CC ate\VBD him\PRP .\.
+htd9576	In\IN the\DT complex\NN of\IN the\DT national\JJ park\NN travel\NN is\VBZ an\DT important\JJ part\NN of\IN tourism\NN and\CC this\DT should\MD also\RB be\VB considered\VBN .\.
+htd9577	The\DT wild\JJ animals\NNS get\VBP disturbed\VBN with\IN the\DT dust\NN generated\VBN by\IN the\DT speed\NN of\IN the\DT vehicles\NNS inside\IN the\DT park\NN and\CC the\DT sound\NN of\IN the\DT vehicles\NNS .\.
+htd9578	Therefore\RB controlling\VBG their\PRP$ speed\NN and\CC use\NN is\VBZ necessary\JJ .\.
+htd9579	Till\IN now\RB our\PRP$ national\JJ parks\NNS are\VBP not\RB fully\RB able\JJ to\TO fulfil\VB the\DT demands\NNS of\IN wild-life\NN .\.
+htd9580	In\IN some\DT parks\NNS the\DT tourists\NNS cell\NN is\VBZ in\IN the\DT core\NN area\NN which\WDT is\VBZ not\RB appropriate\JJ with\IN regard\NN to\TO nature\NN protection\NN .\.
+htd9581	In\IN several\JJ parks\NNS designated\VBN area\NN for\IN tourists\NNS has\VBZ not\RB been\VBN demarcated\VBN .\.
+htd9582	Nature\NN interpretation\NN centres\NNS have\VBP not\RB been\VBN established\VBN in\IN all\PDT the\DT parks\NNS for\IN the\DT convenience\NN and\CC guidance\NN of\IN the\DT tourists\NNS .\.
+htd9583	The\DT arrangement\NN of\IN stay\NN ,\, management\NN of\IN traffic\NN in\IN the\DT complex\JJ and\CC photo\JJ shooting\NN are\VBP not\RB available\JJ in\IN some\DT national\JJ parks\NNS .\.
+htd9584	Despite\IN shortcomings\NNS in\IN the\DT wild\JJ life\NN tourism\NN attention\NN is\VBZ definitely\RB being\VBG paid\VBN on\IN raising\VBG its\PRP$ standards\NNS in\IN which\WDT needs\NNS of\IN tourists\NNS are\VBP fulfilled\VBN .\.
+htd9585	To\TO develop\VB wild\JJ life\NN tourism\NN under\IN the\DT Development\NNP of\IN National\NNP Parks\NNPS and\CC Sanctuaries\NNPS project\NN there\EX should\MD be\VB a\DT separate\JJ arrangement\NN of\IN financial\JJ help\NN for\IN Wild-life\JJ tourism\NN .\.
+htd9586	The\DT Saddle\NNP Peak\NNP National\NNP Park\NNP established\VBD in\IN the\DT year\NN of\IN 1979\CD is\VBZ located\VBN an\DT area\NN of\IN 32\CD .\: 54\CD square\JJ kilometres\NNS of\IN the\DT Andaman\NNP district\NN .\.
+htd9587	The\DT nearest\JJS city\NN from\IN the\DT Saddle\NNP Peak\NNP National\NNP Park\NNP Diglipur\NNP is\VBZ at\IN a\DT distance\NN of\IN 5\CD kilometres\NNS .\.
+htd9588	Port\NNP Blair\NNP which\WDT is\VBZ the\DT capital\NN of\IN the\DT Andaman\NNP and\CC Nicobar\NNP Islands\NNP group\NN and\CC where\WRB there\EX are\VBP ports\NNS and\CC airports\NNS ,\, is\VBZ 200\CD kilometres\NNS away\RB from\IN Saddle\NNP Peak\NNP National\NNP Park\NNP .\.
+htd9589	In\IN this\DT area\NN the\DT rainy\JJ season\NN remains\VBZ from\IN May\NNP to\TO November\NNP .\.
+htd9590	Tropical\JJ evergreen\NN forest\NN ,\, semi-evergreen\NN forest\NN and\CC wet\JJ deciduous\JJ forest\NN are\VBP there\RB in\IN the\DT Saddle\NNP Peak\NNP National\NNP Park\NNP .\.
+htd9591	The\DT vegetation\NN of\IN the\DT Saddle\NNP Peak\NNP Park\NNP has\VBZ an\DT abundance\NN and\CC specialty\NN of\IN wet-tropical\JJ ,\, rain\NN forests\NNS .\.
+htd9592	Saddle\NNP Peak\NNP Park\NNP is\VBZ spread\VBN with\IN lush\JJ green\JJ and\CC dense\JJ forests\NNS and\CC innumerable\JJ vegetation\NN .\.
+htd9593	The\DT animals\NNS found\VBN in\IN the\DT Saddle\NNP Peak\NNP National\NNP park\NN are\VBP wild\JJ boar\NN and\CC cheetal\NN .\.
+htd9594	Dugong\NNP ,\, dolphin\NN ,\, crocodile\NN of\IN saline\NN water\NN ,\, crocodile\NN ,\, sea\NN lizard\NN ,\, olive\JJ ridley\NN turtles\NNS are\VBP found\VBN in\IN abundance\NN .\.
+htd9595	Among\IN the\DT birds\NNS of\IN Saddle\NNP Peak\NNP National\NNP Park\NNP the\DT Andaman\NNP hill\NN ,\, mynah\JJ and\CC royal\JJ pigeon\NN are\VBP prominent\JJ .\.
+htd9596	The\DT months\NNS from\IN November\NNP to\TO March\NNP are\VBP appropriate\JJ for\IN the\DT tour\NN of\IN Saddle\NNP Peak\NNP National\NNP Park\NNP .\.
+htd9597	North\NNP Button\NNP Island\NNP was\VBD established\VBN in\IN 1979\CD in\IN an\DT area\NN of\IN 0\CD .\: 44\CD square\JJ kilometre\NN in\IN the\DT North\NNP Button\NNP island\NN of\IN the\DT Andaman\NNP district\NN .\.
+htd9598	North\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ located\VBN at\IN a\DT distance\NN of\IN 60\CD kilometres\NNS from\IN the\DT Long\NNP Island\NNP city\NN .\.
+htd9599	The\DT nearby\JJ airport\NN from\IN North\NNP Button\NNP Island\NNP Park\NNP is\VBZ in\IN Port\NNP Blair\NNP which\WDT is\VBZ 200\CD kilometres\NNS away\RB from\IN here\RB .\.
+htd9600	Evergreen\NNP ,\, semi-evergreen\NN ,\, deciduous\JJ forest\NN ,\, littoral\JJ forest\NN and\CC mangrove\NN are\VBP found\VBN in\IN North\NNP Button\NNP Island\NNP Park\NNP .\.
+htd9601	Evergreen\NNP ,\, semi-evergreen\NN ,\, deciduous\JJ forest\NN ,\, littoral\JJ forest\NN and\CC mangrove\NN forest\NN are\VBP found\VBN in\IN the\DT North\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9602	In\IN the\DT North\NNP Button\NNP Island\NNP Park\NNP several\JJ species\NNS of\IN large\JJ trees\NNS and\CC small\JJ -\: big\JJ plant\NN and\CC mutually\RB intermingled\JJ creepers\NNS and\CC bines\NNS are\VBP found\VBN .\.
+htd9603	Several\JJ species\NNS of\IN trees\NNS like\IN bellow\NN ,\, padauk\NN ,\, silver\NN gray\JJ ,\, marble\NN almond\NN ,\, chuglum\NN ,\, sun\NN etc\NN .\: are\VBP useful\JJ commercially\RB on\IN a\DT large\JJ scale\NN which\WDT are\VBP available\JJ in\IN plenty\NN in\IN the\DT North\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9604	North\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ home\NN of\IN innumerous\JJ herbs\NNS .\.
+htd9605	The\DT forest\NN animal\NN found\VBD here\RB are\VBP Andamanese\JJ pig\NN ,\, dugong\NN ,\, dolphin\NN ,\, water\NN monitor\NN ,\, several\JJ species\NNS of\IN snake\NN and\CC reptiles\NNS ,\, turtle\NN ,\, crocodile\NN etc\NN .\.
+htd9606	Elephant\NN ,\, cheetal\NN ,\, kakad\NN and\CC pada\NN have\VBP been\VBN chiefly\RB settled\VBN in\IN North\NNP Button\NNP Island\NNP National\NNP Park\NNP which\WDT are\VBP increasing\VBG .\.
+htd9607	The\DT number\NN of\IN cheetals\NNS in\IN North\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ very\RB much\RB increasing\VBG .\.
+htd9608	Andaman\NNP Teal\NNP -LRB-\-LRB- Chaiti\NNP -RRB-\-RRB- is\VBZ the\DT chief\NN among\IN the\DT birds\NNS of\IN the\DT North\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9609	Other\JJ birds\NNS of\IN the\DT North\NNP Button\NNP Island\NNP Park\NNP are\VBP Andamanese\JJ cuckoo\NN ,\, parrot\NN ,\, hilly\JJ mynah\NN ,\, pigeon\NN ,\, harial\NN ,\, phaktas\NNS ,\, eagle\NN and\CC kilkila\NN .\.
+htd9610	Several\JJ types\NNS of\IN butterflies\NNS are\VBP found\VBN in\IN the\DT North\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9611	North\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ appropriate\JJ for\IN tour\NN from\IN December\NNP to\TO April\NNP .\.
+htd9612	Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP established\VBD in\IN 1979\CD is\VBZ spread\VBN in\IN an\DT area\NN of\IN 0\CD .\: 64\CD square\JJ kilometres\NNS in\IN the\DT Andaman\NNP district\NN .\.
+htd9613	The\DT nearest\JJS city\NN from\IN Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ Long\NNP Island\NNP at\IN a\DT distance\NN of\IN 60\CD kilometres\NNS .\.
+htd9614	Port\NNP Blair\NNP ,\, the\DT capital\NN of\IN the\DT Island\NNP Group\NNP ,\, is\VBZ at\IN a\DT distance\NN of\IN 200\CD kilometres\NNS from\IN the\DT Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9615	Port\NNP Blair\NNP is\VBZ also\RB the\DT nearest\JJS airport\NN and\CC port\NN .\.
+htd9616	Like\IN Saddle\NNP Peak\NNP and\CC North\NNP Button\NNP National\NNP Parks\NNPS the\DT Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ also\RB in\IN the\DT tropical\JJ climate\NN .\.
+htd9617	The\DT forest\NN of\IN Middle\NNP Button\NNP National\NNP Park\NNP are\VBP spread\VBN with\IN large\JJ tropical\JJ ,\, evergreen\JJ and\CC other\JJ evergreen\NN trees\NNS and\CC vegetation\NN .\.
+htd9618	The\DT vegetation\NN species\NNS of\IN Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ like\IN the\DT vegetations\NNS of\IN the\DT North\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9619	The\DT animals\NNS and\CC birds\NNS of\IN Middle\NNP Button\NNP Island\NNP Park\NNP are\VBP the\DT same\JJ as\IN found\VBN in\IN the\DT North\NNP Button\NNP Island\NNP National\NNP Park\NNP .\.
+htd9620	Chief\NNP among\IN these\DT are\VBP dugong\JJ ,\, dolphin\NN ,\, crocodile\NN ,\, alligator\NN ,\, water\NN monitor\NN ,\, olive\JJ ridley\NN turtles\NNS ,\, wild\JJ boar\NN and\CC cheetal\NN .\.
+htd9621	Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP is\VBZ the\DT residing\VBG place\NN of\IN different\JJ types\NNS of\IN birds\NNS like\IN sea\NN eagle\NN ,\, pigeon\NN ,\, cheti\FW etc\FW .\.
+htd9622	Like\IN other\JJ islands\NNS in\IN Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP also\RB the\DT rains\NNS remain\VBP from\IN May\NNP to\TO November\NNP .\.
+htd9623	Therefore\RB the\DT tour\NN of\IN Middle\NNP Button\NNP Island\NNP National\NNP Park\NNP from\IN December\NNP to\TO March\NNP -\: April\NNP is\VBZ convenient\JJ .\.
+htd9624	The\DT establishment\NN of\IN South\NNP Forest\NNP Island\NNP National\NNP Park\NNP was\VBD done\VBN in\IN the\DT year\NN of\IN 1977\CD in\IN an\DT area\NN of\IN 0\CD .\: 03\CD square\JJ kilometre\NN in\IN the\DT Andaman\NNP district\NN .\.
+htd9625	The\DT nearest\JJS city\NN of\IN South\NNP Forest\NNP Island\NNP National\NNP Park\NNP is\VBZ in\IN Long\NNP Island\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN about\IN 60\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9626	Port\NNP Blair\NNP city\NN is\VBZ the\DT nearest\JJS to\TO reach\VB South\NNP Forest\NNP Island\NNP National\NNP Park\NNP through\IN airways\NNS or\CC waterways\NNS which\WDT is\VBZ about\RB 200\CD kilometres\NNS away\RB .\.
+htd9627	The\DT climate\NN of\IN South\NNP Forest\NNP Island\NNP National\NNP Park\NNP is\VBZ tropical\JJ .\.
+htd9628	It\PRP rains\NNS throughout\IN the\DT year\NN in\IN the\DT South\NNP Forest\NNP Island\NNP National\NNP Park\NNP but\CC the\DT time\NN from\IN May\NNP to\TO November\NNP is\VBZ that\IN of\IN the\DT rainy\JJ season\NN .\.
+htd9629	Adapting\VBG to\TO the\DT climate\NN and\CC according\VBG to\TO the\DT structure\NN of\IN the\DT soil\NN tropical\JJ evergreen\NN ,\, semi\NN evergreen\NN and\CC wet\JJ deciduous\JJ forests\NNS are\VBP found\VBN here\RB .\.
+htd9630	Mount\NNP Herrier\NNP National\NNP Park\NNP was\VBD established\VBN in\IN the\DT Andaman\NNP district\NN in\IN the\DT year\NN of\IN 1979\CD in\IN an\DT area\NN of\IN 0\CD .\: 46\CD square\NN kilometre\NN .\.
+htd9631	Mount\NNP Herrier\NNP National\NNP Park\NNP is\VBZ only\RB 20\CD kilometres\NNS away\RB from\IN Port\NNP Blair\NNP the\DT capital\NN of\IN the\DT Andaman\NNP Nicobar\NNP Island\NNP group\NN .\.
+htd9632	There\EX are\VBP airport\NN and\CC ports\NNS also\RB to\TO reach\VB Port\NNP Blair\NNP Park\NNP .\.
+htd9633	Mount\NNP Herrier\NNP National\NNP Park\NNP falls\VBZ in\IN the\DT tropics\NNS therefore\RB the\DT climate\NN here\RB is\VBZ hot\JJ and\CC humid\JJ .\.
+htd9634	The\DT rainy\JJ season\NN remains\VBZ in\IN the\DT Mount\NNP Herrier\NNP National\NNP Park\NNP from\IN April\NNP to\TO September\NNP .\.
+htd9635	The\DT Madumalai\NNP National\NNP Park\NNP located\VBN in\IN the\DT Nilgiri\NNP district\NN of\IN the\DT Tamilnadu\NNP state\NN is\VBZ spread\VBN in\IN an\DT area\NN of\IN 103\CD square\JJ kilometres\NNS .\.
+htd9636	The\DT Bandipur\NNP National\NNP Park\NNP of\IN the\DT Karnataka\NNP state\NN is\VBZ connecting\VBG with\IN the\DT Madumalai\NNP National\NNP Park\NNP .\.
+htd9637	Moyar\NN river\NN flows\VBZ through\IN these\DT two\CD National\NNP Parks\NNPS .\.
+htd9638	The\DT forests\NNS of\IN Kerala\NNP are\VBP also\RB connected\VBN with\IN Madumalai\NNP National\NNP Park\NNP .\.
+htd9639	Gudalur\NNP is\VBZ the\DT nearest\JJS city\NN for\IN Madumalai\NNP National\NNP Park\NNP .\.
+htd9640	Utakmand\NNP which\WDT is\VBZ the\DT rail\NN head\NN for\IN Madumalai\NNP National\NNP Park\NNP is\VBZ at\IN a\DT distance\NN of\IN 64\CD kilometres\NNS from\IN here\RB .\.
+htd9641	Nearest\JJS airport\NN Coimbatore\NNP is\VBZ at\IN a\DT distance\NN of\IN 160\CD kilometres\NNS .\.
+htd9642	97\CD kilometres\NNS away\RB the\DT Mysore\NNP city\NN of\IN Karnataka\NNP is\VBZ connected\VBN with\IN the\DT Madumalai\NNP National\NNP Park\NNP by\IN roadways\NNS .\.
+htd9643	Mukurthi\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 78\CD square\JJ kilometres\NNS in\IN the\DT Nilgiri\NNP district\NN .\.
+htd9644	Gudalur\NNP is\VBZ the\DT nearest\JJS city\NN of\IN Mukurthi\NNP National\NNP Park\NNP and\CC the\DT nearest\JJS major\JJ mountainous\JJ place\NN is\VBZ Utakmand\JJ .\.
+htd9645	The\DT climate\NN of\IN this\DT park\NN is\VBZ tropical\JJ and\CC the\DT vegetation\NN here\RB is\VBZ tropical\JJ ,\, evergreen\JJ and\CC wet\JJ deciduous\NN .\: The\DT slopy\JJ land\NN here\RB has\VBZ heavy\JJ grass\NN in\IN which\WDT there\EX are\VBP groups\NNS of\IN dense\JJ green\JJ trees\NNS .\.
+htd9646	Intanki\NNP National\NNP Park\NNP -LRB-\-LRB- Nagaland\NNP -RRB-\-RRB- has\VBZ been\VBN established\VBN in\IN an\DT area\NN of\IN 202\CD square\JJ kilometres\NNS in\IN the\DT Kohima\NNP district\NN .\.
+htd9647	The\DT nearest\JJS city\NN of\IN Intanki\NNP National\NNP Park\NNP is\VBZ Kohima\NNP .\.
+htd9648	The\DT nearest\JJS rail\NN head\NN of\IN Intanki\NNP National\NNP Park\NNP is\VBZ Dhansiripar\NNP and\CC the\DT airport\NN is\VBZ Dimapur\NNP .\.
+htd9649	The\DT Sundarban\NNP National\NNP Park\NNP -LRB-\-LRB- West\NNP Bengal\NNP -RRB-\-RRB- established\VBN in\IN 1978\CD AD\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 1350\CD square\JJ kilometres\NNS in\IN the\DT 24\CD Parganas\NNP district\NN .\.
+htd9650	The\DT city\NN settled\VBD nearest\JJS of\IN the\DT Sundarban\NNP National\NNP Park\NNP is\VBZ Gosaba\NNP .\.
+htd9651	The\DT rail\NN head\NN of\IN Sundarban\NNP National\NNP Park\NNP is\VBZ Canning\VBG at\IN a\DT distance\NN of\IN 106\CD kilometres\NNS .\.
+htd9652	Airport\NNP is\VBZ at\IN a\DT distance\NN of\IN 112\CD kilometres\NNS in\IN Dumdum\NNP -LRB-\-LRB- Kolkata\NNP -RRB-\-RRB- .\.
+htd9653	Located\VBN on\IN the\DT delta\NN built\VBN on\IN the\DT river\NN mouth\NN of\IN the\DT Ganges\NNP and\CC the\DT Brahmaputra\NNP ,\, the\DT Sundarban\NNP National\NNP Park\NNP is\VBZ one\CD among\IN the\DT major\JJ sanctuaries\NNS of\IN the\DT country\NN .\.
+htd9654	The\DT ecosystem\NN here\RB is\VBZ based\VBN on\IN the\DT mangrove\JJ tree-group\NN grown\VBN on\IN the\DT estuaries\NNS of\IN the\DT rivers\NNS .\.
+htd9655	Continuous\JJ ebb\NN and\CC tide\NN comes\VBZ in\IN the\DT Sundarban\NNP National\NNP Park\NNP from\IN the\DT Bay\NNP of\IN Bengal\NNP .\.
+htd9656	With\IN which\WDT the\DT land\NN of\IN Sundarban\NNP National\NNP Park\NNP has\VBZ become\VBN saline\NN and\CC marshy\NN .\.
+htd9657	But\CC the\DT soil\NN of\IN Sundarban\NNP Park\NNP is\VBZ nutritious\JJ ,\, climate\NN adapting\NN and\CC the\DT whole\NN of\IN the\DT system\NN is\VBZ active\JJ and\CC live\JJ .\.
+htd9658	The\DT fertile\JJ land\NN of\IN Sundarban\NNP Park\NNP affected\VBD with\IN the\DT waves\NNS of\IN the\DT sea\NN provides\VBZ nutrition\NN to\TO dense\JJ trees\NNS and\CC other\JJ vegetation\NN which\WDT has\VBZ the\DT strength\NN to\TO bear\VB the\DT blows\NNS of\IN the\DT marine\JJ tidal\JJ waves\NNS .\.
+htd9659	With\IN which\WDT the\DT wealth\NN and\CC life\NN of\IN the\DT lacs\NNS of\IN people\NNS settled\VBN near\IN the\DT park\NN and\CC the\DT ecosystem\NN of\IN the\DT Sundarban\NNP National\NNP Park\NNP get\VB protected\VBN .\.
+htd9660	The\DT green\JJ and\CC dense\JJ park\NN of\IN such\JJ type\NN is\VBZ excellent\JJ residence\NN for\IN different\JJ types\NNS of\IN animals\NNS and\CC birds\NNS .\.
+htd9661	Tiger\NNP Reserve\NNP has\VBZ been\VBN built\VBN under\IN the\DT Sundarban\NNP Tiger\NNP project\NN .\.
+htd9662	Among\IN all\PDT the\DT tiger\NN reserves\NNS of\IN India\NNP the\DT Sundarban\NNP Tiger\NNP Reserve\NNP provides\VBZ shelter\NN to\TO most\JJS of\IN the\DT tigers\NNS .\.
+htd9663	This\DT concept\NN towards\IN the\DT tigers\NNS of\IN the\DT Sundarban\NNP Park\NNP is\VBZ popular\JJ that\IN they\PRP are\VBP man\NN eaters\NNS but\CC it\PRP has\VBZ been\VBN concluded\VBN based\VBN on\IN the\DT research\NN is\VBZ that\IN only\RB 25\CD %\NN tigers\NNS are\VBP such\JJ that\WDT are\VBP man\NN eaters\NNS by\IN behavior\NN or\CC nature\NN .\.
+htd9664	Neora\NNP Valley\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1986\CD in\IN the\DT Kalimpong\NNP sub-division\NN of\IN Darjeeling\VBG district\NN .\.
+htd9665	The\DT area\NN of\IN Neora\NNP Valley\NNP National\NNP Park\NNP is\VBZ 88\CD square\JJ kilometres\NNS .\.
+htd9666	The\DT nearest\JJS city\NN of\IN Neora\NNP Valley\NNP National\NNP Park\NNP is\VBZ Kalimpong\NNP and\CC the\DT rail\NN head\NN is\VBZ Darjeeling\VBG .\.
+htd9667	The\DT nearest\JJS airport\NN of\IN Neora\NNP Valley\NNP National\NNP Park\NNP is\VBZ Bagdogra\NNP .\.
+htd9668	Neora\NNP Valley\NNP is\VBZ among\IN those\DT forest\NN wealth\NN of\IN our\PRP$ country\NN the\DT naturality\NN of\IN which\WDT is\VBZ till\IN now\RB unbroken\JJ and\CC unpolluted\JJ .\.
+htd9669	This\DT is\VBZ a\DT unique\JJ ecosystem\NN where\WRB tropical\JJ ,\, sub-tropical\JJ ,\, tropical\JJ humid\JJ and\CC subtropical\JJ humid\JJ vegetation\NN system\NN are\VBP together\RB and\CC which\WDT are\VBP rich\JJ with\IN untouched\JJ flora\NNS and\CC fauna\NNS .\.
+htd9670	In\IN the\DT forests\NNS of\IN Neora\NNP Valley\NNP National\NNP Park\NNP there\EX are\VBP mixed\JJ tree\NN species\NNS .\.
+htd9671	There\EX are\VBP several\JJ orchids\NNS in\IN Neora\NNP Valley\NNP National\NNP Park\NNP .\.
+htd9672	Approximately\RB 150\CD species\NNS of\IN orchids\NNS are\VBP found\VBN in\IN Neora\NNP Valley\NNP National\NNP Park\NNP .\.
+htd9673	Singalila\NNP National\NNP Park\NNP is\VBZ located\VBN in\IN the\DT Darjeeling\NNP district\NN and\CC is\VBZ spread\VBN in\IN 78\CD kilometres\NNS .\.
+htd9674	The\DT nearest\JJS city\NN and\CC rail\NN head\NN from\IN Singalila\NNP National\NNP Park\NNP is\VBZ Darjeeling\VBG .\.
+htd9675	Darjeeling\NNP is\VBZ at\IN a\DT distance\NN of\IN only\RB 25\CD kilometres\NNS from\IN Singalila\NNP National\NNP Park\NNP .\.
+htd9676	The\DT nearest\JJS airport\NN to\TO reach\VB Singalila\NNP National\NNP Park\NNP through\IN air\NN travel\NN is\VBZ in\IN Bagdogra\NNP .\.
+htd9677	Vuksha\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN 117\CD square\JJ kilometres\NNS area\NN under\IN Jalpaiguri\NNP district\NN .\.
+htd9678	Hasimara\NNP Colony\NNP '\POS from\IN Vuksha\NNP National\NNP Park\NNP is\VBZ at\IN a\DT distance\NN of\IN 5\CD kilometres\NNS .\.
+htd9679	Madarighat\NNP rail\NN head\NN is\VBZ one\CD kilometre\NN away\RB from\IN Vuksha\NNP National\NNP Park\NNP .\.
+htd9680	There\EX is\VBZ also\RB an\DT aerodrome\NN in\IN Hasimara\NNP .\.
+htd9681	Bagdogra\NNP is\VBZ the\DT nearest\JJS airport\NN of\IN Vuksha\NNP National\NNP Park\NNP .\.
+htd9682	Gorumara\NNP National\NNP Park\NNP has\VBZ been\VBN established\VBN in\IN Jalpairguri\NNP in\IN 79\CD square\JJ kilometres\NNS .\.
+htd9683	From\IN Gorumara\NNP National\NNP Park\NNP the\DT rail\NN head\NN Chalsa\NNP is\VBZ 13\CD kilometres\NNS away\RB .\.
+htd9684	For\IN Gorumara\NNP National\NNP Park\NNP the\DT airport\NN is\VBZ Bagdogra\NNP which\WDT is\VBZ 80\CD kilometres\NNS away\RB .\.
+htd9685	The\DT nearest\JJS settled\JJ city\NN Jalpairgudi\NNP is\VBZ at\IN a\DT distance\NN of\IN 40\CD kilometres\NNS from\IN Gorumara\NNP National\NNP Park\NNP .\.
+htd9686	The\DT climate\NN of\IN Gorumara\NNP National\NNP Park\NNP is\VBZ tropical\JJ -LRB-\-LRB- monsoonal\JJ -RRB-\-RRB- .\.
+htd9687	The\DT vegetation\NN of\IN Gorumara\NNP National\NNP Park\NNP is\VBZ tropical\JJ ,\, semi-evergreen\NN .\.
+htd9688	There\EX is\VBZ an\DT abundance\NN of\IN sal\NN and\CC bamboo\NN trees\NNS in\IN the\DT forests\NNS of\IN Gorumara\NNP National\NNP Park\NNP .\.
+htd9689	Betla\NNP National\NNP Park\NNP -LRB-\-LRB- Bihar\NNP -RRB-\-RRB- is\VBZ located\VBN in\IN the\DT Palamau\NNP district\NN .\.
+htd9690	The\DT area\NN of\IN Betla\NNP National\NNP Park\NNP is\VBZ 232\CD square\JJ kilometres\NNS .\.
+htd9691	Daltenganj\NNP the\DT city\NN near\IN Betla\NNP National\NNP Park\NNP is\VBZ at\IN a\DT distance\NN of\IN 25\CD kilometres\NNS .\.
+htd9692	Daltenganj\NNP city\NN is\VBZ also\RB the\DT rail\NN head\NN to\TO reach\VB in\IN Betla\NNP National\NNP Park\NNP .\.
+htd9693	Ranchi\NNP airport\NN is\VBZ 180\CD kilometres\NNS away\RB for\IN reaching\VBG in\IN Betla\NNP National\NNP Park\NNP through\IN airways\NNS .\.
+htd9694	Valmiki\NNP National\NNP Park\NNP is\VBZ located\VBN in\IN the\DT West\NNP Champaran\NNP district\NN in\IN an\DT area\NN of\IN 325\CD square\JJ kilometres\NNS .\.
+htd9695	The\DT nearest\JJS city\NN of\IN Valmiki\NNP National\NNP Park\NNP Betia\NNP is\VBZ at\IN a\DT distance\NN of\IN 80\CD kilometres\NNS from\IN here\RB .\.
+htd9696	The\DT nearest\JJS airport\NN to\TO reach\VB here\RB through\IN the\DT airways\NNS is\VBZ Patna\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 295\CD kilometres\NNS .\.
+htd9697	The\DT rail\NN head\NN of\IN Valmiki\NNP National\NNP Park\NNP is\VBZ Valmiki\NNP Nagar\NNP at\IN a\DT distance\NN of\IN 5\CD kilometres\NNS .\.
+htd9698	Valmiki\NNP National\NNP Park\NNP is\VBZ a\DT region\NN of\IN tropical\JJ -LRB-\-LRB- monsoonal\JJ -RRB-\-RRB- climate\NN .\.
+htd9699	Valmiki\NNP National\NNP Park\NNP has\VBZ wet\JJ ,\, dry\JJ and\CC marshy\JJ deciduous\JJ forest\NN .\.
+htd9700	Valmiki\NNP National\NNP Park\NNP has\VBZ sal\JJ forest\NN and\CC mixed\JJ autumnal\JJ vegetation\NN without\IN sal\NN .\.
+htd9701	Kanha\NNP National\NNP Park\NNP -LRB-\-LRB- Madhya\NNP Pradesh\NNP -RRB-\-RRB- established\VBN in\IN Balghat\NNP and\CC Mandla\NNP districts\NNS is\VBZ spread\VBN in\IN an\DT area\NN of\IN 940\CD square\JJ kilometres\NNS .\.
+htd9702	Kanha\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1955\CD .\.
+htd9703	At\IN a\DT distance\NN of\IN 65\CD kilometres\NNS ,\, the\DT nearest\JJS city\NN of\IN Kanha\NNP National\NNP Park\NNP is\VBZ Mandla\NNP .\.
+htd9704	Jabalpur\NNP is\VBZ at\IN a\DT distance\NN of\IN 170\CD kilometres\NNS from\IN the\DT Kanha\NNP National\NNP Park\NNP which\WDT is\VBZ the\DT rail\NN head\NN for\IN it\PRP .\.
+htd9705	The\DT Nagpur\NNP city\NN of\IN Maharashtra\NNP is\VBZ the\DT airport\NN to\TO reach\VB in\IN Kanha\NNP National\NNP Park\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 270\CD kilometres\NNS .\.
+htd9706	Sanjay\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1981\CD .\.
+htd9707	Sanjay\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN Sidhi\NNP and\CC Sarguja\NNP districts\NNS in\IN an\DT area\NN of\IN 1938\CD square\JJ kilometres\NNS .\.
+htd9708	The\DT nearest\JJS city\NN from\IN Sanjay\NNP National\NNP Park\NNP Sidhi\NNP falls\VBZ 60\CD kilometres\NNS away\RB .\.
+htd9709	The\DT rail\NN head\NN to\TO reach\VB Sanjay\NNP National\NNP Park\NNP is\VBZ Dubri\NNP which\WDT is\VBZ attached\VBN with\IN the\DT park\NN .\.
+htd9710	At\IN a\DT distance\NN of\IN 65\CD kilometres\NNS from\IN the\DT Sanjay\NNP National\NNP Park\NNP is\VBZ Sidhi\NNP airport\NN .\.
+htd9711	Major\JJ airport\NN is\VBZ in\IN Khajuraho\NNP at\IN a\DT distance\NN of\IN 270\CD kilometres\NNS from\IN Sanjay\NNP National\NNP Park\NNP .\.
+htd9712	Van\NNP Vihar\NNP National\NNP Park\NNP was\VBD established\VBN in\IN an\DT area\NN of\IN 4\CD .\: 45\CD square\JJ kilometres\NNS in\IN the\DT Bhopal\NNP district\NN in\IN 1979\CD .\.
+htd9713	The\DT capital\NN of\IN the\DT state\NN Bhopal\NNP is\VBZ only\RB 3\CD kilometres\NNS away\RB from\IN the\DT Van\NNP Vihar\NNP National\NNP Park\NNP .\.
+htd9714	The\DT airport\NN of\IN Bhopal\NNP from\IN Van\NNP Vihar\NNP National\NNP Park\NNP is\VBZ 12\CD kilometres\NNS away\RB and\CC the\DT Bhopal\NNP Railway\NNP Station\NNP 7\CD kilometres\NNS away\RB .\.
+htd9715	The\DT climate\NN of\IN Van\NNP Vihar\NNP National\NNP Park\NNP is\VBZ tropical\JJ .\.
+htd9716	The\DT forests\NNS of\IN Van\NNP Vihar\NNP National\NNP Park\NNP are\VBP tropical\JJ ,\, dry\JJ deciduous\NN .\.
+htd9717	Along\IN with\IN sal\JJ different\JJ species\NNS of\IN trees\NNS are\VBP found\VBN mixed\JJ in\IN the\DT Van\NNP Vihar\NNP National\NNP Park\NNP .\.
+htd9718	Fossil\NNP National\NNP Park\NNP has\VBZ been\VBN established\VBN in\IN 0\CD .\: 24\CD square\JJ kilometres\NNS in\IN Mandla\NNP district\NN .\.
+htd9719	Fossil\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1982\CD .\.
+htd9720	The\DT distance\NN of\IN the\DT nearest\JJS settlement\NN of\IN Fossil\NNP National\NNP Park\NNP is\VBZ 13\CD kilometres\NNS .\.
+htd9721	To\TO reach\VB Fossil\NNP National\NNP Park\NNP the\DT nearest\JJS rail\NN head\NN and\CC airport\NN are\VBP in\IN Jabalpur\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 37\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9722	The\DT speciality\NN of\IN Fossil\NNP National\NNP Park\NNP is\VBZ such\JJ that\IN the\DT vegetation\NN here\RB is\VBZ fossil\JJ .\.
+htd9723	The\DT months\NNS from\IN November\NNP to\TO May\NNP are\VBP appropriate\JJ to\TO see\VB Fossil\NNP National\NNP Park\NNP .\.
+htd9724	Kanger\NNP Valley\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 200\CD square\JJ kilometres\NNS in\IN the\DT Bastar\NNP district\NN .\.
+htd9725	Kanger\NNP Valley\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1982\CD .\.
+htd9726	The\DT nearest\JJS city\NN of\IN Kanger\NNP Valley\NNP National\NNP Park\NNP is\VBZ Jagadalpur\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 30\CD kilometres\NNS .\.
+htd9727	Jagdalpur\NNP is\VBZ also\RB the\DT rail\NN head\NN to\TO reach\VB up\RP to\TO Kanger\NNP Valley\NNP National\NNP Park\NNP .\.
+htd9728	The\DT nearest\JJS airport\NN to\TO reach\VB up\RP to\TO Kanger\NNP Valley\NNP National\NNP Park\NNP by\IN air\NN travel\NN is\VBZ 330\CD kilometres\NNS in\IN Raipur\NNP .\.
+htd9729	Pench\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1979\CD in\IN an\DT area\NN of\IN 293\CD square\JJ kilometres\NNS in\IN Siwani\NNP district\NN .\.
+htd9730	Siwani\NNP is\VBZ the\DT nearest\JJS city\NN of\IN Pench\NNP National\NNP Park\NNP and\CC is\VBZ at\IN a\DT distance\NN of\IN 50\CD kilometres\NNS .\.
+htd9731	Nagpur\NNP is\VBZ rail\NN head\NN and\CC airport\NN to\TO reach\VB up\RP to\TO Pench\NNP National\NNP Park\NNP the\DT distance\NN of\IN which\WDT from\IN the\DT park\NN is\VBZ 90\CD kilometres\NNS .\.
+htd9732	Tadowa\NNP National\NNP Park\NNP -LRB-\-LRB- Maharashtra\NNP -RRB-\-RRB- was\VBD established\VBN in\IN 116\CD .\: 55\CD square\JJ kilometres\NNS in\IN the\DT Chandrapur\NNP district\NN in\IN 1955\CD AD\NNP .\.
+htd9733	Chandrapur\NNP is\VBZ the\DT nearest\JJS city\NN of\IN Tadowa\NNP National\NNP Park\NNP which\WDT is\VBZ 45\CD kilometres\NNS away\RB from\IN there\RB .\.
+htd9734	Chandrapur\NNP itself\PRP is\VBZ the\DT rail\NN head\NN of\IN Tadowa\NNP National\NNP Park\NNP .\.
+htd9735	The\DT nearest\JJS airport\NN to\TO reach\VB up\RP to\TO Tadowa\NNP National\NNP Park\NNP is\VBZ in\IN Sonpur\NNP -LRB-\-LRB- Nagpur\NNP -RRB-\-RRB- .\.
+htd9736	Sonpur\NNP is\VBZ at\IN a\DT distance\NN of\IN 208\CD kilometres\NNS from\IN Tadowa\NNP National\NNP Park\NNP .\.
+htd9737	There\EX is\VBZ a\DT regular\JJ bus\NN service\NN of\IN the\DT Maharashtra\NNP State\NNP Transport\NNP from\IN Nagpur\NNP and\CC Chandrapur\NNP for\IN Tadowa\NNP National\NNP Park\NNP .\.
+htd9738	Tadowa\NNP National\NNP Park\NNP is\VBZ a\DT region\NN of\IN tropical\JJ ,\, monsoon\NN climate\NN .\.
+htd9739	The\DT forests\NNS of\IN Tadowa\NNP National\NNP Park\NNP are\VBP warm\JJ and\CC dry\JJ deciduous\NN .\.
+htd9740	These\DT forests\NNS of\IN Tadowa\NNP National\NNP Park\NNP are\VBP covered\VBN with\IN dense\JJ trees\NNS of\IN teak\NN .\.
+htd9741	Along\IN with\IN it\PRP are\VBP found\VBN several\JJ types\NNS of\IN plants\NNS in\IN the\DT forests\NNS of\IN Tadowa\NNP National\NNP Park\NNP .\.
+htd9742	There\EX is\VBZ the\DT Tadowa\NNP lake\NN in\IN Tadowa\NNP National\NNP Park\NNP around\IN which\WDT there\EX is\VBZ dense\JJ vegetation\NN .\.
+htd9743	These\DT dense\JJ vegetation\NN provide\VBP serenity\NN and\CC diversity\NN to\TO the\DT ecosystem\NN of\IN Tadowa\NNP park\NN .\.
+htd9744	Nawegaon\NNP National\NNP Park\NNP was\VBD established\VBN in\IN the\DT Bhandara\NNP district\NN in\IN 1975\CD AD\NN .\.
+htd9745	The\DT area\NN of\IN Nawegaon\NNP National\NNP Park\NNP is\VBZ 134\CD square\JJ kilometres\NNS .\.
+htd9746	The\DT nearest\JJS city\NN Gondia\NNP to\TO reach\VB up\RP to\TO Nawgaon\NNP National\NNP Park\NNP is\VBZ at\IN a\DT distance\NN of\IN 100\CD kilometres\NNS .\.
+htd9747	Deolgaon\NNP is\VBZ the\DT rail\NN head\NN at\IN a\DT distance\NN of\IN 1\CD kilometre\NN from\IN the\DT Nawegaon\NNP National\NNP Park\NNP .\.
+htd9748	Songaon\NNP -LRB-\-LRB- Nagpur\NNP -RRB-\-RRB- at\IN a\DT distance\NN of\IN 130\CD kilometres\NNS on\IN the\DT airways\NNS is\VBZ the\DT nearest\JJS airport\NN for\IN Nawegaon\NNP National\NNP Park\NNP .\.
+htd9749	Bus\NNP Station\NNP Sakoli\NNP is\VBZ near\IN Nawgaon\NNP National\NNP Park\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 32\CD kilometres\NNS from\IN the\DT park\NN .\.
+htd9750	Sanjay\NNP Gandhi\NNP National\NNP Park\NNP was\VBD established\VBN in\IN an\DT area\NN of\IN about\IN 97\CD kilometres\NNS in\IN Thane\NNP and\CC Mumbai\NNP district\NN in\IN 1983\CD .\.
+htd9751	Boriwali\JJ city\NN is\VBZ only\RB 3\CD kilometres\NNS away\RB from\IN Sanjay\NNP Gandhi\NNP National\NNP Park\NNP .\.
+htd9752	Boriwali\NNP is\VBZ also\RB the\DT rail\NN head\NN to\TO reach\VB up\RP to\TO Sanjay\NNP Gandhi\NNP National\NNP Park\NNP .\.
+htd9753	To\TO reach\VB through\IN air\NN travel\NN the\DT airport\NN Santa\NNP Cruz\NNP -LRB-\-LRB- Mumbai\NNP -RRB-\-RRB- is\VBZ at\IN a\DT distance\NN of\IN 15\CD kilometres\NNS from\IN Sanjay\NNP Gandhi\NNP National\NNP Park\NNP .\.
+htd9754	Gugamal\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 361\CD square\JJ kilometres\NNS in\IN the\DT Amravati\NNP district\NN .\.
+htd9755	The\DT nearest\JJS bus\NN terminus\NN from\IN Gugamal\NNP National\NNP Park\NNP is\VBZ Paratwada\NNP at\IN a\DT distance\NN of\IN 60\CD kilometres\NNS .\.
+htd9756	The\DT rail\NN head\NN for\IN Gugamal\NNP National\NNP Park\NNP is\VBZ 60\CD kilometres\NNS away\RB in\IN Badnera\NNP .\.
+htd9757	The\DT airport\NN for\IN Gugamal\NNP National\NNP Park\NNP is\VBZ 200\CD kilometres\NNS away\RB in\IN Songaon\NNP -LRB-\-LRB- Nagpur\NNP -RRB-\-RRB- .\.
+htd9758	Gugamal\NNP National\NNP Park\NNP is\VBZ part\NN of\IN tropical\JJ climate\NN .\.
+htd9759	The\DT forests\NNS of\IN Gugamal\NNP National\NNP Park\NNP are\VBP tropical\JJ ,\, dry\JJ deciduous\NN .\.
+htd9760	Mixed\JJ species\NNS and\CC teak\NN trees\NNS are\VBP found\VBN in\IN the\DT forests\NNS of\IN Gugamal\NNP National\NNP Park\NNP .\.
+htd9761	Keibul\NNP Lagjao\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 40\CD square\JJ kilometres\NNS in\IN Imphal\NNP and\CC Vishnupur\NNP districts\NNS of\IN Manipur\NNP state\NN .\.
+htd9762	Keibul\NNP Lagjao\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1975\CD .\.
+htd9763	The\DT Koirang\NNP city\NN nearest\IN to\TO Keibul\NNP Lagjao\NNP National\NNP Park\NNP is\VBZ 10\CD kilometres\NNS away\RB from\IN here\RB .\.
+htd9764	The\DT rail\NN head\NN to\TO reach\VB Keibul\NNP Lagjao\NNP National\NNP Park\NNP is\VBZ 265\CD kilometres\NNS away\RB .\.
+htd9765	The\DT airport\NN of\IN Julilal\NNP is\VBZ 45\CD kilometres\NNS away\RB from\IN Keibul\NNP National\NNP Park\NNP .\.
+htd9766	Imphal\NNP is\VBZ 45\CD kilometres\NNS away\RB from\IN Keibul\NNP Lagjao\NNP National\NNP Park\NNP .\.
+htd9767	Serohi\NNP National\NNP Park\NNP was\VBD established\VBN in\IN an\DT area\NN of\IN 41\CD square\JJ kilometres\NNS in\IN the\DT year\NN of\IN 1982\CD in\IN the\DT eastern\JJ district\NN .\.
+htd9768	Serohi\NNP National\NNP Park\NNP is\VBZ located\VBN at\IN a\DT distance\NN of\IN about\IN 5\CD kilometres\NNS from\IN Ukhrul\NNP ,\, the\DT headquarters\NN of\IN district\NN .\.
+htd9769	To\TO reach\VB Serohi\NNP National\NNP Park\NNP the\DT rail\NN head\NN is\VBZ 270\CD kilometres\NNS away\RB in\IN Dimapur\NNP and\CC airport\NN Julilal\JJ about\IN 50\CD kilometres\NNS away\RB .\.
+htd9770	The\DT climate\NN Serohi\NNP National\NNP Park\NNP is\VBZ tropical\JJ .\.
+htd9771	The\DT forests\NNS of\IN Serohi\NNP National\NNP Park\NNP are\VBP dry\JJ ,\, wet\JJ ,\, evergreen\NN and\CC semi-evergreen\NN .\.
+htd9772	Average\JJ height\NN of\IN Serohi\NNP National\NNP Park\NNP from\IN the\DT sea\NN level\NN is\VBZ up\IN to\TO 2450\CD metres\NNS .\.
+htd9773	Serohi\NNP National\NNP Park\NNP was\VBD established\VBN in\IN an\DT area\NN of\IN 200\CD square\JJ kilometres\NNS in\IN the\DT Aizawl\NNP district\NN in\IN 1991\CD .\.
+htd9774	Serohi\NNP National\NNP Park\NNP is\VBZ 240\CD kilometres\NNS away\RB from\IN Aizawl\NNP .\.
+htd9775	The\DT nearest\JJS rail\NN head\NN Silchar\NNP of\IN Serohi\NNP National\NNP Park\NNP is\VBZ 180\CD kilometres\NNS away\RB .\.
+htd9776	From\IN Serohi\NNP National\NNP Park\NNP the\DT airport\NN is\VBZ 240\CD kilometres\NNS away\RB in\IN Turial\NNP .\.
+htd9777	Blue\NNP Mountain\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1991\CD in\IN an\DT area\NN of\IN 50\CD square\JJ kilometres\NNS in\IN Chhimatuipui\NNP district\NN .\.
+htd9778	Blue\NNP Mountain\NNP National\NNP Park\NNP is\VBZ 137\CD kilometres\NNS away\RB from\IN Lunglei\NNP city\NN .\.
+htd9779	Blue\NNP Mountain\NNP National\NNP Park\NNP is\VBZ located\VBN 137\CD kilometres\NNS away\RB from\IN the\DT capital\NN Aizawl\NNP .\.
+htd9780	The\DT nearest\JJS rail\NN head\NN of\IN Blue\NNP Mountain\NNP National\NNP Park\NNP is\VBZ Silchar\NNP and\CC the\DT airport\NN is\VBZ in\IN Tuirial\NNP .\.
+htd9781	Balphakram\NNP National\NNP Park\NNP -LRB-\-LRB- Meghalaya\NNP -RRB-\-RRB- ,\, is\VBZ located\VBN in\IN West\NNP Garo\NNP Hills\NNP district\NN in\IN an\DT area\NN of\IN 240\CD square\JJ kilometres\NNS .\.
+htd9782	The\DT nearest\JJS city\NN from\IN Balphakram\NNP National\NNP Park\NNP is\VBZ William\NNP Nagar\NNP at\IN a\DT distance\NN of\IN 15\CD kilometres\NNS .\.
+htd9783	The\DT rail\NN head\NN of\IN Balphakram\NNP National\NNP Park\NNP is\VBZ Guwahati\NNP 160\CD kilometres\NNS away\RB .\.
+htd9784	To\TO reach\VB Balphakram\NNP National\NNP Park\NNP the\DT airport\NN is\VBZ also\RB Guwahati\NNP .\.
+htd9785	The\DT climate\NN of\IN Balphakram\NNP National\NNP Park\NNP is\VBZ sub-tropical\JJ .\.
+htd9786	Balphakram\NNP National\NNP Park\NNP has\VBZ semi-evergreen\JJ and\CC wet\JJ deciduous\JJ forests\NNS .\.
+htd9787	Sal\JJ trees\NNS are\VBP found\VBN abundantly\RB in\IN the\DT forests\NNS of\IN Balphakram\NNP National\NNP Park\NNP .\.
+htd9788	Nakrek\NNP National\NNP Park\NNP is\VBZ located\VBN in\IN West\NNP Garo\NNP Hills\NNP in\IN an\DT area\NN of\IN 47\CD square\JJ kilometres\NNS .\.
+htd9789	The\DT nearest\JJS city\NN from\IN Nakrek\NNP National\NNP Park\NNP is\VBZ William\NNP Nagar\NNP 60\NNP kilometres\VBZ away\RB .\.
+htd9790	Guwahati\NNP airport\NN falls\VBZ 210\CD kilometres\NNS away\RB from\IN Nakrek\NNP National\NNP Park\NNP .\.
+htd9791	The\DT climate\NN here\RB is\VBZ sub-tropical\JJ and\CC its\PRP$ forests\NNS are\VBP semi-evergreen\JJ and\CC wet\JJ deciduous\NN .\.
+htd9792	The\DT Ranthambhore\NNP National\NNP Park\NNP established\VBD in\IN 1955\CD AD\NNP in\IN Sawai\NNP Madhopur\NNP district\NN is\VBZ spread\VBN in\IN an\DT area\NN of\IN 392\CD square\JJ kilometres\NNS on\IN the\DT confluence\NN of\IN Arawali\NNP and\CC Vindhyachal\NNP mountain\NN ranges\NNS .\.
+htd9793	The\DT city\NN and\CC rail\NN head\NN falling\VBG nearest\IN to\TO Ranthambhore\NNP National\NNP Park\NNP is\VBZ Sawai\NNP Madhopur\NNP .\.
+htd9794	The\DT nearest\JJS airport\NN to\TO reach\VB here\RB through\IN airways\NNS is\VBZ 132\CD kilometres\NNS away\RB in\IN Jaipur\NNP .\.
+htd9795	Sariska\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1982\CD in\IN an\DT area\NN of\IN 724\CD square\JJ kilometres\NNS in\IN Alwar\NNP district\NN .\.
+htd9796	Alwar\NNP at\IN a\DT distance\NN of\IN 36\CD kilometres\NNS is\VBZ the\DT nearest\JJS city\NN and\CC rail\NN head\NN of\IN Sariska\NNP National\NNP Park\NNP .\.
+htd9797	The\DT nearest\JJS airport\NN for\IN Sariska\NNP National\NNP Park\NNP is\VBZ 110\CD kilometres\NNS away\RB in\IN Jaipur\NNP city\NN .\.
+htd9798	The\DT climate\NN of\IN Sariska\NNP National\NNP Park\NNP is\VBZ sub-tropical\JJ .\.
+htd9799	The\DT forests\NNS of\IN Sariska\NNP National\NNP Park\NNP are\VBP sub-tropical\JJ and\CC thorny\JJ .\.
+htd9800	It\PRP rains\NNS very\RB less\RBR in\IN Sariska\NNP Park\NNP and\CC the\DT temperatures\NNS up\IN to\TO 49\CD ⁰\CD Celsius\NNP .\.
+htd9801	This\DT park\NN is\VBZ immersed\VBN in\IN gorges\NNS and\CC valleys\NNS amidst\VBP the\DT ranges\NNS of\IN Aravalli\NNP .\.
+htd9802	Ruins\NNS of\IN old\JJ temples\NNS and\CC forts\NNS can\MD also\RB be\VB seen\VBN in\IN Sariska\NNP National\NNP Park\NNP .\.
+htd9803	There\EX are\VBP mixed\JJ trees\NNS of\IN butea\NN ,\, salai\NN ,\, black\JJ berry\NN ,\, berries\NNS ,\, baheda\FW etc\FW .\: in\IN the\DT forests\NNS of\IN Sariska\NNP National\NNP Park\NNP .\.
+htd9804	Stomachs\NNS of\IN the\DT herbivorous\JJ animals\NNS here\RB get\VB supplied\VBN with\IN the\DT leaves\NNS and\CC grass\NN of\IN the\DT trees\NNS here\RB .\.
+htd9805	The\DT humidity\NN filled\VBD Keoladeo\NNP Ghana\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1981\CD AD\NNP in\IN an\DT area\NN of\IN 29\CD square\JJ kilometres\NNS in\IN the\DT Bharatpur\NNP district\NN in\IN 1981\CD AD\NNP .\.
+htd9806	Bharatpur\NNP city\NN is\VBZ two\CD kilometres\NNS away\RB from\IN Keoladev\NNP Ghana\NNP National\NNP Park\NNP .\.
+htd9807	The\DT rail\NN head\NN for\IN here\RB is\VBZ 8\CD kilometres\NNS away\RB in\IN Bharatpur\NNP .\.
+htd9808	On\IN the\DT airways\NNS for\IN Keoladev\NNP Ghana\NNP National\NNP Park\NNP ,\, Agra\NNP is\VBZ the\DT nearest\JJS airport\NN .\.
+htd9809	This\DT airport\NN is\VBZ 55\CD kilometres\NNS away\RB from\IN Keoladev\NNP Ghana\NNP Park\NNP .\.
+htd9810	Desert\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 3162\CD square\JJ kilometres\NNS in\IN Jaisalmer\NNP district\NN .\.
+htd9811	The\DT nearest\JJS city\NN Jaisalmer\NN is\VBZ 45\CD kilometres\NNS away\RB from\IN Desert\NNP National\NNP Park\NNP .\.
+htd9812	Jaisalmer\NNP is\VBZ the\DT rail\NN head\NN for\IN Desert\NNP National\NNP Park\NNP .\.
+htd9813	Desert\NNP National\NNP Park\NNP is\VBZ in\IN the\DT tropical\JJ region\NN .\.
+htd9814	It\PRP rains\NNS very\RB less\RBR here\RB .\.
+htd9815	The\DT temperature\NN of\IN Desert\NNP National\NNP Park\NNP reaches\VBZ up\IN to\TO 50\CD ⁰\CD C\NNP .\.
+htd9816	The\DT whole\NN of\IN this\DT area\NN of\IN Desert\NNP National\NNP Park\NNP is\VBZ without\IN forests\NNS .\.
+htd9817	Only\RB thorny\JJ bushes\NNS and\CC grass\NN are\VBP found\VBN here\RB .\.
+htd9818	Black\NNP deer\NN ,\, chinkara\NN ,\, desert\NN cat\NN ,\, fox\NN are\VBP found\VBN in\IN this\DT desert\NN park\NN .\.
+htd9819	Tukdar\NNP -LRB-\-LRB- Hukna\NNP -RRB-\-RRB- are\VBP the\DT common\JJ birds\NNS of\IN Desert\NNP National\NNP Park\NNP .\.
+htd9820	September\NNP to\TO February\NNP is\VBZ appropriate\JJ time\NN to\TO tour\VB the\DT Desert\NNP National\NNP Park\NNP .\.
+htd9821	Several\JJ shelter\NN houses\NNS are\VBP present\JJ in\IN the\DT Desert\NNP National\NNP Park\NNP .\.
+htd9822	Kanchenjunga\NNP National\NNP Park\NNP was\VBD established\VBN in\IN 1977\CD AD\NN .\.
+htd9823	Kanchenjunga\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 850\CD square\JJ kilometres\NNS in\IN the\DT Northern\NNP District\NNP of\IN Sikkim\NNP .\.
+htd9824	The\DT rail\NN head\NN to\TO reach\VB here\RB is\VBZ 221\CD kilometres\NNS away\RB in\IN Jalpaigudi\NNP .\.
+htd9825	The\DT nearest\JJS airport\NN of\IN Kanchenjunga\NNP National\NNP Park\NNP is\VBZ 221\CD kilometres\NNS away\RB in\IN Bagdogra\NNP .\.
+htd9826	The\DT climate\NN of\IN Kanchenjunga\NNP National\NNP Park\NNP is\VBZ wet\JJ deciduous\NN .\.
+htd9827	The\DT forests\NNS here\RB are\VBP mountainous\JJ wet\JJ deciduous\NN .\.
+htd9828	The\DT temperature\NN of\IN Kanchenjunga\NNP National\NNP Park\NNP is\VBZ from\IN 40\CD ⁰\NNP C\NNP to\TO 17\CD ⁰\CD C\NNP .\.
+htd9829	The\DT vegetation\NN of\IN Kanchenjunga\NNP National\NNP Park\NNP is\VBZ of\IN coniferous\JJ trees\NNS ,\, fur\NN and\CC banjh\NN .\.
+htd9830	Among\IN the\DT birds\NNS found\VBN in\IN Kanchenjunga\NNP National\NNP Park\NNP are\VBP Monal\JJ and\CC tragopan\JJ pheasant\NN ,\, herial\NN and\CC snow\NN cocks\NNS .\.
+htd9831	Sultanpur\NNP National\NNP Park\NNP in\IN Gurgaon\NNP district\NN is\VBZ located\VBN 15\CD kilometres\NNS away\RB from\IN Gurgaon\NNP and\CC 50\CD kilometres\NNS away\RB from\IN Delhi\NNP .\.
+htd9832	Sultanpur\NNP National\NNP Park\NNP is\VBZ spread\VBN in\IN an\DT area\NN of\IN 1\CD .\: 47\CD square\JJ kilometres\NNS .\.
+htd9833	The\DT nearest\JJS rail\NN head\NN for\IN this\DT park\NN is\VBZ in\IN Gurgaon\NNP and\CC the\DT airport\NN in\IN Delhi\NNP is\VBZ Palam\NNP .\.
+htd9834	The\DT area\NN of\IN Sultanpur\NNP National\NNP Park\NNP comes\VBZ under\IN the\DT tropical\JJ climate\NN area\NN .\.
+htd9835	Dry\NNP deciduous\JJ tree\NN are\VBP scattered\VBN in\IN Sultanpur\NNP National\NNP Park\NNP and\CC there\EX are\VBP fields\NNS of\IN acacia\NN grass\NN .\.
+htd9836	Nilgai\NN and\CC cheetal\NN are\VBP found\VBN in\IN Sultanpur\NNP National\NNP Park\NNP .\.
+htd9837	This\DT is\VBZ mainly\RB the\DT residing\VBG place\NN of\IN resident\NN and\CC migratory\JJ words\NNS .\.
+htd9838	250\CD species\NNS of\IN birds\NNS are\VBP identified\VBN in\IN Sultanpur\NNP National\NNP Park\NNP out\IN which\WDT 90\CD are\VBP migratory\JJ which\WDT come\VBP here\RB from\IN different\JJ parts\NNS of\IN India\NNP or\CC other\JJ countries\NNS .\.
+htd9839	Among\IN the\DT birds\NNS found\VBD here\RB are\VBP duck\NN ,\, teal\NN ,\, nilsar\NN ,\, stork\NN ,\, voghans\NNS ,\, eagle\NN ,\, gugla\NN ,\, chamchabaj\NN harial\NN ,\, partridge\NN ,\, quail\NN ,\, domda\NN ,\, shrike\NN ,\, anjan\NN ,\, kilkila\NN ,\, dhanesh\NN ,\, water\NN crow\NN ,\, hawasil\NN ,\, lagalaga\NN ,\, ghoghil\NN ,\, jalpihi\FW etc\FW .\.
+htd9840	Great\NNP Himalayan\NNP National\NNP Park\NNP was\VBD established\VBN in\IN an\DT area\NN of\IN 765\CD square\JJ kilometres\NNS in\IN 1954\CD in\IN Kullu\NNP district\NN .\.
+htd9841	The\DT real\JJ head\NN of\IN this\DT park\NN is\VBZ in\IN Jogendar\NNP Nagar\NNP and\CC the\DT airport\NN in\IN Kullu\NNP .\.
+htd9842	From\IN Great\NNP Himalayan\NNP National\NNP Park\NNP ,\, Jogendar\NNP Nagar\NNP is\VBZ about\RB 100\CD kilometres\NNS and\CC Kullu\NNP Airport\NNP is\VBZ 50\CD kilometres\NNS away\RB .\.
+htd9843	The\DT climate\NN of\IN Great\NNP Himalayan\NNP National\NNP Park\NNP is\VBZ wet\JJ mountainous\NNS .\.
+htd9844	The\DT general\JJ height\NN of\IN Great\NNP Himalayan\NNP National\NNP Park\NNP is\VBZ 2500\CD metres\NNS away\RB from\IN the\DT sea\NN level\NN .\.
+htd9845	Trees\NNP of\IN pine\VB and\CC cedar\NN are\VBP found\VBN in\IN the\DT Great\NNP Himalayan\NNP National\NNP Park\NNP .\.
+htd9846	Among\IN the\DT forest\NN life\NN here\RB are\VBP panther\NN ,\, wolves\NNS ,\, Himalayan\JJ thar\NN ,\, serao\NN ,\, musk\NN deer\NN ,\, bharal\NN and\CC squirrel\NN .\.
+htd9847	Among\IN the\DT birds\NNS found\VBN in\IN Great\JJ Himalayan\NNP National\NNP Park\NNP are\VBP varieties\NNS of\IN pheasant\NN -\: tragopan\NN ,\, monal\NN ,\, eagle\NN and\CC hawk\NN etc\NN .\.
+htd9848	Pin\NNP Valley\NNP National\NNP Park\NNP has\VBZ been\VBN established\VBN in\IN an\DT area\NN of\IN 675\CD square\JJ kilometres\NNS in\IN the\DT Lahul\NNP and\CC Spiti\NNP districts\NNS of\IN Himachal\NNP Pradesh\NNP .\.
+htd9849	The\DT nearest\JJS rail\NN head\NN and\CC airport\NN of\IN Pin\NNP Valley\NNP National\NNP Park\NNP is\VBZ in\IN Shimla\NNP and\CC which\WDT is\VBZ at\IN a\DT distance\NN of\IN 375\CD kilometres\NNS .\.
+htd9850	The\DT nearest\JJS city\NN of\IN Pin\NNP Valley\NNP National\NNP Park\NNP is\VBZ Kaza\NNP which\WDT is\VBZ at\IN a\DT distance\NN of\IN 25\CD kilometres\NNS .\.
+htd9851	The\DT climate\NN of\IN Pin\NNP Valley\NNP National\NNP Park\NNP is\VBZ cold\JJ and\CC mountainous\JJ .\.
+htd9852	The\DT land\NN of\IN this\DT park\NN is\VBZ hilly\JJ ,\, the\DT height\NN of\IN which\WDT from\IN the\DT sea\NN level\NN is\VBZ from\IN 3700\CD metres\NNS to\TO 6600\CD metres\NNS .\.
+htd9853	The\DT part\NN above\IN 5000\CD metres\NNS in\IN the\DT Pin\NNP Valley\NNP National\NNP Park\NNP remain\VBP always\RB snow\NN laden\JJ .\.
+htd9854	Very\RB little\JJ vegetation\NN grow\VB there\RB and\CC whatever\WDT vegetation\NN is\VBZ there\RB that\DT is\VBZ cold\JJ desertous\NN .\.
+htd9855	The\DT bush\JJ vegetation\NN of\IN Pin\NNP Valley\NNP National\NNP Park\NNP are\VBP wild\JJ rose\NN ,\, hipochia\NN and\CC afreda\NN .\.
+htd9856	Among\IN the\DT forest\NN life\NN here\RB are\VBP panthers\NNS ,\, snow\NN beer\NN ,\, brown\JJ fox\NN ,\, ivakes\NNS ,\, bharal\JJ ,\, white\JJ rabbit\NN ,\, beaver\FW etc\FW .\.
+htd9857	Birds\NNS found\VBN in\IN the\DT Pin\NNP Valley\NNP National\NNP Park\NNP are\VBP snow\NN hen\NN ,\, chakor\NN ,\, hilly\JJ pigeon\NN ,\, aari\JJ ,\, teal\JJ ,\, lalpari\FW etc\FW .\.
+htd9858	For\IN the\DT tour\NN of\IN Pin\NNP Valley\NNP Park\NNP the\DT months\NNS from\IN March\NNP to\TO June\NNP and\CC September\NNP -\: October\NNP are\VBP appropriate\JJ .\.
+htd9859	A\DT tower\NN was\VBD built\VBN in\IN 1814\CD in\IN the\DT name\NN of\IN Sir\NNP David\NNP Octorloni\NNP victorious\JJ in\IN the\DT Nepal\NNP war\NN .\.
+htd9860	Which\WDT was\VBD later\RB named\VBN as\IN Martyr\NNP Tower\NNP .\.
+htd9861	The\DT Martyr\NNP Tower\NNP is\VBZ about\RB 48\CD metres\NNS high\JJ .\.
+htd9862	There\EX are\VBP flights\NNS from\IN the\DT Dumdum\NNP Airport\NNP of\IN Kolkata\NNP to\TO all\PDT the\DT places\NNS of\IN India\NNP .\.
+htd9863	Dumdum\NNP Airport\NNP has\VBZ become\VBN of\IN the\DT International\JJ level\NN .\.
+htd9864	Dumdum\NNP Airport\NNP is\VBZ directly\RB connected\VBN with\IN South-East\JJ Asian\JJ countries\NNS and\CC Australia\NNP .\.
+htd9865	There\EX are\VBP trains\NNS for\IN Howerah\NNP and\CC Sealdah\NNP Railway\NNP Stations\NNS from\IN every\DT corner\NN of\IN the\DT country\NN .\.
+htd9866	One\CD can\MD tour\VB the\DT visiting\VBG places\NNS through\IN trains\NNS ,\, trams\NNS ,\, metro\NN train\NN ,\, private\JJ public\JJ buses\NNS ,\, mini\NN buses\NNS ,\, taxis\NNS and\CC luxury\NN taxies\NNS here\RB .\.
+htd9867	The\DT facility\NN of\IN water\NN transport\NN is\VBZ also\RB available\JJ in\IN Kolkata\NNP .\.
+htd9868	For\IN Belur\NNP Math\NNP ,\, Botanical\NNP Garden\NNP along\IN with\IN visits\NNS to\TO the\DT visiting\VBG places\NNS through\IN boats\NNS one\PRP can\MD also\RB enjoy\VB water\NN sports\NNS .\.
+htd9869	Among\IN the\DT super\JJ deluxe\JJ hotels\NNS in\IN Kolkata\NNP are\VBP Hindustan\NNP International\NNP ,\, Hyatt\NNP Regency\NNP ,\, Taj\NNP Bengal\NNP ,\, ITC\NNP Sonar\NNP Bangla\NNP ,\, Sheraton\NNP Towers\NNP ,\, Park\NNP Hotel\NNP ,\, Grand\NNP Oberoi\NNP ,\, Radisson\NNP etc\FW .\.
+htd9870	Among\IN the\DT common\JJ hotels\NNS there\EX are\VBP also\RB Royal\NNP Garden\NNP ,\, Bypass\NNP Swimming\NNP Resort\NNP ,\, Rajasthan\NNP Guest\NNP House\NNP ,\, Park\NNP Palace\NNP Hotel\NNP etc\NN .\.
+htd9871	Shantiniketan\NNP is\VBZ an\DT unobliterable\JJ mark\NN of\IN poet\NN Rabindranath\NNP Thakur\NNP in\IN the\DT culture\NN of\IN Bengal\NNP .\.
+htd9872	It\PRP is\VBZ said\VBD that\IN music\NN ,\, dance\NN ,\, drama\NN ,\, literature\NN have\VBP amalgamated\VBN with\IN Shantiniketan\NNP .\.
+htd9873	Along\IN with\IN this\DT it\PRP is\VBZ also\RB an\DT international\JJ center\NN of\IN education\NN .\.
+htd9874	When\WRB Rabindranath\NNP Thakur\NNP first\RB came\VBD in\IN 1862\CD then\RB having\VBG been\VBN impressed\VBN with\IN the\DT natural\JJ beauty\NN here\RB he\PRP built\VBD a\DT small\JJ house\NN for\IN himself\PRP here\RB and\CC named\VBN that\IN small\JJ house\NN as\IN Shantiniketan\NNP .\.
+htd9875	Debendranath\NNP 's\POS son\NN Rabindranath\NNP was\VBD also\RB very\RB impressed\JJ with\IN the\DT climate\NN here\RB .\.
+htd9876	His\PRP$ heart\NN started\VBD enjoying\VBG amidst\JJ nature\NN .\.
+htd9877	He\PRP also\RB used\VBD to\TO come\VB here\RB often\RB in\IN search\NN of\IN peace\NN amidst\NN nature\NN .\.
+htd9878	The\DT natural\JJ beauty\NN here\RB worked\VBD as\IN a\DT catalyst\NN in\IN his\PRP$ literary\JJ spiritualism\NN .\.
+htd9879	After\IN this\DT on\IN 22nd\JJ December\NNP 1901\CD he\PRP founded\VBD a\DT school\NN at\IN Shantiniketan\NNP and\CC it\PRP was\VBD started\VBN to\TO run\VB on\IN the\DT ancient\JJ concept\NN of\IN Gurukul\NNP .\.
+htd9880	Classes\NNS used\VBN to\TO be\VB held\VBN under\IN the\DT dense\JJ shady\JJ trees\NNS here\RB .\.
+htd9881	Later\RB it\PRP was\VBD named\VBN Vishva\NNP Bharati\NNP .\.
+htd9882	Vishva\NNP Bharati\NNP has\VBZ a\DT history\NN of\IN more\JJR than\IN 100\CD years\NNS old\JJ .\.
+htd9883	Students\NNS from\IN all\DT over\IN the\DT world\NN come\VBN here\RB for\IN higher\JJR education\NN facilities\NNS on\IN subjects\NNS like\IN humanism\NN ,\, social\JJ science\NN ,\, fine\JJ arts\NNS ,\, music\NN ,\, dance\NN ,\, performing\VBG arts\NNS ,\, education\NN ,\, agriculture\NN ,\, science\NN and\CC rural\JJ reconstruction\NN etc\NN .\.
+htd9884	Degrees\NNS received\VBD from\IN here\RB are\VBP valued\VBN across\IN the\DT world\NN .\.
+htd9885	Vishva\NNP Bharati\NNP has\VBZ become\VBN a\DT reflection\NN of\IN cultural\JJ heritage\NN of\IN India\NNP in\IN front\NN of\IN the\DT world\NN in\IN these\DT 100\CD years\NNS .\.
+htd9886	For\IN this\DT very\JJ reason\NN a\DT foreign\JJ tourist\NN coming\VBG to\TO India\NNP definitely\RB comes\VBZ to\TO Shantiniketan\NNP once\RB .\.
+htd9887	Even\RB today\NN education\NN is\VBZ imparted\VBN here\RB in\IN the\DT open\JJ air\NN .\.
+htd9888	Arts\NNP has\VBZ been\VBN given\VBN just\RB the\DT right\JJ place\NN in\IN Indian\NNP Education\NNP System\NNP through\IN Kala\NNP Bhavan\NNP and\CC Sangeet\NNP Bhavan\NNP .\.
+htd9889	It\PRP was\VBD given\VBN the\DT recognition\NN of\IN Central\NNP University\NNP in\IN 1951\CD .\.
+htd9890	Talking\VBG of\IN visiting\VBG places\NNS in\IN terms\NNS of\IN tourism\NN ,\, various\JJ buildings\NNS of\IN Vishva\NNP Bharati\NNP are\VBP the\DT main\JJ attraction\NN here\RB .\.
+htd9891	The\DT part\NN in\IN which\WDT Rabindranath\NNP used\VBD to\TO live\VB is\VBZ called\VBN Uttarayan\NNP .\.
+htd9892	It\PRP is\VBZ now\RB known\VBN as\IN Udayan\NNP .\.
+htd9893	Besides\IN this\DT there\EX are\VBP buildings\NNS named\VBN Konark\NNP ,\, Shyamali\NNP ,\, Punascha\NNP ,\, Udichi\NNP too\RB .\.
+htd9894	One\CD building\NN here\RB is\VBZ famous\JJ by\IN the\DT name\NN Vichitra\NNP .\.
+htd9895	The\DT designing\VBG of\IN this\DT building\NN was\VBD done\VBN by\IN Rabindranath\NNP 's\POS son\NN Rathindranath\NNP .\.
+htd9896	So\IN it\PRP is\VBZ also\RB known\VBN as\IN Rathindra\NNP Bhavan\NNP .\.
+htd9897	There\EX is\VBZ also\RB a\DT Research\NNP Institute\NNP and\CC Museum\NNP here\RB .\.
+htd9898	Idols\NNS of\IN Bengal\NNP 's\POS famous\JJ sculptor\NN Ramkinkar\NNP Baij\NNP in\IN Kala\NNP Bhavan\NNP 's\POS gallery\NN are\VBP the\DT center\NN of\IN special\JJ attraction\NN .\.
+htd9899	One\CD Sriniketan\NN was\VBD built\VBN here\RB in\IN 1922\CD which\WDT is\VBZ the\DT center\NN of\IN Rural\NNP Reconstruction\NNP .\.
+htd9900	There\EX is\VBZ also\RB an\DT agricultural\JJ college\NN here\RB .\.
+htd9901	This\DT place\NN is\VBZ 30\CD kilometres\NNS away\RB from\IN Shantiniketan\NNP .\.
+htd9902	In\IN this\DT deer\NN park\NN popularly\RB known\VBN as\IN Ballabhpur\NNP along\IN with\IN black\JJ deer\NN ,\, spotted\JJ deer\NN ,\, jackal\NN and\CC fox\NN .\.T variety\NN of\IN birds\NNS roaming\VBG in\IN the\DT water\NN can\MD be\VB seen\VBN .\.
+htd9903	Kenduli\NNP is\VBZ at\IN a\DT distance\NN of\IN approximately\RB 30\CD kilometres\NNS from\IN Shantiniketan\NNP .\.
+htd9904	This\DT place\NN has\VBZ historic\JJ and\CC literary\JJ importance\NN .\.
+htd9905	This\DT is\VBZ the\DT birthplace\NN of\IN Bhaktikal\JJ poet\NN Jayadeva\NN .\.
+htd9906	It\PRP is\VBZ believed\VBN that\IN Jayadeva\NNP created\VBD his\PRP$ famous\JJ composition\NN `\`` Geet\NNP Govindam\NNP '\POS here\RB itself\PRP .\.
+htd9907	On\IN the\DT day\NN of\IN Makar\NNP Sankranti\NNP `\`` Baul\NNP '\POS fair\NN takes\VBZ place\NN in\IN Kenduli\NNP which\WDT is\VBZ folk\NN music\NN of\IN Bengal\NNP .\.
+htd9908	Assam\NNP is\VBZ called\VBN the\DT Gateway\NN to\TO the\DT North-East\NNP .\.
+htd9909	According\VBG to\TO ancient\JJ history\NN it\PRP was\VBD known\VBN as\IN Pragjyotishpur\NNP .\.
+htd9910	After\IN this\DT area\NN was\VBD occupied\VBN and\CC subsequently\RB ruled\VBN by\IN the\DT Ahom\NNP caste\NN of\IN Thailand\NNP it\PRP is\VBZ known\VBN with\IN the\DT name\NN of\IN Asom\NNP or\CC Assam\NNP ,\, therefore\RB an\DT influence\NN of\IN Thai\NNP culture\NN is\VBZ seen\VBN here\RB .\.
+htd9911	The\DT biggest\JJS attraction\NN of\IN Assam\NNP is\VBZ lush\JJ green\JJ jungle\NN ,\, tea\NN gardens\NNS and\CC various\JJ types\NNS of\IN wildlife\NN .\.
+htd9912	Assam\NNP is\VBZ bigger\JJR than\IN all\PDT the\DT states\NNS of\IN the\DT North-East\NNP in\IN terms\NNS of\IN area\NN .\.
+htd9913	One\CD has\VBZ to\TO pass\VB through\IN here\RB for\IN all\PDT the\DT major\JJ states\NNS of\IN the\DT Northeast\NN .\.
+htd9914	Brahmaputra\NNP River\NNP considered\VBD to\TO be\VB its\PRP$ lifeline\NN flows\VBZ right\RB from\IN its\PRP$ center\NN .\.
+htd9915	Guwahati\NNP is\VBZ the\DT commercial\JJ capital\NN of\IN the\DT North-Eastern\NNP states\NNS of\IN Assam\NNP .\.
+htd9916	In\IN Assamese\NNP ,\, Guwa\NNP means\VBZ walnut\NN and\CC Hati\NNP means\VBZ market\NN .\.
+htd9917	This\DT city\NN located\VBN in\IN the\DT east\JJ of\IN the\DT Himalayan\JJ mountain\NN range\NN is\VBZ considered\VBN to\TO be\VB the\DT gate\NN of\IN the\DT North-Eastern\NNP states\NNS .\.
+htd9918	The\DT climate\NN of\IN Guwahati\NNP is\VBZ sub-tropical\JJ .\.
+htd9919	In\IN summer\NN the\DT temperature\NN gets\VBZ 22\CD to\TO 39\CD degree\NN Celsius\NNP and\CC in\IN winter\NN 10\CD to\TO 15\CD degree\NN Celsius\NNP .\.
+htd9920	Kalakshetra\NNP Museum\NNP ,\, Umanand\NNP ,\, Guwahati\NNP Planetarium\NNP ,\, Guwahati\NNP Zoo\NNP etc\NN .\: are\VBP worth\JJ seeing\VBG here\RB .\.
+htd9921	City\NN bus\NN is\VBZ a\DT good\JJ means\NN for\IN city\NN tour\NN .\.
+htd9922	Pobitara\NNP Wildlife\NNP Sanctuary\NNP located\VBN in\IN Marigaon\NNP district\NN of\IN Northeastern\JJ state\NN of\IN India\NNP is\VBZ 50\CD kilometres\NNS away\RB from\IN Guwahati\NNP and\CC at\IN the\DT border\NN of\IN Naugaon\NNP and\CC Kamrup\NNP districts\NNS .\.
+htd9923	The\DT best\JJS time\NN to\TO go\VB to\TO Pobitara\NNP Wildlife\NNP Sanctuary\NNP is\VBZ between\IN November\NNP and\CC March\NNP .\.
+htd9924	Pobitara\NNP is\VBZ mainly\RB famous\JJ for\IN one-horned\JJ rhinoceros\NNS .\.
+htd9925	Animals\NNS like\IN Asian\JJ buffaloes\NNS ,\, leopards\NNS ,\, wild\JJ bears\NNS etc\NN .\: also\RB reside\VBP here\RB other\JJ than\IN the\DT rhinoceros\NNS .\.
+htd9926	Located\VBN at\IN a\DT distance\NN of\IN 180\CD kilometres\NNS from\IN Guwahati\NNP Tezpur\NNP is\VBZ situated\VBN in\IN Sonipru\NNP district\NN .\.
+htd9927	Tezpur\NNP has\VBZ a\DT prominent\JJ place\NN in\IN the\DT history\NN of\IN Assam\NNP .\.
+htd9928	Tezpur\NNP is\VBZ counted\VBN as\IN one\CD of\IN the\DT beautiful\JJ cities\NNS of\IN Assam\NNP .\.
+htd9929	Tezpur\NNP is\VBZ the\DT border\NN of\IN Assam\NNP from\IN where\WRB Arunachal\NNP Pradesh\NNP starts\VBZ .\.
+htd9930	Agni-garh\JJ Fort\NNP is\VBZ the\DT most\RBS beautiful\JJ tourist\NN spot\NN .\.
+htd9931	An\DT inscription\NN carved\VBD on\IN a\DT huge\JJ stone\NN can\MD be\VB seen\VBN in\IN Bhomoraguri\NNP .\.
+htd9932	Orang\NNP National\NNP Park\NNP is\VBZ located\VBN 65\CD kilometres\NNS away\RB from\IN here\RB which\WDT is\VBZ spread\VBN in\IN 72\CD square\JJ kilometres\NNS area\NN where\WRB tourists\NNS take\VBP full\JJ advantage\NN of\IN the\DT weather\NN of\IN the\DT North-East\NNP .\.
+htd9933	Kaziranga\NNP Park\NNP declared\VBD as\IN a\DT wildlife\NN sanctuary\NN in\IN 1940\CD is\VBZ famous\JJ for\IN one-horned\JJ rhino\NN .\.
+htd9934	A\DT huge\JJ crowd\NN of\IN tourists\NNS gather\VBP here\RB to\TO see\VB the\DT biggest\JJS rhino\NN out\IN of\IN the\DT three\CD Asian\JJ rhinos\NNS .\.
+htd9935	Located\VBN 217\CD kilometres\NNS from\IN Guwahati\NNP this\DT park\NN is\VBZ at\IN a\DT distance\NN of\IN 96\CD kilometres\NNS from\IN Jorhat\NNP airport\NN .\.
+htd9936	Its\PRP$ nearby\JJ railway\NN station\NN is\VBZ Furkating\VBG .\.
+htd9937	November\NNP to\TO April\NNP is\VBZ considered\VBN to\TO be\VB the\DT best\JJS time\NN for\IN tourism\NN .\.
+htd9938	Forest\NN rest-houses\NNS ,\, lodges\NNS and\CC hotels\NNS are\VBP available\JJ for\IN tourists\NNS for\IN tourists\NNS to\TO stay\VB here\RB .\.
+htd9939	Kajiranga\NNP Sanctuary\NNP is\VBZ seen\VBN riding\VBG on\IN elephant\NN .\: jeep\FW safari\FW are\VBP also\RB available\JJ which\WDT are\VBP booked\VBN by\IN different\JJ lodges\NNS .\.
+htd9940	Located\VBN at\IN a\DT height\NN of\IN 680\CD metres\NNS ,\, Haflang\NNP is\VBZ 345\CD kilometres\NNS away\RB from\IN Guwahati\NNP .\.
+htd9941	There\EX is\VBZ the\DT extremely\RB beautiful\JJ Haflang\NNP Lake\NNP here\RB .\.
+htd9942	Haflang\NNP is\VBZ called\VBN the\DT Scotland\NNP of\IN Assam\NNP because\IN of\IN the\DT beauty\NN of\IN this\DT lake\NN .\.
+htd9943	Boating\VBG in\IN the\DT lake\NN allures\VBZ tourists\NNS .\.
+htd9944	There\EX is\VBZ a\DT spring\NN of\IN hot\JJ water\NN just\RB near\IN this\DT lake\NN which\WDT has\VBZ a\DT different\JJ attraction\NN of\IN its\PRP$ own\JJ .\.
+htd9945	Major\JJ activities\NNS like\IN paragliding\NN ,\, gliding\VBG and\CC trekking\VBG are\VBP also\RB run\VBN in\IN Haflang\NNP .\.
+htd9946	Gangtok\NNP is\VBZ such\JJ a\DT city\NN where\WRB tourists\NNS can\MD hear\VB the\DT cravings\NNS of\IN the\DT mountains\NNS .\.
+htd9947	Gangtok\IN the\DT capital\NN of\IN Sikkim\NNP is\VBZ one\CD of\IN the\DT major\JJ hilly\JJ tourist\NN spots\NNS of\IN Eastern\NNP India\NNP .\.
+htd9948	You\PRP can\MD become\VB a\DT part\NN of\IN Nature\NNP in\IN Gangtok\NNP and\CC can\MD have\VB a\DT direct\JJ conversation\NN yourself\PRP with\IN the\DT Buddhist\NNP monasteries\NNS .\.
+htd9949	Most\JJS varieties\NNS of\IN flowers\NNS and\CC birds\NNS are\VBP found\VBN in\IN Sikkim\NNP itself\PRP .\.
+htd9950	Out\IN of\IN about\IN 5000\CD species\NNS of\IN Orchid\NNP found\VBD all\DT over\IN the\DT world\NN more\JJR than\IN 650\CD of\IN them\PRP are\VBP found\VBN in\IN Sikkim\NNP alone\RB .\.
+htd9951	Shillong\NNP ,\, the\DT capital\NN of\IN Meghalaya\NNP located\VBN in\IN North-eastern\JJ region\NN of\IN India\NNP is\VBZ situated\VBN at\IN a\DT height\NN of\IN 1,496\CD meters\NNS above\IN the\DT sea-level\NN .\.
+htd9952	The\DT pleasant\JJ environment\NN ,\, beautiful\JJ sceneries\NNS ,\, mountain\NN ranges\NNS ,\, waterfalls\NNS ,\, valleys\NNS ,\, green\JJ fields\NNS and\CC the\DT traditional\JJ culture\NN of\IN Shillong\NNP attract\VBP tourists\NNS a\DT lot\NN .\.
+htd9953	It\PRP was\VBD the\DT capital\NN of\IN Assam\NNP till\IN the\DT establishment\NN of\IN Meghalaya\NNP state\NN .\.
+htd9954	The\DT modern\JJ look\NN of\IN Shillong\NNP is\VBZ a\DT gift\NN of\IN the\DT English\NNP .\.
+htd9955	It\PRP appears\VBZ to\TO be\VB an\DT amazing\JJ city\NN due\JJ to\TO its\PRP$ curved\JJ mountains\NNS ,\, beautiful\JJ architecture\NN of\IN churches\NNS and\CC houses\NNS and\CC dense\JJ pine\VBP trees\NNS .\.
+htd9956	One\CD gets\VBZ to\TO see\VB a\DT mixture\NN of\IN modernity\NN and\CC traditional\JJ culture\NN in\IN this\DT city\NN .\.
+htd9957	The\DT role\NN of\IN women\NNS in\IN the\DT social\JJ and\CC economic\JJ areas\NNS can\MD be\VB seen\VBN in\IN the\DT Khasi\NNP hills\NNS here\RB .\.
+htd9958	You\PRP will\MD see\VB the\DT shadows\NNS of\IN thick\JJ bushes\NNS of\IN pineapple\NN and\CC bananas\NNS on\IN your\PRP$ way\NN from\IN Guwahati\NNP to\TO Shillong\NNP .\.
+htd9959	You\PRP can\MD stop\VB midway\NN at\IN Nongpoh\NNP to\TO freshen\VB up\RP yourself\PRP and\CC then\RB move\VB further\RB .\.
+htd9960	After\IN construction\NN of\IN hydro-electric\JJ dam\NN on\IN a\DT waterfall\NN in\IN Umiyam\NNP about\IN 17\CD kilometres\NNS before\IN Shillong\NNP a\DT huge\JJ pond\NN has\VBZ formed\VBN .\.
+htd9961	This\DT place\NN now\RB known\VBN to\TO people\NNS as\IN Bada\NNP Pani\NNP has\VBZ turned\VBN into\IN a\DT very\RB popular\JJ picnic\NN spot\NN and\CC to\TO roam\VB around\RP in\IN recent\JJ times\NNS .\.
+htd9962	It\PRP was\VBD designed\VBN by\IN famous\JJ architect\NN Charles\NNP Correa\NNP .\.
+htd9963	An\DT amazing\JJ city\NN encircled\VBN with\IN curved\JJ mountains\NNS ,\, beautiful\JJ architecture\NN of\IN churches\NNS and\CC houses\NNS and\CC dense\JJ pine\VBP trees\NNS is\VBZ visible\JJ after\IN reaching\VBG Shillong\NNP .\.
+htd9964	Wards\NNP Lake\NNP situated\VBD right\RB in\IN the\DT center\NN of\IN Shillong\NNP city\NN is\VBZ a\DT recreational\JJ picnic\NN spot\NN .\.
+htd9965	One\CD can\MD enjoy\VB boat-riding\NN here\RB .\.
+htd9966	You\PRP can\MD also\RB feed\VB fishes\NNS from\IN wooden\JJ bridges\NNS .\.
+htd9967	A\DT nearby\JJ botanical\JJ garden\NN is\VBZ a\DT must-visit\JJ place\NN for\IN those\DT having\VBG interest\NN in\IN trees\NNS and\CC bushes\NNS .\.
+htd9968	This\DT garden\NN stretches\VBZ from\IN the\DT lake\NN side\NN to\TO hillocks\VB down\RP where\WRB it\PRP merges\VBZ with\IN golf\NN ground\NN .\.
+htd9969	State\NNP Central\NNP Library\NNP of\IN Shillong\NNP has\VBZ a\DT treasure\NN of\IN books\NNS for\IN readers\NNS .\.
+htd9970	The\DT legacy\NN of\IN this\DT area\NN has\VBZ been\VBN preserved\VBN in\IN the\DT museum\NN located\VBN here\RB .\.
+htd9971	Pop\NNP and\CC Rock\NNP concerts\NNS occurring\VBG here\RB are\VBP very\RB famous\JJ wherein\NN Khasi\NNP and\CC English\NNP songs\NNS are\VBP sung\VBN .\.
+htd9972	Different\JJ species\NNS of\IN butterflies\NNS are\VBP reproduced\VBN in\IN Butterfly\NNP Museum\NNP of\IN Shillong\NNP for\IN commercial\JJ use\NN .\.
+htd9973	There\EX is\VBZ a\DT nice\JJ collection\NN of\IN Indian\JJ and\CC foreigner\NN butterflies\NNS in\IN the\DT Butterfly\NNP Museum\NNP .\.
+htd9974	There\EX is\VBZ Lady\NNP Hydari\NNP Park\NNP close\NN by\IN where\WRB there\EX is\VBZ a\DT small\JJ biological\JJ garden\NN and\CC rows\NNS of\IN flowers\NNS .\.
+htd9975	Don\NNP Bishop\NNP Museum\NNP of\IN Shillong\NNP is\VBZ a\DT unique\JJ museum\NN showcasing\VBG the\DT art\NN and\CC culture\NN of\IN the\DT North-East\NNP .\.
+htd9976	A\DT collection\NN of\IN jewelleries\NNS ,\, attires\NNS and\CC weapons\NNS can\MD be\VB seen\VBN in\IN this\DT museum\NN together\RB .\.
+htd9977	This\DT museum\NN is\VBZ a\DT seven-storeyed\JJ building\NN in\IN all\PDT the\DT seven\CD storeys\NNS of\IN which\WDT culture\NN of\IN different\JJ states\NNS are\VBP shown\VBN easily\RB .\.
+htd9978	From\IN Shillong\NNP Cherapunji\NNP is\VBZ close\JJ ,\, which\WDT is\VBZ known\VBN for\IN heaviest\JJS rain\NN .\.
+htd9979	Therefore\RB tourists\NNS like\VBP to\TO go\VB to\TO Cherapunji\NNP .\.
+htd9980	Located\VBN on\IN the\DT border\NN of\IN Bangladesh\NNP in\IN Cherapunji\NNP Nohakalikai\NNP is\VBZ a\DT beautiful\JJ waterfall\NN .\.
+htd9981	There\EX are\VBP various\JJ waterfalls\NNS around\IN Shillong\NNP offering\VBG a\DT charming\JJ view\NN seeing\VBG which\WDT tourists\NNS consider\VBP their\PRP$ travel\NN meaningful\JJ .\.
+htd9982	Sweet\JJ Fall\NN near\IN Happy\JJ Valley\NNP is\VBZ the\DT waterfall\NN falling\VBG closest\JJS to\TO Shillong\NNP .\.
+htd9983	A\DT thick\JJ flow\NN of\IN water\NN falls\VBZ down\RP in\IN a\DT deep\JJ pond\NN then\RB its\PRP$ sound\NN is\VBZ heard\VBN throughout\IN the\DT valley\NN .\.
+htd9984	It\PRP is\VBZ a\DT beautiful\JJ feeling\NN to\TO reach\VB down\RP to\TO the\DT pond\NN along\IN with\IN the\DT water\NN current\NN of\IN Sweetfall\NNP .\.
+htd9985	Apart\RB from\IN these\DT Bishop\NNP and\CC Biden\NNP falls\VBZ and\CC Elephant\NNP fall\VBP 12\CD kms\NNS .\: away\RB from\IN the\DT city\NN ahead\RB of\IN Shillong\NNP peak\NN also\RB work\VBP no\RB less\JJR in\IN tying\VBG the\DT tourists\NNS in\IN their\PRP$ attraction\NN .\.
+htd9986	Mosmai\NNP caves\VBZ ahead\RB of\IN Nohakalikai\NNP waterfall\NN depict\VB a\DT beautiful\JJ view\NN of\IN Nature\NNP .\.
+htd9987	The\DT flow\NN of\IN water\NN has\VBZ beautifully\RB carved\VBN the\DT rocks\NNS inside\IN the\DT caves\NNS .\.
+htd9988	The\DT way\NN out\IN on\IN the\DT other\JJ side\NN in\IN the\DT cave\NN is\VBZ found\VBN after\IN going\VBG 500\CD -\: 600\CD metres\NNS inside\RB .\.
+htd9989	Hardly\RB a\DT few\JJ yards\NNS from\IN Mosmai\NNP cave\NN is\VBZ Seven-Sisters\NNP Falls\NNP .\.
+htd9990	This\DT group\NN of\IN waterfalls\NNS is\VBZ located\VBN amidst\IN the\DT valley\NN of\IN the\DT mountains\NNS .\.
+htd9991	Bangladesh\NNP Delta\NNP is\VBZ clearly\RB visible\JJ at\IN its\PRP$ other\JJ side\NN .\.
+htd9992	Tourists\NNS get\VBP a\DT unique\JJ impact\NN out\IN of\IN this\DT .\.
+htd9993	The\DT nearest\JJS Railway\NNP Station\NNP from\IN this\DT place\NN is\VBZ Lakhimpur\NNP -LRB-\-LRB- Assam\NNP -RRB-\-RRB- .\.
+htd9994	It\PRP is\VBZ 60\CD kms\NNS .\: away\RB from\IN Itanagar\NNP and\CC 50\CD kms\NNS .\: away\RB from\IN Naharlagun\NNP .\.
+htd9995	For\IN sight-seeing\NN ,\, tourist\NN deluxe\JJ buses\NNS of\IN Directorate\NNP Dept\NNP .\: of\IN Tourism\NNP ,\, Government\NNP of\IN Arunachal\NNP Pradesh\NNP are\VBP available\JJ from\IN Naharlagun\NNP .\.
+htd9996	Lilabadi\NNP Airport\NNP of\IN Assam\NNP is\VBZ 67\CD kms\NNS away\RB from\IN Itanagar\NNP .\.
+htd9997	Its\PRP$ climate\NN has\VBZ much\JJ humidity\NN .\.
+htd9998	Nevertheless\RB it\PRP has\VBZ an\DT extremely\RB good\JJ environment\NN .\.
+htd9999	Mild\JJ wind\NN blowing\VBG here\RB during\IN summers\NNS keeps\VBZ the\DT whole\JJ area\NN cool\NN .\.
+htd10000	It\PRP is\VBZ pretty\RB cold\JJ here\RB during\IN December\NNP and\CC January\NNP due\JJ to\TO snowfall\NN .\.

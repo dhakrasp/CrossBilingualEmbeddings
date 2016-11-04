@@ -1,0 +1,1001 @@
+ID	Value
+htd4001	वन्य-प्राणियों\N_NN से\PSP समृद्ध\JJ हरित\JJ वनों\N_NN ,\RD_PUNC चाँदी\N_NN से\PSP चमकीले\N_NN निर्झरों\N_NN ,\RD_PUNC आकाश\N_NN की\PSP नीली\N_NNP आभा\N_NN समेटे\N_NN ताल\N_NN -\RD_PUNC तलैयों\N_NN ,\RD_PUNC शीतोष्ण\N_NN जल-धाराओं\N_NN और\CC_CCD ,\RD_PUNC जीवन-दायिनी\N_NN नदियों\N_NN से\PSP सुशोभित\JJ बिहार\N_NNP प्रदेश\N_NN प्रकृति-रूपा\N_NN रमणी\N_NNP की\PSP अँगूठी\N_NN में\PSP नगीने-सा\N_NN जड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4002	प्राकृतिक\N_NN सुषमा\N_NN से\PSP सम्पन्न\N_NN बिहार\N_NNP प्रदेश\N_NN ने\PSP विश्‍व\N_NN के\PSP युग-धर्म\N_NN तथा\CC_CCD प्राचीन\N_NN और\CC_CCD आधुनिक\N_NN राजनीति\N_NN के\PSP क्षेत्र\N_NN में\PSP भी\RP_RPD क्रांतिकारी\N_NN परिवर्तन\N_NN लाने\V_VM में\PSP अग्रणी-भूमिका\N_NN निभाई\V_VM है\V_VAUX ।\RD_PUNC
+htd4003	बिहार\N_NNP की\PSP पावन\N_NN धरती\N_NN से\PSP भगवान\N_NNP बुद्ध\N_NNP ,\RD_PUNC भगवान\N_NNP महावीर\N_NNP और\CC_CCD श्री\N_NNP गुरु\N_NNP गोविन्द\N_NNP सिंह\N_NNP जी\N_NN महाराज\N_NN ने\PSP विश्‍व\N_NN को\PSP नई\JJ दिशा\N_NN देने\V_VM वाले\PSP धर्मों\N_NN का\PSP प्रवर्तन\N_NN किया\V_VM ।\RD_PUNC
+htd4004	सम्राट\N_NN चन्द्रगुप्त\N_NNP ,\RD_PUNC प्रियदर्शी\JJ अशोक\N_NNP महान\JJ तथा\CC_CCD शेरशाह\N_NNP सूरी\N_NNP ने\PSP यहीं\DM_DMD से\PSP आज\N_NST के\PSP समग्र\JJ भारत\N_NNP की\PSP रचना\N_NN की\V_VAUX ।\RD_PUNC
+htd4005	राष्ट्रपिता\N_NNP महात्मा\N_NNP गाँधी\N_NNP ने\PSP बिहार\N_NNP आकर\N_NN देश\N_NN को\PSP विदेशी\N_NN दासता\N_NN से\PSP मुक्‍त\N_NN करने\N_NN का\PSP संग्राम\N_NN छेड़ा\V_VM ,\RD_PUNC तो\N_NN लोकनायक\N_NNP जयप्रकाश\N_NNP ने\PSP यहीं\DM_DMD से\PSP राष्ट्रीय\N_NN राजनीति\N_NN को\PSP एक\QT_QTC नई\JJ दिशा\N_NN दी\V_VM ।\RD_PUNC
+htd4006	ऐसी\DM_DMD अनेक\JJ गाथाएँ\N_NN भारतवर्ष\N_NN के\PSP इतिहास\N_NN के\PSP पन्नों\N_NN में\PSP स्वर्णिम\N_NN अक्षरों\N_NN में\PSP उत्कीर्ण\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4007	उन\PR_PRP गाथाओं\N_NN के\PSP साक्षी\N_NNP स्वरूप\N_NN असंख्य\QT_QTF प्रतीक\N_NN ,\RD_PUNC भग्नावशेष\N_NN ,\RD_PUNC भवन\N_NN तथा\CC_CCD स्मारक\N_NN आज\N_NN भी\RP_RPD बिहार\N_NNP की\PSP धरती\N_NN पर\PSP दृश्‍यमान\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4008	ये\DM_DMD साक्षी\N_NN आने\V_VM वाले\PSP मेहमानों\N_NN को\PSP अपना\PR_PRF गौरवशाली\JJ अतीत\N_NN ,\RD_PUNC मौन\N_NN स्वर\N_NN में\PSP ही\RP_RPD सही\N_NN ,\RD_PUNC बताकर\N_NN ऐसा\DM_DMD चमत्कृत-सम्मोहित\N_NN कर\V_VM देते\V_VM हैं\V_VAUX कि\CC_CCS ,\RD_PUNC यहाँ\DM_DMD एकबार\N_NN आने\V_VM वाला\PSP बार-बार\N_NN आने\N_NN के\PSP लिए\PSP विवश\N_NN सा\PSP हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4009	पटना\N_NNP कैसे\DM_DMQ पहुँचा\V_VM जाए\V_VAUX ?\RD_PUNC
+htd4010	पटना\N_NNP का\PSP निकटतम\N_NN हवाई\N_NN पत्तन\N_NN जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN ,\RD_PUNC पटना\N_NNP है\V_VAUX ।\RD_PUNC
+htd4011	पटना\N_NNP के\PSP निकटतम\N_NN हवाई\N_NN पत्तन\N_NN ,\RD_PUNC अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN पटना\N_NNP और\CC_CCD अन्तराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN गया\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4012	पटना\N_NNP का\PSP निकटतम\N_NN रेलवे\N_NN स्टेशन\N_NN पटना\N_NNP जंक्शन\N_NN (\RD_SYM दिल्ली-हावड़ा\N_NNP मुख्य\JJ रेल\N_NN मार्ग\N_NN )\RD_SYM है\V_VAUX ।\RD_PUNC
+htd4013	पटना\N_NNP सड़क\N_NN मार्ग\N_NN से\PSP दिल्ली\N_NNP से\PSP -\RD_PUNC 1015\QT_QTC कि.मी.\N_NN ,\RD_PUNC कोलकाता\N_NNP से\PSP -\RD_PUNC 556\N_NN कि.मी.\N_NN ,\RD_PUNC मुम्बई\N_NNP से\PSP -\RD_PUNC 1802\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4014	बिहार\N_NNP प्रदेश\N_NN की\PSP राजधानी\N_NN ’पटना’\N_NNP आज\N_NN जहाँ\PR_PRL है\V_VAUX ,\RD_PUNC वहाँ\DM_DMD कभी\DM_DMI इतिहास-प्रसिद्ध\N_NN मगध\N_NNP साम्राज्य\N_NN की\PSP राजधानी\N_NN पाटलिपुत्र\N_NNP हुआ\V_VM करती\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd4015	पटना\N_NNP शहर\N_NN अनेक\QT_QTF राजवंशों\N_NN के\PSP उद्‍भव-पराभव\N_NN का\PSP मूक\N_NN साक्षी\N_NN रहा\V_VM है\V_VAUX ।\RD_PUNC
+htd4016	ईसा\QT_QTC पूर्व\N_NST छठी\QT_QTC सदी\QT_QTF से\PSP लेकर\V_VM ईसा\QT_QTC के\PSP बाद\N_NST पाँचवी\QT_QTC सदी\N_NN तक\PSP का\PSP प्रायः\N_NN एक\QT_QTC हजार\QT_QTF वर्षों\N_NN का\PSP समय\N_NN पटना\N_NNP शहर\N_NN का\PSP स्वर्णिम\JJ काल\N_NN रहा\V_VM है\V_VAUX ।\RD_PUNC
+htd4017	मगध\N_NNP साम्राज्य\N_NN को\PSP सुरक्षित\N_NN करने\N_NN के\PSP उद्देश्य\N_NN से\PSP मगध-वंश\N_NNP के\PSP द्वितीय\QT_QTC शासक\N_NN अजातशत्रु\N_NNP ने\PSP गंगा\N_NNP नदी\N_NN के\PSP तट\N_NN पर\PSP अवस्थित\V_VM पाटलिग्राम\N_NNP में\PSP सर्वप्रथम\JJ एक\QT_QTC छोटे\JJ से\PSP किले\N_NN का\PSP निर्माण\N_NN कराया\V_VM था\V_VAUX ।\RD_PUNC
+htd4018	यही\DM_DMD पाटलिग्राम\N_NNP आगे\N_NST चलकर\V_VM पाटलिपुत्र\N_NNP नामक\N_NN महानगर\N_NNP के\PSP रूप\N_NN में\PSP विकसित\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd4019	पाटलिग्राम\N_NNP से\PSP सिकन्दर\N_NNP के\PSP समकालीन\N_NN सम्राट\N_NN अशोक\N_NNP ,\RD_PUNC जिसने\PR_PRF बौद्ध\N_NNP धर्म\N_NN के\PSP प्रचार-प्रसार\N_NN में\PSP अनन्य\N_NN भूमिका\N_NN निभाई\V_VM थी\V_VAUX ,\RD_PUNC ने\PSP भारत\N_NNP वर्ष\N_NN पर\PSP शासन\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4020	गुप्त\N_NNP तथा\N_NN शुंग\N_NNP वंश\N_NN के\PSP शासकों\N_NN का\PSP सत्ता\N_NN केन्द्र\N_NN भी\RP_RPD पाटलिपुत्र\N_NNP ही\RP_RPD रहा\V_VM ।\RD_PUNC
+htd4021	अफगान\N_NNP शासक\N_NN शेरशाह\N_NNP सूरी\N_NNP (\RD_SYM 16वीं\QT_QTO सताब्दी\N_NN )\RD_SYM तथा\CC_CCD ,\RD_PUNC मुगल\N_NNP शासक\N_NN औरंगजेब\N_NNP के\PSP पोते\N_NN ,\RD_PUNC अज़ीमुश्शान\N_NNP (\RD_SYM 18वीं\QT_QTO शताब्दी\N_NN )\RD_SYM ,\RD_PUNC ने\PSP पटना\N_NNP शहर\N_NN को\PSP अज़ीमाबाद\N_NNP का\PSP नाम\N_NN दिया\V_VM था\V_VAUX ।\RD_PUNC
+htd4022	अज़ीमुश्शान\N_NNP ने\PSP भी\RP_RPD पाटलिपुत्र\N_NNP को\PSP ही\RP_RPD अपनी\PR_PRF सत्ता\N_NN का\PSP केन्द्र\N_NN बनाया\V_VM था\V_VAUX ।\RD_PUNC
+htd4023	प्राचीन\JJ पाटलिपुत्र\N_NNP के\PSP भग्नावशेष\N_NN पटना\N_NNP शहर\N_NN की\PSP सीमाओं\N_NN के\PSP अन्दर\N_NST आज\N_NN भी\RP_RPD देखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4024	मधुमक्खी\N_NN के\PSP छत्ते\N_NN के\PSP आकार\JJ की\PSP 96\QT_QTC फीट\N_NN ऊँची\N_NN गोलघर\N_NN संरचना\N_NN का\PSP निर्माण\N_NN सन्\N_NN -\RD_PUNC 1786\QT_QTC (\RD_SYM जुलाई\N_NN )\RD_SYM में\PSP कैप्टन\N_NN ज़ॉन\N_NNP गार्स्‍टीन\N_NNP नाम\N_NN के\PSP एक\QT_QTC अंग्रेज\N_NN अधिकारी\N_NN ने\PSP कराया\V_VM था\V_VAUX ।\RD_PUNC
+htd4025	पटना\N_NNP संग्रहालय\N_NN में\PSP मौर्य\N_NNP एवं\CC_CCD गुप्तकाल\N_NNP की\PSP धातु\N_NN तथा\CC_CCS प्रस्तर\N_NN से\PSP निर्मित\N_NN अनेक\QT_QTF कृतियाँ\N_NN संरक्षित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4026	अरबी\N_NNP तथा\CC_CCD फारसी\N_NNP भाषाओं\N_NN में\PSP रचित\N_NN अनेक\QT_QTF प्राचीन\JJ तथा\CC_CCD दुर्लभ\N_NN पाण्डुलिपियाँ\N_NN बीसवीं\QT_QTO शताब्दी\QT_QTF में\PSP स्थापित\V_VM खुदा\N_NNP बख्श\N_NNP ओरियन्टल\N_NNP पब्लिक\N_NNP लायब्रेरी\N_NNP पुस्तकालय\N_NNP में\PSP सुरक्षित\V_VM रखी\V_VAUX गयी\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4027	खुदा\N_NNP बख्श\N_NNP ओरियन्टल\N_NNP पब्लिक\N_NNP लायब्रेरी\N_NNP भारत\N_NNP का\PSP एक\QT_QTC राष्ट्रीय\N_NN स्तर\N_NN का\PSP पुस्तकालय\N_NN है\V_VAUX ।\RD_PUNC
+htd4028	पंजाब\N_NNP के\PSP महाराजा\N_NN रणजीत\N_NNP सिंह\N_NNP ने\PSP सिक्खों\N_NN के\PSP दसवें\QT_QTO धर्म-गुरु\N_NN श्री\N_NN गुरु\N_NNP गोविन्द\N_NNP सिंह\N_NNP जी\N_NN महाराज\N_NN के\PSP जन्मस्थान\N_NN पर\N_NN एक\QT_QTC तख्त\N_NN श्री\N_NN हरमन्दिर\N_NNP जी\N_NN साहेब\N_NN नाम\N_NN से\PSP भव्य\N_NN स्मारक\N_NN का\PSP निर्माण\V_VM कराया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4029	तख्त\N_NN श्री\N_NN हरमन्दिर\N_NNP जी\N_NN साहेब\N_NN के\PSP नाम\N_NN से\PSP विख्यात\JJ ,\RD_PUNC यह\DM_DMD स्मारक\N_NN सिक्ख\N_NNP धर्मावलम्बियों\N_NN का\PSP एक\QT_QTC पवित्र\JJ तीर्थ\N_NN स्थान\N_NN है\V_VAUX ।\RD_PUNC
+htd4030	इस\DM_DMD स्मारक\N_NN के\PSP अन्दर\N_NST श्री\N_NN गुरु\N_NN गोविन्द\N_NNP सिंह\N_NNP जी\N_NN महाराज\N_NN के\PSP निजी\N_NN उपयोग\JJ की\PSP कुछ\QT_QTF वस्तुएँ\N_NN पवित्रातापूर्वक\JJ सुरक्षित\V_VM रखी\V_VAUX गई\V_VAUX हैं\V_VAUX जिनकी\PR_PRP पूजा-अर्चना\JJ की\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4031	एक\QT_QTC अंग्रेज\JJ विद्वान\N_NN वैडल\N_NNP ने\PSP पुरातात्विक\N_NNP दृष्टि\N_NN से\PSP महत्वपूर्ण\JJ इस\DM_DMD अगमकुआँ\N_NN स्थल\N_NN के\PSP विषय\N_NN में\PSP अपनी\PR_PRF रिपोर्ट\N_NN में\PSP बताया\V_VM कि\CC_CCS -\RD_PUNC ``\RD_PUNC (\RD_SYM सम्राट\JJ अशोक\N_NNP के\PSP समय\N_NN का\PSP )\RD_SYM यह\DM_DMD शासकीय\JJ वध-स्थल\N_NN ,\RD_PUNC अथवा\CC_CCD राजसी\N_NNP रसोई-घर\N_NN का\PSP बाह्य\N_NST भाग\N_NN था\V_VAUX ``\RD_PUNC ।\RD_PUNC
+htd4032	गहरा\JJ अगमकुआँ\N_NN कूप\N_NN वर्तमान\N_NN में\PSP हिंदु\N_NNP धर्मावलम्बियों\N_NN की\PSP श्रद्धा\N_NN का\PSP एक\QT_QTC केन्द्र\N_NN है\V_VAUX ,\RD_PUNC जिसकी\PR_PRL वे\DM_DMD पूजा\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4033	अगमकुआँ\N_NNP के\PSP बगल\N_NST में\PSP ही\RP_RPD एक\QT_QTC मंदिर\N_NN है\V_VAUX ,\RD_PUNC जिसमें\PR_PRL शीतला\N_NNP माता\N_NN की\PSP आराधना-पूजा\JJ ख़सरा\N_NNP रोग\N_NN (\RD_SYM चेचक\N_NNP )\RD_SYM के\PSP निवारण\N_NN के\PSP लिए\PSP की\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4034	पत्थर\N_NN की\PSP मस्जिद\N_NN -\RD_PUNC तत्कालीन\N_NN बिहार\N_NNP प्रान्त\N_NN के\PSP गर्वनर\N_NN रहे\V_VAUX परवेज\N_NNP शाह\N_NNP ,\RD_PUNC जो\PR_PRL मुगल\N_NN शासक\N_NN जहाँगीर\N_NNP का\PSP पुत्र\N_NN था\V_VAUX ,\RD_PUNC ने\PSP अपने\PR_PRF शासन\N_NN काल\N_NN में\PSP इस\DM_DMD मस्जिद\N_NN का\PSP निर्माण\V_VM करवाया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4035	हावड़ा-दिल्ली\N_NNP मुख्य\JJ रेल\N_NN मार्ग\N_NN पर\PSP अवस्थित\V_VM गुलजारबाग\N_NNP नामक\N_NN रेलवे\N_NN स्टेशन\N_NN के\PSP निकट\N_NST कमलदह\N_NNP क्षेत्र\N_NN में\PSP प्रचीन\JJ ईंटों\N_NN के\PSP ऊँचे\JJ खंडहरनुमा\N_NNP टीले\N_NN पर\PSP दो\QT_QTC जैन\N_NNP मन्दिर\N_NN खड़े\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4036	जैन\N_NNP संत\JJ स्थूलभद्र\N_NNP का\PSP स्मारक\N_NN तथा\CC_CCD सुदर्शन\N_NNP स्वामी\N_NNP का\PSP मंदिर\N_NN जैन\N_NN समुदाय\N_NN का\PSP पवित्र\JJ स्थान\N_NN है\V_VAUX ।\RD_PUNC
+htd4037	पटना\N_NNP शहर\N_NN के\PSP पश्चिमी\N_NNP द्वार\N_NN (\RD_SYM पश्चिम\N_NNP दरवाजा\N_NN )\RD_SYM के\PSP समीप\N_NST महाराज\N_NN गंज\N_NNP क्षेत्र\N_NN में\PSP प्राचीन\JJ बड़ी\JJ पटन\N_NNP देवी\N_NNP मंदिर\N_NN अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4038	बड़ी\JJ पटन\N_NNP देवी\N_NNP मंदिर\N_NN में\PSP पाटलिपुत्र\N_NNP नगर\N_NNP की\PSP अधिष्ठात्री\N_NN देवी\N_NN के\PSP रूप\N_NN मे\PSP भगवती\N_NNP दुर्गा\N_NNP की\PSP पूजा\N_NN अर्चना\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4039	पटना\N_NNP के\PSP पुराने\JJ शहरी\N_NN क्षेत्र\N_NN पटना\N_NNP सिटी\N_NNP चौक\N_NN मे\PSP पूर्वी\N_NST द्वार\N_NN (\RD_SYM पूरब\N_NNP दरवाजा\N_NN )\RD_SYM तथा\CC_CCD तख्त\N_NN श्री\N_NN हरमंदिर\N_NNP जी\N_NN साहेब\N_NN के\PSP निकट\N_NST छोटी\JJ पटन\N_NNP देवी\N_NN नाम\N_NN का\PSP प्राचीन\JJ मंदिर\N_NN अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4040	कहा\V_VM जाता\N_NN है\V_VAUX कि\CC_CCS मुगल\N_NNP सम्राट\N_NN अकबर\N_NNP के\PSP सिपहसालार\N_NNP राजा\N_NN मान\N_NNP सिंह\N_NN द्वारा\N_NN छोटी\JJ पटन\N_NNP देवी\N_NNP मंदिर\N_NNP की\PSP मूर्ति\N_NN की\PSP स्थापना\N_NN की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd4041	कुम्हरार\N_NNP वह\DM_DMD स्थान\N_NN है\V_VAUX जहाँ\PR_PRL कभी\QT_QTF प्राचीन\JJ पाटलिपुत्र\N_NNP अवस्थित\V_VM था\V_VAUX ।\RD_PUNC
+htd4042	प्राचीन\JJ काल\N_NN के\PSP भग्नावशेष\N_NN कुम्हरार\N_NNP में\PSP भारतीय\N_NN पुरातत्व\JJ सर्वेक्षण\N_NN द्वारा\N_NN संरक्षित\V_VM है\V_VAUX ।\RD_PUNC
+htd4043	पादरी-की-हवेली\N_NNP -\RD_PUNC प्राचीन\JJ पटना\N_NNP शहर\N_NN (\RD_SYM पटना\N_NNP सिटी\N_NN )\RD_SYM में\PSP डच\N_NNP वास्तुकला\N_NN का\PSP प्रतीक\N_NN यह\DM_DMD ईसाई\DM_DMD चर्च\N_NN पादरी\N_NN की\PSP हवेली\N_NN के\PSP नाम\N_NN से\PSP विख्यात\JJ है\V_VAUX ।\RD_PUNC
+htd4044	मदर\N_NNP टेरेसा\N_NNP ने\PSP सेवा-सुश्रुशा\N_NNP /\N_NN उपचार\N_NN के\PSP प्रशिक्षु\N_NN के\PSP रूप\N_NN में\PSP पादरी-की-हवेली\N_NNP में\PSP कार्य\V_VM किया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4045	आधुनिक\JJ पटना\N_NNP शहर\N_NN के\PSP प्रायः\N_NN मध्य\N_NN भाग\N_NN मे\PSP निर्मित\N_NN संजय\N_NNP गाँधी\N_NNP जैविक\N_NN उद्यान\N_NN एक\QT_QTC आधुनिक\JJ पिकनिक\N_NN स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4046	विभिन्न\QT_QTF प्रजातियों\N_NN के\PSP पशु-पक्षी\N_NN एवं\CC_CCD औषधीय\N_NN वृक्ष-वनस्पतियाँ\N_NN संजय\N_NNP गाँधी\N_NNP जैविक\N_NN उद्यान\N_NN की\PSP शोभा\JJ बढ़ाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4047	पटना\N_NNP सिटि\N_NNP क्षेत्र\N_NN में\PSP गुलजारबाग\N_NNP स्टेशन\N_NN से\PSP प्रायः\QT_QTF 1\QT_QTC कि.मी.\N_NN दक्षिण-पश्चिम\N_NNP में\PSP अवस्थित\V_VM ऐतिहासिक\JJ अगम-कुआँ\N_NN के\PSP पार्श्व\N_NN मे\PSP शीतला\N_NNP माता\N_NNP का\PSP प्राचीन\JJ मंदिर\N_NN स्थानीय\N_NN लोगों\N_NN की\PSP श्रद्धा\N_NN का\PSP केन्द्र\N_NN है\V_VAUX ।\RD_PUNC
+htd4048	खसरे\N_NNP की\PSP बीमारी\N_NN से\PSP देवी\N_NN उनकी\PR_PRL और\CC_CCD उनके\PR_PRP परिवार\N_NN की\PSP रक्षा\V_VM करेंगी\V_VAUX ,\RD_PUNC इस\DM_DMD विश्‍वास\N_NN से\PSP लोग\N_NN शीतला\N_NNP माता\N_NNP मंदिर\N_NNP में\PSP पूजा-अर्चना\JJ करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4049	नालन्दा\N_NNP कैसे\DM_DMQ पहुँचे\V_VM ?\RD_PUNC
+htd4050	वायुमार्ग\N_NN से\PSP :\RD_PUNC निकटतम\N_NST विमान\N_NN पत्तन\N_NN -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NN ,\RD_PUNC पटना\N_NNP (\RD_SYM लगभग\QT_QTF 90\QT_QTC कि.मी.\N_NN )\RD_SYM ,\RD_PUNC अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN ,\RD_PUNC गया\N_NN (\RD_SYM लगभग\QT_QTF 71\QT_QTC कि.मी.\N_NN )\RD_SYM ।\RD_PUNC
+htd4051	रेल\N_NN मार्ग\N_NN से\PSP :\RD_PUNC निकटतम\N_NN रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC नालन्दा\N_NNP (\RD_SYM बख्तियारपुर-राजगीर\N_NNP रेलखण्ड\N_NNP पर\PSP )\RD_SYM ,\RD_PUNC बख्तियारपुर\N_NNP (\RD_SYM हावड़ा-पटना\N_NNP मुख्य\JJ रेल\N_NN मार्ग\N_NN पर\PSP )\RD_SYM ।\RD_PUNC
+htd4052	सड़क\N_NN मार्ग\N_NN से\PSP :\RD_PUNC राजधानी\N_NN पटना\N_NNP सहित\N_NN देश\N_NN के\PSP प्रमुख\JJ शहरों\N_NN से\PSP सड़क\N_NN द्वारा\N_NN जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4053	विश्‍व-विख्यात\JJ प्राचीन\JJ नालन्दा\N_NNP विश्‍वविद्यालय\N_NNP के\PSP ध्वंसावशेष\N_NN आज\N_NN भी\RP_RPD गौरव\JJ के\PSP साथ\N_NST सिर\N_NN उठाये\V_VM यहाँ\DM_DMD खड़े\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4054	जिनकी\PR_PRP सीढ़ियों\N_NN का\PSP आरोहण\N_NN करते\V_VM समय\N_NN ऐसी\DM_DMD प्रतीति\N_NN होती\V_VM है\V_VAUX मानो\N_NN हम\PR_PRP एक\QT_QTC विस्मृतप्राय\N_NN ,\RD_PUNC किन्तु\CC_CCS सुखद\JJ अनुभूति\N_NN भरे\QT_QTF युग\N_NN के\PSP अन्दर...\N_NST और\CC_CCD अन्दर...\N_NST प्रवेश\N_NN करते\V_VM चले\V_VAUX जा\V_VAUX रहे\V_VAUX हों\V_VAUX ।\RD_PUNC
+htd4055	नालन्दा\N_NNP विश्‍वविद्यालय\N_NN के\PSP ये\DM_DMD अवशेष\N_NN 5वीं\QT_QTO से\PSP 12वीं\QT_QTO सदी\N_NN के\PSP हैं\V_VAUX ।\RD_PUNC
+htd4056	नालन्दा\N_NNP विस्तृत\JJ आवासीय\N_NN विश्‍वविद्यालय\N_NN अपने\PR_PRF समय\N_NN में\PSP एशिया\N_NNP के\PSP विभिन्न\QT_QTF देशों\N_NN से\PSP आये\V_VM 10\QT_QTC हजार\QT_QTF छात्रों\N_NN और\CC_CCD 1\QT_QTC हजार\QT_QTF शिक्षकों\N_NN की\PSP विद्वतीय\N_NN गतिविधियों\N_NN का\PSP केन्द्र\N_NN हुआ\V_VM करता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4057	उत्खनन\N_NN से\PSP नालन्दा\N_NNP विश्‍वविद्यालय\N_NN स्तूपों\N_NN ,\RD_PUNC वृहत्\QT_QTF सीढ़ियों\N_NN ,\RD_PUNC शिक्षागारों\N_NN (\RD_SYM लेक्‍चर\N_NN हॉल\N_NN )\RD_SYM ,\RD_PUNC सामूहिक\N_NN शायिकाओं\N_NN ,\RD_PUNC साधना\N_NN केन्द्र\N_NN तथा\CC_CCD कूपों\N_NN के\PSP अवशेष\N_NN प्रकाश\N_NN में\PSP आये\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4058	विख्यात\JJ चीनी\N_NN यात्री\N_NN ह्वेनसांग\N_NNP ने\PSP नालन्दा\N_NNP में\PSP कई\QT_QTF वर्ष\N_NN बिताये\V_VM थे\V_VAUX तथा\CC_CCD उसने\PR_PRP अपने\PR_PRF लेखों\N_NN में\PSP नालन्दा\N_NNP विश्‍वविद्यालय\N_NN के\PSP संबंध\N_NST में\PSP महत्वपूर्ण\JJ ब्यौरे\N_NN छोड़े\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4059	बौद्ध\N_NNP धर्म\N_NN के\PSP महायान\N_NNP संप्रदाय\N_NN के\PSP दार्शनिक\N_NN नागार्जुन\N_NNP ,\RD_PUNC तर्कशास्‍त्र\N_NN के\PSP प्रणेता\N_NN उन्नग\N_NNP और\CC_CCD ब्राह्मण\N_NNP विद्वान\N_NN धर्मपाल\N_NNP भी\RP_RPD नालंदा\N_NNP विश्‍वविद्यालय\N_NN में\PSP शिक्षा-दान\N_NN दिया\V_VM करते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4060	सम्राट\JJ हर्षवर्धन\N_NNP ने\PSP 25\N_NNP मीटर\N_NN ऊँची\JJ ,\RD_PUNC ताँबा\N_NN धातु\N_NN से\PSP निर्मित\N_NN ,\RD_PUNC बुद्ध\N_NNP की\PSP प्रतिमा\N_NN तथा\CC_CCD गुप्तवंश\N_NNP के\PSP शासक\N_NN कुमार\N_NN गुप्त\N_NNP ने\PSP ललित\N_NN कला\N_NN शिक्षण\N_NN का\PSP एक\QT_QTC खंड\N_NN नालंदा\N_NNP विश्‍वविद्यालय\N_NN को\PSP उपहार-स्वरूप\N_NN प्रदान\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4061	पुरातात्विक\N_NN महत्व\N_NN की\PSP अनेक\JJ मूर्तियाँ\N_NN तथा\CC_CCD प्राचीन\JJ नालन्दा\N_NNP विश्‍वविद्यालय\N_NN के\PSP महत्वपूर्ण\JJ अवशेष\N_NN नालंदा\N_NNP के\PSP पुरातत्व\N_NN संग्रहालय\N_NN में\PSP संरक्षित\V_VM है\V_VAUX ।\RD_PUNC
+htd4062	नालन्दा\N_NNP के\PSP भग्नावशेषों\N_NN से\PSP प्रायः\N_NN 2\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP नव-नालन्दा\N_NNP महाविहार\N_NN नाम\N_NN का\PSP एक\QT_QTC आधुनिक\JJ संस्थान\N_NN है\V_VAUX ।\RD_PUNC
+htd4063	नव-नालन्दा\N_NNP महाविहार\N_NN में\PSP दुर्लभ\JJ बौद्ध\N_NNP पाण्डुलिपियाँ\N_NN सुरक्षित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4064	नालन्दा\N_NNP और\CC_CCD इसके\PR_PRP निकटवर्ती\N_NST आकर्षण\JJ -\RD_PUNC
+htd4065	नालन्दा\N_NNP में\PSP प्रायः\N_NN 14\QT_QTC हेक्टेयर\N_NN क्षेत्रफल\N_NN में\PSP उत्खनन\N_NN के\PSP कार्य\N_NN हुए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4066	नालंदा\N_NNP में\PSP प्राप्त\N_NN हुए\V_VM अवशेषों\N_NN में\PSP कई\QT_QTF बौद्ध\N_NNP स्तूप\N_NN ,\RD_PUNC चैत्य\N_NNP ,\RD_PUNC मठ\N_NN ,\RD_PUNC छात्रावास\N_NN ,\RD_PUNC बीच\N_NST में\PSP खुले\N_NST विस्तृत\JJ आँगन\N_NN सहित\N_NN चारों\QT_QTC तरफ\N_NN निर्मित\N_NN छोटे\JJ कक्ष\N_NN (\RD_SYM सेल\N_NN )\RD_SYM ,\RD_PUNC शिक्षागार\N_NN (\RD_SYM लेक्चर\N_NN हॉल\N_NN )\RD_SYM तथा\CC_CCD एम्फीथियेटर\N_NN प्रमुख\JJ हैं\V_VAUX ।\RD_PUNC
+htd4067	खुदाई\N_NN स्थल\N_NN के\PSP पास\N_NST ही\RP_RPD भारतीय\N_NNP पुरातत्व\N_NNP सर्वेक्षण\N_NNP के\PSP संग्रहालय\N_NN में\PSP विभिन्न\JJ काल-खंडों\N_NN की\PSP पुरातात्विक\N_NN महत्व\N_NN की\PSP अनेक\JJ वस्तुएँ\N_NN संरक्षित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4068	नालन्दा\N_NNP के\PSP प्राचीन\JJ महत्व\JJ के\PSP अनुरूप\N_NN राज्य\N_NN सरकार\N_NN द्वारा\N_NN यहाँ\DM_DMD एक\QT_QTC पाली\N_NNP स्नातकोत्तर\N_NNP शोध\N_NNP संस्थान\N_NNP की\PSP स्थापना\N_NN की\V_VM गई\V_VAUX है\V_VAUX जिसे\PR_PRL नव\JJ नालन्दा\N_NNP महाविहार\N_NN के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4069	5वीं\QT_QTO शताब्दी\QT_QTF के\PSP चीनी\N_NNP यात्री\N_NN ह्वेनसांग\N_NNP की\PSP स्मृति\N_NN में\PSP सुन्दर\JJ स्मारक\N_NN ह्वेनसांग\N_NNP मेमोरियल\N_NN हॉल\N_NN निर्मित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4070	उत्खनन\N_NN स्थल\N_NN से\PSP थोड़ी\QT_QTF दूरी\N_NN पर\PSP बड़गाँव\N_NNP नामक\N_NN स्थान\N_NN में\PSP एक\QT_QTC प्राचीन\JJ सूर्य\N_NNP मंदिर\N_NNP तथा\CC_CCS तालाब\N_NN है\V_VAUX जहाँ\PR_PRL छठ\QT_QTC पर्व\N_NN के\PSP अवसर\N_NN पर\PSP भारी\QT_QTF संख्या\N_NN में\PSP छठव्रती\N_NNP एकत्रित\N_NN होकर\V_VM सूर्य\N_NN की\PSP पूजा-आराधना\JJ करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4071	नालन्दा-राजगीर\N_NNP मार्ग\N_NN पर\PSP स्थित\V_VM सिलाव\N_NNP गाँव\N_NN ’खाजा’\N_NNP के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ मिठाई\N_NN के\PSP निर्माण\N_NN तथा\CC_CCS विक्रय\N_NN का\PSP प्रसिद्ध\JJ केन्द्र\N_NN है\V_VAUX ।\RD_PUNC
+htd4072	गिरियक\N_NNP से\PSP 4.5\QT_QTC कि.मी.\N_NN उत्तर\N_NNP में\PSP स्थित\V_VM है\V_VAUX पावापुरी\N_NNP ।\RD_PUNC
+htd4073	पावापुरी\N_NNP स्थान\N_NN इसलिए\CC_CCS प्रसिद्ध\JJ है\V_VAUX कि\CC_CCS जैनियों\N_NNP के\PSP अन्तिम\N_NST तीर्थकार\JJ भगवान\N_NN महावीर\N_NNP ने\PSP यहीं\DM_DMD पर\PSP छठी\QT_QTC शताब्दी\QT_QTF ई.पू.\N_NN में\PSP निर्वाण\N_NN प्राप्त\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4074	राजगीर\N_NNP कैसे\DM_DMQ पहुँचे\V_VM ?\RD_PUNC
+htd4075	वायुमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\N_NST विमान\N_NN पत्तन\N_NN -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NN ,\RD_PUNC पटना\N_NNP (\RD_SYM प्रायः\N_NN 102\QT_QTC कि.मी.\N_NN )\RD_SYM ,\RD_PUNC अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN ,\RD_PUNC गया\V_VM (\RD_SYM प्रायः\N_NN 60\QT_QTC कि.मी.\N_NN )\RD_SYM ।\RD_PUNC
+htd4076	रेलमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\N_NST रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC राजगीर\N_NNP (\RD_SYM बख्तियार-राजगीर\N_NNP रेलखण्ड\N_NNP )\RD_SYM ।\RD_PUNC
+htd4077	राजधानी\N_NN पटना\N_NNP देश\N_NN के\PSP सभी\QT_QTF शहरों\N_NN से\PSP सड़क\N_NN मार्ग\N_NN से\PSP जुड़ा\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd4078	हरे-भरे\JJ वनों\N_NN से\PSP सुशोभित\JJ और\CC_CCD पाँच\QT_QTC पहाड़ियों\N_NN से\PSP घिरा\V_VM आज\N_NN का\PSP राजगीर\N_NNP ,\RD_PUNC भारतीय\N_NN इतिहास\N_NN की\PSP प्रथम\QT_QTO राजधानी\N_NN के\PSP रूप\N_NN मे\PSP अभिज्ञात\N_NN है\V_VAUX ।\RD_PUNC
+htd4079	राजगृह\N_NN नाम\N_NN से\PSP विख्यात\JJ राजगीर\N_NNP स्थान\N_NN ईसा\N_NN पूर्व\N_NST छठी\QT_QTC शताब्दी\N_NN में\PSP मगध\N_NNP साम्राज्य\N_NN की\PSP सत्ता\N_NN का\PSP केन्द्र\N_NN रहा\V_VM था\V_VAUX ।\RD_PUNC
+htd4080	भगवान\N_NNP बुद्ध\N_NNP के\PSP जीवन\N_NN और\CC_CCD कर्मों\N_NN से\PSP भी\RP_RPD राजगीर\N_NNP अभिन्न\JJ रूप\N_NN से\PSP जुड़ा\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4081	बुद्ध\N_NNP ने\PSP न\RP_NEG केवल\QT_QTF कई\QT_QTF वर्षावास\N_NN राजगीर\N_NNP में\PSP किये\V_VM अपितु\CC_CCS महत्वपूर्ण\JJ उपदेशामृत\N_NN का\PSP दान\N_NN भी\RP_RPD उन्होंने\PR_PRP यहाँ\DM_DMD दिया\V_VM ।\RD_PUNC
+htd4082	राजगीर\N_NNP की\PSP वादियों\N_NN में\PSP उत्खनन\N_NN से\PSP प्रकाश\N_NN में\PSP आया\V_VM जीवक-आम्रवन\N_NNP नामक\N_NN मठ\N_NN कभी\QT_QTF भगवान\N_NNP बुद्ध\N_NNP का\PSP प्रिय\JJ विश्रामस्थल\N_NN रहा\V_VM था\V_VAUX ।\RD_PUNC
+htd4083	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS चचेरे\JJ भाई\N_NN देवदत्त\N_NNP के\PSP प्रहार\N_NN से\PSP आहत\N_NN बुए\N_NN बुद्ध\N_NNP की\PSP चिकित्सा\N_NN राजवैद्य\N_NN जीवक\N_NNP ने\PSP इसी\DM_DMD आम्रवन\N_NNP में\PSP की\PSP थी\V_VAUX ।\RD_PUNC
+htd4084	राजगीर\N_NNP में\PSP ही\RP_RPD वेणुवन\N_NNP विहार\N_NN मठ\N_NN नाम\N_NN से\PSP प्रसिद्ध\JJ स्थल\N_NN सम्राट\N_NN बिम्बिसार\N_NNP ने\PSP निवास\N_NN के\PSP लिए\PSP बुद्ध\N_NNP को\PSP अर्पित\V_VM किया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4085	बुद्ध\N_NNP के\PSP निर्वाण\N_NN प्राप्त\V_VM करने\V_VAUX के\PSP बाद\N_NST उनके\PR_PRP उपदेश\N_NN पहली\QT_QTO बार\N_NN राजगीर\N_NNP में\PSP ही\RP_RPD लिपिबद्ध\N_NN हुए\V_VM तथा\CC_CCS प्रथम\QT_QTC बौद्ध-संगीति\N_NNP भी\RP_RPD यहीं\DM_DMD सम्पन्न\N_NN हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd4086	एक\QT_QTC मनोरम\JJ स्थान\N_NN होने\V_VM के\PSP साथ-साथ\N_NN राजगीर\N_NNP हिन्दुओं\N_NN तथा\CC_CCS बौद्धों\N_NNP के\PSP लिये\PSP एक\QT_QTC पवित्र\JJ तीर्थ\N_NN स्थान\N_NN भी\RP_RPD है\V_VAUX ।\RD_PUNC
+htd4087	गर्म-जल\N_NNP के\PSP कई\N_NN प्राकृतिक\N_NN झरने\N_NN राजगीर\N_NNP में\PSP सैंकड़ों\N_NN वर्षों\N_NN से\PSP सतत्\JJ प्रवाहित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4088	जिसके\PR_PRL कारण\N_NN राजगीर\N_NNP हेल्थ-रिसॉर्ट\N_NNP के\PSP रूप\N_NN में\PSP ,\RD_PUNC विशेषकर\JJ शीत-ऋतु\N_NNP में\PSP पर्यटकों\N_NN को\PSP बहुत\QT_QTF ही\RP_RPD भाता\V_VM है\V_VAUX ।\RD_PUNC
+htd4089	राजगीर\N_NNP और\CC_CCD इसके\PR_PRP निकटवर्ती\N_NST आकर्षण\JJ -\RD_PUNC
+htd4090	दोनों\QT_QTC पंखों\N_NN को\PSP फैलाये\V_VM गिद्ध-पक्षी\N_NNP के\PSP समान\N_NN दिखने\V_VM वाली\PSP गृद्ध-कूट\N_NNP पहाड़ी\N_NN पर\PSP बुद्ध\N_NNP ने\PSP सम्राट\N_NN बिम्बिसार\N_NNP को\PSP बौद्ध\N_NNP धर्म\N_NN की\PSP दीक्षा\N_NN प्रदान\V_VM की\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd4091	गृद्ध-कूट\N_NNP से\PSP सटे\N_NN ,\RD_PUNC रत्‍न\N_NNP गिरी\N_NNP नामक\N_NN पहाड़ी\N_NN के\PSP शिखर\N_NN पर\PSP जापान\N_NNP द्वारा\N_NN एक\QT_QTC सुन्दर\JJ विश्‍व\N_NNP शांति\N_NNP स्तूप\N_NNP निर्मित\V_VM है\V_VAUX ।\RD_PUNC
+htd4092	गृद्ध-कूट\N_NNP पहाड़ी\N_NN के\PSP तल\N_NN से\PSP शिखर\N_NN पर\PSP पहुँचने\V_VM के\PSP लिए\PSP बिहार\N_NNP पर्यटन\N_NN द्वारा\N_NN एक\QT_QTC आकाशीय\N_NN रज्जुपथ\N_NNP सेवा\N_NN भी\RP_RPD संचालित\V_VM है\V_VAUX ।\RD_PUNC
+htd4093	बिम्बिसार\N_NNP कारागार\N_NNP -\RD_PUNC अपने\PR_PRF पिता\N_NN सम्राट\N_NN बिम्बिसार\N_NNP को\PSP सिंहासन-च्युत\N_NN कर\V_VAUX अजातशत्रु\N_NNP ने\PSP इसी\DM_DMD स्थान\N_NN पर\PSP बन्दी\N_NN बनाकर\V_VM रखा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4094	मणियारमठ\N_NNP -\RD_PUNC पुरातत्त्वेत्ताओं\N_NN द्वारा\N_NN कूप\N_NNP के\PSP आकार\N_NN की\PSP यह\DM_DMD संरचना\N_NN प्राचीन\JJ जैन-पूजन\N_NNP स्थली\N_NN मानी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4095	सोन\N_NNP भण्डार\N_NNP -\RD_PUNC पहाड़ी\N_NN को\PSP काट\V_VM कर\V_VAUX बनाई\V_VM गयी\V_VAUX इस\DM_DMD गुफा\N_NN ,\RD_PUNC जिसे\PR_PRL स्वर्ण-भण्डार\N_NN भी\RP_RPD कहा\V_VM जाता\V_VAUX है\V_VAUX ,\RD_PUNC में\PSP जैन\N_NN तीर्थकारों\N_NN की\PSP प्राचीन\JJ मूर्तियाँ\N_NN स्थापित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4096	स्वर्ण-भण्डार\N_NN से\PSP प्रायः\N_NN 1.6\QT_QTC कि.मी.\N_NN दक्षिण-पश्चिम\N_NNP दिशा\N_NN में\PSP एक\QT_QTC स्थान\N_NN ``\RD_PUNC अखाड़ा\N_NN ``\RD_PUNC या\CC_CCS रण-भूमि\N_NN के\PSP नाम\N_NN से\PSP ज्ञात\V_VM है\V_VAUX ।\RD_PUNC
+htd4097	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS ,\RD_PUNC पौराणिक\JJ महाभारत-काल\N_NNP के\PSP दो\QT_QTC पात्रों\N_NN -\RD_PUNC भीम\N_NNP और\CC_CCD जरासन्ध\N_NNP के\PSP बीच\N_NST इसी\DM_DMD अखाड़े\N_NN पर\PSP द्वन्द\N_NNP युद्ध\N_NNP हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd4098	वैभार-गिरी\N_NNP नाम\N_NN से\PSP ज्ञात\N_NN पहाड़ी\N_NN की\PSP तलहटी\N_NNP में\PSP अवस्थित\V_VM गर्म-जल\N_NNP के\PSP झरनों\N_NN से\PSP होकर\V_VM ऊपर\N_NST की\PSP ओर\N_NN चढ़ाई\N_NN करते\V_VM समय\N_NN पत्थर\N_NN के\PSP टुकड़ों\N_NN से\PSP निर्मित\N_NN एक\QT_QTC प्राचीन\JJ बृहद\JJ संरचना\N_NN दिखाई\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4099	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS यह\DM_DMD स्थान\N_NN पौराणिक\N_NN महाभारत-काल\N_NNP के\PSP पात्र\N_NN जरासन्ध\N_NNP की\PSP बैठक\N_NN थी\V_VAUX ।\RD_PUNC
+htd4100	चीनी\N_NNP यात्री\N_NN फ़ाहियान\N_NNP के\PSP वृतान्तों\N_NN में\PSP कहा\V_VM गया\V_VAUX है\V_VAUX कि\CC_CCS दोपहर\N_NN के\PSP भोजन\N_NN के\PSP बाद\N_NST बुद्ध\N_NNP पिप्पल\N_NNP गुफा\N_NN स्थान\N_NN पर\PSP ध्यानस्थ\N_NN हुआ\V_VM करते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4101	वैभार-गिरी\N_NNP पहाड़ी\N_NN पर\PSP स्थित\V_VM प्राचीन\JJ आदिनाथ\N_NNP (\RD_SYM जैन\N_NNP )\RD_SYM मंदिर\N_NN से\PSP थोड़ा\QT_QTF नीचे\N_NST की\PSP तरफ\N_NN प्राकृतिक\JJ रूप\N_NN से\PSP निर्मित\N_NN छह\QT_QTC गुफाओं\N_NN की\PSP एक\QT_QTC श्रंखला\N_NN सप्तपर्णी\N_NN गुफाओं\N_NN के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ हैं\V_VAUX ।\RD_PUNC
+htd4102	राजगीर\N_NNP में\PSP मुख्य\JJ सड़क\N_NN मार्ग\N_NN के\PSP किनारे\N_NN वेणु-वन\N_NN के\PSP समीप\N_NST ही\RP_RPD प्रस्तर-निर्मित\N_NN स्तूप\N_NN के\PSP अवशेष\N_NN संरक्षित\V_VM हैं\V_VAUX जिसे\PR_PRL अजातशत्रु\N_NNP का\PSP स्तूप\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4103	प्राचीन\JJ काल\N_NN में\PSP मगध\N_NNP के\PSP शासकों\N_NN द्वारा\N_NN सामरिक\N_NN सुरक्षा\N_NN की\PSP दृष्टि\N_NN से\PSP राजगृह\N_NNP नगरी\N_NN के\PSP चारों\QT_QTC तरफ\N_NN सुदृढ़\JJ दीवारों\N_NN के\PSP अवशेष\N_NN आज\N_NN भी\RP_RPD राजगीर\N_NNP की\PSP पहाड़ियों\N_NN पर\PSP मौजूद\RB हैं\V_VAUX ।\RD_PUNC
+htd4104	राजगीर\N_NNP अथवा\CC_CCS प्राचीन\JJ राजगृह\N_NNP नगरी\N_NN में\PSP प्रवाहित\N_NN सरस्वती\N_NNP नदी\N_NN के\PSP पूर्वी\N_NST छोर\N_NN पर\PSP एक\QT_QTC विस्तृत\JJ भू-भाग\N_NN वेणु\N_NNP (\RD_SYM बॉस\N_NN )\N_NN वन\N_NN के\PSP नाम\N_NN से\PSP विख्यात\JJ है\V_VAUX ।\RD_PUNC
+htd4105	वेणु\N_NNP वन\N_NN स्थल\N_NN सम्राट\N_NN बिम्बिसार\N_NNP ने\PSP बुद्ध\N_NNP को\PSP उनके\PR_PRP निवास\N_NN के\PSP लिए\PSP अर्पित\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4106	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS बुद्ध\N_NNP जब\PR_PRL राजगृह\N_NN में\PSP होते\V_VM तब\CC_CCD उन्हें\PR_PRL इस\DM_DMD जगह\N_NN ठहरना\V_VM बहुत\QT_QTF पसन्द\N_NN था\V_VAUX ।\RD_PUNC
+htd4107	औषधीय\N_NN गुणों\N_NN से\PSP युक्‍त\N_NN उष्ण\JJ तथा\CC_CCD शीतल\N_NN जल\N_NN के\PSP कई\QT_QTF प्राकृतिक\JJ झरने\N_NN सदियों\N_NN से\PSP राजगीर\N_NNP में\PSP निरंतर\N_NN प्रवाहित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4108	देश-विदेश\N_NN के\PSP पर्यटक\N_NN बड़ी\JJ संख्या\N_NN में\PSP वैभार\N_NST गिरी\N_NNP तथा\CC_CCS विपुल\QT_QTF गिरी\N_NNP की\PSP तलहटी\N_NN में\PSP प्रवाहित\N_NN इन\DM_DMD झरनों\N_NN का\PSP आनन्द\JJ लेने\V_VM आया\V_VAUX करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4109	राजगीर\N_NNP से\PSP गया\N_NNP जाने\V_VM वाले\PSP मुख्य\JJ मार्ग\N_NN पर\PSP ,\RD_PUNC जहाँ\PR_PRL राजगीर\N_NNP की\PSP सीमा\N_NN समाप्त\N_NN होती\V_VM है\V_VAUX लगभग\QT_QTF वहीं\DM_DMD ,\RD_PUNC सड़क\N_NN के\PSP ठीक\N_NN किनारे\N_NN प्राचीन\JJ काल\N_NN में\PSP रथ\N_NN के\PSP चक्कों\N_NN से\PSP बने\V_VM प्रस्तरीभूत\N_NN चिह्न\N_NN देखे\V_VM जा\V_VAUX सकते\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4110	इतिहासज्ञों\N_NN के\PSP मतानुसार\N_NN कुर्किहार\N_NNP स्थान\N_NN का\PSP वास्तविक\N_NN नाम\N_NN कुरक-विहार\N_NNP था\V_VAUX ,\RD_PUNC जो\PR_PRL विख्यात\JJ पुरातत्ववेत्ता\N_NN कनिंघम\N_NNP की\PSP दृष्टि\N_NN में\PSP कुक्कुटपाद\N_NNP विहार\N_NN का\PSP ही\RP_RPD अपभ्रंश\N_NNP है\V_VAUX ।\RD_PUNC
+htd4111	ह्वेनसांग\N_NNP ने\PSP वर्तमान\N_NN पटना\N_NNP (\RD_SYM प्राचीन\JJ पाटलिपुत्र\N_NNP )\RD_SYM के\PSP निकट\N_NST इस\DM_DMD नाम\N_NN के\PSP एक\QT_QTC महाविहार\N_NNP का\PSP उल्लेख\N_NN अपने\PR_PRF वृतान्तों\N_NN में\PSP किया\V_VM है\V_VAUX ।\RD_PUNC
+htd4112	कनिंघम\N_NNP ने\PSP इस\DM_DMD चीनी\N_NNP यात्री\N_NN द्वारा\N_NN वर्णित\N_NN कुक्कुट-पाद-गिरि\N_NN की\PSP पहचान\N_NN कुर्किहार\N_NNP के\PSP भग्नावशेषों\N_NN के\PSP रूप\N_NN में\PSP की\PSP है\V_VAUX ,\RD_PUNC जहाँ\PR_PRL बौद्ध\N_NNP आख्यानों\N_NN के\PSP अनुसार\N_NN ,\RD_PUNC महाकश्यप\N_NNP के\PSP कुछ\QT_QTF चमत्कार\N_NN हुए\V_VM थे\V_VAUX ।\RD_PUNC
+htd4113	राजगीर\N_NNP के\PSP पास\N_NST ही\RP_RPD नवादा-गया\N_NNP मार्ग\N_NN पर\PSP वजीरगंज\N_NNP से\PSP लगभग\QT_QTF 4.8\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP कुर्किहार\N_NNP नामक\N_NN गाँव\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4114	कुर्किहार\N_NNP में\PSP सर्वप्रथम\N_NN किट्टो\N_NNP ने\PSP 1847\QT_QTC ई.\N_NN में\PSP पुरातात्विक\N_NN महत्व\JJ के\PSP अवशेषों\N_NN की\PSP खोज\N_NN की\PSP थी\V_VAUX ।\RD_PUNC
+htd4115	उसने\PR_PRP अनेक\QT_QTF बौद्ध\N_NNP मूर्त्तियाँ\N_NN कुर्किहार\N_NNP से\PSP एकत्रित\N_NN की\V_VM थी\V_VAUX जो\PR_PRL कोलकाता\N_NNP के\PSP इण्डियन\N_NNP म्यूजियम\N_NNP में\PSP संरक्षित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4116	1866\QT_QTC ई.\N_NN में\PSP पेप्पे\N_NNP ने\PSP कुर्किहार\N_NNP की\PSP प्रतिमाओं\N_NN के\PSP छायाचित्र\N_NN लेकर\V_VM उनके\PR_PRP विषय\N_NN में\PSP अपनी\PR_PRF टिप्पणियाँ\N_NN प्रकाशित\V_VM की\PSP थी\V_VAUX ।\RD_PUNC
+htd4117	कनिंघम\N_NNP ने\PSP भी\RP_RPD 1861-62\QT_QTC तथा\CC_CCS 1879-80\QT_QTC में\PSP दो\QT_QTC बार\N_NN इस\DM_DMD स्थान\N_NN की\PSP अन्वेषण\N_NN यात्रा\N_NN की\PSP थी\V_VAUX ।\RD_PUNC
+htd4118	बंगाल\N_NNP लिस्ट\N_NNP और\CC_CCD गजेटियर\N_NNP में\PSP कुर्किहार\N_NNP के\PSP संबंध\N_NN में\PSP पूर्व\N_NST की\PSP सूचनाओं\N_NN पर\PSP आधारित\N_NN संक्षिप्त\N_NN ब्यौरे\N_NN वर्णित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4119	ह्वेनसांग\N_NNP ने\PSP इस\DM_DMD क्षेत्र\N_NN के\PSP जिन\N_NN स्थानों\N_NN का\PSP भ्रमण\N_NN किया\V_VM था\V_VAUX खासतौर\RB से\PSP उनकी\PR_PRP पहचान\N_NN के\PSP उद्देश्य\N_NN से\PSP स्टीन\N_NNP ने\PSP भी\RP_RPD कुर्किहार\N_NNP की\PSP अन्वेषणात्मक\N_NN यात्रा\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd4120	कुर्किहार\N_NNP स्थान\N_NN तब\CC_CCD प्रकाश\N_NN में\PSP आकर\N_NN अचानक\JJ चर्चित\N_NN हो\V_VM गया\V_VAUX जब\PR_PRL 1930\QT_QTC में\PSP खुदाई\N_NN से\PSP यहाँ\DM_DMD पाँच\QT_QTC अन्य\QT_QTF वस्तुओं\N_NN के\PSP साथ-साथ\N_NN काँसे\N_NNP के\PSP 226\QT_QTC सिक्के\N_NN भी\RP_RPD प्राप्त\V_VM हुए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4121	ये\DM_DMD सामग्रियाँ\N_NN अब\N_NST पटना\N_NNP संग्रहालय\N_NN की\PSP शोभा\JJ हैं\V_VAUX ।\RD_PUNC
+htd4122	कुर्किहार\N_NNP गाँव\N_NN के\PSP दक्षिण\N_NNP में\PSP प्राचीन\JJ बौद्ध\N_NNP विहार\N_NN के\PSP मुख्य\JJ अवशेष\N_NN ,\RD_PUNC गाँव\N_NN के\PSP उत्तर\N_NNP -पूर्व\N_NNP में\PSP देवी\N_NN स्थान\N_NN या\CC_CCD वागीश्वरी\N_NNP मंदिर\N_NN तथा\CC_CCS ,\RD_PUNC उत्तर\N_NNP में\PSP सुगत\N_NNP घर\N_NN का\PSP टीला\N_NN पर्यटकों\N_NN के\PSP लिए\PSP आकर्षण\JJ के\PSP प्रमुख\JJ केन्द्र\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4123	बोधगया\N_NNP कैसे\DM_DMQ पहुँचे\V_VAUX ?\RD_PUNC
+htd4124	वायुमार्ग\N_NN से\PSP :\RD_PUNC निकटतम\JJ विमान\N_NN पत्तन\N_NN -\RD_PUNC अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN ,\RD_PUNC गया\N_NNP (\RD_SYM प्रायः\N_NN 8\QT_QTC कि.मी.\N_NN )\RD_SYM |\N_NN
+htd4125	बोधगया\N_NNP का\PSP निकटतम\JJ रेलवे\N_NN स्टेशन\N_NN ,\RD_PUNC गया\N_NNP (\RD_SYM दिल्ली-हावड़ा\N_NNP ग्रैण्डकौर्ड\N_NNP )\RD_SYM है\V_VAUX ।\RD_PUNC
+htd4126	आवासन\N_NN हेतु\PSP उपलब्ध\N_NN सुविधाएँ\N_NN ।\RD_PUNC
+htd4127	बिहार\N_NNP स्टेट\N_NNP टूरिज्म\N_NNP डेवलपमेंट\N_NNP कॉरपोरेशन\N_NNP सहित\N_NN निजी\N_NN क्षेत्र\N_NN में\PSP संचालित\N_NN अनेक\QT_QTF होटल\N_NN ,\RD_PUNC बौद्ध\N_NNP मठ\N_NN एवं\CC_CCD धर्मशालाएँ\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4128	गया\N_NNP से\PSP सड़क\N_NN मार्ग\N_NN द्वारा\N_NN केवल\QT_QTF 12\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP ,\RD_PUNC निरंजना\N_NNP नदी\N_NN के\PSP पश्चिमी\N_NNP किनारे\N_NN पर\PSP बसा\V_VM है\V_VAUX बोधगया\N_NNP ।\RD_PUNC
+htd4129	यही\DM_DMD वह\PR_PRP स्थान\N_NN है\V_VAUX जहाँ\PR_PRL शाक्य\N_NNP कुमार\N_NNP ने\PSP ईसा\N_NN पूर्व\N_NST 531\QT_QTF में\PSP पवित्र\JJ बोधि-वृक्ष\N_NNP की\PSP छाया\N_NN में\PSP बैठकर\V_VM कठोर\N_NN तपश्‍चर्या\N_NN के\PSP द्वारा\N_NN ज्ञान\N_NN के\PSP ``\RD_PUNC प्रकाश\N_NN ``\RD_PUNC का\PSP प्रथम\QT_QTC साक्षात्कार\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4130	एक\QT_QTC राजकुमार\N_NNP के\PSP रूप\N_NN में\PSP जन्मा\N_NN सिद्धार्थ\N_NNP यहीं\DM_DMD ``\RD_PUNC बुद्धत्व\JJ ``\RD_PUNC प्राप्त\V_VM कर\V_VAUX बुद्ध\N_NNP बन\V_VM गया\V_VAUX ।\RD_PUNC
+htd4131	बुद्ध\N_NNP के\PSP द्वारा\N_NN प्रतिपादित\N_NN धर्म\N_NN का\PSP अनुसरण\N_NN करने\V_VM वाले\PSP विश्‍व\N_NN भर\N_NN के\PSP ``\RD_PUNC बौद्धों\N_NN ``\RD_PUNC के\PSP लिये\N_NN बोधगया\N_NNP एक\QT_QTC पवित्रतम्\JJ तीर्थ\N_NN है\V_VAUX ।\RD_PUNC
+htd4132	बौद्ध\N_NNP धर्म\N_NN को\PSP मानने\V_VM वाले\V_VAUX कई\QT_QTF दक्षिण-पूर्व\N_NNP एशियाई\N_NN देशों\N_NN ने\PSP अपनी-अपनी\PR_PRP वास्तुकला\N_NN के\PSP अनुरूप\N_NN ``\RD_PUNC बौद्ध-मठों\N_NNP ``\RD_PUNC का\PSP निर्माण\N_NN बोधगया\N_NNP में\PSP किया\V_VM है\V_VAUX ।\RD_PUNC
+htd4133	बोधगया\N_NNP का\PSP मुख्य\JJ प्रतीक-महाबोधि\N_NNP मन्दिर\N_NN अब\N_NST ``\RD_PUNC विश्‍व-धरोहर\N_NNP ``\RD_PUNC का\PSP दर्जा\N_NN पा\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4134	बोधगया\N_NNP और\CC_CCD इसके\PR_PRP निकटवर्ती\N_NN आकर्षण\JJ -\RD_PUNC
+htd4135	परम\N_NN ज्ञान\N_NN का\PSP प्रतीक\N_NN महाबोधि\N_NNP मन्दिर\N_NN अपनी\PR_PRF विशिष्ट\JJ वास्तु-कला\N_NN के\PSP कारण\N_NN उत्तर\N_NNP भारत\N_NNP के\PSP दूसरे\QT_QTC मन्दिरों\N_NN से\PSP सर्वथा\QT_QTF भिन्न\JJ है\V_VAUX ।\RD_PUNC
+htd4136	सामान्य\JJ वक्र-रेखीय\N_NN स्वरूप\N_NN के\PSP स्थान\N_NN पर\N_NN ,\RD_PUNC महाबोधि\N_NNP मन्दिर\N_NN की\PSP वास्तु\N_NN मीनारनुमा\N_NNP है\V_VAUX ।\RD_PUNC
+htd4137	मुख्य\JJ मन्दिर\N_NN के\PSP चारों\QT_QTC कोनो\N_NN पर\PSP चार\QT_QTC शिखर\N_NN सम्पूर्ण\N_NN संरचना\N_NN को\PSP संतुलन\N_NN प्रदान\V_VM करने\V_VAUX के\PSP लिये\PSP निर्मित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4138	मन्दिर\N_NN के\PSP गर्भगृह\N_NN में\PSP बुद्ध\N_NNP की\PSP एक\QT_QTC स्वर्णमंडित\N_NN प्रतिमा\N_NN स्थापित\V_VM है\V_VAUX ।\RD_PUNC
+htd4139	उकेरी\N_NN गयी\V_VM सुन्दर\JJ आकृतियों\N_NN से\PSP सज्जित\JJ ,\RD_PUNC पत्थर\N_NN से\PSP बनी\V_VM ’रेलिंग’\N_NNP मन्दिर\N_NN के\PSP परिसर\N_NN में\PSP बोधगया\N_NNP की\PSP प्राचीनतम\JJ धरोहर\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4140	बोधिवृक्ष\N_NNP पीपल\N_NN के\PSP उस\PR_PRP पवित्र\N_NN वृक्ष\N_NN का\PSP वंशज\N_NN है\V_VAUX जिसके\PR_PRL नीचे\N_NST तप\N_NN करके\V_VM राजकुमार\N_NNP सिद्धार्थ\N_NNP ने\PSP बुद्धत्व\N_NNP प्राप्त\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4141	विशेषज्ञों\N_NN के\PSP अनुसार\N_NN वर्तमान\N_NN वृक्ष\N_NN ,\RD_PUNC मूल\N_NN वृक्ष\N_NN का\PSP चौथा\QT_QTC या\CC_CCD पाँचवा\QT_QTO वंशज\N_NN है\V_VAUX ।\RD_PUNC
+htd4142	बोधिवृक्ष\N_NNP की\PSP टहनियों\N_NN (\RD_SYM seplings\N_NN )\RD_SYM की\PSP देश-विदेश\N_NN में\PSP भारी\JJ माँग\V_VM है\V_VAUX ।\RD_PUNC
+htd4143	महाबोधि\N_NNP मन्दिर\N_NN के\PSP चारों\QT_QTC तरफ\N_NN बालू-पत्थर\N_NNP तथा\N_NN ग्रेनाइट-पत्थर\N_NNP से\PSP बनी\V_VM मूल\JJ बाड़\N_NN (\RD_SYM railing\N_NN )\RD_SYM के\PSP अवशेष\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4144	इन\DM_DMD पर\PSP सुन्दर\JJ मूर्तियाँ\N_NN ,\RD_PUNC आकृतियाँ\N_NN तथा\CC_CCS बेलें\N_NN उकेरी\N_NN गयी\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4145	ग्रेनाइट\N_NN पत्थर\N_NN से\PSP बनी\V_VM बाड़\N_NN गुप्तकाल\N_NNP (\RD_SYM ईसा\N_NN के\PSP बाद\N_NST चौथी\QT_QTC या\CC_CCD पाँचवीं\QT_QTC सदी\N_NN )\RD_SYM की\PSP बतायी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4146	प्राचीन\JJ वज्रासन\N_NN -\RD_PUNC पॉलिश\N_NN किये\V_VM हुए\V_VAUX बालू-पत्थर\N_NNP से\PSP निर्मित\N_NN चबूतरे\N_NN के\PSP आकार\N_NN की\PSP एक\QT_QTC नक्काशीदार\N_NN संरचना\N_NN ,\RD_PUNC जिसे\PR_PRL वज्रासन\N_NNP कहा\V_VM जाता\V_VAUX है\V_VAUX ,\RD_PUNC बोधिवृक्ष\N_NNP के\PSP नीचे\N_NST महाबोधि\N_NNP मन्दिर\N_NN की\PSP बाह्‍य\N_NST पश्चिमी\N_NNP दीवार\N_NN से\PSP सटी\N_NN रखी\V_VM है\V_VAUX ।\RD_PUNC
+htd4147	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS ,\RD_PUNC इसी\DM_DMD स्थान\N_NN पर\N_NN बुद्ध\N_NN बोधिवृक्ष\N_NNP के\PSP नीचे\N_NST बैठे\V_VM थे\V_VAUX ।\RD_PUNC
+htd4148	चंक्रमण\N_NNP -\RD_PUNC बैद्ध-साहित्य\N_NNP में\PSP वर्णन\V_VM है\V_VAUX कि\CC_CCS ज्ञान\N_NN प्राप्ति\N_NN के\PSP बाद\N_NST बुद्ध\N_NNP बोधिवृक्ष\N_NNP के\PSP नीचे\N_NST ही\RP_RPD सात\QT_QTC दिनों\N_NN तक\PSP इधर\N_NN से\PSP उधर\N_NN टहलते\V_VM एवं\CC_CCD चिन्तन-मनन\N_NN करते\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4149	उनके\PR_PRP टहलने\N_NN का\PSP वह\PR_PRP विस्तार\N_NN बहुत\QT_QTF पवित्र\JJ माना\V_VM गया\V_VAUX और\CC_CCD उसी\DM_DMD विस्तार\N_NN में\PSP प्राचीन\JJ काल\N_NN (\RD_SYM सम्भवतः\N_NN ईसा\N_NN के\PSP बाद\N_NST पहली\QT_QTC सदी\N_NN )\RD_SYM में\PSP ही\RP_RPD एक\QT_QTC स्मारक\N_NN का\PSP निर्माण\N_NN कराया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4150	महाबोधि\N_NNP मन्दिर\N_NN के\PSP निकट\N_NST ही\RP_RPD दक्षिण\N_NNP में\PSP मुचलिन्द-सरोवर\N_NNP नाम\N_NN का\PSP एक\QT_QTC प्राचीन\JJ तालाब\N_NN है\V_VAUX ।\RD_PUNC
+htd4151	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS बुद्ध\N_NNP जब\PR_PRL समाधि\N_NN की\PSP अवस्था\N_NN में\PSP थे\V_VAUX तब\CC_CCS वहाँ\N_NN निवास\N_NN करने\V_VM वाले\PSP मुचलिन्द\N_NNP नामक\N_NN नागराज\N_NNP उनकी\PR_PRL रक्षा\N_NN करते\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4152	तारा\N_NNP देवी\N_NNP मन्दिर\N_NN ,\RD_PUNC अनिमेष\N_NNP लोचन\N_NNP चैत्य\N_NNP ,\RD_PUNC विभिन्न\JJ हिन्दू\N_NNP मन्दिर\N_NN -\RD_PUNC मठ\N_NN -\RD_PUNC समाधि\N_NN ,\RD_PUNC बौद्ध\N_NNP देशों\N_NN द्वारा\N_NN निर्मित\N_NN सुन्दर\JJ बौद्ध-मठ\N_NNP तथा\CC_CCD जापान\N_NNP द्वारा\N_NN निर्मित\N_NN 80\QT_QTC फीट\N_NN ऊँची\JJ बुद्ध\N_NNP की\PSP प्रस्तर-प्रतिमा\N_NN बोधगया\N_NNP के\PSP अन्य\JJ आकर्षण\JJ हैं\V_VAUX ।\RD_PUNC
+htd4153	गया\N_NNP से\PSP 80\QT_QTC कि.मी.\N_NN तथा\CC_CCD औरंगाबाद\N_NNP रोड\N_NN नामक\N_NN रेलवे\N_NN स्टेशन\N_NN से\PSP प्रायः\N_NN 14\QT_QTC कि.मी.\N_NN दूरी\N_NN पर\PSP अपने\PR_PRF ही\RP_RPD नाम\N_NN के\PSP जिले\N_NN का\PSP मुख्यालय\N_NN औरंगाबाद\N_NNP शहर\N_NN अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4154	ग्रैंड\N_NNP ट्रंक\N_NNP रोड\N_NNP पर\PSP शेरघाटी\N_NNP तथा\CC_CCD औरंगाबाद\N_NNP के\PSP बीच\N_NST मदनपुर\N_NNP के\PSP निकट\N_NST एक\QT_QTC पहाड़ी\N_NN श्रंखला\N_NN पर\PSP चट्‍टानों\N_NN के\PSP बीच\N_NST बौद्ध\N_NNP स्मारकों\N_NN के\PSP चिन्ह\N_NN मौजूद\RB हैं\V_VAUX ।\RD_PUNC
+htd4155	पूर्व\N_NST दिशा\N_NN में\PSP लगभग\QT_QTF 3\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP बुरहा\N_NNP में\PSP कई\QT_QTF स्थल\N_NN हैं\V_VAUX जहाँ\PR_PRL कभी\QT_QTF अनगिनत\N_NN चैत्य\N_NNP तथा\N_NN विशाल\JJ बौद्ध\N_NNP विहार\N_NNP अवस्थित\V_VM थे\V_VAUX ।\RD_PUNC
+htd4156	औषधीय\N_NN गुणों\N_NN से\PSP युक्‍त\N_NN गर्मजल\N_NN के\PSP कुछ\N_NN झरने\N_NN यहाँ\DM_DMD हैं\V_VAUX जिनके\PR_PRL लिये\PSP यह\DM_DMD स्थान\N_NN प्राचीन\JJ समय\N_NN से\PSP विख्यात\JJ रहा\V_VM है\V_VAUX ।\RD_PUNC
+htd4157	15वीं\QT_QTO शताब्दी\QT_QTF में\PSP निर्मित\N_NN देव\N_NN का\PSP प्रख्यात\JJ ऐतिहासिक\JJ सूर्य\N_NNP मन्दिर\N_NNP भी\RP_RPD औरंगाबाद\N_NNP से\PSP लगभग\QT_QTF 10\QT_QTC कि.मी.\N_NN दक्षिण-पूर्व\N_NNP दिशा\N_NN में\PSP अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4158	वैशाली\N_NNP के\PSP निकटतम\JJ विमान\N_NN पत्तन\N_NN -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NN पत्तन\N_NN ,\RD_PUNC पटना\N_NNP (\RD_SYM प्रायः\N_NN 60\QT_QTC कि.मी.\N_NN )\RD_SYM ,\RD_PUNC अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN ,\RD_PUNC गया\N_NNP (\RD_SYM प्रायः\N_NN 169\QT_QTC कि.मी.\N_NN )\RD_SYM हैं\V_VAUX ।\RD_PUNC
+htd4159	वैशाली\N_NNP का\PSP निकटतम\N_NN रेलवे\N_NN स्टेशन\N_NN हाजीपुर\N_NNP /\N_NN मुजफ्फरपुर\N_NNP है\V_VAUX ।\RD_PUNC
+htd4160	वैशाली\N_NNP राजधानी\N_NN पटना\N_NNP समेत\N_NN देश\N_NN के\PSP सभी\QT_QTF शहरों\N_NN से\PSP सड़क\N_NN मार्ग\N_NN से\PSP जुड़ा\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd4161	वैशाली\N_NNP से\PSP पटना\N_NN -\RD_PUNC 54\N_NN कि.मी.\N_NN ,\RD_PUNC गया\N_NNP -\RD_PUNC 158\QT_QTC कि.मी.\N_NN ,\RD_PUNC मुजफ्फरपुर\N_NNP -\RD_PUNC 37\QT_QTC कि.मी.\N_NN ,\RD_PUNC हाजीपुर\N_NNP -\RD_PUNC 32\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ।\RD_PUNC
+htd4162	वैशाली\N_NNP में\PSP सर्किट\N_NNP हाउस\N_NNP ,\RD_PUNC बिहार\N_NNP स्टेट\N_NNP टूरिज्म\N_NNP डेवलपमेंट\N_NNP कॉरपोरेशन\N_NNP द्वारा\N_NN संचालित\N_NN आम्रपाली\N_NNP विहार\N_NN तथा\CC_CCD बौद्ध\N_NNP मठ\N_NN आवासन\N_NN हेतु\PSP उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4163	चाहें\N_NN तो\RP_RPD हाजीपुर\N_NNP में\PSP निजी\N_NN होटलों\N_NN में\PSP ठहर\N_NN कर\N_NN अथवा\N_NN ,\RD_PUNC बिहार\N_NN स्टेट\N_NN टूरिज्म\N_NN डेवलपमेंट\N_NN कॉरपोरेशन\N_NN द्वारा\N_NN मुजफ्फरपुर\N_NNP में\PSP संचालित\N_NN होटल\N_NN लिच्छवी\N_NNP विहार\N_NN में\PSP ठहर\N_NN कर\V_VM भी\RP_RPD वैशाली\N_NNP का\PSP परिदर्शन\N_NN भी\RP_RPD किया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4164	वैशाली\N_NN कितना\N_NN प्राचीन\N_NN है\V_VAUX इसका\PR_PRP अन्दाज़ा\N_NN इसी\DM_DMD से\PSP लगता\V_VM है\V_VAUX कि\CC_CCS पुराणों\N_NN तथा\CC_CCS रामायण\N_NNP में\PSP भी\RP_RPD स्वतंत्र\N_NN राज्य\N_NN के\PSP रूप\N_NN में\PSP इसकी\PR_PRP चर्चा\N_NN है\V_VAUX ।\RD_PUNC
+htd4165	इक्ष्वाकु\N_NNP पुत्र\N_NN राजा\N_NN विशाल\JJ को\PSP वैशाली\N_NNP राज्य\N_NN का\PSP अधिष्ठाता\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4166	हिन्दू\N_NNP ग्रन्थों\N_NN के\PSP अलावा\CC_CCD जैन\N_NNP एवं\CC_CCD बौद्ध\N_NNP साहित्य\N_NN में\PSP भी\RP_RPD वैशाली\N_NNP की\PSP चर्चा\N_NN प्रमुखता\JJ से\PSP पायी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4167	जैन\N_NNP साहित्य\N_NN के\PSP अनुसार\N_NN 24\QT_QTC वें\DM_DMD जैन\N_NNP तीर्थंकर-वर्द्धमान\N_NNP महावीर\N_NNP ने\PSP यहीं\DM_DMD वैशाली\N_NNP के\PSP समीप\N_NN कुण्डपुरा\N_NNP या\CC_CCD कुण्डग्राम\N_NNP में\PSP जन्म\N_NN लिया\V_VM था\V_VAUX ।\RD_PUNC
+htd4168	निर्वाचित\N_NN जन-प्रतिनिधियों\N_NN की\PSP सभा\N_NN द्वारा\N_NN शासित\N_NN तथा\N_NN सफलतापूर्वक\N_NN संचालित\N_NN विश्‍व\N_NN के\PSP प्रथम\QT_QTC गणराज्य\N_NN (\RD_SYM वज्ज़ीगणतंत्र\N_NN )\RD_SYM होने\V_VM का\PSP गौरव\JJ भी\RP_RPD वैशाली\N_NNP को\PSP ही\RP_RPD प्राप्त\V_VM है\V_VAUX ।\RD_PUNC
+htd4169	बुद्ध\N_NNP अपने\PR_PRF जीवन\N_NN काल\N_NN में\PSP कम\JJ से\PSP कम\JJ तीन\QT_QTC बार\N_NN वैशाली\N_NNP आये\V_VM थे\V_VAUX ।\RD_PUNC
+htd4170	बौद्ध\N_NNP गाथाओं\N_NN में\PSP वर्णित\V_VM है\V_VAUX कि\CC_CCS एक\QT_QTC बार\N_NN जब\PR_PRL बुद्ध\N_NNP वैशाली\N_NNP आये\V_VM तो\RP_RPD कई\QT_QTF बन्दरों\N_NN ने\PSP मिलकर\V_VM उनके\PR_PRP लिये\PSP एक\QT_QTC तालाब\N_NN खोदा\N_NN और\CC_CCD एक\QT_QTC कटोरा\N_NNP मधु\N_NNP का\PSP उन्हें\PR_PRP भेंट\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4171	यह\DM_DMD घटना\N_NN बुद्ध\N_NNP के\PSP जीवन\N_NN की\PSP आठ\QT_QTC प्रमुख\JJ घटनाओं\N_NN में\PSP से\PSP एक\QT_QTC के\PSP रूप\N_NN में\PSP गिनी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4172	इतिहास\N_NNP प्रसिद्ध\JJ राजनर्तकी\N_NN आम्रपाली\N_NNP ने\PSP बुद्ध\N_NNP को\PSP वैशाली\N_NNP में\PSP एक\QT_QTC आम्रवन\N_NNP का\PSP उपहार\N_NN दिया\V_VM था\V_VAUX ।\RD_PUNC
+htd4173	आम्रपाली\N_NNP बाद\N_NST में\PSP अपना\PR_PRF सब\QT_QTF कुछ\QT_QTF त्याग\V_VM कर\V_VAUX बुद्ध\N_NNP की\PSP शरणागत\N_NN हो\V_VM गयी\V_VAUX थी\V_VAUX तथा\CC_CCD उसने\PR_PRP बौद्ध\N_NN धर्म\N_NN अपना\PR_PRF लिया\V_VM था\V_VAUX ।\RD_PUNC
+htd4174	वह\PR_PRP स्थान\N_NN वैशाली\N_NNP ही\RP_RPD था\V_VAUX जहाँ\PR_PRL के\PSP निवासियों\N_NN को\PSP बुद्ध\N_NNP ने\PSP अपना\PR_PRF अन्तिम\N_NN उपदेश\N_NN दिया\V_VM था\V_VAUX और\CC_CCD अपने\PR_PRF परिनिर्वाण\N_NN की\PSP घोषणा\N_NN भी\RP_RPD की\PSP थी\V_VAUX ।\RD_PUNC
+htd4175	बुद्ध\N_NNP के\PSP निर्वाण\N_NN प्राप्त\V_VM कर\V_VAUX लेने\V_VAUX के\PSP एक\QT_QTC सौ\QT_QTC वर्षों\N_NN के\PSP बाद\N_NST द्वितीय\QT_QTC बौद्ध\N_NNP संगीति\N_NN का\PSP स्थान\N_NN भी\RP_RPD वैशाली\N_NNP ही\RP_RPD था\V_VAUX ।\RD_PUNC
+htd4176	ऐतिहासिक\JJ दृष्टि\N_NN से\PSP महत्वपूर्ण\JJ होने\N_NN के\PSP साथ-साथ\N_NN वैशाली\N_NNP हिन्दुओं\N_NN तथा\CC_CCD जैन\N_NNP और\CC_CCD बौद्ध\N_NNP धर्मावलम्बियों\N_NN का\PSP एक\QT_QTC तीर्थ\N_NN स्थान\N_NN भी\RP_RPD है\V_VAUX ।\RD_PUNC
+htd4177	वैशाली\N_NNP और\CC_CCD इसके\PR_PRP निकटवर्ती\N_NN आकर्षण\JJ -\RD_PUNC
+htd4178	वैशाली\N_NNP के\PSP कोल्हुआँ\N_NNP ग्राम\N_NN में\PSP अवस्थित\V_VM अशोक\N_NNP स्तम्भ\N_NNP उन\DM_DMD स्मारक-स्तम्भों\N_NN में\PSP से\PSP एक\QT_QTC है\V_VAUX जो\PR_PRL 249\QT_QTC ईसा\N_NN पूर्व\N_NST सम्राट\N_NN अशोक\N_NNP द्वारा\N_NN की\V_VM गयी\V_VAUX नेपाल\N_NNP यात्रा\N_NN के\PSP मार्ग\N_NN में\PSP स्मृति-चिन्हों\N_NN के\PSP रूप\N_NN में\PSP स्थापित\V_VM किये\V_VAUX गये\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4179	अशोक\N_NNP स्तम्भ\N_NNP पर\PSP कोई\QT_QTF लेख\N_NN नहीं\RP_NEG है\V_VAUX ।\RD_PUNC
+htd4180	जापान\N_NNP के\PSP बौद्धों\N_NNP ने\PSP राजगीर\N_NNP के\PSP सदृश\N_NN ही\RP_RPD वैशाली\N_NNP में\PSP भी\RP_RPD एक\QT_QTC विश्‍व\N_NN शांति\N_NN स्तूप\N_NN का\PSP निर्माण\V_VM कराया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4181	विश्‍वशांति\N_NNP स्तूप\N_NN के\PSP निकट\N_NST ही\RP_RPD बावन\N_NNP पोखन\N_NNP मन्दिर\N_NNP तथा\CC_CCD पुरातत्व\N_NN संग्रहालय\N_NN जैसे\N_NN दर्शनीय\JJ स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4182	विश्‍वशांति\N_NNP स्तूप\N_NN की\PSP बगल\N_NST में\PSP ही\RP_RPD एक\QT_QTC प्राचीन\JJ सरोवर\N_NN अभिषेक\N_NNP पुष्पकरणी\N_NNP के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ है\V_VAUX ।\RD_PUNC
+htd4183	किंवदन्ति\N_NNP है\V_VAUX कि\CC_CCS वैशाली\N_NNP गणराज्य\N_NNP के\PSP नव\N_NN निर्वाचित\N_NN प्रतिनिधियों\N_NN का\PSP पहले\N_NST इस\DM_DMD पुष्करणी\N_NNP के\PSP जल\N_NN से\PSP अभिषेक\N_NN किया\V_VM जाना\V_VAUX अनिवार्य\N_NN था\V_VAUX ।\RD_PUNC
+htd4184	चौमुखी\N_NNP महादेव\N_NNP -\RD_PUNC प्राचीन\JJ वैशाली\N_NNP नगरी\N_NN के\PSP चारों\QT_QTC कोनों\N_NN पर\PSP चतुर्मुखी\N_NN शिवलिंगों\N_NN की\PSP स्थापना\N_NN किये\N_NN जाने\V_VM का\PSP उल्लेख\N_NN पुरातत्ववेत्ताओं\N_NN ने\PSP किया\V_VM है\V_VAUX ।\RD_PUNC
+htd4185	पुरातात्विक\N_NN उत्खनन\N_NN के\PSP पश्चात\N_NST यहाँ\DM_DMD एक\QT_QTC चतुर्मुखी\N_NNP शिवलिंग\N_NN प्रकाश\N_NN में\PSP आया\V_VM है\V_VAUX ।\RD_PUNC
+htd4186	श्रावण\N_NNP मास\N_NN में\PSP असंख्य\QT_QTF श्रद्धालु\N_NN दूर-दूर\N_NN से\PSP गंगा\N_NNP का\PSP जल\N_NN लाकर\N_NN इस\DM_DMD चतुर्मुखी\N_NN महादेव\N_NNP का\PSP अभिषेक\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4187	वैशाली\N_NNP में\PSP प्राचीन\JJ बौद्ध\N_NNP स्तूपों\N_NN के\PSP अवशेष\N_NN मिले\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4188	बौद्ध\N_NNP स्तूपों\N_NN से\PSP एक\QT_QTC की\PSP खुदाई\N_NN से\PSP ,\RD_PUNC स्तूप\N_NN के\PSP निर्माण\N_NN के\PSP समय\N_NN ,\RD_PUNC उसमें\PR_PRL सुरक्षित\N_NN किये\V_VM गये\V_VAUX भगवान\N_NNP बुद्ध\N_NNP के\PSP भस्मावशेषों\N_NN का\PSP एक\QT_QTC कलश\N_NN प्राप्त\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4189	यह\DM_DMD भस्मावशेष\N_NN पटना\N_NNP संग्रहालय\N_NN में\PSP संरक्षित\V_VM है\V_VAUX ।\RD_PUNC
+htd4190	जैन\N_NNP धर्म\N_NN की\PSP एक\QT_QTC प्राचीन\JJ मान्यता\N_NN के\PSP अनुसार\N_NN अन्तिम\N_NN जैन-तीर्थंकर\N_NST भगवान\N_NNP महावीर\N_NNP का\PSP जन्म\N_NN वर्तमान\N_NN वैशाली\N_NNP क्षेत्र\N_NN के\PSP निकट\N_NST अवस्थित\V_VM कुण्डग्राम\N_NNP नामक\N_NN स्थान\N_NN में\PSP हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd4191	भगवान\N_NNP महावीर\N_NNP का\PSP निवास\N_NN भी\RP_RPD पास\N_NN में\PSP ही\RP_RPD वनियाग्राम\N_NNP में\PSP हुआ\V_VM करता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4192	पुरातत्ववेत्ताओं\N_NN द्वारा\N_NN आज\N_NN के\PSP बनिया\N_NNP नामक\N_NN गाँव\N_NN को\PSP प्राचीन\JJ वनियाग्राम\N_NNP और\CC_CCD आधुनिक\N_NN वासोकुंड\N_NNP नामक\N_NN स्थान\N_NN को\PSP प्राचीन\N_NN कुण्डग्राम\N_NNP के\PSP रूप\N_NN में\PSP स्थापित\V_VM किया\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4193	राजा\N_NNP विशाल\N_NNP के\PSP गढ़\N_NN के\PSP नाम\N_NN से\PSP विख्यात\JJ प्राचीन\JJ टीले\N_NN से\PSP वासोकुंड\N_NNP की\PSP सड़क\N_NN द्वारा\N_NN दूरी\N_NN लगभग\QT_QTF 2\QT_QTC कि.मी.\N_NN है\V_VAUX ।\RD_PUNC
+htd4194	वर्ष\N_NN 1956\QT_QTC में\PSP भारत\N_NNP के\PSP प्रथम\QT_QTO राष्ट्रपति\N_NN स्व.\N_NN डॉ.\N_NNP राजेन्द्र\N_NN प्रसाद\N_NNP के\PSP कमलों\N_NN द्वारा\N_NN यहाँ\DM_DMD एक\QT_QTC भव्य\JJ जैन-स्मारक\N_NNP की\PSP आधारशिला\N_NN रखी\V_VM गयी\V_VAUX ।\RD_PUNC
+htd4195	देश\N_NN के\PSP कोने-कोने\N_NN से\PSP पर्यटक\N_NN और\CC_CCD जैन-तीर्थयात्री\N_NN भगवान\N_NNP महावीर\N_NNP के\PSP जन्मस्थान\N_NN माने\N_NN जाने\V_VM वाले\PSP कुण्डग्राम\N_NNP के\PSP इस\DM_DMD स्मारक-स्थल\N_NN पर\N_NN अपनी\PR_PRF श्रद्धा\N_NN निवेदित\N_NN करने\V_VM आया\V_VAUX करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4196	सासाराम\N_NNP (\RD_SYM रोहतास\N_NNP )\RD_SYM कैसे\DM_DMQ पहुँचे\V_VM ?\RD_PUNC
+htd4197	सासाराम\N_NNP के\PSP निकटतम\N_NN विमान\N_NN पत्तन\N_NN -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NNP ,\RD_PUNC पटना\N_NNP -\RD_PUNC 147\QT_QTC कि.मी.\N_NN ,\RD_PUNC अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NNP ,\RD_PUNC गया\N_NNP -\RD_PUNC 125\QT_QTC कि.मी.\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4198	सासाराम\N_NNP के\PSP निकटतम\N_NN रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC गया\N_NNP 125\QT_QTC कि.मी.\N_NN ,\RD_PUNC औरंगाबाद\N_NNP -\RD_PUNC 46\QT_QTC कि.मी.\N_NN ,\RD_PUNC पटना\N_NNP -\RD_PUNC 147\QT_QTC कि.मी.\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4199	सासाराम\N_NNP में\PSP बिहार\N_NNP स्टेट\N_NNP टूरिज्म\N_NNP डेवलपमेंट\N_NNP कॉरपोरेशन\N_NNP द्वारा\N_NN संचालित\N_NN होटल\N_NN शेरशाह\N_NNP विहार\N_NNP ,\RD_PUNC अन्य\JJ निजी\N_NN होटल\N_NN आवासन\N_NN सुविधाएँ\JJ उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4200	बिहार\N_NNP के\PSP कई\QT_QTF प्राचीनतम\JJ शहरों\N_NN में\PSP से\PSP एक\QT_QTC सासाराम\N_NNP भी\RP_RPD है\V_VAUX ।\RD_PUNC
+htd4201	पौराणिक\N_NN गाथाओं\N_NN के\PSP आधार\N_NN पर\PSP कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS ,\RD_PUNC सासाराम\N_NNP शहर\N_NN का\PSP नामकरण\N_NN इतिहास\N_NNP प्रसिद्ध\JJ हैहय\N_NNP वंशीय\N_NN राजा\N_NN सहस्रार्जुन\N_NNP के\PSP नाम\N_NN पर\PSP हुआ\V_VM है\V_VAUX ।\RD_PUNC
+htd4202	यह\DM_DMD वृतान्त\N_NN है\V_VAUX कि\CC_CCS ,\RD_PUNC परशुराम\N_NNP द्वारा\N_NN हत्\N_NNP राजा\N_NN सहस्रार्जुन\N_NNP के\PSP अनुयायी\N_NN यहाँ\DM_DMD आकर\V_VM बसे\V_VAUX और\CC_CCD उनके\PR_PRP द्वारा\N_NN ही\RP_RPD सासाराम\N_NNP शहर\N_NN की\PSP स्थापना\N_NN की\V_VM गयी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd4203	सासाराम\N_NNP का\PSP आधुनिक\JJ नाम\N_NN प्राचीन\JJ सहस्रार्जुनपुरा\N_NNP या\CC_CCD सहस्राम\N_NNP का\PSP ही\RP_RPD अपभ्रंश\N_NNP है\V_VAUX ।\RD_PUNC
+htd4204	16वीं\CC_CCS शताब्दी\QT_QTF के\PSP आरम्भ\N_NN में\PSP सासाराम\N_NNP एक\QT_QTC इस्लामिक\N_NNP शहर\N_NN था\V_VAUX जो\PR_PRL शेरशाह\N_NNP के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ अफगान\N_NNP शासक\N_NN के\PSP पिता\N_NN हसन\N_NNP खान\N_NNP सूर\N_NNP द्वारा\N_NN शासित\N_NN जौनपुर\N_NNP राज्य\N_NN का\PSP भाग\N_NN था\V_VAUX ।\RD_PUNC
+htd4205	हालाँकि\CC_CCS रोहतास\N_NNP जिले\N_NN का\PSP यह\DM_DMD शहर\N_NN बाद\N_NST में\PSP अन्य\JJ शहरों\N_NN की\PSP तरह\V_VAUX ही\RP_RPD विकसित\V_VM हुआ\V_VAUX परन्तु\CC_CCD इसका\DM_DMD उतना\N_NN महत्व\JJ नहीं\RP_NEG रह\V_VM सका\V_VAUX ।\RD_PUNC
+htd4206	सासाराम\N_NNP और\CC_CCD इसके\DM_DMD निकटवर्ती\N_NN आकर्षण\JJ -\RD_PUNC
+htd4207	चंदन\N_NNP शहीद\N_NNP पहाड़ी\N_NN के\PSP शिखर\N_NN के\PSP पास\N_NST एक\QT_QTC छोटी\JJ पहाड़ी\N_NN गुफा\N_NN है\V_VAUX जिसे\PR_PRL चिरागदान\N_NN के\PSP स्थानीय\N_NN नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4208	ऐसा\DM_DMD माना\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS सम्राट\N_NN अशोक\N_NNP के\PSP शासनकाल\N_NN में\PSP यह\DM_DMD गुफा\N_NN पहाड़\N_NN को\PSP काटकर\V_VM बनायी\V_VAUX गयी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd4209	गुफा\N_NN के\PSP अन्दर\N_NST की\PSP सतह\N_NN ’मौर्य\N_NNP शैली’\N_NNP की\PSP है\V_VAUX ।\RD_PUNC
+htd4210	अन्दर\N_NST रखी\V_VM एक\QT_QTC शिला\N_NN पर\PSP प्राचीन\JJ ब्राह्मी\N_NNP लिपि\N_NN में\PSP उत्कीर्ण\N_NN आठ\QT_QTC पंक्तियों\N_NN का\PSP एक\QT_QTC शिला-लेख\N_NN पाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4211	सासाराम\N_NN शहर\N_NN के\PSP पश्चिमी\N_NNP भाग\N_NN में\PSP स्थित\V_VM विशाल\JJ जलाशय\N_NN के\PSP मध्य\N_NN अफगान\N_NNP शासक\N_NN शेरशाह\N_NNP का\PSP अति\JJ सुन्दर\JJ विशाल\JJ मकबरा\N_NNP निर्मित\V_VM है\V_VAUX ।\RD_PUNC
+htd4212	सासाराम\N_NNP से\PSP 38\QT_QTC कि.मी.\N_NN दक्षिण\N_NNP की\PSP ओर\N_NN सोन\N_NNP नदी\N_NN के\PSP पश्चिमी\N_NNP तट\N_NN पर\PSP रोहतास\N_NN की\PSP पहाड़ी\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4213	रोहतास\N_NNP की\PSP पहाड़ी\N_NN पर\N_NN प्राचीन\JJ काल\N_NN में\PSP निर्मित\N_NN रोहतास\N_NNP गढ़\N_NNP का\PSP भव्य\JJ किला\N_NN दर्शनीय\JJ है\V_VAUX ।\RD_PUNC
+htd4214	भवन\N_NN ,\RD_PUNC शिलालेख\N_NN ,\RD_PUNC द्वार\N_NN ,\RD_PUNC बारादरी\N_NNP ,\RD_PUNC रंग-महल\N_NNP ,\RD_PUNC फूल-महल\N_NNP ,\RD_PUNC मन्दिर\N_NN ,\RD_PUNC मस्जिद\N_NN और\CC_CCD मकबरा\N_NN इत्यादि\N_NN रोहतास\N_NNP किले\N_NN के\PSP अन्दर\N_NST के\PSP प्रमुख\JJ आकर्षण\JJ हैं\V_VAUX ।\RD_PUNC
+htd4215	पहाड़ी\N_NN की\PSP तलहटी\N_NN में\PSP एक\QT_QTC प्राचीन\JJ छोटी\JJ मस्जिद\N_NN निर्मित\V_VM है\V_VAUX जिस\PR_PRL पर\PSP पाये\V_VM गये\V_VAUX शिलालेख\N_NN से\PSP ज्ञात\N_NN होता\V_VM है\V_VAUX कि\CC_CCS इसका\DM_DMD निर्माण\N_NN मुगल\N_NNP शासक\N_NN जहाँगीर\N_NNP द्वारा\N_NN 1613\QT_QTC ई.\N_NN में\PSP हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd4216	चन्दन\N_NNP शहीद\N_NNP पहाड़ी\N_NN से\PSP प्रायः\N_NN 1\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP ताराचण्डी\N_NNP पहाड़ी\N_NN अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4217	पहाड़ी\N_NN के\PSP एक\QT_QTC विशाल\JJ शिलाखण्ड\N_NN पर\PSP देवी\N_NNP ताराचण्डी\N_NNP की\PSP आकृति\N_NN उत्कीर्ण\V_VM है\V_VAUX ।\RD_PUNC
+htd4218	इस\DM_DMD आकृति\N_NN की\PSP पूजा\N_NN की\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4219	पहाड़ी\N_NN ताराचण्डी\N_NNP देवी\N_NN के\PSP नाम\N_NN पर\PSP प्रसिद्ध\JJ है\V_VAUX ।\RD_PUNC
+htd4220	बराबर\N_NST (\RD_SYM बानावार\N_NNP )\RD_SYM कैसे\DM_DMQ पहुँचे\V_VM ?\RD_PUNC
+htd4221	बराबर\N_NN (\RD_SYM बानावार\N_NNP )\RD_SYM से\PSP निकटतम\JJ विमान\N_NNP पत्तन\N_NNP गया\N_NNP (\RD_SYM 47\JJ कि.मी.\N_NN )\RD_SYM ,\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NNP ,\RD_PUNC पटना\N_NNP (\RD_SYM 110\QT_QTC कि.मी.\N_NN )\RD_SYM की\PSP दूरी\N_NN पर\PSP हैं\V_VAUX ।\RD_PUNC
+htd4222	बराबर\N_NN (\RD_SYM बानावार\N_NNP )\RD_SYM से\PSP निकटतम\N_NNP रेलवे\N_NN स्टेशन\N_NN जहानाबाद\N_NNP /\N_NN बेला\N_NNP (\RD_SYM पटना-गया\N_NNP रेल\N_NN खण्ड\N_NN पर\PSP )\RD_SYM है\V_VAUX ।\RD_PUNC
+htd4223	बराबर\N_NN (\RD_SYM बानावार\N_NNP )\RD_SYM सड़क\N_NN मार्ग\N_NN से\PSP गया\N_NNP से\PSP 47\QT_QTC कि.मी.\N_NN और\CC_CCD पटना\N_NNP से\PSP 110\QT_QTC कि.मी.दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4224	गया\N_NNP से\PSP लगभग\QT_QTF 47\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP बराबर\N_NN तथा\CC_CCD नागार्जुनी\N_NNP पहाड़ियाँ\N_NN अवस्थित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4225	नागार्जुनी\N_NNP पहाड़ियों\N_NN पर\PSP स्थित\V_VM कुल\N_NN सात\QT_QTC गुफाओं\N_NN में\PSP से\PSP चार\QT_QTC गुफाएँ\N_NN बराबर\N_NN पहाड़ी\N_NN पर\PSP हैं\V_VAUX ।\RD_PUNC
+htd4226	इन\DM_DMD चार\QT_QTC गुफाओं\N_NN में\PSP बने\V_VM सात\QT_QTC कक्ष\N_NN स्थानीय\N_NN तौर\RB पर\PSP सतघरवा\N_NNP के\PSP नाम\N_NN से\PSP जाने\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4227	जैक्सन\N_NNP नाम\N_NN के\PSP एक\QT_QTC अंग्रेज\N_NNP ने\PSP इस\DM_DMD पहाड़ी\N_NN पर\PSP दो\QT_QTC शिलालेखों\N_NN की\PSP खोज\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd4228	जिसके\PR_PRL आधार\N_NN पर\PSP इस\DM_DMD पहाड़ी\N_NN की\PSP पहचान\N_NN प्राचीनकाल\JJ के\PSP गोरथगिरी\N_NNP के\PSP रूप\N_NN में\PSP स्थापित\V_VM हुई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4229	गोरथगिरी\N_NNP का\PSP वर्णन\N_NN महाभारत\N_NNP में\PSP भी\RP_RPD आया\V_VM है\V_VAUX ।\RD_PUNC
+htd4230	बराबर\N_NN और\CC_CCD इसके\DM_DMD निकटवर्ती\N_NN आकर्षण\JJ -\RD_PUNC
+htd4231	उत्तर\N_NNP की\PSP ओर\N_NN रुख\N_NN वाली\PSP गुफा\N_NN कर्ण-चौपर\N_NNP गुफा\N_NN के\PSP नाम\N_NN से\PSP जानी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4232	कर्ण-चौपर\N_NNP गुफा\N_NN के\PSP प्रवेश\N_NN द्वार\N_NN के\PSP ठीक\N_NN ऊपर\N_NST सम्राट\N_NN अशोक\N_NNP के\PSP शासनकाल\N_NN (\RD_SYM 245\QT_QTC ई.पूर्व\N_NST )\RD_SYM का\PSP एक\QT_QTC क्षतिग्रस्त\N_NN शिलालेख\N_NN है\V_VAUX ।\RD_PUNC
+htd4233	गुफा\N_NN के\PSP बाहर\N_NST ,\RD_PUNC पश्चिम\N_NNP की\PSP ओर\N_NN एक\QT_QTC चट्‍टान\N_NN पर\PSP मनुष्य\N_NN और\CC_CCD शिवलिंग\N_NN की\PSP आकृतियाँ\N_NN खुदी\V_VM पायी\V_VAUX गयी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4234	खुदामा\N_NNP गुफा\N_NN का\PSP मुँह\N_NN दक्षिण\N_NNP की\PSP ओर\N_NN पहाड़ी\N_NN की\PSP परली\N_NN तरफ\N_NN है\V_VAUX ।\RD_PUNC
+htd4235	खुदामा\N_NNP गुफा\N_NN के\PSP प्रवेश\N_NN द्वार\N_NN के\PSP निकट\N_NST दीवार\N_NN पर\PSP लिखे\N_NN शिलालेख\N_NN से\PSP ज्ञात\V_VM होता\V_VAUX है\V_VAUX कि\CC_CCS सम्राट\N_NN अशोक\N_NNP के\PSP शासन\N_NN के\PSP 12\QT_QTC वें\DM_DMD वर्ष\N_NN (\RD_SYM 252\QT_QTC ई.पूर्व\N_NST )\RD_SYM में\PSP यह\DM_DMD गुफा\N_NN बनायी\V_VM गयी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd4236	विश्‍व\N_NN झोपड़ी\N_NN गुफा\N_NN के\PSP बाहरी\N_NST कक्ष\N_NN में\PSP दाहिनी\N_NN ओर\N_NN की\PSP दीवार\N_NN पर\PSP सम्राट\N_NN अशोक\N_NNP के\PSP शासनकाल\N_NN के\PSP बारहवें\QT_QTO वर्ष\N_NN (\RD_SYM 252\QT_QTC ई.\N_NN पू.\N_NN )\RD_SYM में\PSP लिखे\V_VM गए\V_VAUX शिलालेख\N_NN पाये\V_VM गये\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4237	इन\DM_DMD शिलालेखों\N_NN में\PSP इस\DM_DMD पहाड़ी\N_NN को\PSP खलातिका\N_NN की\PSP संज्ञा\N_NN दी\V_VM गयी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4238	पहाड़ी\N_NN श्रंखला\N_NN की\PSP एक\QT_QTC ऊँची\JJ चोटी\N_NN ,\RD_PUNC जिसे\PR_PRL स्थानीय\N_NN निवासी\N_NN सूरज\N_NNP नाका\N_NNP के\PSP नाम\N_NN से\PSP अभिहित\V_VM करते\V_VAUX हैं\V_VAUX ,\RD_PUNC पर\PSP सिद्धेश्‍वरनाथ\N_NNP नामक\N_NN शिव\N_NN का\PSP एक\QT_QTC मन्दिर\N_NN निर्मित\N_NN है\V_VAUX जो\PR_PRL प्राचीन\JJ मंदिर\N_NN की\PSP नींव\N_NN पर\PSP ही\RP_RPD खड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd4239	प्रतिवर्ष\N_NN असंख्य\QT_QTF श्रद्धालु\N_NN यहाँ\DM_DMD दूर-दूर\N_NN से\PSP गंगा\N_NNP जल\N_NN लाकर\V_VM मंदिर\N_NN में\PSP स्थापित\N_NN शिवलिंग\N_NN की\PSP पूजा\N_NN अर्चना\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4240	पहाड़ी\N_NN की\PSP दक्षिणी\N_NNP तलहटी\N_NN में\PSP गुफा\N_NN के\PSP चढ़ाई\N_NN मार्ग\N_NN के\PSP समीप\N_NN पर\PSP प्राचीन\JJ तालाब\N_NN पाताल\N_NN गंगा\N_NNP के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ है\V_VAUX ।\RD_PUNC
+htd4241	हिन्दुओं\N_NNP द्वारा\N_NN पाताल\N_NN गंगा\N_NNP तालाब\N_NN पवित्र\JJ माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4242	प्राचीन\JJ प्रस्तर\N_NN मूर्तियाँ\N_NN -\RD_PUNC सिद्धेश्‍वर\N_NNP नाथ\N_NNP मन्दिर\N_NN की\PSP ओर\N_NN जाने\V_VM वाले\PSP संकीर्ण\N_NN मार्ग\N_NN में\PSP स्थित\V_VM एक\QT_QTC बड़ी\JJ चट्‍टान\N_NN पर\PSP शिवलिंग\N_NNP तथा\CC_CCD गणेश\N_NNP इत्यादि\N_NN की\PSP कुछ\QT_QTF आकृतियाँ\N_NN बनी\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4243	विक्रमशिला\N_NNP (\RD_SYM अन्तीचक\N_NNP -\RD_PUNC भागलपुर\N_NNP )\RD_SYM कैसे\DM_DMQ पहुँचा\V_VM जाएँ\V_VAUX ?\RD_PUNC
+htd4244	विक्रमशिला\N_NNP का\PSP निकटतम\N_NN विमान\N_NNP पत्तन\N_NNP -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NNP ,\RD_PUNC पटना\N_NNP (\RD_SYM 291\QT_QTC कि.मी.\N_NN )\RD_SYM है\V_VAUX ।\RD_PUNC
+htd4245	विक्रमशिला\N_NNP का\PSP निकटतम\N_NN रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC कहलगाँव\N_NNP (\RD_SYM 10\QT_QTC कि.मी.\N_NN )\RD_SYM (\RD_SYM भागलपुर-साहेबगंज\N_NNP लूप\N_NN लाइन\N_NN )\RD_SYM है\V_VAUX ।\RD_PUNC
+htd4246	विक्रमशिला\N_NNP सड़क\N_NN मार्ग\N_NN से\PSP -\RD_PUNC कहलगाँव\N_NNP (\RD_SYM 10\QT_QTC कि.मी.\N_NN )\RD_SYM से\PSP जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4247	विक्रमशिला\N_NNP में\PSP ठहरने\V_VM हेतु\PSP प्रायः\N_NN 60\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP भागलपुर\N_NNP में\PSP निजी\N_NN होटल\N_NN एवं\CC_CCD धर्मशालाएँ\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4248	भागलपुर\N_NNP से\PSP प्रायः\N_NN 60\QT_QTC कि.मी.\N_NN और\CC_CCD कहलगाँव\N_NNP रेलवे\N_NN स्टेशन\N_NN से\PSP 10\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP अन्तीचक\N_NNP नामक\N_NN गाँव\N_NN में\PSP पुरातात्विक\N_NN खुदाई\N_NN से\PSP एक\QT_QTC बड़े\JJ क्षेत्र\N_NN में\PSP प्राचीन\JJ बौद्ध\N_NNP मठ\N_NN के\PSP अवशेष\N_NN मिले\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4249	अन्तीचक\N_NNP नामक\N_NN गाँव\N_NN में\PSP प्राचीन\JJ ईंटों\N_NN से\PSP बना\V_VM स्तूप\N_NN भी\RP_RPD प्रकाश\N_NN में\PSP आया\V_VM है\V_VAUX जिसकी\PR_PRL दीवारें\N_NN टेराकोटा\N_NNP की\PSP वर्तुलाकार\N_NN द्वि-स्तरीय\N_NN पट्‍टिकाओं\N_NN से\PSP सज्जित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4250	अन्तीचक\N_NNP स्थान\N_NN उसी\DM_DMD स्थल\N_NN के\PSP रूप\N_NN में\PSP चिन्हित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX जहाँ\PR_PRL पाल\N_NNP वंश\N_NN के\PSP शासक\N_NN धर्मपाल\N_NNP ने\PSP प्रायः\N_NN 8वीं\QT_QTO शताब्दी\QT_QTF में\PSP विक्रमशिला\N_NNP विश्‍वविद्यालय\N_NNP की\PSP स्थापना\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd4251	प्राचीन\JJ तिब्बती\N_NNP अभिलेखों\N_NN तथा\CC_CCD अनेक\QT_QTF पाण्डुलिपियों\N_NN इत्यादि\N_NN में\PSP विक्रमशिला\N_NNP विश्‍वविद्यालय\N_NN का\PSP उल्लेख\V_VM है\V_VAUX ।\RD_PUNC
+htd4252	अलंकृत\JJ खम्भे\N_NN ,\RD_PUNC स्तूप\N_NN ,\RD_PUNC बौद्ध\N_NN प्रतिमाएँ\N_NN ,\RD_PUNC हिन्दु\N_NNP देवी-देवताओं\N_NN की\PSP प्राचीन\JJ मूर्तियाँ\N_NN इत्यादि\N_NN अन्तीचक\N_NNP नाम\N_NN के\PSP उत्खनन\N_NN स्थल\N_NN से\PSP प्राप्‍त\V_VM हुई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4253	केसरिया\N_NNP (\RD_SYM पूर्वी\N_NNP चम्पारण\N_NNP )\RD_SYM कैसे\DM_DMQ पहुँचे\V_VM ?\RD_PUNC
+htd4254	वायुमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\N_NN विमान\N_NNP पत्तन\N_NNP -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NNP ,\RD_PUNC पटना\N_NNP -\RD_PUNC 149\QT_QTC कि.मी.\N_NN ।\RD_PUNC
+htd4255	रेलमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\JJ रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC चकिया\N_NNP (\RD_SYM 22\QT_QTC कि.मी.-मुजफ्फरपुर-मोतिहारी\N_NNP रेलखंड\N_NN )\RD_SYM ।\RD_PUNC
+htd4256	सड़क\N_NN मार्ग\N_NN से\PSP -\RD_PUNC राष्ट्रीय\N_NNP उच्च\N_NNP पथ\N_NNP द्वारा\N_NN देश\N_NN के\PSP सभी\QT_QTF प्रमुख\JJ शहरों\N_NN से\PSP संयुक्‍त\N_NN ।\RD_PUNC
+htd4257	केसरिया\N_NNP के\PSP लिए\PSP उपलब्ध\N_NN आवासन\N_NN सुविधाएँ\JJ -\RD_PUNC
+htd4258	मुजफ्फरपुर\N_NNP ,\RD_PUNC में\PSP निजी\JJ होटल\N_NN इत्यादि\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4259	बुद्ध\N_NNP के\PSP जीवन\N_NN में\PSP घटित\JJ महत्वपूर्ण\JJ घटनाओं\N_NN के\PSP स्मृति-चिन्ह\N_NN के\PSP रूप\N_NN में\PSP प्राचीन\JJ काल\N_NN में\PSP उनके\PR_PRP अनुयायियों\N_NN ने\PSP कई\QT_QTF जगह\N_NN स्तूपों\N_NN का\PSP निर्माण\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4260	केसरिया\N_NNP का\PSP बौद्धस्तूप\N_NN बुद्ध\N_NNP के\PSP जीवन\N_NN में\PSP घटित\N_NN महत्वपूर्ण\JJ घटनाओं\N_NN के\PSP स्मृति-चिन्ह\N_NN में\PSP से\PSP ही\RP_RPD एक\QT_QTC है\V_VAUX ।\RD_PUNC
+htd4261	केसरिया\N_NNP स्तूप\N_NN पूर्वी\N_NN चम्पारण\N_NNP जिले\N_NN के\PSP अन्तर्गत\N_NN ,\RD_PUNC मुजफ्फरपुर\N_NNP से\PSP 74\QT_QTC कि.मी.\N_NN ,\RD_PUNC वैशाली\N_NNP से\PSP 48\QT_QTC कि.मी.\N_NN तथा\CC_CCD चकिया\N_NNP से\PSP 22\QT_QTC कि.मी.\N_NN दक्षिण-पश्‍चिम\N_NNP में\PSP अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4262	बौद्ध\N_NNP साहित्य\N_NN में\PSP वर्णन\V_VM है\V_VAUX कि\CC_CCS केसरिया\N_NNP स्तूप\N_NN उसी\DM_DMD स्थान\N_NN पर\PSP बनाया\V_VM गया\V_VAUX जहाँ\PR_PRL खड़े\N_NN होकर\V_VM बुद्ध\N_NNP ने\PSP घोषणा\N_NN की\PSP थी\V_VAUX कि\CC_CCS वे\DM_DMD अपने\PR_PRF पूर्व-जन्म\N_NN में\PSP बोधिसत्व\N_NN थे\V_VAUX तथा\CC_CCD ,\RD_PUNC उन्होंने\PR_PRP चक्रवर्ती\N_NNP राजा\N_NN के\PSP रूप\N_NN में\PSP इस\DM_DMD नगर\N_NN पर\PSP शासन\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4263	यह\DM_DMD वर्णन\V_VM भी\RP_RPD है\V_VAUX कि\CC_CCS अन्तिम\N_NN बार\N_NN वैशाली\N_NNP से\PSP कुशीनगर\N_NN की\PSP ओर\N_NN जाते\V_VM हुए\V_VAUX बुद्ध\N_NNP ने\PSP इसी\DM_DMD स्थान\N_NN पर\PSP अपना\PR_PRF भिक्षा-पात्र\N_NN वैशाली\N_NNP के\PSP निवासियों\N_NN को\PSP सौंप\V_VM दिया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4264	ह्‍वेनत्‍सांग\N_NNP नाम\N_NN के\PSP चीनी\N_NNP यात्री\N_NN ने\PSP भी\RP_RPD अपने\PR_PRF संस्मरणों\N_NN में\PSP केसरिया\N_NNP स्तूप\N_NN का\PSP उल्लेख\V_VM किया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4265	स्तूप\N_NN का\PSP उत्खनन-कार्य\N_NN यद्यपि\CC_CCS अभी\N_NST पूरा\V_VM नहीं\RP_NEG हुआ\V_VM है\V_VAUX ,\RD_PUNC तथापि\CC_CCS ,\RD_PUNC इसकी\DM_DMD 104\QT_QTC फीट\N_NN ऊँची\JJ संरचना\N_NN सामने\N_NST आ\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4266	इस\DM_DMD लिहाज\N_NN से\PSP ही\RP_RPD यह\DM_DMD बौद्ध\N_NNP स्तूप\N_NN उत्खनन\N_NN से\PSP प्राप्‍त\V_VM हुए\V_VAUX अब\N_NN तक\PSP के\PSP बौद्ध\N_NNP स्तूपों\N_NN में\PSP सबसे\RP_INTF ऊँचा\JJ सिद्ध\N_NN हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4267	विश्‍व\N_NN धरोहर\N_NN घोषित\N_NN ’जावा’\N_NNP के\PSP बोरोबुदूर\N_NNP बौद्ध\N_NNP स्तूप\N_NN से\PSP इस\DM_DMD अवस्था\N_NN में\PSP भी\RP_RPD यह\DM_DMD एक\QT_QTC फुट\N_NN ज्यादा\RB ऊँचा\JJ है\V_VAUX ।\RD_PUNC
+htd4268	खुदायी\N_NN का\PSP कार्य\N_NN पूर्ण\N_NN होने\V_VM पर\PSP इसकी\DM_DMD ऊँचाई\JJ ज्यादा\QT_QTF बढ़\JJ जाती\V_VM है\V_VAUX तो\RP_RPD आश्‍चर्य\JJ नहीं\RP_NEG ।\RD_PUNC
+htd4269	लौरिया\N_NNP नन्दनगढ़\N_NNP (\RD_SYM पश्‍चिमी\N_NNP चम्पारण\N_NNP )\RD_SYM कैसे\DM_DMR पहुँचे\V_VM जाएँ\V_VAUX ?\RD_PUNC
+htd4270	वायुमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\JJ विमान\N_NNP पत्तन\N_NNP -\RD_PUNC जयप्रकाश\N_NNP नारायण\N_NNP अन्तरराष्ट्रीय\N_NNP विमान\N_NNP पत्तन\N_NN ,\RD_PUNC पटना\N_NNP ।\RD_PUNC
+htd4271	रेलमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\N_NST रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC बेतिया\N_NNP ।\RD_PUNC
+htd4272	सड़क\N_NN मार्ग\N_NN से\PSP -\RD_PUNC बेतिया\N_NNP से\PSP -\RD_PUNC 26\QT_QTC कि.मी.\N_NN ,\RD_PUNC मोतिहारी\N_NNP से\PSP -\RD_PUNC 71\QT_QTC कि.मी.\N_NN ,\RD_PUNC मुजफ्फरपुर\N_NNP से\PSP -\RD_PUNC 155\QT_QTC कि.मी.\N_NN ।\RD_PUNC
+htd4273	लौरिया\N_NNP नन्दनगढ़\N_NNP के\PSP लिए\PSP उपलब्ध\N_NN आवासन\N_NN सुविधाएँ\JJ ।\RD_PUNC
+htd4274	निजी\N_NN होटल\N_NN एवं\CC_CCD धर्मशाला\N_NN इत्यादि\N_NN उचित\N_NN दर\N_NN पर\PSP बेतिया\N_NNP में\PSP उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4275	बेतिया\N_NNP से\PSP प्रायः\N_NN 22\QT_QTC कि.मी.\N_NN उत्तर-पश्‍चिम\N_NNP में\PSP लौरिया\N_NNP नन्दन\N_NNP गढ़\N_NNP अवस्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4276	लौरिया\N_NNP नन्दन\N_NNP गढ़\N_NNP में\PSP टीले\N_NN के\PSP समान\N_NN एक\QT_QTC प्राचीन\JJ बौद्ध\N_NNP स्तूप\N_NN अब\N_NST भी\RP_RPD मौजूद\N_NN है\V_VAUX ।\RD_PUNC
+htd4277	कनिंघम\N_NNP नाम\N_NN के\PSP अंग्रेज\N_NNP अन्वेषक\N_NN ने\PSP 1860-61\QT_QTC की\PSP अपनी\PR_PRF रिपोर्ट\N_NN में\PSP इस\DM_DMD के\PSP संबंध\N_NN में\PSP विस्तृत\N_NN ब्यौरा\N_NN दिया\V_VM है\V_VAUX ।\RD_PUNC
+htd4278	इस\DM_DMD स्थान\N_NN से\PSP लगभग\N_NN 3\QT_QTC /\N_NN 4\QT_QTC कि.मी.\N_NN दूरी\N_NN पर\PSP तुरकाहा\N_NNP नामक\N_NN छोटी\JJ नदी\N_NN के\PSP पश्‍चिमी\N_NNP किनारे\N_NN पर\PSP एक\QT_QTC अशोक-स्तम्भ\N_NNP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4279	बालुका\N_NN पत्थर\N_NN के\PSP एक\QT_QTC खण्ड\N_NN से\PSP निर्मित\N_NN उत्कृष्‍ट\JJ पॉलिश\N_NN वाले\PSP इस\DM_DMD स्तम्भ\N_NN की\PSP ऊँचाई\N_NN 32`-9\QT_QTC ``\RD_PUNC है\V_VAUX जिसके\PR_PRL शीर्ष\N_NN पर\PSP 6`-10\QT_QTC ``\RD_PUNC ऊँची\JJ सिंहाकृति\N_NN स्थापित\V_VM है\V_VAUX ।\RD_PUNC
+htd4280	इस\DM_DMD प्रकार\N_NN सम्पूर्ण\N_NN अशोक-स्तम्भ\N_NNP की\PSP कुल\N_NN प्रगट\N_NN ऊँचाई\JJ आपादशीर्ष\N_NN 39`-7\QT_QTC ``\RD_PUNC है\V_VAUX ।\RD_PUNC
+htd4281	खुदाई\N_NN से\PSP यह\DM_DMD पाया\V_VM गया\V_VAUX कि\CC_CCS जमीन\N_NN के\PSP नीचे\N_NST नींव\N_NN से\PSP शीर्ष\N_NN तक\PSP यह\DM_DMD स्तम्भ\N_NN लगभग\N_NN 50`\QT_QTC ऊँचा\JJ है\V_VAUX ।\RD_PUNC
+htd4282	अशोक-स्तम्भ\N_NNP पर\N_NNP प्राचीन\JJ लिपि\N_NN में\PSP कुछ\QT_QTF लेख\N_NN भी\RP_RPD अंकित\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4283	मुंगेर\N_NNP कैसे\DM_DMQ पहुँचे\V_VM ?\RD_PUNC
+htd4284	वायुमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\N_NST विमान\N_NN पत्तन\N_NN -\RD_PUNC जयप्रकाश\N_NN नारायण\N_NN अन्तरराष्ट्रीय\N_NN विमान\N_NN पत्तन\N_NN ,\RD_PUNC पटना\N_NNP -\RD_PUNC 175\QT_QTC कि.मी.\N_NN ।\RD_PUNC
+htd4285	रेलमार्ग\N_NN से\PSP -\RD_PUNC निकटतम\N_NST रेलवे\N_NN स्टेशन\N_NN -\RD_PUNC जमालपुर\N_NNP ।\RD_PUNC
+htd4286	सड़क\N_NN मार्ग\N_NN से\PSP -\RD_PUNC देश\N_NN के\PSP सभी\QT_QTF प्रमुख\JJ शहरों\N_NN से\PSP सड़क\N_NN द्वारा\N_NN जुड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd4287	मुंगेर\N_NNP में\PSP उपलब्ध\N_NN आवासन\N_NN सुविधाएँ\JJ -\RD_PUNC
+htd4288	बिहार\N_NNP स्टेट\N_NNP टूरिज्म\N_NNP डेवलपमेंट\N_NNP कॉरपोरेशन\N_NNP द्वारा\N_NN संचालित\N_NN होटल\N_NN के\PSP साथ-साथ\N_NN निजी\N_NN होटल\N_NN भी\RP_RPD उपलब्ध\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4289	प्राचीन\JJ किला\N_NN मुंगेर\N_NNP का\PSP प्रमुख\JJ आकर्षण\JJ केंद्र\N_NN है\V_VAUX ,\RD_PUNC जो\PR_PRL पथरीली\N_NN सतह\N_NN पर\PSP गंगा\N_NNP नदी\N_NN के\PSP तीर\N_NN पर\PSP बना\V_VM है\V_VAUX ।\RD_PUNC
+htd4290	पश्‍चिम\N_NNP तथा\CC_CCD कुछ-कुछ\N_NN उत्तर\N_NNP दिशा\N_NN से\PSP भी\RP_RPD ,\RD_PUNC गंगा\N_NNP नदी\N_NN प्राचीन\JJ किले\N_NN को\PSP सुरक्षित\V_VM करती\V_VAUX है\V_VAUX ,\RD_PUNC जबकि\PR_PRL किले\N_NN के\PSP दूसरे\QT_QTC भाग\N_NN गहरे\N_NN मोट\N_NN के\PSP द्वारा\N_NN सुरक्षित\JJ किये\V_VM गये\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4291	किले\N_NN के\PSP चारों\QT_QTC तरफ\N_NN एक-एक\N_NN द्वार\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4292	उत्तरी\N_NN द्वार\N_NN लाल\N_NNP दरवाजा\N_NN के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ है\V_VAUX ,\RD_PUNC जो\PR_PRL कुछ\QT_QTF हद\N_NN तक\PSP अपने\PR_PRF पहले\N_NST स्वरूप\N_NN में\PSP बरकरार\V_VM है\V_VAUX ।\RD_PUNC
+htd4293	मुंगेर\N_NNP के\PSP निकटवर्ती\N_NST आकर्षण\N_NN -\RD_PUNC
+htd4294	एक\QT_QTC पहाड़ी\N_NN पर\PSP निर्मित\N_NN गंगा\N_NNP नदी\N_NN को\PSP निहारता\N_NN बिहार\N_NNP योग\N_NNP भारती\N_NNP का\PSP भवन\N_NN नगीने\N_NN की\PSP तरह\N_NN दमकता-सा\N_NN लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd4295	बिहार\N_NNP योग\N_NNP भारती\N_NNP भवन\N_NNP गुरुकुल\N_NN सदृश\N_NN वातावरण\N_NN में\PSP योग\N_NN की\PSP शिक्षा\N_NN के\PSP लिये\PSP देश\N_NN और\CC_CCD विदेशों\N_NN में\PSP ख्यातनाम\JJ है\V_VAUX ।\RD_PUNC
+htd4296	बिहार\N_NNP योग\N_NNP भारती\N_NNP की\PSP स्थापना\N_NN प्राचीन\JJ काल\N_NN के\PSP विश्‍व-प्रसिद्ध\JJ नालन्दा\N_NNP तथा\CC_CCD विक्रमशिला\N_NNP विश्‍वविद्यालय\N_NNP के\PSP तर्ज\RB पर\PSP की\PSP गयी\V_VM है\V_VAUX ।\RD_PUNC
+htd4297	बिहार\N_NNP योग\N_NNP भारती\N_NNP संस्थान\N_NNP विश्‍व\N_NN भर\QT_QTF के\PSP विद्वानों\N_NN ,\RD_PUNC वैज्ञानिकों\N_NN ,\RD_PUNC चिकित्सकों\N_NN और\CC_CCD योग\N_NN साधकों\N_NN को\PSP योग\N_NN विद्या\N_NN के\PSP विकास-विस्तार\N_NN और\CC_CCD समाज\N_NN से\PSP इसकी\DM_DMD त्वरित\N_NN एकात्मकता\N_NN के\PSP लिए\PSP एक\QT_QTC साथ\N_NN काम\N_NN करने\V_VM का\PSP स्वर्णिम\N_NN अवसर\N_NN प्रदान\V_VM करता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4298	बिहार\N_NNP योग\N_NNP भारती\N_NNP में\PSP शिक्षा\N_NN का\PSP अर्थ\N_NN केवल\QT_QTF सूचनाओं\N_NN का\PSP संकलन\N_NN अथवा\CC_CCD ,\RD_PUNC इसका\DM_DMD उद्‍देश्‍य\N_NN जीविका\N_NN का\PSP चयन\N_NN नहीं\RP_NEG हैं\V_VAUX ।\RD_PUNC
+htd4299	बिहार\N_NNP योग\N_NNP भारती\N_NNP में\PSP योग\N_NN शिक्षा\N_NN में\PSP एम.ए.\N_NNP ,\RD_PUNC एम.ए.सी.\N_NNP ,\RD_PUNC एम.फिल\N_NNP ,\RD_PUNC पी.एच.डी.\N_NNP ,\RD_PUNC डी.एस.सी.\N_NNP ,\RD_PUNC एवं\CC_CCD डी.लिट.\N_NNP ,\RD_PUNC स्नातकोत्तर\N_NN पाठ्‍यक्रम\N_NN संचालित\V_VM है\V_VAUX ।\RD_PUNC
+htd4300	मुंगेर\N_NNP के\PSP गंगा-दर्शन\N_NNP में\PSP अवस्थित\V_VM बिहार\N_NNP योग\N_NNP भारती\N_NNP की\PSP दूरी\N_NN पटना\N_NNP से\PSP 175\QT_QTC कि.मी.\N_NN तथा\CC_CCD कोलकाता\N_NNP से\PSP 500\QT_QTC कि.मी.\N_NN है\V_VAUX ।\RD_PUNC
+htd4301	गोवा\N_NNP सपनों\N_NN का\PSP प्रदेश\N_NN है\V_VAUX ।\RD_PUNC
+htd4302	गोवा\N_NNP सैलानियों\N_NN की\PSP ख्वाबगाह\JJ है\V_VAUX ।\RD_PUNC
+htd4303	समंदर\N_NN किनारे\N_NN ,\RD_PUNC धूप\N_NN की\PSP सुनहरी\JJ चादर\N_NN ओढ़े\N_NN पुरातन\JJ चर्चों\N_NN ,\RD_PUNC विराट\N_NN बीच\N_NST और\CC_CCD मौज-मस्ती\N_NN से\PSP भरे\JJ त्यौहारों\N_NN से\PSP हर\JJ मौसम\N_NN में\PSP गोवा\N_NNP का\PSP माहौल\N_NN रंगीन\JJ रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd4304	तो\RP_RPD क्यों\DM_DMQ न\RP_NEG गोवा\N_NNP चलें\V_VM ।\RD_PUNC
+htd4305	भारत\N_NNP में\PSP अगर\CC_CCS किसी\DM_DMI को\PSP घूमने\V_VM जाना\V_VAUX हो\V_VAUX या\CC_CCD हनीमून\N_NN पर\PSP ,\RD_PUNC सबकी\RP_INTF पहली\N_NST ख्वाहिश\JJ और\CC_CCD च्वॉइश\N_NN गोवा\N_NNP ही\RP_RPD होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4306	उसकी\PR_PRP वजह\N_NN फिल्मों\N_NN और\CC_CCD पत्र-पत्रिकाओं\N_NN द्वारा\N_NN गोवा\N_NNP की\PSP पेश\N_NN की\PSP जाती\V_VM रही\V_VAUX बेहद\RP_INTF खूबसूरत\JJ और\CC_CCD कुछ\QT_QTC जुदा\N_NN किस्म\N_NN की\PSP तस्वीर\N_NN है\V_VAUX ।\RD_PUNC
+htd4307	लेकिन\CC_CCS उनमें\PR_PRP से\PSP बहुत\RP_INTF कम\JJ ही\RP_RPD इस\DM_DMD ख्वाहिश\JJ को\PSP पूरा\JJ कर\V_VM पाते\V_VAUX हैं\V_VAUX और\CC_CCD उसकी\PR_PRP वजह\N_NN है\V_VAUX केवल\QT_QTF एक\QT_QTC भ्रांति\N_NN ’यार\N_NN !\RD_PUNC बहुत\QT_QTF पैसा\N_NN खर्च\N_NN होगा\V_VM ।\RD_PUNC ’\N_NN
+htd4308	जबकि\PR_PRL नॉर्थ\N_NN इंडिया\N_NN के\PSP मध्य\N_NN वर्गीय\N_NN लोग\N_NN बाकी\N_NN किसी\PR_PRI भी\RP_RPD जहग\N_NN पर\PSP उससे\PR_PRP भी\RP_RPD ज्यादा\QT_QTF पैसा\N_NN खर्च\N_NN कर\N_NN आते\N_NN हैं\V_VAUX ,\RD_PUNC जितना\PR_PRL कि\CC_CCS गोवा\N_NNP पर\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4309	गोवा\N_NNP एक्सप्रेस\N_NNP का\PSP सफर\N_NN नॉर्थ\N_NNP इंडिया\N_NNP के\PSP ज्यादातर\QT_QTF निवासियों\N_NN के\PSP लिए\PSP सबसे\RP_INTF बेहतर\RB और\CC_CCD सस्ता\N_NN विकल्प\N_NN है\V_VAUX ।\RD_PUNC
+htd4310	दिल्ली\N_NNP से\PSP सेकंड\N_NN क्लास\N_NN स्लीपर\N_NN का\PSP वास्को\N_NNP तक\PSP का\PSP आरक्षण\N_NN सहित\N_NN लगभग\N_NN 550\QT_QTC रुपए\N_NN एक\QT_QTC तरफ\N_NN का\PSP किराया\N_NN लगता\V_VM है\V_VAUX यानि\CC_CCD दोनों\QT_QTC तरफ\N_NN का\PSP किराया\N_NN एक\QT_QTC व्यक्‍ति\N_NN का\PSP केवल\QT_QTF 1100\QT_QTC रुपए\N_NN ।\RD_PUNC
+htd4311	आप\PR_PRP दिल्ली\N_NNP से\PSP लेकर\V_VM भोपाल\N_NNP तक\PSP सुविधानुसार\N_NN कहीं\QT_QTF से\PSP भी\RP_RPD रिजर्वेशन\N_NN करवा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4312	ट्रेन\N_NN में\PSP प्रकृति\N_NN का\PSP पूरा\JJ आनंद\JJ लेते\V_VM हुए\V_VAUX जाने\N_NN का\PSP अलग\N_NN ही\RP_RPD मजा\JJ है\V_VAUX ,\RD_PUNC यह\DM_DMD रूट\N_NN छोटी-छोटी\JJ पहाड़ियों\N_NN और\CC_CCD घाटियों\N_NN से\PSP भरा\QT_QTF पड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd4313	हालाँकि\CC_CCS सफर\N_NN लगभग\N_NN 40\QT_QTC घंटे\N_NN का\PSP है\V_VAUX ,\RD_PUNC मगर\N_NN कोई\QT_QTF साथ\N_NN है\V_VAUX तो\RP_RPD यह\DM_DMD बहुत\RP_INTF मजेदार\JJ कटता\V_VM है\V_VAUX ।\RD_PUNC
+htd4314	अगर\CC_CCS न्यू\N_NNP ईयर\N_NNP के\PSP आस-पास\N_NST के\PSP एक-दो\QT_QTC हफ्ते\N_NN को\PSP छोड़\V_VM दिया\V_VAUX जाए\V_VAUX तो\RP_RPD गोवा\N_NN में\PSP एक\QT_QTC थ्री\N_NN स्टार\N_NN होटल\N_NN में\PSP ए.सी.\N_NN रूम\N_NN आपको\PR_PRP 600\QT_QTC रुपए\N_NN से\PSP लेकर\V_VM 1000\QT_QTC रुपए\N_NN प्रतिदिन\N_NN के\PSP हिसाब\N_NN से\PSP मिल\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4315	अगर\CC_CCD पूरा\JJ गोवा\N_NNP कम\N_NN से\PSP कम\N_NN समय\N_NN और\CC_CCD पैसे\N_NN में\PSP घूमना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD वहाँ\DM_DMD टूर\N_NN करवाने\V_VM वाली\PSP बसों\N_NN की\PSP सेवा\V_VM लें\V_VAUX ।\RD_PUNC
+htd4316	वास्को\N_NNP में\PSP यह\DM_DMD स्टेशन\N_NN के\PSP बाहर\N_NST से\PSP सुबह\N_NN नौ\QT_QTC बजे\N_NN के\PSP बाद\N_NST मिलती\V_VM हैं\V_VAUX और\CC_CCD रात\N_NN को\PSP आठ\QT_QTC बजे\N_NN वहीं\DM_DMD लाकर\V_VM छोड़\V_VAUX देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4317	गोवा\N_NNP को\PSP यह\DM_DMD दो\QT_QTC हिस्सों\N_NN में\PSP बाँटकर\V_VM दो\QT_QTC दिनों\N_NN में\PSP घुमाती\V_VM हैं\V_VAUX ,\RD_PUNC नॉर्थ\N_NNP गोवा\N_NNP और\CC_CCD साउथ\N_NNP गोवा\N_NNP ।\RD_PUNC
+htd4318	एक\QT_QTC दिन\N_NN का\PSP चार्ज\N_NN एक\QT_QTC सवारी\N_NN से\PSP बस\N_NN सौ\QT_QTC रुपए\N_NN लेती\V_VM हैं\V_VAUX ,\RD_PUNC यानी\CC_CCS आप\PR_PRP दो\QT_QTC दिनों\N_NN में\PSP महज\JJ दो\QT_QTC सौ\QT_QTC रुपए\N_NN में\PSP सारा\QT_QTF गोवा\N_NNP घूम\N_NN सकाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4319	जबकि\CC_CCS इन\DM_DMD बसों\N_NN के\PSP साथ\N_NST गाइड\N_NN फ्री\N_NN में\PSP मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd4320	लगभग\N_NN 30\QT_QTC कि.मी.\N_NN लंबा\JJ है\V_VAUX नॉर्थ\N_NNP गोवा\N_NNP का\PSP समुद्र\N_NN तट\N_NN ,\RD_PUNC जो\PR_PRL शुरु\V_VM होता\V_VAUX है\V_VAUX फोर्ट\N_NNP अगॉडा\N_NNP से\PSP ।\RD_PUNC
+htd4321	एक-एक\N_NN करके\N_NN सिनक्वेरिम\N_NNP ,\RD_PUNC केंडोलिम\N_NNP ,\RD_PUNC केलांग्यूट\N_NNP ,\RD_PUNC बागा\N_NNP अंजुना\N_NNP ,\RD_PUNC वेगेटर\N_NNP ,\RD_PUNC मोरजिम\N_NNP और\CC_CCD एराम्बोल\N_NNP बीच\N_NST आएँगे\V_VM ,\RD_PUNC जहाँ\PR_PRL दो\QT_QTC या\CC_CCD तीन\QT_QTC पर\N_NN आपको\PR_PRP नहाने\N_NN और\CC_CCD भोजन\N_NN इत्यादि\N_NN के\PSP लिए\PSP गाइड\N_NN पर्याप्‍त\N_NN मौका\N_NN देते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4322	गाइड\N_NN आपको\PR_PRP बताता\V_VM जाएगा\V_VAUX कि\CC_CCS फलाँ\N_NNP बीच\N_NST पर\PSP हिप्पियों\N_NN का\PSP बाजार\N_NN लगता\V_VM था\V_VAUX या\CC_CCD फलाँ\N_NNP जगह\N_NN मांडवी\N_NNP नदी\N_NN का\PSP संगम\N_NN है\V_VAUX या\CC_CCD जगजीवन\N_NNP राम\N_NNP द्वारा\N_NN उद्‍घाटित\N_NN यह\DM_DMD पुल\N_NN उनके\PR_PRP मरने\N_NN के\PSP दिन\N_NN ही\RP_RPD टूट\N_NN गया\V_VM था\V_VAUX ।\RD_PUNC
+htd4323	आप\PR_PRP राजधानी\N_NN पणजी\N_NNP ,\RD_PUNC विधान\N_NNP सभा\N_NNP ,\RD_PUNC लाइट\N_NNP हाउस\N_NNP और\CC_CCD तमाम\N_NN खूबसूरत\JJ चर्च\N_NN के\PSP भी\RP_RPD दर्शन\N_NN कर\V_VM सकेंगे\V_VAUX ।\RD_PUNC
+htd4324	वास्को\N_NNP से\PSP शुरु\N_NN होकर\V_VM आप\PR_PRP बोगमालो\N_NNP बीच\N_NST से\PSP पैलोलेम\N_NN बीच\N_NN तक\PSP वेल्साओ\N_NNP ,\RD_PUNC मर्जोडा\N_NNP ,\RD_PUNC कोल्वा\N_NNP ,\RD_PUNC बेनॉलिम\N_NNP ,\RD_PUNC बेतुल\N_NNP और\CC_CCD एगोंडा\N_NNP जैसे\N_NN बीच\N_NST साउथ\N_NNP गोवा\N_NNP की\PSP यात्रा\N_NN में\PSP घूम\N_NN सकेंगे\V_VAUX ।\RD_PUNC
+htd4325	साउथ\N_NNP गोवा\N_NNP फेमस\N_NNP है\V_VAUX मंदिर\N_NN और\CC_CCD चर्च\N_NN के\PSP लिए\PSP ,\RD_PUNC गाइड\N_NN आपको\PR_PRP जगह\N_NN के\PSP इतिहास\N_NNP के\PSP साथ\N_NN ही\RP_RPD बताता\V_VM जाएगा\V_VAUX कि\CC_CCS किस\DM_DMI फिल्म\N_NN की\PSP शूटिंग\N_NN किस\DM_DMI चर्च\N_NN में\PSP या\CC_CCD बीच\N_NN पर\PSP हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd4326	कुल\QT_QTF मिलाकर\V_VM आप\PR_PRP इस\DM_DMD दूसरे\QT_QTC दिन\N_NN बाकी\N_NN गोवा\N_NNP का\PSP यह\DM_DMD टूर\N_NN करने\V_VM के\PSP बाद\N_NST पाएँगे\N_NN कि\N_NN आप\PR_PRP गोवा\N_NNP के\PSP बारे\N_NN में\PSP 80\QT_QTC प्रतिशत\N_NN तो\RP_RPD जान\N_NN ही\RP_RPD गए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4327	प्रत्येक\QT_QTF दिन\N_NN बस\N_NN आपको\PR_PRP पणजी\N_NNP में\PSP छह\QT_QTC बजे\N_NN क्रूज\N_NN पर\PSP छोड़ती\DM_DMI है\V_VAUX और\CC_CCD एक-एक\QT_QTC घंटे\N_NN का\PSP समय\N_NN देती\V_VM है\V_VAUX ।\RD_PUNC
+htd4328	दरअसल\N_NN ये\DM_DMD छोटे-छोटे\JJ जहाज\N_NN वहाँ\DM_DMD रात\N_NN को\PSP जवान\N_NN बनाए\V_VM रखते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4329	प्रति\N_NN व्यक्‍ति\N_NN एक\QT_QTC घंटे\N_NN वहाँ\DM_DMD महज\N_NN सौ\QT_QTC रुपए\N_NN लगते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4330	इस\DM_DMD घंटे\N_NN में\PSP क्रूज\N_NN पानी\N_NN में\PSP कुछ\QT_QTF किलोमीटर\N_NN अंदर\N_NST चला\V_VM जाता\V_VAUX है\V_VAUX और\CC_CCD फिर\RB वहाँ\DM_DMD इंटरनेशनल\N_NNP डांसर\N_NNP ,\RD_PUNC गोवानी\N_NNP डांस\N_NNP आदि\N_NN तो\RP_RPD देखने\V_VM को\PSP मिलते\V_VM ही\RP_RPD हैं\V_VAUX ।\RD_PUNC
+htd4331	आप\PR_PRP भी\RP_RPD अपने\PR_PRF साथियों\N_NN के\PSP साथ\N_NST क्रूज-पार्टी\N_NNP में\PSP मस्त\JJ म्यूजिक\N_NN पर\PSP डांस\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4332	इस\DM_DMD तरह\CC_CCS आपको\PR_PRP दो\QT_QTC दिन\N_NN क्रूज\N_NN पर\PSP जाने\V_VM का\PSP मौका\N_NN मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd4333	हालाँकि\CC_CCS रात\N_NN भर\RP_INTF कैसीनो\N_NN क्रूज\N_NN का\PSP विकल्प\N_NN भी\RP_RPD वहाँ\DM_DMD पर\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4334	बाइकिंग\N_NNP और\CC_CCD वॉटर\N_NNP स्पोर्टस\N_NNP दोनों\N_NN गोवा\N_NNP की\PSP खासियत\RB हैं\V_VAUX ।\RD_PUNC
+htd4335	जब\PR_PRL आप\PR_PRP गोवा\N_NNP के\PSP बीच\N_NST पर\PSP जाएँगे\V_VAUX ,\RD_PUNC तो\RP_RPD आपको\PR_PRP वॉटर\N_NN स्कूटर\N_NN ,\RD_PUNC स्टीमर\N_NN ,\RD_PUNC मोटरबोट\N_NN के\PSP जरिए\N_NN सागर\N_NN को\PSP चीरकर\V_VM रख\V_VAUX देने\V_VAUX का\PSP मौका\RB भी\RP_RPD मिलता\V_VM है\V_VAUX और\CC_CCD वह\PR_PRP भी\RP_RPD महज\N_NN सौ\QT_QTC से\PSP दो\QT_QTC सौ\QT_QTC रुपए\N_NN में\PSP ।\RD_PUNC
+htd4336	मोटरबोट\N_NNP से\PSP बँधे\N_NN गुब्बारे\N_NN में\PSP बैठकर\V_VM पैराशूट\N_NNP और\CC_CCD बैलूनिंग\N_NNP जैसे\N_NN दोनों\N_NN मजे\JJ ले\N_NN सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4337	गोवा\N_NNP में\PSP फोटोग्राफी\N_NN जरूर\RB करें\V_VAUX क्योंकि\CC_CCS ये\DM_DMD तस्वीरें\N_NN आपके\N_NN लिए\PSP बाद\N_NN में\PSP यादगार\N_NN बन\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4338	तीसरे\QT_QTC दिन\N_NN चाहें\V_VM ,\RD_PUNC तो\RP_RPD होटल\N_NN में\PSP आराम\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX और\CC_CCD चौथे\QT_QTO दिन\N_NN आप\PR_PRP गोवा\N_NNP ही\RP_RPD घूमें\V_VM ।\RD_PUNC
+htd4339	किसी\DM_DMI एक\QT_QTC खास\RB बीच\N_NST को\PSP छाँट\N_NN लें\N_NN और\CC_CCD बाइक\N_NN से\PSP जाएँ\V_VAUX ।\RD_PUNC
+htd4340	गोवा\N_NNP में\PSP बाइक\N_NN एक\QT_QTC नए\JJ तरह\N_NN का\PSP रोमांच\JJ है\V_VAUX ।\RD_PUNC
+htd4341	गोवा\N_NNP की\PSP बाइक\N_NN थ्री\N_NN व्हीलर\N_NN या\CC_CCD रिक्शे\N_NN की\PSP जगह\N_NN चलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4342	हर\JJ मोड़\N_NN पर\PSP रिक्शों\N_NN की\PSP जगह\N_NN बाइक\N_NN वाले\PSP इंतजार\V_VM में\PSP खड़े\V_VAUX मिलते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4343	इसकी\CC_CCD वजह\JJ है\V_VAUX गोवा\N_NNP की\PSP ऊँची-नीची\N_NN मगर\CC_CCS बेहद\RP_INTF खूबसूरत\JJ सड़कें\N_NN ।\RD_PUNC
+htd4344	तभी\CC_CCS तो\RP_RPD वहाँ\DM_DMD बाइकिंग\N_NN सबको\N_NN पसंद\JJ भी\RP_RPD आती\V_VM है\V_VAUX ।\RD_PUNC
+htd4345	आपको\PR_PRP बाइक\N_NN वहाँ\DM_DMD सौ-डेढ़\QT_QTC सौ\QT_QTC रुपए\N_NN प्रति\N_NN दिन\N_NN के\PSP हिसाब\N_NN से\PSP किराए\N_NN पर\PSP मिल\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4346	इसके\DM_DMD बाद\N_NN आप\PR_PRP पाएँगे\V_VM कि\CC_CCS गोवा\N_NNP पहुँच\V_VAUX से\PSP इतना\QT_QTF भी\RP_RPD दूर\N_NN नहीं\RP_NEG था\V_VAUX जितना\N_NN कि\CC_CCS आप\PR_PRP सोचा\N_NN करते\V_VM थे\V_VAUX ।\RD_PUNC
+htd4347	मौज-मस्ती\JJ ,\RD_PUNC खाने-पीने\V_VM और\CC_CCD खरीदारी\V_VM के\PSP शौकीन\N_NN लोगों\N_NN के\PSP लिए\PSP गोवा\N_NNP में\PSP बहुत\RP_INTF कुछ\JJ है\V_VAUX ।\RD_PUNC
+htd4348	गोवा\N_NNP जाएँ\V_VAUX ,\RD_PUNC तो\RP_RPD वहाँ\DM_DMD के\PSP परंपरागत\JJ खानपान\N_NN का\PSP पूरा\QT_QTF लुत्फ\JJ उठाएँ\V_VM ।\RD_PUNC
+htd4349	अगर\CC_CCS आप\PR_PRP मांसाहारी\N_NN हैं\V_VAUX ,\RD_PUNC तो\N_NN आप\PR_PRP एक\QT_QTC से\PSP एक\QT_QTC लजीज\N_NN सी\N_NN फूड\N_NN का\PSP मजा\JJ ले\N_NN सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4350	ठेठ\N_NN महाराष्ट्रीय\N_NN भोजन\N_NN सोल\N_NN कढ़ी\N_NN ,\RD_PUNC आमटी\N_NN ,\RD_PUNC थेपला\N_NNP के\PSP साथ-साथ\N_NN फिश\N_NNP करी-राइस\N_NN ,\RD_PUNC झींगा\N_NNP ,\RD_PUNC पॉम्फ्रेट\N_NNP ,\RD_PUNC क्रेब\N_NNP ,\RD_PUNC ऑयस्टर\N_NNP ,\RD_PUNC लेडी\N_NNP फिश\N_NNP भी\RP_RPD आपको\PR_PRP लगभग\N_NN हर\QT_QTF रेस्तरां\N_NN या\CC_CCD ढाबे\N_NN में\PSP मिल\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd4351	गोवा\N_NNP का\PSP भोजन\N_NN जायकेदार\RB और\CC_CCD तेज\RB मिर्च\N_NN वाला\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4352	आज\N_NN भी\RP_RPD गोवा\N_NNP के\PSP पुराने\JJ लोग\N_NN आपको\PR_PRP मिट्‍टी\N_NN की\PSP हांडी\N_NN में\PSP गोश्त\N_NN और\CC_CCD चावल\N_NN पकाते\V_VM मिल\V_VAUX जाएँगे\V_VAUX ।\RD_PUNC
+htd4353	गोवा\N_NNP वासी\N_NNP आमतौर\RB पर\PSP जल्दी\JJ लंच\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4354	तटीय\N_NN प्रदेश\N_NN गोवा\N_NNP के\PSP लोग\N_NN प्रकृति\N_NN प्रेमी\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4355	बीच\N_NST के\PSP किनारे\N_NN फेनी\N_NN और\CC_CCD भुने\N_NN काजू\N_NN का\PSP स्वाद\N_NN लेते\V_VM बिंदास\N_NN टूरिस्ट\N_NN के\PSP साथ\N_NST आपको\PR_PRP कई\QT_QTF मस्त\JJ गोवा\N_NNP वासी\N_NN भी\RP_RPD नजर\N_NN आ\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd4356	गोवा\N_NNP वासी\N_NN एक\QT_QTC टूरिस्ट\N_NN की\PSP तरह\N_NN जिंदगी\N_NN का\PSP पूरा\JJ मजा\V_VM लेना\V_VM जानते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4357	सैलानियों\N_NN के\PSP लिए\PSP तो\RP_RPD जैसे\N_NN स्वर्ग\N_NN है\V_VAUX गोवा\N_NNP ।\RD_PUNC
+htd4358	इसलिए\CC_CCS भी\RP_RPD क्योंकि\CC_CCD आप\PR_PRP गोवा\N_NNP में\PSP जैसे\JJ हैं\V_VAUX ,\RD_PUNC वैसे\CC_CCS रह\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4359	यूरोप\N_NNP से\PSP गोवा\N_NNP घूमने\V_VM आए\V_VAUX जॉर्ज\N_NNP टिमोत\N_NNP तो\RP_RPD बरमुडा\N_NN और\CC_CCD बिन\N_NN बाँहों\N_NN का\PSP झूलता\V_VM हुआ\V_VAUX हरे\N_NNP राम\N_NNP हरे\N_NNP कृष्ण\N_NNP शर्ट\N_NN पहने\V_VM मस्ती\JJ में\PSP कहते\V_VM हैं\V_VAUX ,\RD_PUNC ’गोवा\N_NNP इज\N_NN पैराडाइज`\N_NN ।\RD_PUNC
+htd4360	वे\DM_DMD पूरा\QT_QTF भारत\N_NNP घूम\V_VM आए\V_VAUX हैं\V_VAUX ,\RD_PUNC पर\PSP जो\PR_PRL स्वतंत्रता\N_NN और\CC_CCD खुलापन\N_NN उन्हें\PR_PRP गोवा\N_NNP में\PSP दिख\V_VM रहा\V_VAUX हैं\V_VAUX ,\RD_PUNC उससे\PR_PRP वे\DM_DMD अभिभूत\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4361	गोवा\N_NNP वासी\JJ स्वयं\PR_PRF संगीत-नृत्य\N_NN और\CC_CCD खेल\N_NN प्रेमी\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4362	शाम\N_NN ढलते\V_VM ही\RP_RPD आपको\PR_PRP डोना\N_NNP पॉला\N_NNP के\PSP एक\QT_QTC ना\RP_NEG एक\QT_QTC छोटे\JJ से\PSP लाल\JJ ईंटों\N_NN वाले\PSP घर\N_NN के\PSP सामने\N_NST कोई\QT_QTF युवा\N_NN गिटार\N_NN बजाता\V_VM दिख\V_VAUX जाएगा\V_VAUX ।\RD_PUNC
+htd4363	आस-पास\N_NST खड़े\V_VM अनजान\N_NN लोग\N_NN भी\RP_RPD संगीत\N_NN की\PSP धुन\N_NN पर\PSP झूमते\V_VM दिख\V_VAUX जाएँगे\V_VAUX ।\RD_PUNC
+htd4364	गोवा\N_NNP आ\V_VM कर\V_VAUX सैलानी\N_NNP भी\RP_RPD मस्ती\JJ के\PSP रंग\N_NN में\PSP रंगने\V_VM से\PSP अछूते\V_VAUX नहीं\RP_NEG रहते\V_VAUX ।\RD_PUNC
+htd4365	दिन\N_NN निकलते\V_VM ही\RP_RPD गोवा\N_NNP की\PSP छोटी-बड़ी\JJ अलियों-गलियों\N_NN में\PSP बाजार\N_NN लग\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4366	मारगोवा\N_NNP में\PSP अंजुना\N_NNP फ्ली\N_NNP मार्केट\N_NNP ,\RD_PUNC मापसा\N_NNP फ्राइडे\N_NNP मार्केट\N_NNP ,\RD_PUNC न्यू\N_NNP मार्केट\N_NNP कुछ\QT_QTF ऐसी\DM_DMD जगहें\N_NN हैं\V_VAUX ,\RD_PUNC जहाँ\PR_PRL एंटीक\N_NNP ,\RD_PUNC जंक\N_NNP ज्वैलरी\N_NNP ,\RD_PUNC कच्छी\N_NN कढ़ाई\N_NN की\PSP चीजें\N_NN सही\JJ दाम\N_NN पर\PSP मिल\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4367	बागा\N_NNP बीच\N_NST के\PSP किनारे\N_NN गोवा\N_NNP के\PSP 30\QT_QTC प्रतिशत\N_NN एंटीक\N_NNP शॉप्स\N_NNP हैं\V_VAUX ।\RD_PUNC
+htd4368	गोवा\N_NNP के\PSP बागा\N_NN बीच\N_NN के\PSP किनारे\N_NN बेहद\RP_INTF खूबसूरत\JJ नक्काशीदार\N_NN फर्नीचर\N_NN से\PSP ले\V_VM कर\V_VAUX ,\RD_PUNC लैंप\N_NN ,\RD_PUNC काँसे\N_NN और\CC_CCD काँच\N_NN की\PSP खूबसूरत\JJ चीजें\N_NN मिलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4369	इसके\PR_PRP अलावा\CC_CCS सूती\N_NN कपड़े\N_NN और\CC_CCD काजू-किशमिश\N_NN भी\RP_RPD यहाँ\DM_DMD सही\N_NN दाम\N_NN पर\PSP बहुतायत\QT_QTF में\PSP मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4370	किसी\DM_DMI भी\RP_RPD टूरिस्ट\N_NN प्लेस\N_NN पर\PSP जाने\V_VM से\PSP पहले\N_NST कुछ\QT_QTF जरूरी\N_NN बातों\N_NN की\PSP जानकारी\N_NN होनी\V_VM बहुत\RP_INTF जरूरी\N_NN जैसे\N_NN किस\DM_DMQ रूट\N_NN से\PSP जाना\V_VM है\V_VAUX ,\RD_PUNC कहाँ\PR_PRQ उतरना\V_VM है\V_VAUX ,\RD_PUNC कहाँ\PR_PRQ ठहरना\V_VM है\V_VAUX इत्यादि\N_NN ।\RD_PUNC
+htd4371	अगर\CC_CCS पूरी\JJ योजना\N_NN के\PSP साथ\N_NST चलेंगे\V_VM ,\RD_PUNC तो\RP_RPD यात्रा\N_NN में\PSP आपको\PR_PRP कोई\QT_QTF परेशानी\N_NN नहीं\RP_NEG होगी\V_VM ।\RD_PUNC
+htd4372	चलिए\V_VM गोवा\N_NNP से\PSP संबंधित\N_NN कुछ\QT_QTF तथ्य\N_NN आपको\PR_PRP बताते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4373	यदि\CC_CCS आप\PR_PRP प्लेन\N_NN से\PSP जा\V_VM रहे\V_VAUX हैं\V_VAUX ,\RD_PUNC तो\RP_RPD आप\PR_PRP उतरेंगे\V_VM डबोलिन\N_NNP एयरपोर्ट\N_NNP ,\RD_PUNC जो\PR_PRL पणजी\N_NNP से\PSP 25\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4374	दिल्ली\N_NNP और\CC_CCD मुंबई\N_NNP से\PSP आप\PR_PRP गोवा\N_NNP आसानी\JJ से\PSP पहुँच\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4375	कोंकण\N_NNP रेलवे\N_NN के\PSP कारण\N_NN रेल\N_NN से\PSP गोवा\N_NNP पहुँचना\V_VM बड़ा\JJ आसान\JJ हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4376	दिल्ली\N_NNP (\RD_SYM गोवा\N_NNP की\PSP दूरी\N_NN है\V_VAUX 1874\QT_QTC कि.मी.\N_NN ,\RD_PUNC मुंबई\N_NNP 490\QT_QTC कि.मी.\N_NN और\CC_CCD बंगलूर\N_NNP 430\QT_QTC कि.मी.\N_NN )\RD_SYM से\PSP आप\PR_PRP ट्रेन\N_NN पकड़\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4377	वास्को\N_NNP स्टेशन\N_NN से\PSP आप\PR_PRP टैक्सी\N_NN या\CC_CCD मोटरसाइकिल\N_NN टैक्सी\N_NN (\RD_SYM यहाँ\DM_DMD टैक्सी\N_NN के\PSP रूप\N_NN में\PSP मोटरसाइकिल\N_NN भी\RP_RPD मिलती\V_VM है\V_VAUX )\RD_SYM से\PSP अपने\PR_PRF डेस्टीनेशन\N_NN पर\PSP पहुँच\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4378	यदि\CC_CCS आप\PR_PRP सड़क\N_NN के\PSP रास्ते\N_NN गोवा\N_NNP जा\V_VM रहे\V_VAUX हैं\V_VAUX ,\RD_PUNC तो\RP_RPD इसमें\PR_PRF भी\RP_RPD कोई\QT_QTF कठिनाई\N_NN नहीं\RP_NEG है\V_VAUX ।\RD_PUNC
+htd4379	गोवा\N_NNP ,\RD_PUNC महाराष्ट्र\N_NNP और\CC_CCD कर्नाटक\N_NNP राज्य\N_NNP कॉरपोरेशन\N_NNP द्वारा\N_NN पणजी\N_NNP में\PSP कदंब\N_NNP स्टेशन\N_NN से\PSP सेवाएँ\N_NN मुहैया\RB कराई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4380	उधर\N_NST फ्रैंक\N_NN शिपिंग\N_NN द्वारा\N_NN मुंबई\N_NNP और\CC_CCD पणजी\N_NNP के\PSP बीच\N_NST बढ़िया\JJ बोट\N_NN सेवा\N_NN चलाई\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4381	गोवा\N_NNP में\PSP घूमना\V_VM बड़ा\JJ आसान\JJ है\V_VAUX -\RD_PUNC आपको\PR_PRP बस\N_NN भी\RP_RPD मिल\V_VM सकती\V_VAUX है\V_VAUX और\CC_CCD आप\PR_PRP कार\N_NN भी\RP_RPD किराए\N_NN पर\PSP ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4382	गोवा\N_NNP में\PSP पर्यटकों\N_NN की\PSP विशेष\JJ रुचि\JJ रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd4383	गोवा\N_NNP में\PSP दिन\N_NN जहाँ\PR_PRL बीच\N_NN के\PSP किनारे\N_NN गुजरते\V_VM हैं\V_VAUX ,\RD_PUNC वहीं\DM_DMD शामें\N_NN नृत्य\N_NN और\CC_CCD संगीत\N_NN के\PSP साथ\N_NST बीतती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4384	गोवा\N_NNP टूरिज्म\N_NNP डेवलपमेंट\N_NNP कॉरपोरेशन\N_NNP लिमिटेड\N_NNP द्वारा\N_NN पर्यटकों\N_NN की\PSP सुविधा\N_NN के\PSP लिए\PSP बेहतरीन\JJ आवासीय\N_NN सुविधाएँ\N_NN उपलब्ध\N_NN कराई\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4385	गोवा\N_NNP में\PSP बुकिंग\N_NN के\PSP लिए\PSP आप\PR_PRP टूरिज्म\N_NNP डेवलपमेंट\N_NNP कॉरपोरेशन\N_NNP लिमिटेड\N_NNP ,\RD_PUNC ट्राइनॉरा\N_NNP अपार्टमेंट्‍स\N_NNP ,\RD_PUNC डॉ.\N_NNP अलवारीज\N_NNP कोस्टा\N_NNP रोड\N_NN ,\RD_PUNC पणजी\N_NNP ,\RD_PUNC गोवा\N_NNP -\RD_PUNC 403001\QT_QTC में\PSP संपर्क\N_NN कर\V_VM सकते\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4386	सपनों\N_NN का\PSP शहर\N_NN है\V_VAUX गोवा…\N_NNP नारियल\N_NN के\PSP पेड़ों\N_NN से\PSP घिरे\N_NN बीच\N_NN ,\RD_PUNC मनचाहा\JJ सन्नाटा\N_NN और\CC_CCD समुद्र\N_NN की\PSP लहरों\N_NN की\PSP आवाजें….\N_NN ऐसे\DM_DMD में\PSP लगता\V_VM है\V_VAUX वक्‍त\N_NN बस\N_NN यहीं\DM_DMD ठहर\V_VM जाए….\V_VAUX ।\RD_PUNC
+htd4387	साल\N_NN के\PSP तीन\QT_QTC सौ\QT_QTO पैंसठ\QT_QTO दिन\N_NN गोवा\N_NNP तैयार\N_NN है\V_VAUX आपके\PR_PRP स्वागत\N_NN के\PSP लिए\PSP ।\RD_PUNC
+htd4388	गोवा\N_NNP के\PSP लोग\N_NN सदैव\N_NN तैयार\V_VM हैं\V_VAUX आपकी\N_NN मेहमाननवाजी\N_NN के\PSP लिए\PSP ।\RD_PUNC
+htd4389	हर\JJ मौसम\N_NN में\PSP गोवा\N_NNP के\PSP पास\N_NST आपको\PR_PRP परोसने\N_NN के\PSP लिए\PSP कुछ\QT_QTC खास\JJ है\V_VAUX ।\RD_PUNC
+htd4390	और\CC_CCD हाँ\N_NN ,\RD_PUNC आप\PR_PRP अकेले\N_NN ना\RP_NEG आएँ\V_VAUX ,\RD_PUNC बल्कि\CC_CCD सपरिवार\N_NN तशरीफ\N_NN लाएँ\V_VAUX ।\RD_PUNC
+htd4391	गोवा\N_NNP सरकार\N_NN फैमिली\N_NN टूरिज्म\N_NN को\PSP बढ़ावा\V_VM देने\V_VAUX के\PSP लिए\PSP प्रतिबद्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd4392	हम\PR_PRP गोवा\N_NNP की\PSP विरासत\N_NN से\PSP पर्यटकों\N_NN को\PSP वाकिफ\N_NN कराना\V_VM चाहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4393	इसके\DM_DMD लिए\PSP सरकार\N_NN गोवा\N_NNP के\PSP वाशिन्दों\N_NN की\PSP मदद\N_NN लेने\V_VM की\PSP योजना\N_NN बना\V_VM रही\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4394	जो\PR_PRL गोवावासी\N_NNP अपने\PR_PRF मकान\N_NN में\PSP पर्यटकों\N_NN को\PSP ठहराना\V_VM चाहेंगे\V_VAUX ,\RD_PUNC उन्हें\PR_PRP हम\PR_PRP सबसिडी\N_NN से\PSP लेकर\V_VM हर\JJ स्तर\N_NN पर\PSP सहयोग\N_NN प्रदान\V_VM करेंगे\V_VAUX ।\RD_PUNC
+htd4395	हमारी\PR_PRP ख्वाहिश\N_NN है\V_VAUX कि\CC_CCS पर्यटक\N_NN गोवा\N_NNP वासियों\N_NN से\PSP घुले-मिले\V_VM ,\RD_PUNC उनके\PR_PRP रहन-सहन\N_NN ,\RD_PUNC उनके\PR_PRP खान-पान\N_NN से\PSP रुबरु\N_NN हों\V_VM ।\RD_PUNC
+htd4396	हम\PR_PRP `बीच\N_NN टूरिज्म`\N_NN को\PSP प्रोत्साहित\N_NN करने\N_NN में\PSP जुटे\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4397	महाराष्ट्र\N_NNP और\CC_CCD कर्नाटक\N_NNP में\PSP भी\RP_RPD `बीच`\N_NN हैं\V_VAUX ,\RD_PUNC पर\PSP गोवा\N_NNP के\PSP `बीच`\N_NN उन\PR_PRP सबसे\RP_INTF अलग\JJ हैं\V_VAUX ।\RD_PUNC
+htd4398	गोवा\N_NNP के\PSP लोग\N_NN जिंदादिल\N_NN हैं\V_VAUX ,\RD_PUNC व्यवहार\N_NN में\PSP खुलापन\JJ है\V_VAUX ।\RD_PUNC
+htd4399	पर्यटकों\N_NN को\PSP और\CC_CCD क्या\PR_PRQ चाहिए\V_VAUX ?\RD_PUNC
+htd4400	वॉटर\N_NNP टूरिज्म\N_NNP ,\RD_PUNC पैरासेलिंग\N_NNP और\CC_CCD भी\RP_RPD बहुत\RP_INTF कुछ\JJ है\V_VAUX गोवा\N_NNP के\PSP पास\N_NST आपको\PR_PRP देने\V_VM के\PSP लिए\PSP ।\RD_PUNC
+htd4401	पिछले\N_NST साल\N_NN 24\QT_QTC लाख\QT_QTC पर्यटक\N_NN गोवा\N_NNP की\PSP सैर\N_NN करने\V_VM आए\V_VAUX ।\RD_PUNC
+htd4402	इनमें\DM_DMD से\PSP तकरीबन\N_NN 40\QT_QTC फीसदी\N_NN पर्यटक\N_NN अकेले\N_NN ब्रिटेन\N_NNP से\PSP थे\V_VAUX ।\RD_PUNC
+htd4403	पिछले\N_NST वित्त\N_NN वर्ष\N_NN में\PSP गोवा\N_NNP सरकार\N_NN ने\PSP तकरीबन\N_NN 1600\QT_QTC करोड़\QT_QTC रुपए\N_NN की\PSP विदेशी\N_NN मुद्रा\N_NN पर्यटन\N_NN से\PSP अर्जित\V_VM की\V_VAUX ।\RD_PUNC
+htd4404	पर\PSP टूरिज्म\N_NN के\PSP नाम\N_NN पर\PSP हम\PR_PRP गोवा\N_NNP की\PSP संस्कृति\N_NN को\PSP नहीं\RP_NEG झुठला\V_VM सकते\V_VAUX ।\RD_PUNC
+htd4405	गोवा\N_NNP चर्च\N_NN और\CC_CCD मंदिरों\N_NN का\PSP शहर\N_NN है\V_VAUX ।\RD_PUNC
+htd4406	सिर्फ\QT_QTC समंदर\N_NNP प्रिय\N_NNP सैलानियों\N_NNP के\PSP लिए\PSP ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC श्रद्धालुओं\N_NN के\PSP लिए\PSP भी\RP_RPD बहुत\RP_INTF कुछ\JJ है\V_VAUX गोवा\N_NNP में\PSP ।\RD_PUNC
+htd4407	गोवा\N_NNP के\PSP तटों\N_NN की\PSP खूबसूरती\JJ का\PSP तो\RP_RPD खैर\N_NN जवाब\N_NN नहीं\RP_NEG है\V_VAUX और\CC_CCD ये\DM_DMD तट\N_NN अपने\PR_PRF में\PSP समेटे\V_VM हैं\V_VAUX खूबसूरत\JJ शहर\N_NN ,\RD_PUNC चर्च\N_NN और\CC_CCD मंदिर\N_NN ।\RD_PUNC
+htd4408	ओल्ड\N_NNP गोवा\N_NNP का\PSP कैथेड्रल\N_NNP चर्च\N_NNP एशिया\N_NNP का\PSP सबसे\RP_INTF बड़ा\JJ चर्च\N_NN है\V_VAUX ।\RD_PUNC
+htd4409	16वीं\QT_QTO शताब्दी\QT_QTF में\PSP बने\V_VM कैथेड्रल\N_NNP चर्च\N_NN की\PSP सुनहरी\N_NN घंटी\N_NN विश्‍व\N_NNP की\PSP सबसे\RP_INTF बड़ी\JJ घंटी\N_NN है\V_VAUX ।\RD_PUNC
+htd4410	कैथेड्रल\N_NNP के\PSP साथ\N_NST ही\RP_RPD है\V_VAUX सेंट\N_NNP फ्रांसिस\N_NNP चर्च\N_NNP ।\RD_PUNC
+htd4411	खूबसूरत\JJ प्राचीन\JJ पारंपरिक\JJ चित्रों\N_NN से\PSP सुसज्जित\N_NN सेंट\N_NNP फ्रांसिस\N_NNP चर्च\N_NNP बेहद\RP_INTF खूबसूरत\JJ है\V_VAUX ।\RD_PUNC
+htd4412	सेंट\N_NNP फ्रांसिस\N_NNP चर्च\N_NNP के\PSP पिछवाड़े\N_NN मौजूद\JJ कॉन्वेंट\N_NN को\PSP अब\N_NST पुरातात्विक\N_NN संग्रहालय\N_NN बना\V_VM दिया\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4413	यहाँ\DM_DMD कई\QT_QTF पुर्तगाली\N_NNP वॉयसराय\N_NNP और\CC_CCD गोवा\N_NNP के\PSP कई\QT_QTF हिंदू\N_NNP मंदिरों\N_NN की\PSP खंडित\N_NN मूर्तियाँ\N_NN भी\RP_RPD दर्शनार्थ\N_NN रखी\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4414	पॉन्डा\N_NNP के\PSP पास\N_NST स्थित\V_VM चर्च\N_NNP ऑफ\N_NNP द\N_NNP लेडी\N_NNP माउंटेन\N_NNP ,\RD_PUNC जो\PR_PRL कि\CC_CCS पुर्तगालियों\N_NNP द्वारा\N_NN बनवाया\V_VM गया\V_VAUX था\V_VAUX ,\RD_PUNC पुराने\N_NN दिनों\N_NN की\PSP खूब\JJ याद\N_NN दिलाता\V_VM है\V_VAUX वहाँ\DM_DMD की\PSP बुजुर्ग\N_NN शख्सियतों\N_NN को\PSP ।\RD_PUNC
+htd4415	सेंट\N_NNP ऑगस्टिन\N_NNP टॉवर\N_NNP गोवा\N_NNP का\PSP सबसे\RP_INTF बड़ा\JJ चर्च\N_NN है\V_VAUX ।\RD_PUNC
+htd4416	ऑगस्टीनियन्स\N_NNP 1500\QT_QTC वर्ष\N_NN पहले\JJ गोवा\N_NNP आए\V_VM थे\V_VAUX ।\RD_PUNC
+htd4417	ओल्ड\N_NNP गोवा\N_NNP में\PSP होली\N_NNP हिल\N_NNP पर\PSP स्थित\V_VM सेंट\N_NNP मोनिका\N_NNP क्लॉयस्टर\N_NNP पर\PSP अभी\N_NN भी\RP_RPD नन्स\N_NN की\PSP प्रभुसत्ता\V_VM है\V_VAUX ।\RD_PUNC
+htd4418	यह\DM_DMR एशिया\N_NNP का\PSP सबसे\RP_INTF बड़ा\JJ चर्च\N_NN है\V_VAUX ।\RD_PUNC
+htd4419	गोवा\N_NNP के\PSP श्री\N_NNP मंगेश\N_NNP मंदिर\N_NNP में\PSP शिव\N_NNP भक्‍त\N_NN भगवान\N_NN शिव\N_NNP की\PSP उपासना\N_NN करने\V_VM दूर-दूर\N_NN से\PSP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4420	पणजी\N_NNP से\PSP 22\QT_QTC कि.मी.\N_NN दूर\N_NN पॉन्डा\N_NN तालुका\N_NN स्थित\V_VM श्री\QT_QTC मंगेश\N_NNP मंदिर\N_NN हालाँकि\N_NN ज्यादा\QT_QTF बड़ा\JJ नहीं\RP_NEG है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS शहर\N_NN का\PSP एक\QT_QTC विख्यात\JJ लैंडमार्क\N_NNP है\V_VAUX ।\RD_PUNC
+htd4421	कवलेम\N_NNP में\PSP स्थित\V_VM श्री\N_NNP शांतदुर्गा\N_NNP मंदिर\N_NN में\PSP दुर्गा\N_NNP की\PSP भव्य\JJ मूर्ति\N_NN सुशोभित\V_VM है\V_VAUX ।\RD_PUNC
+htd4422	श्रद्धालुओं\N_NN के\PSP ठहरने\V_VM के\PSP लिए\PSP कवलेम\N_NNP अच्छा\JJ प्रबंध\V_VM है\V_VAUX ।\RD_PUNC
+htd4423	पॉन्डा\N_NNP से\PSP चार\QT_QTC कि.मी.\N_NN दूर\N_NN महालक्ष्मी\N_NNP मंदिर\N_NN के\PSP दर्शन\N_NN करने\V_VM दूर-दूर\N_NN से\PSP श्रद्धालु\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4424	750\QT_QTC से\PSP 1030\QT_QTC ईस्वी\N_NN सन्\N_NN में\PSP शिलहरा\N_NNP शासक\N_NN महालक्ष्मी\N_NNP की\PSP उपासना\N_NN किया\V_VM करते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4425	यहाँ\DM_DMD भगवान\N_NNP विष्णु\N_NNP की\PSP लकड़ी\N_NN की\PSP एक\QT_QTC मूर्ति\N_NN है\V_VAUX ,\RD_PUNC जिसमें\PR_PRL उनके\PR_PRP 18\QT_QTC रूप\N_NN दर्शाए\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4426	बंदोरा\N_NNP में\PSP श्री\N_NN नागेश\N_NNP मंदिर\N_NN भगवान\N_NNP शिव\N_NNP को\PSP समर्पित\V_VM है\V_VAUX ।\RD_PUNC
+htd4427	बंदोरा\N_NNP के\PSP श्री\N_NN नागेश\N_NNP मंदिर\N_NN की\PSP गैलरी\N_NN के\PSP दोनों\QT_QTO तरफ\N_NN लकड़ी\N_NN के\PSP नक्काशीदार\JJ कई\QT_QTC चित्र\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4428	इसमें\DM_DMD से\PSP एक\QT_QTC तरफ\N_NN रामायण\N_NNP से\PSP जुड़ी\N_NN कथाएँ\N_NN हैं\V_VAUX ,\RD_PUNC तो\N_NN दूसरी\QT_QTO ओर\N_NN अष्टदिक्‍पाल\N_NNP और\CC_CCD गंधर्व\N_NNP के\PSP चित्र\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4429	शहर\N_NN से\PSP 26\QT_QTC कि.मी.\N_NN दूर\N_NN श्री\N_NN भगवती\N_NNP मंदिर\N_NN 500\QT_QTC साल\N_NN पुराना\JJ है\V_VAUX ।\RD_PUNC
+htd4430	इसके\DM_DMD प्रवेश\N_NN द्वार\N_NN पर\PSP काले\JJ पत्थर\N_NN से\PSP बने\V_VM दो\QT_QTC हाथी\N_NN सुसज्जित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4431	अष्टभुजा\N_NNP देवी\N_NNP भगवती\N_NNP की\PSP भव्य\JJ मूर्ति\N_NN की\PSP शोभी\JJ देखते\V_VM ही\RP_RPD बनती\V_VM है\V_VAUX ।\RD_PUNC
+htd4432	मंगेश\N_NNP मंदिर\N_NNP में\PSP एक\QT_QTC कि.मी.\N_NN दूर\N_NN श्री\N_NNP महालसा\N_NNP मंदिर\N_NN में\PSP हर\JJ धर्म\N_NN के\PSP लोग\N_NN मनौती\N_NN माँगने\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4433	चंद्रनाथ\N_NNP हिल्स\N_NNP में\PSP 350\QT_QTC मीटर\N_NN की\PSP ऊँचाई\JJ पर\PSP बना\V_VM श्री\N_NN चंद्रनाथ\N_NNP मंदिर\N_NNP में\PSP चट्‍टानों\N_NN से\PSP बने\V_VM शिवलिंग\N_NNP आकर्षण\JJ का\PSP प्रमुख\JJ केंद्र\N_NN है\V_VAUX ।\RD_PUNC
+htd4434	पूर्णिमा\N_NNP के\PSP दिन\N_NN इस\DM_DMD शिवलिंग\N_NNP से\PSP पानी\N_NN का\PSP स्रोत\N_NN फूट\N_NN पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd4435	इनके\DM_DMD अलावा\CC_CCD ब्रह्मा\N_NNP मंदिर\N_NN ,\RD_PUNC श्री\N_NN दामोदर\N_NNP मंदिर\N_NN ,\RD_PUNC श्री\N_NN गोपाल\N_NNP गणपति\N_NN मंदिर\N_NN ,\RD_PUNC 800\QT_QTC साल\N_NN पुराना\JJ श्री\N_NN कालिका\N_NNP देवी\N_NNP मंदिर\N_NN बेहद\RP_INTF प्रसिद्ध\JJ हैं\V_VAUX ।\RD_PUNC
+htd4436	मसजिदों\N_NN में\PSP सांगुएम\N_NNP की\PSP जामा\N_NNP मस्जिद\N_NN और\CC_CCD पॉन्डा\N_NNP की\PSP साफा\N_NNP मस्जिद\N_NN बहुत\RP_INTF प्रसिद्ध\JJ है\V_VAUX ।\RD_PUNC
+htd4437	साफा\N_NNP मस्जिद\N_NN 1560\QT_QTC में\PSP बाजीपुर\N_NNP के\PSP इब्राहिम\N_NNP आदिलशाह\N_NNP ने\PSP बनवाई\V_VM थी\V_VAUX ।\RD_PUNC
+htd4438	बारिश\N_NN की\PSP खुशनुमा\JJ बूँदों\N_NN के\PSP पड़ने\V_VM के\PSP साथ\N_NST ही\RP_RPD गोवा\N_NNP अपने\PR_PRF हरे-भरे\JJ रूप\N_NN में\PSP निखर\JJ उठता\V_VM है\V_VAUX ।\RD_PUNC
+htd4439	मानसून\N_NN की\PSP झड़ी\N_NN के\PSP साथ\N_NST गोवा\N_NNP के\PSP लजीज\N_NN व्यंजनों\N_NN की\PSP सौगात\N_NN हो\V_VM ,\RD_PUNC तो\RP_RPD छुट्‍टियों\N_NN का\PSP मजा\JJ वाकई\N_NN दोगुना\QT_QTO हो\V_VM जाएगा\V_VAUX ।\RD_PUNC
+htd4440	हालाँकि\CC_CCS गोवा\N_NNP का\PSP मौसम\N_NN बेहद\RP_INTF शांत\N_NN है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS जून\N_NNP से\PSP सितंबर\QT_QTC के\PSP अंतिम\N_NN सप्‍ताह\N_NN तक\PSP मानसून\N_NN की\PSP हलचल\N_NN रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd4441	कई\QT_QTC पर्यटक\N_NN तो\N_NN गोवा\N_NNP में\PSP खासतौर\RB से\PSP मानसून\N_NNP का\PSP मजा\JJ लेने\V_VM पहुँचते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4442	गोवा\N_NNP में\PSP औसतन\N_NN 250\QT_QTC से\PSP 325\QT_QTC सें.मी.\N_NN बारिश\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4443	बारिश\N_NN के\PSP मौसम\N_NN में\PSP केवल\PR_PRL तीन\QT_QTC से\PSP पाँच\QT_QTC घंटे\N_NN ही\RP_RPD सूरज\N_NN की\PSP रोशनी\JJ मिलती\V_VM है\V_VAUX ।\RD_PUNC
+htd4444	हालाँकि\CC_CCS मानसून\N_NNP के\PSP आरंभ\N_NN में\PSP उमस\N_NN बहुत\RP_INTF बढ़\JJ जाती\V_VM है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS जैसे-जैसे\N_NN मानसून\N_NNP रफ्तार\N_NN पकड़ने\V_VM लगता\V_VAUX है\V_VAUX ,\RD_PUNC मौसम\N_NN बड़ा\JJ सुहावना\JJ तथा\CC_CCS खुशनुमा\JJ हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4445	अक्‍तूबर\N_NNP से\PSP फरवरी\N_NNP के\PSP बीच\N_NST तो\RP_RPD आसमान\N_NN बेहद\RP_INTF साफ\JJ रहता\V_VM है\V_VAUX ,\RD_PUNC बादलों\N_NN का\PSP नामोनिशान\N_NN नहीं\RP_NEG रहता\V_VM है\V_VAUX और\CC_CCD मार्च\N_NNP के\PSP मध्य\N_NN में\PSP उमस\N_NN होनी\V_VM शुरु\V_VAUX हो\V_VAUX जाती\V_VM है\V_VAUX ,\RD_PUNC क्योंकि\CC_CCS मानसून\N_NNP आने\V_VM वाला\PSP होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4446	पानी\N_NN में\PSP लहलहाते\JJ धान\N_NN के\PSP खेत\N_NN और\CC_CCD हरे-भरे\JJ जंगल\N_NN किसी\DM_DMI को\PSP भी\RP_RPD मोहित\JJ कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4447	ठंडे\JJ मौसम\N_NN में\PSP गरम\JJ स्पाइसी\JJ फूड\N_NN गोवा\N_NNP की\PSP विशेषता\JJ है\V_VAUX ।\RD_PUNC
+htd4448	हालाँकि\CC_CCS मानसून\N_NNP के\PSP मौसम\N_NN में\PSP गोवा\N_NNP के\PSP तट\N_NN खतरनाक\JJ साबित\V_VM हो\V_VAUX सकते\V_VAUX हैं\V_VAUX ,\RD_PUNC लेकिन\CC_CCD फिर\CC_CCS भी\RP_RPD गोवा\N_NNP में\PSP बारिश\N_NN का\PSP मजा\JJ आप\PR_PRP भरपूर\QT_QTF उठा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4449	इसी\DM_DMD मौसम\N_NN में\PSP ब्राइट\N_NNP सनशाइन\N_NNP के\PSP बीच\N_NST वार्षिक\N_NN रेन\N_NN फेस्टिवल\N_NN `सेन\N_NNP जो`\N_NNP हर\JJ वर्ष\N_NN जून\N_NNP में\PSP बड़ी\N_NN धूमधाम\N_NN से\PSP मनाया\V_VAUX जाता\V_VM है\V_VAUX ।\RD_PUNC
+htd4450	गोवा\N_NNP में\PSP वार्षिक\N_NN रेन\N_NN फेस्टिवल\N_NN `सेन\N_NNP जो`\N_NNP की\PSP शुरुआत\N_NN पुर्तगालियों\N_NN ने\PSP की\PSP थी\V_VAUX ।\RD_PUNC
+htd4451	पुर्तगालियों\N_NN ने\PSP सन्\N_NN 1961\QT_QTC तक\PSP गोवा\N_NNP में\PSP शासन\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4452	पिछले\N_NST 150\QT_QTC वर्षों\N_NN से\PSP मनाए\V_VM जाने\V_VAUX वाले\PSP `सेन\N_NNP जो`\N_NNP त्यौहार\N_NN को\PSP मनाने\V_VM की\PSP उमंग\N_NN लोगों\N_NN पर\PSP इस\DM_DMD कदर\N_NN हावी\V_VM रहती\V_VAUX है\V_VAUX कि\CC_CCS वे\DM_DMD नए\JJ रंग-बिरंगे\N_NN कपड़े\N_NN सिलवाते\V_VM हैं\V_VAUX और\CC_CCD गलियों-सड़कों\N_NN पर\PSP अपने\PR_PRF पारंपरिक\JJ नृत्य\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4453	गोवा\N_NNP में\PSP बोट\N_NN फेस्टिवल\N_NN की\PSP भी\RP_RPD विशेष\JJ धूम\JJ रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd4454	गोवा\N_NNP के\PSP बोट\N_NN फेस्टिवल\N_NN में\PSP नाविक\N_NN अपनी\PR_PRF नावों\N_NN को\PSP इस\DM_DMD कदर\N_NN सजाते\V_VM हैं\V_VAUX कि\CC_CCS उनकी\PR_PRP सुंदरता\JJ देखते\V_VM ही\RP_RPD बनती\V_VM है\V_VAUX ।\RD_PUNC
+htd4455	रेन\N_NNP फेस्टिवल\N_NNP की\PSP मस्ती\N_NN का\PSP मजा\JJ लेने\V_VM हर\JJ वर्ष\N_NN जून\N_NNP में\PSP पर्यटकों\N_NN का\PSP डेरा\N_NN लग\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4456	किसी\DM_DMI ने\PSP सच\N_NN ही\RP_RPD कहा\V_VM है\V_VAUX यह\DM_DMD महोत्सव\N_NN गोवा\N_NNP की\PSP प्रफुल्लित\JJ स्पिरिट\N_NN को\PSP दर्शाता\V_VM है\V_VAUX ।\RD_PUNC
+htd4457	आज\N_NN गोवा\N_NNP विश्‍व\N_NN के\PSP 50\QT_QTC सबसे\RP_INTF आकर्षक\JJ टूरिस्ट\N_NNP प्लेस\N_NNP में\PSP शुमार\N_NN हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4458	गोवा\N_NNP मेरियट\N_NN रिसॉर्ट\N_NN पाँच\QT_QTC सितारा\N_NN होटल\N_NN मीरामर\N_NNP बीच\N_NN ,\RD_PUNC पणजी\N_NNP में\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4459	एयरपोर्ट\N_NN से\PSP गोवा\N_NNP मेरियट\N_NNP रिसॉर्ट\N_NNP 16\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ,\RD_PUNC वहीं\DM_DMD रेलवे\N_NN स्टेशन\N_NN से\PSP 2\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4460	गोवा\N_NNP मेरियट\N_NN रिसॉर्ट\N_NN में\PSP एमेक्सबॉब\N_NNP और\CC_CCD डायनर्स\N_NNP क्रेडिट\N_NN कार्ड\N_NN की\PSP सुविधा\N_NN है\V_VAUX ।\RD_PUNC
+htd4461	हॉलीडे\N_NNP इन\N_NNP रिसॉर्ट\N_NNP -\RD_PUNC पाँच\QT_QTC सितारा\N_NN ,\RD_PUNC मेबर\N_NN बीच\N_NN पर\PSP यह\DM_DMD रिसॉर्ट\N_NN एयरपोर्ट\N_NN से\PSP 45\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ,\RD_PUNC रेलवे\N_NN स्टेशन\N_NN और\CC_CCD बस\N_NN अड्डे\N_NN से\PSP 17\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4462	सिंक्वेरियम\N_NNP बीच\N_NN पर\PSP बना\V_VM तीन\QT_QTC सितारा\N_NN व्हिसपरिंग\N_NNP पाम\N_NNP बीच\N_NN रिसॉर्ट\N_NN एयरपोर्ट\N_NN से\PSP जहाँ\PR_PRL 42\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ,\RD_PUNC वहीं\DM_DMD रेलवे\N_NN स्टेशन\N_NN से\PSP 20\QT_QTC और\CC_CCD बस\N_NN अड्डे\N_NN से\PSP 23\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4463	इन\DM_DMD प्रसिद्ध\JJ होटलों\N_NN के\PSP अलावा\CC_CCD कई\QT_QTF ऐसे\DM_DMD होटल\N_NN भी\RP_RPD हैं\V_VAUX ,\RD_PUNC जो\PR_PRL ग्राहकों\N_NN को\PSP भरपूर\QT_QTF सुविधाएँ\N_NN मुहैया\JJ कराते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4464	ताज\N_NNP हॉलीडे\N_NNP विलेज\N_NNP ,\RD_PUNC सिंक्वेरियम\N_NNP में\PSP ही\RP_RPD फोर्ट\N_NNP एग्वाडा\N_NNP बीच\N_NN रोसॉर्ट\N_NNP ,\RD_PUNC राजबाग\N_NNP में\PSP बना\V_VM इंटरकॉन्टिनेंटल\N_NNP ग्रैंड\N_NNP गोवा\N_NNP रेस्तराँ\N_NNP ,\RD_PUNC सिक्वेरा\N_NNP वादो\N_NNP कैंदोलिम\N_NNP में\PSP स्थित\V_VM फीनिक्स\N_NNP पार्क\N_NNP इन\DM_DMD और\CC_CCD हालैंड\N_NNP बीच\N_NN रिसॉर्ट\N_NN भी\RP_RPD काफी\QT_QTC चर्चित\V_VM है\V_VAUX ।\RD_PUNC
+htd4465	पूरा\QT_QTF भारत\N_NNP अपने\PR_PRF आप\PR_PRP में\PSP अद्‍भुत\JJ पर्यटन\N_NN स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4466	कश्मीर\N_NNP से\PSP लेकर\V_VM कन्याकुमारी\N_NNP तक\PSP ,\RD_PUNC जहाँ\PR_PRL नजर\N_NN जाती\V_VM है\V_VAUX ,\RD_PUNC खूबसूरती\JJ के\PSP दर्शन\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4467	भारत\N_NNP के\PSP किसी\PR_PRI भी\RP_RPD कोने\N_NN में\PSP आप\PR_PRP हों\V_VM ,\RD_PUNC एक\QT_QTC बार\N_NN भारत\N_NNP की\PSP राजधानी\N_NN दिल्ली\N_NNP के\PSP दर्शन\N_NN अवश्य\N_NN करना\V_VM चाहेंगे\V_VAUX ।\RD_PUNC
+htd4468	सच\N_NN मानिए\N_NN तो\N_NN दिल्ली\N_NNP अपने\PR_PRF आप\PR_PRP में\PSP एक\QT_QTC पूरा\QT_QTF पर्यटन-स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4469	दिल्ली-आगरा-जयपुर\N_NNP का\PSP टूर\N_NN पैकेज\N_NN काफी\QT_QTF चर्चित\N_NN है\V_VAUX ।\RD_PUNC
+htd4470	दिल्ली\N_NNP के\PSP दर्शनीय\JJ स्थलों\N_NN में\PSP घूमने\V_VM के\PSP बाद\N_NST रात\N_NN होटल\N_NN मे\PSP ठहरें\N_NN और\CC_CCD अगले\N_NST दिन\N_NN शुरु\V_VM करें\V_VAUX आगरा\N_NNP की\PSP यात्रा\N_NN ।\RD_PUNC
+htd4471	आगरा\N_NNP के\PSP ताजमहल\N_NNP के\PSP अप्रतिम\JJ सौंदर्य\JJ के\PSP अलावा\CC_CCS सिकंदरा\N_NNP और\CC_CCD लालकिला\N_NNP भी\RP_RPD दर्शनीय\N_NN इमारतें\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4472	अगले\N_NST दिन\N_NN फतेहपुर\N_NNP सीकरी\N_NNP देखते\V_VM हुए\V_VAUX जयपुर\N_NNP पहुँचिए\V_VM फिर\CC_CCS आमेर\N_NNP के\PSP किले\N_NN की\PSP और\CC_CCD रुख\N_NN कीजिए\V_VM ।\RD_PUNC
+htd4473	सिटी\N_NNP पैलेस\N_NNP ,\RD_PUNC मुगल\N_NNP शासन\N_NN काल\N_NN की\PSP रॉयल\N_NNP ऑबजरवेटरी\N_NNP ,\RD_PUNC भूलभुलैया\N_NN यहाँ\DM_DMD आकर्षण\JJ का\PSP केंद्र\N_NN बने\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4474	यदि\CC_CCS आप\PR_PRP हिमाचलप्रदेश\N_NNP की\PSP राजधानी\N_NN शिमला\N_NNP जाना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD दिल्ली\N_NNP से\PSP आपको\PR_PRP 343\QT_QTC कि.मी.\N_NN का\PSP सफर\N_NN तय\N_NN करना\V_VM पड़ेगा\V_VAUX ,\RD_PUNC जिसमें\N_NN नौ\QT_QTC से\PSP दस\QT_QTO घंटे\N_NN लग\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4475	यदि\CC_CCS ट्रेन\N_NN से\PSP जा\V_VM रहे\V_VAUX हैं\V_VAUX तो\RP_RPD कालका\N_NNP में\PSP आपको\PR_PRP शिमला\N_NNP के\PSP लिए\PSP दूसरी\N_NN ट्रेन\N_NN लेनी\V_VM पड़ेगी\V_VAUX ।\RD_PUNC
+htd4476	आप\PR_PRP छ्ह\QT_QTC घंटे\N_NN रास्ते\N_NN की\PSP खूबसूरती\JJ का\PSP भरपूर\JJ आनंद\JJ ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4477	शिमला\N_NNP से\PSP मनाली\N_NNP की\PSP 280\QT_QTC कि.मी.\N_NN धर्मशाला\N_NN 322\QT_QTC कि.मी.\N_NN तथा\CC_CCD डलहौजी\N_NNP 345\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4478	दिल्ली\N_NNP से\PSP चंडीगढ़\N_NNP 249\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4479	चंडीगढ़\N_NNP में\PSP आप\PR_PRP नेकचंद\N_NNP के\PSP रॉकगार्डन\N_NNP के\PSP अलावा\CC_CCD रोज\N_NN गार्डन\N_NN ,\RD_PUNC सुखना\N_NNP लेक\N_NNP तथा\CC_CCD यूनिवर्सिटी\N_NNP की\PSP खूबसूरती\JJ का\PSP नजारा\N_NN ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4480	चंडीगढ़\N_NNP से\PSP 165\QT_QTC कि.मी.\N_NN दूर\N_NN बसे\N_NN चैल\N_NN में\PSP एशिया\N_NNP का\PSP सबसे\RP_INTF ऊँचा\JJ क्रिकेट\N_NN मैदान\N_NN है\V_VAUX ।\RD_PUNC
+htd4481	इसके\DM_DMD अलावा\CC_CCD कसौली\N_NNP का\PSP मॉल\N_NN और\CC_CCD मंकी\N_NN पॉइंट\N_NN बेहद\RP_INTF चर्चित\N_NN स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4482	श्रीनगर\N_NNP के\PSP 100\QT_QTC कि.मी.\N_NN उत्तर-पश्‍चिम\N_NNP में\PSP बसे\V_VM गुलमर्ग\N_NNP की\PSP रोपवे\N_NNP काफी\QT_QTF चर्चित\N_NN है\V_VAUX ,\RD_PUNC जो\PR_PRL 1000\QT_QTC हजार\QT_QTF फुट\N_NN ऊँचाई\JJ पर\PSP बसे\V_VM खिलनमार्ग\N_NNP पहुँचती\V_VM है\V_VAUX ।\RD_PUNC
+htd4483	यहीं\DM_DMD है\V_VAUX 28,000\QT_QTC फुट\N_NN ऊँचा\JJ नगा\N_NNP पर्वत\N_NNP ।\RD_PUNC
+htd4484	चिनाव\N_NNP नदी\N_NN के\PSP किनारे\N_NN बसा\V_VM अखनूर\N_NNP सिंधु\N_NNP घाटी\N_NN की\PSP सभ्यता\N_NN के\PSP अवशेषों\N_NN के\PSP कारण\N_NN पर्यटकों\N_NN के\PSP आकर्षण\JJ का\PSP केंद्र\N_NN है\V_VAUX ।\RD_PUNC
+htd4485	श्रीनगर\N_NST से\PSP 100\QT_QTC कि.मी.\N_NN पूर्व\N_NN में\PSP लिद्‍दर\N_NNP नदी\N_NN पर\PSP बसे\V_VM पहलगाम\N_NNP से\PSP ही\RP_RPD अमरनाथ\N_NNP के\PSP रास्ते\N_NN में\PSP आपको\PR_PRP दर्शन\N_NN होंगे\V_VM चंदनवाड़ी\N_NNP और\CC_CCD शेषनाग\N_NN की\PSP खूबसूरत\JJ झील\N_NN के\PSP ।\RD_PUNC
+htd4486	देहरादून\N_NNP से\PSP ऋषिकेश-मसूरी-नैनीताल\N_NNP की\PSP यात्रा\N_NN
+htd4487	6500\QT_QTC फुट\N_NN की\PSP ऊँचाई\JJ पर\PSP बसा\V_VM मसूरी\N_NNP देहरादून\N_NNP से\PSP 30\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4488	नैनीताल\N_NNP के\PSP लिए\PSP दिल्ली\N_NNP से\PSP रात\N_NN को\PSP ट्रेन\N_NN पकड़कर\N_NN काठगोदाम\N_NNP पहुँचे\V_VM और\CC_CCD आगे\N_NST का\PSP दो\QT_QTC घंटे\N_NN का\PSP सफर\N_NN बस\N_NN से\PSP पूरा\V_VM करें\V_VAUX ।\RD_PUNC
+htd4489	कॉरबेट\N_NNP पार्क\N_NNP में\PSP एलिफेंट\N_NNP सफारी\N_NNP बच्चों-बड़ों\N_NN सभी\RP_INTF में\PSP काफी\QT_QTF लोकप्रिय\JJ है\V_VAUX ।\RD_PUNC
+htd4490	आप\PR_PRP दक्षिण\N_NNP भारत\N_NNP की\PSP यात्रा\N_NN का\PSP भी\RP_RPD कार्यक्रम\N_NN बना\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4491	हालाँकि\CC_CCS वहाँ\DM_DMD मौसम\N_NN आपको\PR_PRP थोड़ा\QT_QTF गर्म\N_NN मिलेगा\V_VM ।\RD_PUNC
+htd4492	तिरुवनंतपुरम\N_NNP से\PSP कोच्ची-कोट्‍टयम-मुन्नार\N_NNP की\PSP यात्रा\N_NN
+htd4493	केरल\N_NNP की\PSP खूबसूरती\JJ यदि\CC_CCS देखना\V_VM चाहते\V_VAUX हैं\V_VAUX ,\RD_PUNC तो\RP_RPD आपको\PR_PRP वहाँ\DM_DMD की\PSP राजधानी\N_NN तिरुवनंतपुरम\N_NNP पहुँचना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd4494	180\QT_QTC कि.मी.\N_NN दूर\N_NN कोट्‍टयम\N_NNP केरल\N_NNP का\PSP एक\QT_QTC महत्वपूर्ण\JJ सांस्कृतिक\N_NN केंद्र\N_NN है\V_VAUX ।\RD_PUNC
+htd4495	प्राचीन\JJ चर्च\N_NN और\CC_CCD मंदिरों\N_NN के\PSP अलावा\CC_CCD पेरियार\N_NNP वाइल्डलाइफ\N_NNP सैंक्चुरी\N_NNP और\CC_CCD सैकड़ों\QT_QTC एकड़\N_NN जमीन\N_NN में\PSP फैली\N_NN रबर\N_NN ,\RD_PUNC चाय\N_NN ,\RD_PUNC कॉफी\N_NN तथा\CC_CCD काली\N_NNP मिर्च\N_NNP की\PSP खूबसूरत\JJ फसल\N_NN मन\N_NN को\PSP मोह\JJ लेती\V_VM है\V_VAUX ।\RD_PUNC
+htd4496	राजधानी\N_NN से\PSP 223\QT_QTC कि.मी.\N_NN दूर\N_NN पवित्र\JJ साँपों\N_NN के\PSP शहर\N_NN माने\V_VM जाने\V_VM वाले\PSP शहर\N_NN कोच्ची\N_NNP को\PSP 16वीं\QT_QTO शताब्दी\QT_QTF में\PSP पुर्तगालियों\N_NNP ने\PSP बसाया\V_VM था\V_VAUX ।\RD_PUNC
+htd4497	कोच्ची\N_NNP का\PSP डच\N_NNP पैलेस\N_NNP व\CC_CCD विलिंग्डन\N_NNP द्वीप\N_NN दर्शनीय\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4498	चेन्नई-मदुरई-कांचीपुरम-तंजावुर-ऊटी\N_NNP की\PSP यात्रा\N_NN -\RD_PUNC
+htd4499	चेन्नई\N_NNP से\PSP 535\QT_QTC कि.मी.\N_NN दूर\N_NN ऊटी\N_NNP समुद्र\N_NN तल\N_NN से\PSP 7\QT_QTC ,\RD_PUNC 349\QT_QTC मी.\N_NN की\PSP ऊँचाई\JJ पर\PSP बसा\V_VM है\V_VAUX ।\RD_PUNC
+htd4500	सिल्क\N_NN की\PSP साड़ियों\N_NN के\PSP लिए\PSP चर्चित\JJ कांचीपुरम\N_NNP चेन्नई\N_NNP से\PSP 75\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4501	तमिलनाडु\N_NNP का\PSP दूसरा\QT_QTO सबसे\RP_INTF बड़ा\JJ शहर\N_NN मदुरई\N_NNP वाइगाई\N_NNP नदी\N_NN पर\PSP बसा\V_VM है\V_VAUX ।\RD_PUNC
+htd4502	तंजावुर\N_NNP अपनी\PR_PRF तंजोर\N_NN पेंटिंग\N_NN के\PSP लिए\PSP चर्चित\N_NN है\V_VAUX ।\RD_PUNC
+htd4503	चेन्नई\N_NNP से\PSP 500\QT_QTC कि.मी.\N_NN दूर\N_NN यह\DM_DMD शहर\N_NN दक्षिण\N_NNP भारत\N_NNP का\PSP सबसे\RP_INTF उपजाऊ\N_NN क्षेत्र\N_NN है\V_VAUX ।\RD_PUNC
+htd4504	मुंबई\N_NNP से\PSP महाबलेश्वर-खंडाला-लोनावाला\N_NNP की\PSP यात्रा\N_NN
+htd4505	मुंबई\N_NNP में\PSP समुद्र\N_NN के\PSP नजारे\N_NN लेने\V_VM के\PSP बाद\N_NST आप\PR_PRP 100\QT_QTC कि.मी.\N_NN दूर\N_NN बसे\V_VM खंडाला\N_NNP या\CC_CCD लोनावाला\N_NN के\PSP शांत\N_NN वातावरण\N_NN का\PSP आनंद\JJ ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4506	लोनावाला\N_NNP जहाँ\PR_PRL अपने\PR_PRF वॉटरफॉल्स\N_NN तथा\CC_CCD पहाड़ियों\N_NN के\PSP लिए\PSP प्रसिद्ध\JJ है\V_VAUX ,\RD_PUNC वहीं\DM_DMD यहाँ\DM_DMD से\PSP 12\QT_QTC कि.मी.\N_NN दूर\N_NN करला\N_NNP गुफाएँ\N_NN भी\RP_RPD पर्यटकों\N_NN को\PSP आकर्षित\JJ करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4507	पहाड़\N_NN पर\PSP जा\V_VM रहे\V_VAUX हों\V_VAUX तो\RP_RPD ऊनी\N_NN कपड़े\N_NN रखना\V_VM न\RP_NEG भूलें\V_VAUX ।\RD_PUNC
+htd4508	चाहे\RB कितनी\DM_DMQ भी\RP_RPD गरमी\N_NN हो\V_VM ,\RD_PUNC पहाड़\N_NN पर\PSP रात\N_NN को\PSP ठंड\N_NN हो\V_VM ही\RP_RPD जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4509	समुद्र\N_NN के\PSP किनारे\N_NN जा\V_VM रहे\V_VAUX हों\V_VAUX तो\RP_RPD हौजरी\N_NN के\PSP कपड़े\N_NN ठीक\N_NN रहते\V_VM हैं\V_VAUX ,\RD_PUNC जो\PR_PRL बार-बार\N_NN भीगने\N_NN के\PSP बाद\N_NST जल्दी\N_NN ही\RP_RPD सूख\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4510	हमारे\PR_PRP देश\N_NN में\PSP जितने\PR_PRL तीर्थस्थल\N_NN हैं\V_VAUX ,\RD_PUNC वे\DM_DMD अकसर\N_NN ऐसे\DM_DMD स्थानों\N_NN पर\PSP हैं\V_VAUX ,\RD_PUNC जहाँ\PR_PRL जाना\V_VM खुद\PR_PRF में\PSP एक\QT_QTC अनुभव\N_NN बन\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4511	पहाड़ों\N_NN में\PSP समुद्रतट\N_NN पर\PSP या\CC_CCD जंगलों\N_NN के\PSP बीच\N_NST अँधेरी\N_NN गुफाओं\N_NN में\PSP जाना\V_VM सचमुच\N_NN बहुत\RP_INTF रोमांचक\JJ है\V_VAUX ।\RD_PUNC
+htd4512	कह\V_VM सकते\V_VAUX हैं\V_VAUX कि\CC_CCS हमारे\PR_PRP यहाँ\DM_DMD पर्यटन\N_NN एक\QT_QTC तरह\N_NN से\PSP आवश्यक\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4513	हरिद्वार\N_NNP ,\RD_PUNC बद्रीनाथ\N_NNP ,\RD_PUNC द्वारका\N_NNP या\CC_CCD पुरी\N_NNP जाना\V_VM हर\QT_QTF वर्ग\N_NN के\PSP हर\QT_QTF व्यक्‍ति\N_NN के\PSP लिए\PSP सपना\N_NN रहा\V_VM है\V_VAUX ।\RD_PUNC
+htd4514	यानी\CC_CCS लोग\N_NN तब\CC_CCD से\PSP पर्यटन\N_NN कर\V_VM रहे\V_VAUX हैं\V_VAUX ,\RD_PUNC जब\PR_PRL उन्हें\PR_PRP पता\N_NN भी\RP_RPD नहीं\RP_NEG था\V_VAUX कि\CC_CCS वे\DM_DMD पर्यटक\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4515	उनके\PR_PRP लिए\PSP वे\DM_DMD स्थान\N_NN उनके\PR_PRP पवित्र\JJ तीर्थ\N_NN स्थल\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4516	आज\N_NN भी\RP_RPD इन\DM_DMD स्थानों\N_NN का\PSP इतना\DM_DMD ही\RP_RPD महत्व\JJ है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS इनके\DM_DMD साथ-साथ\N_NN नए\JJ स्थानों\N_NN ने\PSP भी\RP_RPD पर्यटकों\N_NN को\PSP आकर्षित\JJ किया\V_VM है\V_VAUX ।\RD_PUNC
+htd4517	सैर-सपाटा\N_NN वैसे\DM_DMD मनोरंजन\JJ का\PSP हिस्सा\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ,\RD_PUNC लेकिन\CC_CCS पर्यटन\N_NN इससे\DM_DMD कहीं\DM_DMI ज्यादा\QT_QTF है\V_VAUX ।\RD_PUNC
+htd4518	ऐतिहासिक\JJ स्थानों\N_NN पर\PSP हम\PR_PRP अपने\PR_PRF इतिहास\N_NN के\PSP करीब\N_NN होते\V_VM हैं\V_VAUX ,\RD_PUNC पुराने\JJ किले\N_NN ,\RD_PUNC महल\N_NN ,\RD_PUNC पुराने\JJ मंदिर-मस्जिद-चर्च\N_NN ,\RD_PUNC गुफाएँ\N_NN ,\RD_PUNC हमें\PR_PRP हमारे\PR_PRP इतिहास\N_NN से\PSP परिचित\N_NN कराती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4519	समुद्री\N_NN तट\N_NN पर\PSP सैर-सपाटे\N_NN के\PSP लिए\PSP जाना\V_VM हम\PR_PRP उत्तर\N_NNP भारतीयों\N_NNP के\PSP लिए\PSP एक\QT_QTC अलग\JJ ही\RP_RPD अनुभव\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4520	समुद्री\N_NN तट\N_NN का\PSP बिलकुल\RB अलग\JJ मौसम\N_NN ,\RD_PUNC अलग\JJ वनस्पति\N_NN ,\RD_PUNC अलग\JJ लोग\N_NN ,\RD_PUNC अलग\JJ खान-पान\N_NN और\CC_CCD अलग\JJ भाषा\N_NN के\PSP बीच\N_NST पर्यटन\N_NN करना\V_VM काफ़ी\QT_QTF रोमांचक\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4521	दक्षिणी\N_NNP राज्यों\N_NN की\PSP सैर\N_NN हमें\PR_PRP देश\N_NN की\PSP सांस्कृतिक\JJ विभिन्नता\N_NN को\PSP समझने\V_VM में\PSP मदद\N_NN करती\V_VM है\V_VAUX ।\RD_PUNC
+htd4522	दक्षिणी\N_NNP राज्यों\N_NN में\PSP पहाड़ों\N_NN की\PSP सैर\N_NN ,\RD_PUNC अलग\JJ मौसम\N_NN ,\RD_PUNC अलग\JJ खान-पान\N_NN और\CC_CCD अलग\JJ वनस्पति\N_NN से\PSP परिचित\V_VM कराती\V_VM है\V_VAUX ।\RD_PUNC
+htd4523	यहाँ\DM_DMD की\PSP शांति\N_NN देखकर\V_VM आसानी\N_NN से\PSP समझ\V_VM आ\V_VAUX जाता\V_VAUX है\V_VAUX कि\CC_CCS क्यों\DM_DMQ हमारे\PR_PRP ऋषि-मुनि\N_NN तपस्या\N_NN के\PSP लिए\PSP पहाड़ों\N_NN की\PSP ओर\N_NN चले\V_VM जाते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4524	बहुत\QT_QTF से\PSP पहाड़ी\N_NN शहरों\N_NN में\PSP हमें\PR_PRP विदेशी\N_NN शासन\N_NN काल\N_NN के\PSP समय\N_NN अंग्रेजों\N_NNP की\PSP जीवनशैली\N_NN की\PSP छाप\N_NN आज\N_NN भी\RP_RPD दिखाई\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4525	उस\PR_PRP समय\N_NN की\PSP इमारतें\N_NN ,\RD_PUNC सड़कें\N_NN ,\RD_PUNC दुकानें\N_NN ,\RD_PUNC चर्च\N_NN आज\N_NN भी\RP_RPD औपनिवेशिक\N_NN काल\N_NN की\PSP याद\N_NN दिलाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4526	सिर्फ\RB जानकारी\JJ ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC पर्यटन\N_NN व्यक्‍तित्व\N_NN विकास\N_NN में\PSP भी\RP_RPD मदद\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd4527	पर्यटन\N_NN करने\V_VM से\PSP हमें\PR_PRP दूसरे\QT_QTO लोगों\N_NN को\PSP समझना\V_VM आसान\N_NN हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4528	यादें\N_NN संजोने\N_NN का\PSP एक\QT_QTC अच्छा\JJ जरिया\N_NN है\V_VAUX पर्यटन\N_NN ।\RD_PUNC
+htd4529	हर\QT_QTF यात्रा\N_NN के\PSP दौरान\N_NN एक\QT_QTC क्षण\N_NN ऐसा\DM_DMD आता\V_VM है\V_VAUX ,\RD_PUNC जब\PR_PRL लगता\V_VM है\V_VAUX कि\CC_CCS काश\N_NN समय\N_NN यहीं\DM_DMD ठहर\V_VM जाए\V_VAUX ।\RD_PUNC
+htd4530	बारिश\N_NN में\PSP भीगते\V_VM हुए\V_VAUX किसी\DM_DMI छोटे\JJ से\PSP ढाबे\N_NN पर\PSP रुक\V_VM कर\V_VAUX गरम\N_NN चाय\N_NN के\PSP संग\N_NN प्याज\N_NN की\PSP पकौड़ियाँ\N_NN खाना\V_VM ,\RD_PUNC मंदिर\N_NN के\PSP प्रांगण\N_NN में\PSP साधू\N_NNP को\PSP कील\N_NN की\PSP नोक\N_NN पर\PSP लेटे\V_VM देखना\V_VAUX ,\RD_PUNC किसी\DM_DMI बहुत\RP_INTF दिलचस्प\JJ व्यक्‍ति\N_NN को\PSP देखना\N_NN ,\RD_PUNC ये\DM_DMD क्षण\N_NN भरपूर\JJ जीने\N_NN और\CC_CCD अपनी\PR_PRF यादों\N_NN में\PSP संजो\V_VM कर\V_VAUX रखने\V_VAUX का\PSP मौका\RB प्रदान\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4531	हर\QT_QTF शहर\N_NN की\PSP अपनी\PR_PRF एक\QT_QTC परंपरा\N_NN और\CC_CCD संस्कृति\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4532	वेशभूषा\N_NN ,\RD_PUNC खान-पान\N_NN ,\RD_PUNC रहन-सहन\N_NN आपसे\PR_PRP अलग\JJ और\CC_CCD नया\JJ ।\RD_PUNC
+htd4533	आजकल\N_NN हर\QT_QTF राज्य\N_NN से\PSP संबंधित\N_NN पर्यटन\N_NN संबंधी\N_NN जानकारी\JJ हर\QT_QTF जगह\N_NN उपलब्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd4534	कई\QT_QTF ट्रैवल\N_NN एजेंसियाँ\N_NN भी\RP_RPD बुकिंग\N_NN करा\V_VM देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4535	शिर्डी\N_NNP के\PSP कण-कण\N_NN में\PSP बसता\V_VM है\V_VAUX साँई\N_NNP |\N_NN
+htd4536	साँईधाम\N_NNP शिर्डी\N_NNP की\PSP अविस्मरणीय\JJ यात्रा\N_NN ।\RD_PUNC
+htd4537	शिर्डी\N_NNP में\PSP ठहरने\V_VM की\PSP बहुत\RP_INTF सारी\QT_QTF अच्छी\JJ होटलें\N_NN व\CC_CCD धर्मशाला\N_NN हैं\V_VAUX परंतु\CC_CCS यहाँ\DM_DMD साँई\N_NNP बाबा\N_NN मंदिर\N_NN ट्रस्ट\N_NN द्वारा\N_NN बनाया\V_VM गया\V_VAUX `भक्‍त\N_NNP निवास`\N_NNP यात्रियों\N_NN के\PSP लिए\PSP कम\JJ खर्च\N_NN में\PSP सर्वसुविधायुक्‍त\JJ एक\QT_QTC अच्छा\JJ आरामगाह\JJ है\V_VAUX ।\RD_PUNC
+htd4538	भक्‍त\N_NN निवास`\N_NN आरामगाह\N_NN में\PSP हर\QT_QTF रोज\N_NN हजारों\QT_QTF की\PSP संख्या\N_NN में\PSP या‍त्री\N_NN ठहरते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4539	कई\QT_QTF बार\N_NN तो\RP_RPD `भक्‍त\N_NNP निवास`\N_NNP आरामगाह\N_NN में\PSP ठहरने\V_VM के\PSP लिए\PSP जगह\N_NN भी\RP_RPD नसीब\N_NN नहीं\RP_NEG होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4540	रात्रि\N_NN के\PSP समय\N_NN `भक्‍त\N_NNP निवास`\N_NNP आरामगाह\N_NN के\PSP बरामदे\N_NN ,\RD_PUNC भोजनकक्ष\N_NN ,\RD_PUNC हॉल\N_NN ,\RD_PUNC कुर्सियाँ\N_NN सभी\QT_QTF यात्रियों\N_NN से\PSP खचाखच\N_NN भरे\QT_QTF होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4541	यदि\CC_CCS आप\PR_PRP हॉल\N_NN में\PSP सोना\N_NN चाहते\V_VM हैं\V_VAUX तो\RP_RPD आपको\PR_PRP यहाँ\DM_DMD किराए\N_NN पर\PSP बिस्तर\N_NN भी\RP_RPD आसानी\N_NN से\PSP मिल\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd4542	भक्‍त\N_NNP निवास`\N_NNP आरामगाह\N_NN में\PSP भक्‍तों\N_NN के\PSP लिए\PSP नाम\N_NN मात्र\N_NN के\PSP शुल्क\N_NN में\PSP भोजन\N_NN व\CC_CCD नाश्ता\N_NN की\PSP सुविधा\N_NN उपलब्ध\V_VM है\V_VAUX ।\RD_PUNC
+htd4543	यहाँ\DM_DMD आप\PR_PRP महज\N_NN 1\QT_QTC रुपए\N_NN के\PSP टोकन\N_NN में\PSP चाय\N_NN व\CC_CCD 2\QT_QTC रुपए\N_NN के\PSP टोकन\N_NN में\PSP कॉफी\N_NN तथा\CC_CCD 5\QT_QTC से\PSP 10\QT_QTC रुपए\N_NN के\PSP टोकन\N_NN में\PSP भोजन\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4544	साँई\N_NNP मंदिर\N_NN तक\PSP पहुँचने\V_VM के\PSP लिए\PSP भक्‍त\N_NN निवास\N_NN से\PSP नि:शुल्क\N_NN बस\N_NN सुविधा\N_NN भी\RP_RPD उपलब्ध\N_NN है\V_VAUX ।\RD_PUNC
+htd4545	आम\N_NN दिनों\N_NN में\PSP भी\RP_RPD साँई\N_NNP मंदिर\N_NN व\CC_CCD समाधि\N_NN स्थल\N_NN के\PSP दर्शन\N_NN हेतु\PSP भक्‍तों\N_NN की\PSP लंबी\JJ कतारें\N_NN लगती\V_VM है\V_VAUX परंतु\CC_CCD गुरुवार\N_NNP ,\RD_PUNC दशहरा\N_NNP व\CC_CCD अन्य\JJ त्यौहारों\N_NN पर\PSP यहाँ\DM_DMD बाबा\N_NNP के\PSP दर्शन\N_NN हेतु\PSP भक्‍तों\N_NN का\PSP हुजूम\N_NN उमड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd4546	अत:\N_NN बेहतर\JJ होगा\V_VM कि\CC_CCS आप\PR_PRP इन\DM_DMD दिनों\N_NN को\PSP छोड़कर\V_VM आम\JJ दिनों\N_NN में\PSP बाबा\N_NNP के\PSP दर्शन\N_NN का\PSP लाभ\JJ ले\V_VM ता‍कि\CC_CCS आपका\PR_PRP शांति\N_NN से\PSP बाबा\N_NN के\PSP दर्शन\N_NN करने\V_VM का\PSP उद्देश्य\N_NN पूरा\QT_QTF हो\V_VM जाए\V_VAUX ।\RD_PUNC
+htd4547	हालाँकि\CC_CCS हमने\PR_PRP बुधवार\N_NNP (\RD_SYM होली\N_NNP के\PSP दिन\N_NN )\RD_SYM बाबा\N_NN के\PSP दर्शन\N_NN किए\V_VM परंतु\CC_CCD उस\DM_DMD दिन\N_NN भी\RP_RPD हमें\N_NN दर्शन\N_NN की\PSP कतार\N_NN में\PSP खड़े-खड़े\N_NN लगभग\N_NN एक\QT_QTC घंटे\N_NN से\PSP भी\RP_RPD अधिक\QT_QTF का\PSP समय\N_NN लगा\V_VM ।\RD_PUNC
+htd4548	कतारों\N_NN हेतु\PSP बनाया\V_VM गया\V_VAUX चक्करदार\N_NN रास्ता\N_NN हमारी\PR_PRP बाबा\N_NN के\PSP दर्शनों\N_NN की\PSP उत्सुकता\JJ को\PSP ओर\N_NN अधिक\RP_INTF बढ़ा\V_VM रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4549	अंतत:\N_NN जब\PR_PRL हमें\PR_PRP बाबा\N_NN के\PSP दर्शन\N_NN हुए\V_VAUX ,\RD_PUNC वो\DM_DMD पल\N_NN एक\QT_QTC अविस्मरणीय\N_NN पल\N_NN था\V_VAUX ।\RD_PUNC
+htd4550	सोने\N_NN के\PSP सिंहासन\N_NN पर\N_NN विराजित\N_NN बाबा\N_NN की\PSP चमत्कारी\JJ प्रतिमा\N_NN का\PSP तेज\JJ देखते\V_VM ही\RP_RPD बनता\V_VM था\V_VAUX ।\RD_PUNC
+htd4551	ऐसा\N_NN लग\N_NN रहा\N_NN था\V_VAUX मानो\N_NN वो\N_NN मूर्ति\N_NN अभी\N_NST बोल\V_VM पड़ेगी\V_VAUX ।\RD_PUNC
+htd4552	सौभाग्य\N_NN से\PSP हमें\PR_PRP 15\QT_QTC मिनट\N_NN तक\PSP लगातार\RB बाबा\N_NN की\PSP प्रतिमा\N_NN को\PSP निहारने\V_VM का\PSP मौका\RB मिला\V_VM ।\RD_PUNC
+htd4553	शिर्डी\N_NNP में\PSP साँई\N_NNP मंदिर\N_NN ट्रस्ट\N_NN द्वारा\N_NN बनाई\V_VM गई\V_VAUX भोजनशाला\N_NN सांप्रदायिक\N_NN सद्‍भाव\N_NN की\PSP बेहतर\JJ मिसाल\V_VM है\V_VAUX ।\RD_PUNC
+htd4554	यहाँ\DM_DMD किसी\DM_DMI भी\RP_RPD प्रकार\JJ के\PSP भेदभाव\N_NN के\PSP बगैर\N_NN हजारों\QT_QTC भक्‍त\N_NN एकसाथ\N_NN बैठकर\V_VM भोजन\N_NN ग्रहण\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4555	यह\DM_DMD भोजनशाला\N_NN साँई\N_NNP बाबा\N_NNP मंदिर\N_NN से\PSP कुछ\QT_QTF ही\RP_RPD दूरी\N_NN पर\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4556	आपको\PR_PRP यह\DM_DMD जानकर\V_VM आश्‍चर्य\JJ होगा\V_VAUX कि\CC_CCS महज\N_NN 5\QT_QTC रुपए\N_NN के\PSP टोकन\N_NN पर\PSP आप\PR_PRP भरपेट\N_NN भोजन\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4557	साँई\N_NNP प्रसादालय\N_NNP की\PSP सफाई\JJ व्यवस्था\N_NN ,\RD_PUNC विशाल\JJ भोजन\N_NN कक्ष\N_NN ,\RD_PUNC पांडाल\N_NN व\CC_CCD मेजबानी\N_NN देखते\V_VM ही\RP_RPD बनती\V_VM है\V_VAUX ।\RD_PUNC
+htd4558	शिर्डी\N_NNP साँई\N_NNP बाबा\N_NN के\PSP दर्शन\N_NN के\PSP बाद\N_NST हमारा\PR_PRP अगला\N_NST पड़ाव\N_NN था\V_VAUX `शनि\N_NNP शिंगणापुर\N_NNP `\RD_PUNC ,\RD_PUNC जोकि\CC_CCS शिर्डी\N_NNP से\PSP लगभग\N_NN 90\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ।\RD_PUNC
+htd4559	दो\QT_QTC घंटे\N_NN की\PSP यात्रा\N_NN के\PSP बाद\N_NST हम\PR_PRP शिर्डी\N_NNP से\PSP शिंगणापुर\N_NNP पहुँच\V_VM गए\V_VAUX ।\RD_PUNC
+htd4560	शिंगणापुर\N_NNP में\PSP भगवान\N_NNP शनिदेव\N_NNP का\PSP विश्‍वप्रसिद्ध\JJ चमत्कारी\JJ मंदिर\N_NN है\V_VAUX ।\RD_PUNC
+htd4561	शिंगणापुर\N_NNP के\PSP मंदिर\N_NN की\PSP खासियत\N_NN यह\DM_DMD है\V_VAUX कि\CC_CCS यहाँ\N_NN शनिदेव\N_NNP की\PSP विशाल\JJ पाषाण\N_NN प्रतिमा\N_NN बगैर\N_NN किसी\QT_QTC छत्र\N_NN के\PSP विराजित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4562	असम\N_NNP की\PSP राजधानी\N_NN गुवाहटी\N_NNP का\PSP सबसे\RP_INTF प्रसिद्ध\JJ मंदिर\N_NN कामाख्या\N_NNP नीलांचल\N_NNP पर्वत\N_NNP पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4563	नीलांचल\N_NNP पर्वत\N_NN शहर\N_NN से\PSP 8\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ।\RD_PUNC
+htd4564	``\RD_PUNC कामाख्या\N_NNP मंदिर\N_NN शक्ति\JJ की\PSP देवी\N_NN सती\N_NN को\PSP समर्पित\V_VM है\V_VAUX ,\RD_PUNC जो\PR_PRL स्त्री\N_NN की\PSP ऊर्जा\N_NN की\PSP प्रतीक\N_NN हैं\V_VAUX ।\RD_PUNC ``\RD_PUNC
+htd4565	दुर्गा\N_NNP के\PSP 1008\QT_QTC शक्तिपीठों\N_NN में\PSP से\PSP एक\QT_QTC होने\V_VM की\PSP वजह\N_NN से\PSP कामाख्या\N_NNP मंदिर\N_NN में\PSP देवी\N_NN भक्‍तों\N_NN का\PSP पूरे\CC_CCD साल\N_NN ताँता\N_NN लगा\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4566	कामाख्या\N_NNP मंदिर\N_NN गुफा\N_NN में\PSP है\V_VAUX ,\RD_PUNC मंदिर\N_NN में\PSP देवी\N_NN को\PSP कोई\DM_DMI मूर्ति\N_NN नहीं\RP_NEG है\V_VAUX ।\RD_PUNC
+htd4567	गुफा\N_NN की\PSP दीवार\N_NN में\PSP ही\RP_RPD भित्ति\N_NN चित्र\N_NN की\PSP शैली\N_NN में\PSP गोल\N_NN चित्र\N_NN अंकित\V_VM है\V_VAUX ।\RD_PUNC
+htd4568	गुफा\N_NN में\PSP प्राकृतिक\RB रूप\N_NN से\PSP नमी\N_NN रहती\V_VM है\V_VAUX और\CC_CCD योनि\N_NN भाग\N_NN से\PSP बूँद-बूँद\N_NN पानी\N_NN गिरता\V_VM रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd4569	कामाख्या\N_NNP मंदिर\N_NN को\PSP हर\QT_QTF महीने\N_NN 3\QT_QTC दिन\N_NN बंद\N_NN रखा\V_VM जाता\V_VM है\V_VAUX ।\RD_PUNC
+htd4570	माना\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS ये\DM_DMD दिन\N_NN माहवारी\N_NN के\PSP होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4571	चौथे\QT_QTO दिन\N_NN बहुत\N_NN धूमधाम\N_NN से\PSP मंदिर\N_NN को\PSP खोला\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4572	इस\DM_DMD दौरान\N_NN उत्सव\N_NN का\PSP माहौल\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4573	इस\DM_DMD उत्सव\N_NN को\PSP अंबूवकी\N_NNP (\RD_SYM अमीती\N_NNP )\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4574	असम\N_NNP के\PSP किसान\N_NN इन\DM_DMD 3\QT_QTC दिनों\N_NN में\PSP बुवाई\V_VM का\PSP काम\N_NN रोक\V_VM देते\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4575	माना\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS इस\DM_DMD दौरान\N_NN बुवाई\N_NN करने\V_VM से\PSP फसल\N_NN अच्छी\JJ नहीं\RP_NEG होती\V_VM ।\RD_PUNC
+htd4576	गुवाहटी\N_NNP भारत\N_NNP के\PSP सभी\QT_QTF प्रमुख\JJ शहरों\N_NN से\PSP जुड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd4577	गुवाहटी\N_NNP तक\PSP पहुँचने\V_VM के\PSP लिए\PSP ट्रेन\N_NN ,\RD_PUNC बस\N_NN व\CC_CCD हवाई\N_NN सेवाएँ\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4578	गुवाहटी\N_NNP को\PSP उत्तर-पूर्व\N_NNP का\PSP द्वार\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4579	गुवाहटी\N_NNP तक\PSP राजधानी\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC नार्थ\N_NNP इस्ट\N_NST एक्सप्रेस\N_NN ,\RD_PUNC ब्रह्मपुत्र\N_NNP मेल\N_NN ,\RD_PUNC अवध\N_NNP असम\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC कामरूप\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC कंचनजंघा\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC सरायघाट\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC दादर\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC कोचीन\N_NNP एक्सप्रेस\N_NN ,\RD_PUNC त्रिवेंद्रम\N_NNP एक्सप्रेस\N_NN और\CC_CCD बंगलोर\N_NNP एक्सप्रेस\N_NN द्वारा\N_NN पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4580	दिल्ली\N_NNP और\CC_CCD कोलकाता\N_NNP से\PSP गुवाहटी\N_NNP हवाई\N_NN मार्ग\N_NN से\PSP सीधा\JJ जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4581	इंडियन\N_NNP एअरलाइंस\N_NNP ,\RD_PUNC जेट\N_NNP एअरवेज\N_NNP और\CC_CCD एअर\N_NNP डेक्कन\N_NNP की\PSP नियमित\JJ उड़ानें\N_NN गुवाहटी\N_NNP के\PSP लिए\PSP उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4582	गुवाहटी\N_NNP में\PSP स्थानीय\N_NN आवागमन\N_NN के\PSP साधनों\N_NN में\PSP बस\N_NN ,\RD_PUNC ऑटो\N_NN रिक्शा\N_NN ,\RD_PUNC कार\N_NN और\CC_CCD जीप\N_NN आसानी\N_NN से\PSP मिल\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4583	गुवाहटी\N_NNP में\PSP ठहरने\V_VM के\PSP लिए\PSP हर\JJ रेंज\N_NN के\PSP होटल\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4584	गुवाहटी\N_NNP में\PSP स्टेशन\N_NN और\CC_CCD बस\N_NN स्टैंड\N_NN के\PSP आसपास\N_NST रियायती\N_NN दरों\N_NN पर\PSP लॉज\N_NN और\CC_CCD होटल\N_NN आसानी\JJ से\PSP मिल\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4585	कामाख्या\N_NNP के\PSP मुख्य\JJ दर्शन\N_NN के\PSP बाद\N_NST बहुत\RP_INTF सी\JJ जगहें\N_NN है\V_VAUX ,\RD_PUNC जो\PR_PRL गुवाहटी\N_NNP में\PSP देखी\V_VM जा\V_VAUX सकती\V_VAUX हैं\V_VAUX
+htd4586	वशिष्ठ\N_NNP आम\N_NNP ,\RD_PUNC गुवाहटी\N_NNP से\PSP मात्र\N_NN 12\QT_QTC मिलोमीटर\N_NN दूरी\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4587	प्राचीन\JJ काल\N_NN में\PSP यहाँ\DM_DMD वशिष्‍ठ\N_NNP ऋषि\N_NNP का\PSP आम\JJ था\V_VAUX ।\RD_PUNC
+htd4588	वशिष्‍ठ\N_NN आम\N_NNP की\PSP हरियाली\JJ और\CC_CCD सुरम्य\JJ वातावरण\N_NN यात्रियों\N_NN को\PSP पर्यटन\N_NN का\PSP अलग\JJ अनुभव\N_NN देते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4589	उमानंद\N_NNP मंदिर\N_NN :\RD_PUNC ब्रह्मपुत्र\N_NNP नदी\N_NN के\PSP बीच\N_NST में\PSP टापू\N_NNP पर\PSP बना\V_VM यह\DM_DMD बहुत\RP_INTF ही\RP_RPD खूबसूरत\JJ मंदिर\N_NN है\V_VAUX ।\RD_PUNC
+htd4590	उमानंद\N_NNP मंदिर\N_NN भगवान\N_NNP शिव\N_NNP का\PSP मंदिर\N_NN हैं\V_VAUX ,\RD_PUNC जहाँ\PR_PRL हर\QT_QTF वक्त\N_NN भक्‍तों\N_NN का\PSP मेला\N_NN लगा\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4591	कचारी\N_NNP घाट\N_NNP से\PSP मंदिर\N_NN जाने\DM_DMI के\PSP लिए\PSP नाव\N_NN और\CC_CCD मोटर\N_NN बोट\N_NN चलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4592	नवग्रह\N_NNP मंदिर\N_NN :\RD_PUNC माना\V_VM जाता\V_VM है\V_VAUX कि\CC_CCS प्राचीन\JJ काल\N_NN में\PSP यह\DM_DMD खगोल\N_NNP शास्त्र\N_NNP अध्ययन\N_NN का\PSP सबसे\RP_INTF बड़ा\JJ केंद्र\N_NN था\V_VAUX ।\RD_PUNC
+htd4593	इस\DM_DMD मंदिर\N_NN में\PSP 9\QT_QTC ग्रहों\N_NN की\PSP मूर्तियाँ\N_NN हैं\V_VAUX और\CC_CCD यह\DM_DMD गुवाहटी\N_NNP से\PSP 3\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ।\RD_PUNC
+htd4594	हाजो\N_NNP गुवाहटी\N_NNP से\PSP पश्‍चिम\N_NNP में\PSP 25\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ।\RD_PUNC
+htd4595	हाजो\N_NNP की\PSP स्थापना\N_NN एक\QT_QTC ईराकी\N_NNP उपदेशक\N_NN ने\PSP की\PSP थी\V_VAUX ,\RD_PUNC जो\PR_PRL 12वीं\QT_QTO शताब्दी\QT_QTF में\PSP असम\N_NNP में\PSP ज्ञान\JJ फैलाने\N_NN के\PSP उद्‍देश्‍य\N_NN से\PSP आया\V_VM था\V_VAUX ।\RD_PUNC
+htd4596	हाजो\N_NNP में\PSP हिंदू\N_NNP ,\RD_PUNC मुसलमान\N_NNP और\CC_CCD बौद्ध\N_NNP सभी\QT_QTF धर्म\N_NN के\PSP अनुयायी\N_NN समान\N_NN रूप\N_NN से\PSP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4597	हाजो\N_NNP में\PSP महादेव\N_NNP मंदिर\N_NNP भी\RP_RPD है\V_VAUX ,\RD_PUNC जहाँ\PR_PRL तक\PSP पहुँचने\V_VM के\PSP लिए\PSP लंबी\JJ पत्थर\N_NN की\PSP सीढ़ियाँ\N_NN होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4598	यहाँ\DM_DMD एक\QT_QTC बड़ा\JJ तालाब\N_NN भी\RP_RPD है\V_VAUX ,\RD_PUNC जिसमें\PR_PRL बड़े\JJ कछुए\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4599	नवरात्रि\N_NNP गुवाहटी\N_NNP का\PSP विशेष\JJ पर्व\N_NN है\V_VAUX ।\RD_PUNC
+htd4600	हर\QT_QTF साल\N_NN गुवाहटी\N_NNP लाखों\N_NN की\PSP संख्या\N_NN में\PSP भक्‍त\N_NN आते\V_VM हैं\V_VAUX और\CC_CCD माँ\N_NN के\PSP दर्शन\N_NN कर\V_VM अपनी\PR_PRF मनोकामना\N_NN के\PSP लिए\PSP आशीर्वाद\N_NN लेते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4601	इसके\DM_DMD अलावा\CC_CCD हर\QT_QTF महीने\N_NN अमीती\N_NNP के\PSP अवसर\RB पर\PSP होने\N_NN वाली\PSP पूजा\N_NN भी\RP_RPD बहुत\RP_INTF धूमधाम\N_NN से\PSP होती\V_VM है\V_VAUX और\CC_CCD दूर-दूर\N_NN से\PSP लोग\N_NN इसमें\PR_PRL शामिल\N_NN होने\N_NN के\PSP लिए\PSP विशेष\JJ रूप\N_NN से\PSP यहाँ\DM_DMD आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4602	कामाख्या\N_NNP मंदिर\N_NN का\PSP महत्‍व\JJ -\RD_PUNC
+htd4603	हिन्दू\N_NNP मान्यताओं\N_NN के\PSP अनुसार\N_NN देवी\N_NN को\PSP शक्ति\N_NN रूप\N_NN माना\V_VM जाता\V_VM है\V_VAUX ।\RD_PUNC
+htd4604	शक्ति\N_NN के\PSP उपासकों\N_NN के\PSP लिए\PSP यह\DM_DMD स्थान\N_NN और\CC_CCD महत्वपूर्ण\JJ इसलिए\CC_CCS माना\V_VM जाता\V_VM है\V_VAUX ,\RD_PUNC क्योंकि\CC_CCS यहाँ\DM_DMD योनि\N_NN भाग\N_NN के\PSP प्रतीक\N_NN की\PSP पूजा\N_NN होती\V_VM है\V_VAUX और\CC_CCD यह\DM_DMD भाग\N_NN जनन\N_NN क्षमता\N_NN को\PSP लक्षित\V_VM करता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4605	भारत\N_NNP में\PSP कम\JJ मंदिरों\N_NN में\PSP आज\N_NN के\PSP जमाने\N_NN में\PSP बलि\N_NN दी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4606	बलि\N_NNP पूजा\N_NN स्वीकार\V_VM होने\V_VAUX की\PSP वजह\N_NN से\PSP इसे\DM_DMD तांत्रिकों\N_NN का\PSP मंदिर\N_NN भी\RP_RPD कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4607	भारत\N_NNP के\PSP प्रमुख\JJ तीर्थस्थलों\N_NN में\PSP से\PSP चित्रकूट\N_NNP प्रमुख\JJ माना\V_VM जाता\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4608	लोगों\N_NN में\PSP यह\DM_DMD मान्यता\V_VM है\V_VAUX कि\CC_CCS भगवान\N_NNP राम\N_NNP ,\RD_PUNC देवी\N_NNP सीता\N_NNP और\CC_CCD छोटे\JJ भाई\N_NN लक्ष्मण\N_NNP सहित\N_NN चित्रकूट\N_NNP के\PSP घने\N_NN जंगलों\N_NN में\PSP वनवास\N_NN के\PSP दौरान\N_NN ठहरे\V_VM थे\V_VAUX ।\RD_PUNC
+htd4609	चित्रकूट\N_NNP धाम\N_NN एक\QT_QTC भव्य\N_NN पवित्र\N_NN स्थल\N_NN है\V_VAUX जहाँ\PR_PRL पर\PSP पाँच\QT_QTC गाँवों\N_NN का\PSP संगम\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4610	चित्रकूट\N_NNP में\PSP कारवी\N_NNP ,\RD_PUNC सीतापुर\N_NNP ,\RD_PUNC कामता\N_NNP ,\RD_PUNC कोहनी\N_NNP ,\RD_PUNC नयागाँव\N_NNP जैसे\N_NN गाँवों\N_NN का\PSP संगम\N_NN है\V_VAUX ।\RD_PUNC
+htd4611	सुंदर\JJ प्राकृतिक\N_NN पर्वत\N_NN पर\PSP बहती\V_VM कल-कल\N_NN करते\V_VM हुए\V_VAUX बहते\V_VM झरने\N_NN ,\RD_PUNC घने\N_NN जंगल\N_NN ,\RD_PUNC चहकते\JJ पक्षी\N_NN ,\RD_PUNC बहती\JJ नदियाँ\N_NN इस\DM_DMD स्थान\N_NN पर\PSP स्थित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4612	श्रद्धालुओं\N_NN का\PSP मानना\V_VM है\V_VAUX कि\CC_CCS कामदगिरि\N_NNP भव्य\JJ धार्मिक\N_NN स्थल\N_NN हैं\V_VAUX जहाँ\PR_PRL पर\PSP भगवान\N_NNP राम\N_NNP रहा\V_VM करते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4613	कामदगिरि\N_NNP स्थान\N_NN पर\N_NN भरत-मिलाप\N_NN मंदिर\N_NN भी\RP_RPD स्थित\V_VM है\V_VAUX जहाँ\PR_PRL पर\PSP भरत\N_NNP ने\PSP श्रीराम\N_NNP से\PSP कहा\V_VM कि\CC_CCS वे\DM_DMD अयोध्या\N_NNP वापस\V_VM लौट\V_VM चलें\V_VAUX ।\RD_PUNC
+htd4614	श्रद्धालु\N_NN परिक्रमा\N_NN की\PSP प्रथा\N_NN का\PSP पालन\N_NN करते\V_VM हैं\V_VAUX इस\DM_DMD विश्‍वास\N_NN से\PSP कि\CC_CCS भगवान\N_NNP राम\N_NNP उनकी\PR_PRL भक्‍ति\N_NN से\PSP खुश\JJ होकर\V_VM भक्‍तों\N_NN की\PSP मनोकामना\JJ पूर्ण\V_VM करेंगे\V_VAUX ।\RD_PUNC
+htd4615	श्रीराम\N_NNP के\PSP भाई\N_NN भरत\N_NNP ने\PSP भरत\N_NNP कूप\N_NN स्थान\N_NN पर\PSP पवित्र\JJ जल\N_NN का\PSP कुंड\N_NN बनाकर\V_VM रखा\V_VAUX था\V_VAUX जहाँ\PR_PRL परदेस\N_NNP के\PSP विभिन्न\JJ तीर्थस्थलों\N_NN से\PSP पवित्र\N_NN जल\N_NN एकत्रित\N_NN कर\V_VM रखा\V_VAUX जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4616	भरत\N_NNP कूप\N_NNP स्थान\N_NN बहुत\RP_INTF ही\RP_RPD छोटा\N_NN स्थल\N_NN है\V_VAUX जोकि\CC_CCS इस\DM_DMD नगर\N_NN से\PSP कुछ\QT_QTF दूरी\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4617	रामघाट\N_NST पर\PSP स्थित\V_VM जानकी\N_NNP कुंड\N_NNP भव्य\JJ स्थान\N_NN है\V_VAUX ।\RD_PUNC
+htd4618	कहा\V_VM जाता\V_VM है\V_VAUX कि\CC_CCS सीताजी\N_NNP इसी\DM_DMD कुंड\N_NN में\PSP नहाया\N_NN करती\V_VM थीं\V_VAUX ।\RD_PUNC
+htd4619	जानकी\N_NNP कुंड\N_NNP की\PSP हरियाली\JJ भी\RP_RPD दर्शनीय\JJ है\V_VAUX ।\RD_PUNC
+htd4620	यह\DM_DMD शांत\JJ और\CC_CCD सुंदर\JJ स्थान\N_NN वास्तव\N_NN में\PSP कुदरत\N_NN की\PSP अमूल्य\JJ देन\V_VM है\V_VAUX ।\RD_PUNC
+htd4621	नदियों\N_NN की\PSP धाराएँ\N_NN आकाश\N_NN सुनहरे\N_NN नीले\JJ रंग\N_NN की\PSP तरह\N_NN लगती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4622	शाप्तिक\N_NNP शिला\N_NNP -\RD_PUNC मंदाकिनी\N_NNP नदी\N_NN के\PSP तट\N_NN से\PSP कुछ\QT_QTF दूरी\N_NN पर\PSP स्थित\V_VM एक\QT_QTC घना\N_NN जंगल\N_NN है\V_VAUX ।\RD_PUNC
+htd4623	उस\PR_PRP चट्टान\N_NN वाले\PSP स्थान\N_NN पर\PSP दो\QT_QTC विशाल\JJ पत्थर\N_NN हैं\V_VAUX जिस\PR_PRL पर\RB ऐसा\DM_DMD प्रतीत\N_NN होता\V_VM है\V_VAUX कि\CC_CCS भगवान\N_NNP श्रीराम\N_NNP के\PSP पदचिह्न\N_NN अंकित\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4624	नदी\N_NN में\PSP विभिन्न\JJ प्रकार\JJ की\PSP ढेर\QT_QTF साली\N_NN मछलियाँ\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4625	पहाड़ो\N_NN के\PSP बीच\N_NST में\PSP स्थित\N_NN ,\RD_PUNC प्राकृतिक\N_NN सौंदर्य\JJ से\PSP युक्त\N_NN गुप्त\N_NN गोदावरी\N_NNP नाम\N_NN एक\QT_QTC स्थान\N_NN हैं\V_VAUX जो\PR_PRL नगर\N_NNP से\PSP 18\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4626	जनश्रुति\N_NNP के\PSP अनुसार\N_NN रामायणकालीन\N_NNP के\PSP समय\N_NN पहाड़ों\N_NN के\PSP गुफाओं\N_NN में\PSP राम\N_NNP एवं\CC_CCD लक्ष्मण\N_NNP के\PSP दरबार\N_NN होते\V_VM थे\V_VAUX ।\RD_PUNC
+htd4627	इस\DM_DMD भव्य\JJ स्थल\N_NN पर\PSP गुफा\N_NN में\PSP दो\QT_QTC प्रकार\N_NN के\PSP पत्थर\N_NN हैं\V_VAUX जो\PR_PRL श्री\N_NN राम\N_NNP के\PSP गुफाओं\N_NN के\PSP समान\JJ लगती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4628	पहाड़ों\N_NN की\PSP ऊँचाईयों\JJ पर\PSP स्थित\V_VM चट्टानों\N_NN के\PSP बीच\N_NST हनुमान\N_NNP धारा\N_NN नाम\N_NN का\PSP झरना\N_NN बहता\V_VM है\V_VAUX ।\RD_PUNC
+htd4629	विभिन्न\JJ प्रकार\N_NN के\PSP मंदिर\N_NN हनुमान\N_NNP धारा\N_NN स्थान\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4630	असंख्य\QT_QTF भक्‍त\N_NN इन\DM_DMD मंदिरों\N_NN के\PSP दर्शन\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4631	श्रद्धालुजन\N_NN मंदिर\N_NN के\PSP दर्शन\N_NN करने\V_VM आते\V_VAUX एवं\CC_CCD विश्राम\N_NN के\PSP लिए\PSP पीपल\N_NN पेड़ों\N_NN की\PSP छाँव\N_NN में\PSP बैठे\V_VM दिखाई\V_VAUX देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4632	सैलानियों\N_NN के\PSP लिए\PSP भ्रमण\N_NN करने\V_VAUX के\PSP लिए\PSP एक\QT_QTC प्रसिद्ध\JJ झरनों\N_NN में\PSP से\PSP एक\QT_QTC हैं\V_VAUX चाचाई\N_NNP और\CC_CCD केओटी\N_NNP झरना\N_NN ।\RD_PUNC
+htd4633	चाचाई\N_NNP और\CC_CCD केओटी\N_NNP झरना\N_NN बीहाद\N_NNP नदी\N_NN के\PSP तट\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4634	130\QT_QTC मीटर\N_NN की\PSP ऊँचाई\JJ से\PSP जल\N_NN पृथ्वी\N_NN पर\PSP नदी\N_NN के\PSP रूप\N_NN में\PSP बहते\V_VM चाचाई\N_NNP और\CC_CCD केओटी\N_NNP झरने\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4635	सिंहराउली\N_NNP में\PSP मारा\N_NNP गुफा\N_NN स्थित\V_VM है\V_VAUX जो\PR_PRL कि\CC_CCS अजंता\N_NNP एवं\N_NN एल्लोरा\N_NNP में\PSP से\PSP एक\QT_QTC गिनी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4636	सोहागपुर\N_NNP में\PSP प्रसिद्ध\JJ खूबसूरत\JJ हायाहाया\N_NNP मंदिर\N_NN में\PSP विरातेसवरा\N_NNP के\PSP रूप\N_NN में\PSP भगवान\N_NN शिव\N_NNP की\PSP प्रतिमा\N_NN स्थापित\V_VM की\V_VAUX गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4637	चित्रकूट\N_NNP का\PSP नजदीकी\N_NN हवाई\N_NN अड्डा\N_NN है\V_VAUX खजुराहो\N_NNP ।\RD_PUNC
+htd4638	मानव\N_NN त्यौहारों\N_NN का\PSP बहुत\RP_INTF ही\RP_RPD शौकीन\JJ होता\V_VM है\V_VAUX और\CC_CCD जब\PR_PRL बात\N_NN हो\V_VM दीपावली\N_NN की\PSP तो\RP_RPD पूछो\V_VM ही\RP_RPD मत\N_NN ।\RD_PUNC
+htd4639	आज\N_NN पूरे\QT_QTF भारतवर्ष\N_NN में\PSP दीपावली\N_NN का\PSP त्यौहार\N_NN बहुत\RP_INTF ही\RP_RPD उल्लासपूर्वक\JJ मनाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4640	फिर\CC_CCS चाहे\V_VM वह\DM_DMD हिंदु\N_NNP हो\V_VM या\CC_CCD मुसलमान\N_NNP ,\RD_PUNC सिख\N_NNP हो\V_VM या\CC_CCD ईसाई\N_NNP ।\RD_PUNC
+htd4641	भारत\N_NNP एक\QT_QTC है\V_VAUX यह\DM_DMD ऐसे\DM_DMD त्यौहारों\N_NN पर\PSP हमें\PR_PRP दिखाई\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4642	तो\RP_RPD आइए\V_VM हम\PR_PRP आपको\PR_PRP गुजरात\N_NNP में\PSP कैसे\DM_DMQ मनाते\V_VM हैं\V_VAUX दीपावली\N_NNP इस\DM_DMD बारे\N_NN में\PSP कुछ\QT_QTF बताते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4643	दीपावली\N_NNP के\PSP दौरान\N_NN गुजरात\N_NNP में\PSP 15\QT_QTC दिन\N_NN पूर्व\N_NST ही\RP_RPD उसकी\PR_PRP तैयारियाँ\N_NN होनी\N_NN शुरू\N_NN हो\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4644	सबसे\RP_INTF पहले\QT_QTO तो\RP_RPD बाजारों\N_NN मे\PSP भीड़\N_NN लग\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4645	बच्चे\N_NN अपने\PR_PRF माता-पिता\N_NN के\PSP साथ\N_NST नए\JJ कपड़े\N_NN खरीदने\V_VM जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4646	दिवाली\N_NNP आने\N_NN पर\PSP स्त्रियाँ\N_NN घर\N_NN की\PSP सजावट\N_NN की\PSP चीजों\N_NN में\PSP मशगूल\JJ हो\V_VM जाती\V_VAUX हैं\V_VAUX और\CC_CCD 15\QT_QTC दिन\N_NN पहले\N_NST से\PSP ही\RP_RPD घर\N_NN की\PSP साफ-सफाई\N_NN में\PSP लग\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4647	उसके\PR_PRP बाद\N_NST वो\DM_DMD घर\N_NN में\PSP ही\RP_RPD अपने\PR_PRF हाथों\N_NN से\PSP सारी\QT_QTF मिठाइयाँ\N_NN बनाती\N_NN हैं\N_NN और\CC_CCD अलग-अलग\JJ प्रकार\N_NN के\PSP नमकीन\N_NN बनाती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4648	लो\N_NN अब\N_NST हो\V_VM गई\V_VAUX दीपावली\N_NNP की\PSP शुरुआत\N_NN ।\RD_PUNC
+htd4649	आ\V_VM गई\V_VAUX वाघ\N_NNP बारस\N_NNP तो\RP_RPD हो\V_VM गए\V_VAUX त्यौहार\N_NN शुरू\N_NN ।\RD_PUNC
+htd4650	जी\N_NN हाँ\N_NN गुजरात\N_NNP में\PSP वाघ\N_NNP बारस\N_NNP के\PSP दिन\N_NN से\PSP ही\RP_RPD दीये\V_VM जलाने\V_VAUX की\PSP शुरुआत\N_NN हो\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4651	हरेक\QT_QTF के\PSP घर\N_NN के\PSP आगे\N_NST दीये\N_NN जलाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4652	इस\DM_DMD दिन\N_NN से\PSP लेकर\V_VM दस\QT_QTC दिन\N_NN तक\PSP त्यौहार\N_NN शुरू\N_NN हो\V_VM जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4653	उस\PR_PRP दिन\N_NN व्यापारी\N_NN अपने\PR_PRF सारे\QT_QTF पुराने\N_NN हिसाबों\N_NN को\PSP निपटाकर\V_VM नए\JJ की\PSP शुरुआत\RB करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4654	उसके\PR_PRL बाद\N_NN आती\DM_DMI है\V_VAUX धनतेरस\N_NNP ।\RD_PUNC
+htd4655	धनतेरस\N_NNP के\PSP दिन\N_NN हरेक\QT_QTF घर\N_NN में\PSP लक्ष्मीपूजन\N_NN होता\V_VM है\V_VAUX और\CC_CCD माताजी\N_NN को\PSP छप्पन\QT_QTO भोग\N_NN लगते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4656	सारे\QT_QTF घर\N_NN के\PSP लोग\N_NN एकत्र\N_NN होकर\V_VM माँ\N_NN लक्ष्मी\N_NNP की\PSP आराधना\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4657	माँ\N_NN लक्ष्मी\N_NNP की\PSP कृपा\N_NN हमेशा\RB उन\DM_DMD पर\PSP बनी\V_VM रहे\V_VAUX ,\RD_PUNC ऐसी\DM_DMD कामना\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4658	उसके\PR_PRL बाद\N_NST आती\V_VM है\V_VAUX काली\N_NNP चौदस\N_NNP ।\RD_PUNC
+htd4659	काली\N_NNP चौदस\N_NNP के\PSP दिन\N_NN पूरे\QT_QTF गुजरात\N_NNP में\PSP हरेक\QT_QTF के\PSP घर\N_NN में\PSP तेल\N_NN की\PSP तली\V_VM हुई\V_VAUX चीज\N_NN अवश्य\N_NN बनती\V_VM है\V_VAUX ।\RD_PUNC
+htd4660	जिसको\DM_DMR कलह\N_NNP (\RD_SYM ककळाट\N_NNP )\RD_SYM बोलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4661	कहते\V_VM हैं\V_VAUX कि\CC_CCS ऐसा\DM_DMD करने\V_VM से\PSP घर\N_NN में\PSP से\PSP बुरी\N_NN हवा\N_NN निकल\N_NN जाती\V_VM है\V_VAUX और\CC_CCD शांति\JJ स्थापित\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4662	इस\DM_DMD दिन\N_NN अनेक\QT_QTF स्थानों\N_NN पर\PSP तांत्रिकों\N_NN द्वारा\N_NN तांत्रिक\N_NN विधियाँ\N_NN भी\RP_RPD होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4663	फिर\CC_CCS आती\V_VM है\V_VAUX दीपावली\N_NN ,\RD_PUNC जिसका\PR_PRL हरेक\QT_QTF मानव\N_NN को\PSP बहुत\RP_INTF ही\RP_RPD बेसब्री\N_NN से\PSP इंतजार\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4664	दीपावली\N_NNP के\PSP दिन\N_NN बाजार\N_NN को\PSP दुल्हन\N_NN की\PSP तरह\N_NN सजाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4665	बड़ी-बड़ी\JJ कंपनियों\N_NN में\PSP विशेष\JJ दीपावली\N_NNP पूजन\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4666	दीपावली\N_NNP में\PSP रात\N_NN भी\RP_RPD दिन\N_NN जैसी\N_NN जगमगाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4667	दीपावली\N_NNP में\PSP बच्चे\N_NN से\PSP लेकर\V_VM बड़े\JJ तक\PSP सब\QT_QTF पटाखे\N_NN फोड़ते\V_VM नजर\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4668	दीपावली\N_NNP में\PSP हरेक\QT_QTF के\PSP आँगन\N_NN मे\PSP रंगोली\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4669	दीपावली\N_NNP में\PSP पूरा\QT_QTF घर\N_NN दीयों\N_NN की\PSP रोशनी\JJ से\PSP जगमगाता\JJ नजर\N_NN आता\V_VM है\V_VAUX ।\RD_PUNC
+htd4670	दीपावली\N_NNP में\PSP तरह-तरह\N_NN के\PSP मिष्ठान\N_NN खाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4671	अब\N_NST उसके\PR_PRP दूसरे\QT_QTO दिन\N_NN आता\V_VM है\V_VAUX गुजरातियों\N_NNP का\PSP नया\JJ साल\N_NN ।\RD_PUNC
+htd4672	सुबह\N_NN सभी\QT_QTF लोग\N_NN जल्दी\N_NN से\PSP उठकर\N_NN तैयार\V_VM हो\V_VAUX जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4673	नए\JJ कपड़े\N_NN पहनकर\V_VM सबसे\RP_INTF पहले\JJ भगवान\N_NN के\PSP आशीर्वाद\N_NN लेने\V_VM मंदिर\N_NN जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4674	उसके\PR_PRP बाद\N_NN बड़ों\N_NN से\PSP आशीर्वाद\N_NN लेते\V_VM हैं\V_VAUX और\CC_CCD फिर\CC_CCS सगे-संबंधी\N_NN से\PSP मिलने\V_VM हरेक\QT_QTF के\PSP घर\N_NN जाते\V_VM हैं\V_VAUX और\CC_CCD नए\JJ साल\N_NN की\PSP बधाइयाँ\N_NN देते\V_VM हैं\V_VAUX और\CC_CCD मिठाई\N_NN से\PSP एक-दूसरे\QT_QTO का\PSP मुँह\N_NN मीठा\N_NN करवाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4675	पूरे\QT_QTF गुजरात\N_NNP में\PSP नए\JJ साल\N_NN से\PSP लेकर\V_VM पांचम\N_NN तक\PSP बाजार\N_NN की\PSP सारी\QT_QTF दुकानें\N_NN बंद\N_NN रहती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4676	उस\PR_PRP दिन\N_NN पूरे\QT_QTF गुजरात\N_NNP में\PSP जश्‍न\N_NN जैसा\N_NN माहौल\N_NN रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd4677	एक-दूसरे\QT_QTO को\PSP बधाइयाँ\JJ देने\V_VM की\PSP यह\DM_DMD रीति\N_NN करीबन\N_NN 15\QT_QTC दिन\N_NN तक\PSP चलती\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4678	इस\DM_DMD वक्त\N_NN पूरा\QT_QTF गुजरात\N_NNP एक\QT_QTC अलग\JJ ही\RP_RPD रंग\N_NN में\PSP रंग\N_NN जाता\V_VM है|\V_VAUX
+htd4679	गुजरात\N_NNP के\PSP हरेक\QT_QTF मानव\N_NN के\PSP चेहरे\N_NN पर\PSP एक\QT_QTC अलग\JJ ही\RP_RPD खुशी\JJ झलकती\V_VM है\V_VAUX ।\RD_PUNC
+htd4680	दीपावली\N_NNP के\PSP साथ-साथ\N_NN न्यू\N_NNP ईयर\N_NNP का\PSP ये\DM_DMD मिलाप\N_NN सभी\QT_QTF परिवारजनों\N_NN को\PSP और\CC_CCD भी\RP_RPD निकट\N_NST ला\V_VM देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4681	प्रागैतिहासिक\JJ काल\N_NN से\PSP उत्तराखंड\N_NNP ऋषि-मुनियों\N_NNP ,\RD_PUNC साधक\N_NN और\CC_CCD परिव्राजकों\N_NN को\PSP आकर्षित\JJ करता\V_VM आ\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4682	हिमालय\N_NNP प्रकृति\N_NN का\PSP महामंदिर\N_NN है\V_VAUX ।\RD_PUNC
+htd4683	हिमालय\N_NNP में\PSP बसा\V_VM केदारनाथ\N_NNP तीर्थ\N_NN उत्तराखंड\N_NNP का\PSP महत्वपूर्ण\JJ स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4684	केदारनाथ\N_NNP जाते\V_VM समय\N_NN पैरों\N_NN के\PSP नीचे\N_NST यत्र-तत्र\N_NN हिम\N_NNP राशि\N_NN खिसकती\V_VM दिखाई\V_VAUX पड़ती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4685	बर्फ\N_NN के\PSP पास\N_NST ही\RP_RPD अत्यंत\JJ मादक\N_NN सुगंध\JJ वाले\PSP सिरंगा\N_NN पुष्पकुंज\N_NN मिलने\V_VM लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4686	सिरंगा\N_NNP पुष्पकुंजों\N_NN के\PSP समाप्त\N_NN होने\V_VM पर\PSP हरी\N_NNP बुग्याल\N_NNP (\RD_SYM दूब\N_NNP )\RD_SYM मिलती\V_VM है\V_VAUX ।\RD_PUNC
+htd4687	इसके\DM_DMD पश्चात\N_NST केदारनाथ\N_NNP का\PSP हिमनद\N_NNP और\CC_CCD उससे\PR_PRF निकलने\V_VM वाली\PSP मंदाकिनी\N_NNP अपने\PR_PRF में\PSP असंख्य\QT_QTF पाषाण\N_NN खंडों\N_NN को\PSP फोड़कर\N_NN निकले\V_VM झरनों\N_NN और\CC_CCD फव्वारों\N_NN के\PSP जल\N_NN को\PSP समेटे\QT_QTF उद्‍दाम\N_NN गति\N_NN से\PSP प्रवाहित\V_VM होती\V_VAUX दिखाई\V_VAUX देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4688	इन\DM_DMD सबके\RP_INTF ऊपर\N_NST केदारनाथ\N_NNP का\PSP 6\QT_QTC हजार\QT_QTF 940\QT_QTC मीटर\N_NN ऊँचा\JJ हिमशिखर\N_NNP ऐसा\DM_DMD दिखाई\V_VM देता\V_VAUX है\V_VAUX ,\RD_PUNC मानो\V_VM स्वर्ग\N_NN में\PSP रहने\V_VM वाले\PSP देवताओं\N_NN का\PSP मृत्युलोक\N_NN को\PSP झाँकने\V_VM का\PSP यह\DM_DMD झरोखा\V_VM हो\V_VAUX ।\RD_PUNC
+htd4689	ऋषिकेश\N_NNP से\PSP केदारनाथ\N_NNP की\PSP दूरी\N_NN 223\QT_QTC कि.मी.\N_NN है\V_VAUX ।\RD_PUNC
+htd4690	जिसमें\PR_PRL अंतिम\N_NN दस\QT_QTO कि.मी.\N_NN का\PSP अंश\N_NN जो\PR_PRL गौरीकुंड\N_NNP से\PSP केदारनाथ\N_NNP है\V_VAUX वह\DM_DMD पैदल\N_NN ,\RD_PUNC घोड़े\N_NN या\CC_CCD पालकी\N_NN से\PSP जाना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4691	दूसरा\QT_QTO मार्ग\N_NN रानीखेत\N_NNP ,\RD_PUNC कर्णप्रयाग\N_NNP ,\RD_PUNC चमोली\N_NNP ,\RD_PUNC ऊखीमठ\N_NNP ,\RD_PUNC गुप्त\N_NNP काशी\N_NNP से\PSP केदारनाथ\N_NNP का\PSP है\V_VAUX ।\RD_PUNC
+htd4692	युग-युगांतर\N_NN से\PSP उत्तराखंड\N_NNP भारतीयों\N_NNP के\PSP लिए\PSP आध्यात्मिक\JJ शरणस्थल\N_NN और\CC_CCD शांति\N_NN प्रदाता\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4693	केदारनाथ\N_NNP उत्तराखंड\N_NNP का\PSP सबसे\RP_INTF विशाल\JJ शिव\N_NNP मंदिर\N_NN है\V_VAUX ,\RD_PUNC जो\PR_PRL कटवाँ\N_NN पत्थरों\N_NN के\PSP विशाल\JJ शिलाखंडों\N_NN को\PSP जोड़कर\V_VM बनाया\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4694	ये\DM_DMD शिलाखंड\N_NNP भूरे\JJ रंग\N_NN के\PSP हैं\V_VAUX ।\RD_PUNC
+htd4695	मंदिर\N_NN लगभग\N_NN 6\QT_QTC फुट\N_NN ऊँचे\JJ चबूतरे\N_NN पर\PSP बना\V_VM है\V_VAUX ।\RD_PUNC
+htd4696	मंदिर\N_NN का\PSP गर्भगृह\N_NN अपेक्षाकृत\N_NN प्राचीन\JJ है\V_VAUX ,\RD_PUNC जिसे\PR_PRL 12वीं\QT_QTO ,\RD_PUNC 13वीं\RD_ECH शताब्दी\N_NN के\PSP लगभग\N_NN का\PSP माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4697	मंदिर\N_NN के\PSP गर्भगृह\N_NN में\PSP अर्धा\QT_QTO के\PSP पास\N_NST चारों\QT_QTC कोनों\N_NN पर\PSP चार\QT_QTC सुदृढ़\JJ पाषाण\N_NN स्तंभ\N_NN हैं\N_NN ,\RD_PUNC जहाँ\PR_PRL से\PSP होकर\V_VM प्रदक्षिणा\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4698	अर्धा\QT_QTO ,\RD_PUNC जो\PR_PRL चौकोर\N_NN है\V_VAUX ,\RD_PUNC अंदर\N_NST से\PSP पोली\N_NN है\V_VAUX और\CC_CCD अपेक्षाकृत\N_NN नवीन\JJ बनी\V_VM है\V_VAUX ।\RD_PUNC
+htd4699	सभा\N_NN मंडप\N_NN विशाल\JJ एवं\CC_CCD भव्य\JJ है\V_VAUX ।\RD_PUNC
+htd4700	सभा\N_NN मंडप\N_NN की\PSP छत\N_NN चार\QT_QTC विशाल\JJ पाषाण\N_NN स्तंभों\N_NN पर\PSP टिकी\V_VM है\V_VAUX ।\RD_PUNC
+htd4701	गवाक्षों\N_NN में\PSP आठ\N_NN पुरुष\N_NN प्रमाण\N_NN मूर्तियाँ\N_NN हैं\V_VM ,\RD_PUNC जो\PR_PRL अत्यंत\N_NN कलात्मक\N_NN हैं\V_VM ।\RD_PUNC
+htd4702	मंदिर\N_NN के\PSP पीछे\N_NST पत्थरों\N_NN के\PSP ढेर\N_NN के\PSP पास\N_NST भगवान\N_NN ईशान\N_NNP का\PSP मंदिर\N_NN है\V_VM ।\RD_PUNC
+htd4703	मंदिर\N_NN के\PSP पीछे\N_NST पत्थरों\N_NN के\PSP ढेर\N_NN के\PSP पीछे\N_NST शंकराचार्य\N_NNP का\PSP समाधि\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd4704	यहाँ\DM_DMD आधुनिक\JJ शैली\N_NN का\PSP स्मारक\N_NN बना\V_VM है\V_VAUX ।\RD_PUNC
+htd4705	वर्तमान\N_NN में\PSP इसमें\DM_DMD पाँच\QT_QTC मातृकाएँ\N_NN स्थापित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4706	निःसंदेह\N_NN ये\DM_DMD मातृकाएँ\N_NN पहले\N_NST नौ\QT_QTC रही\V_VM होंगी\V_VAUX ।\RD_PUNC
+htd4707	केदारनाथ\N_NNP में\PSP अनेक\QT_QTF नाकविहीन\N_NN मूर्तियों\N_NN के\PSP विग्रह\N_NN बिखरे\JJ पड़े\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4708	केदारनाथ\N_NNP से\PSP लगभग\N_NN 1\QT_QTC कि.मी.\N_NN दूरी\N_NN पर\PSP चौर\N_NNP सरोवर\N_NN अपने\PR_PRF गहरे\N_NN और\CC_CCD नीले\JJ जल\N_NN के\PSP कारण\N_NN पर्यटकों\N_NN के\PSP लिए\PSP आकर्षण\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd4709	चौर\N_NNP सरोवर\N_NN में\PSP महात्मा\N_NNP गाँधी\N_NNP की\PSP अस्थि\N_NN विसर्जन\N_NN किए\V_VM जाने\V_VAUX से\PSP इसे\DM_DMD गाँधी\N_NNP स्मारक\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4710	चौर\N_NNP सरोवर\N_NN से\PSP 5\QT_QTC कि.मी.\N_NN दूरी\N_NN पर\PSP स्थित\V_VM वासुकि\N_NNP ताल\N_NNP अपने\PR_PRF पारदर्शी\N_NN जल\N_NN और\CC_CCD उसमें\PR_PRP डूबते-उतराते\V_VM हिमखंडों\N_NN के\PSP अद्‍भुत\JJ दृश्यों\N_NN के\PSP लिए\PSP विख्यात\V_VM है\V_VAUX ।\RD_PUNC
+htd4711	इसके\DM_DMD अतिरिक्त\JJ गुग्गुल\N_NNP कुंड\N_NNP ,\RD_PUNC भीम\N_NNP गुफा\N_NN तथा\N_NN भीमशिला\N_NNP भी\RP_RPD दर्शनीय\JJ स्थल\N_NN हैं\V_VM ।\RD_PUNC
+htd4712	आधा\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP भैरवनाथ\N_NNP मंदिर\N_NN है\V_VM ,\RD_PUNC जहाँ\PR_PRL केवल\JJ केदारनाथ\N_NNP के\PSP पट\N_NN खुलने\V_VM और\CC_CCD बंद\N_NN होने\V_VM के\PSP दिन\N_NN ही\RP_RPD पूजन\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4713	भैरव\N_NNP का\PSP स्थान\N_NN उत्तराखंड\N_NNP में\PSP क्षेत्रपाल\N_NN अथवा\CC_CCD भूमिदेव\N_NNP के\PSP रूप\N_NN में\PSP महत्वपूर्ण\JJ है\V_VM ।\RD_PUNC
+htd4714	भैरवनाथ\N_NNP मंदिर\N_NN ,\RD_PUNC सोनप्रयाग\N_NNP से\PSP 5\QT_QTC कि.मी.\N_NN आगे\N_NST और\CC_CCD केदारनाथ\N_NNP में\PSP 6\QT_QTC कि.मी.\N_NN पहले\N_NST (\RD_SYM पैदल)\N_NN पड़ने\V_VM वाला\PSP एक\QT_QTC अत्यंत\N_NN महत्वपूर्ण\JJ तीर्थ\N_NN एवं\CC_CCD विश्राम\N_NN स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4715	भैरवनाथ\N_NNP मंदिर\N_NN की\PSP ऊँचाई\JJ केवल\N_NN 1982\QT_QTC मीटर\N_NN है\V_VM ।\RD_PUNC
+htd4716	भैरवनाथ\N_NNP मंदिर\N_NN में\PSP गर्म\JJ पानी\N_NN और\CC_CCD ठंडे\JJ पानी\N_NN के\PSP दो\QT_QTC बहुत\RP_INTF ही\RP_RPD उत्तम\JJ कुंड\N_NN हैं\V_VM ।\RD_PUNC
+htd4717	यहाँ\DM_DMD गौरी\N_NNP मंदिर\N_NN है\V_VM ,\RD_PUNC जो\PR_PRL कुछ\QT_QTF छोटा\JJ है\V_VM और\CC_CCD प्राचीन\JJ नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd4718	जनश्रुति\N_NNP है\V_VAUX कि\CC_CCD इसी\DM_DMD स्थान\N_NN पर\PSP पार्वती\N_NNP ने\PSP महादेव\N_NNP को\PSP पाने\V_VM के\PSP लिए\PSP तपस्या\N_NN की\PSP थी\V_VAUX ।\RD_PUNC
+htd4719	मंदिर\N_NN में\PSP गौरी\N_NNP और\CC_CCD पार्वती\N_NNP की\PSP धातु\N_NN की\PSP मूर्तियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd4720	दूसरा\QT_QTO मंदिर\N_NN राधाकृष्ण\N_NNP का\PSP है\V_VM ,\RD_PUNC जिसे\PR_PRL कृष्ण\N_NNP भक्‍तों\N_NN का\PSP नूतन\JJ प्रयास\N_NN समझा\V_VM जाना\V_VAUX ही\RP_RPD उत्तम\JJ होगा\V_VM ।\RD_PUNC
+htd4721	केदारनाथ\N_NNP से\PSP 19\QT_QTC कि.मी.\N_NN पहले\N_NST गंगोत्तरी\N_NNP ,\RD_PUNC बूढ़ाकेदार\N_NN सोनप्रयाग\N_NNP के\PSP रास्ते\N_NN के\PSP निकट\N_NST त्रियुगी\N_NNP नारायण\N_NNP नाम\N_NN से\PSP प्रसिद्ध\JJ एक\QT_QTC धार्मिक\N_NN स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4722	मंदिर\N_NN के\PSP गर्भगृह\N_NN में\PSP नारायण\N_NNP भगवान\N_NN की\PSP सुंदर\N_NN मूर्ति\N_NN है\V_VAUX ।\RD_PUNC
+htd4723	अन्य\JJ मूर्तियों\N_NN में\PSP भू-देवी\N_NN तथा\N_NN लक्ष्मी\N_NN की\PSP मूर्तियाँ\N_NN उल्लेखनीय\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4724	त्रियुगी\N_NNP नारायण\N_NNP में\PSP अनेक\JJ कुंड\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd4725	इनके\PR_PRP नाम\N_NN ब्रह्म\N_NNP कुंड\N_NN ,\RD_PUNC रुद्र\N_NNP कुंड\N_NN और\CC_CCD सरस्वती\N_NNP कुंड\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4726	त्रियुगी\N_NNP नारायण\N_NNP मंदिर\N_NN में\PSP अखंड\N_NN धूनी\N_NN जलती\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4727	किंवदंती\N_NNP है\V_VAUX कि\CC_CCS यह\DM_DMD वही\PR_PRL अग्नि\N_NN है\V_VAUX ,\RD_PUNC जिसकी\PR_PRL साक्षी\N_NN कर\V_VAUX शिव\N_NNP ने\PSP पार्वती\N_NNP से\PSP विवाह\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4728	पार्वती\N_NNP का\PSP मायका\N_NN अर्थात\N_NN हिमालय\N_NNP नरेश\N_NNP का\PSP निवास\N_NN (\RD_SYM संभवतः\N_NN ग्रीष्म\N_NNP निवास\N_NN )\RD_SYM भी\RP_RPD यही\DM_DMD बताया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4729	यह\DM_DMD तीनों\QT_QTO युगों\N_NN (\RD_SYM द्वापर\N_NN ,\RD_PUNC त्रेता\N_NN ,\RD_PUNC कलियुग\N_NN )\RD_SYM में\PSP पूजित\V_VM रहने\V_VAUX के\PSP कारण\N_NN त्रियुगीनारायण\N_NNP बना\V_VM तो\RP_RPD आश्‍चर्य\JJ नहीं\RP_NEG होना\V_VM चाहिए\V_VAUX ।\RD_PUNC
+htd4730	दीपावली\N_NNP महापर्व\N_NN के\PSP दूसरे\QT_QTO दिन\N_NN (\RD_SYM पड़वा\N_NN )\RD_SYM शीत\N_NN ऋतु\N_NN में\PSP केदारनाथ\N_NNP मंदिर\N_NN के\PSP द्वार\N_NN बंद\RP_NEG कर\V_VM दिए\V_VAUX जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4731	मंदिर\N_NN में\PSP 6\QT_QTC माह\N_NN तक\PSP दीपक\N_NNP जलता\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4732	केदारनाथ\N_NNP मंदिर\N_NN बंद\N_NN करते\V_VM समय\N_NN उपस्थित\V_VM श्रद्धालुओं\N_NN को\PSP भारतीय\N_NNP सेना\N_NN द्वारा\N_NN भोज\N_NN दिया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4733	भोज\N_NN का\PSP खर्च\N_NN भारतीय\N_NNP सेना\N_NN उठाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4734	प्रायः\N_NN होटल\N_NN ,\RD_PUNC लॉज\N_NN ,\RD_PUNC धर्मशाला\N_NN बंद\N_NN हो\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4735	पुरोहित\N_NNP ससम्मान\N_NNP पट\N_NNP बंद\N_NN कर\V_VM भगवान\N_NN के\PSP विग्रह\N_NN एवं\CC_CCD दंडी\N_NN को\PSP 6\QT_QTC माह\N_NN तक\PSP पहाड़\N_NN के\PSP नीचे\N_NST ऊखीमठ\N_NNP में\PSP ले\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4736	सेना\N_NN के\PSP जवान\N_NN भगवान\N_NN के\PSP विग्रह\N_NN को\PSP पालकी\N_NN में\PSP बैंडबाजे\N_NN से\PSP लाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4737	प्रायः\N_NN 10\QT_QTC कि.मी.\N_NN पैदल\N_NN यात्रा\N_NN करनी\V_VM पड़ती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4738	करोड़ों\QT_QTO श्रद्धालुओं\N_NN की\PSP आस्था\N_NN के\PSP प्रतीक\N_NN केदारनाथ\N_NNP के\PSP कपाट\N_NN खुलने\V_VM का\PSP समय\N_NN भी\RP_RPD मई\N_NNP माह\N_NN में\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4739	तब\N_NST उत्तराखंड\N_NNP की\PSP यात्रा\N_NN आरंभ\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4740	कोलकाता\N_NNP के\PSP उत्तर\N_NN में\PSP विवेकानंद\N_NNP पुल\N_NN के\PSP पास\N_NST दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4741	दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN बीबीडी\N_NNP बाग\N_NN से\PSP 20\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VAUX ।\RD_PUNC
+htd4742	दक्षिणेश्वर\N_NNP मंदिर\N_NN का\PSP निर्माण\V_VM सन\N_NN 1847\QT_QTC में\PSP प्रारंभ\N_NN हुआ\V_VM था\V_VAUX ।\RD_PUNC
+htd4743	जान\N_NNP बाजार\N_NN की\PSP महारानी\N_NNP रासमणि\N_NNP ने\PSP स्वप्न\N_NN देखा\V_VM था\V_VAUX ,\RD_PUNC जिसके\PR_PRL अनुसार\N_NN माँ\N_NN काली\N_NNP ने\PSP उन्हें\PR_PRP निर्देश\N_NN दिया\V_VM कि\CC_CCS मंदिर\N_NN का\PSP निर्माण\V_VM किया\V_VAUX जाए\V_VAUX ।\RD_PUNC
+htd4744	भव्य\JJ दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN में\PSP माँ\N_NN की\PSP मूर्ति\N_NN श्रद्धापूर्वक\JJ स्थापित\V_VM की\V_VAUX गई\V_VAUX ।\RD_PUNC
+htd4745	सन\N_NN 1855\QT_QTC में\PSP दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN का\PSP निर्माण\N_NN पूरा\V_VM हुआ\V_VAUX ।\RD_PUNC
+htd4746	दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN 25\QT_QTC एकड़\N_NN क्षेत्र\N_NN में\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4747	दक्षिणेश्वर\N_NNP मंदिर\N_NN देवी\V_VM माँ\N_NN काली\V_VAUX के\PSP लिए\PSP ही\RP_RPD बनाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4748	दक्षिणेश्वर\N_NNP माँ\N_NNP काली\N_NNP का\PSP मुख्य\JJ मंदिर\N_NN है\V_VM ।\RD_PUNC
+htd4749	भीतरी\N_NST भाग\N_NN में\PSP चाँदी\N_NN से\PSP बनाए\V_VM गए\V_VAUX कमल\N_NNP के\PSP फूल\N_NN जिसकी\PR_PRL हजार\N_NN पंखुड़ियाँ\N_NN हैं\V_VM ,\RD_PUNC पर\PSP माँ\N_NNP काली\N_NNP शस्त्रों\N_NN सहित\N_NN भगवान\N_NNP शिव\N_NNP के\PSP ऊपर\N_NST खड़ी\V_VM हुई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4750	काली\N_NNP माँ\N_NNP का\PSP मंदिर\N_NN नवरत्‍न\N_NN की\PSP तरह\N_NN निर्मित\V_VM है\V_VAUX ।\RD_PUNC
+htd4751	दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN 46\QT_QTC फुट\N_NN चौड़ा\JJ तथा\CC_CCD 100\QT_QTC फुट\N_NN ऊँचा\JJ है\V_VAUX ।\RD_PUNC
+htd4752	विशेष\JJ आकर्षण\N_NN यह\DM_DMD है\V_VM कि\CC_CCS इस\DM_DMD मंदिर\N_NN के\PSP पास\N_NST पवित्र\JJ गंगा\N_NNP नदी\N_NN जो\PR_PRL कि\CC_CCS बंगाल\N_NNP में\PSP हुगली\N_NN नदी\N_NN के\PSP नाम\N_NN से\PSP जानी\V_VM जाती\V_VAUX है\V_VAUX ,\RD_PUNC बहती\V_VM है\V_VAUX ।\RD_PUNC
+htd4753	दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN में\PSP 12\QT_QTC गुंबद\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4754	दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN हरे-भरे\JJ ,\RD_PUNC मैदान\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4755	विशाल\JJ दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN के\PSP चारों\QT_QTC ओर\N_NN भगवान\N_NN शिव\N_NN के\PSP बारह\QT_QTC मंदिर\N_NN स्थापित\V_VM किए\V_VAUX गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4756	प्रसिद्ध\JJ विचारक\N_NN रामकृष्ण\N_NNP परमहंस\N_NNP ने\PSP माँ\N_NN काली\N_NN के\PSP मंदिर\N_NN में\PSP देवी\N_NN की\PSP आध्यात्मिक\N_NN दृष्टि\N_NN प्राप्त\V_VM की\PSP थी\V_VAUX तथा\CC_CCD उन्होंने\PR_PRP इसी\DM_DMD स्थल\N_NN पर\PSP बैठ\V_VM कर\V_VAUX धर्म-एकता\N_NN के\PSP लिए\PSP प्रवचन\N_NN दिए\V_VM थे\V_VAUX ।\RD_PUNC
+htd4757	रामकृष्ण\N_NNP काली\N_NNP मंदिर\N_NN के\PSP पुजारी\N_NN थे\V_VAUX तथा\CC_CCD मंदिर\N_NN में\PSP ही\RP_RPD रहते\V_VM थे\V_VAUX ।\RD_PUNC
+htd4758	रामकृष्ण\N_NNP के\PSP कक्ष\N_NN के\PSP द्वार\N_NN हमेशा\RB दर्शनार्थियों\N_NN के\PSP लिए\PSP खुला\V_VM रहते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd4759	माँ\N_NST काली\N_NN का\PSP मंदिर\N_NN विशाल\JJ इमारत\N_NN के\PSP रूप\N_NN में\PSP चबूतरे\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4760	इसमें\DM_DMD सीढ़ियों\N_NN के\PSP माध्यम\N_NN से\PSP प्रवेश\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4761	दक्षिण\N_NNP की\PSP ओर\N_NN स्थित\V_VM यह\DM_DMD मंदिर\N_NN तीन\QT_QTC मंजिला\N_NN है\V_VAUX ।\RD_PUNC
+htd4762	ऊपर\N_NN की\PSP दो\QT_QTC मंजिलों\N_NN पर\PSP नौ\QT_QTC गुंबद\N_NN समान\N_NN रूप\N_NN से\PSP फैले\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4763	गुंबदों\N_NNP की\PSP छत\N_NN पर\PSP सुन्दर\JJ आकृतियाँ\N_NN बनाई\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4764	मंदिर\N_NN के\PSP भीतरी\N_NST स्थल\N_NN पर\PSP दक्षिणा\N_NNP माँ\N_NN काली\N_NN ,\RD_PUNC भगवान\N_NN शिव\N_NN पर\PSP खड़ी\V_VM हुई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4765	देवी\N_NN की\PSP प्रतिमा\N_NN जिस\PR_PRL स्थान\N_NN पर\PSP रखी\V_VM गई\V_VAUX है\V_VAUX उसी\DM_DMD पवित्र\JJ स्थल\N_NN के\PSP आसपास\N_NST भक्‍त\N_NN बैठे\V_VM रहते\V_VAUX हैं\V_VAUX तथा\CC_CCD आराधना\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4766	दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN के\PSP सामने\N_NST नट\N_NN मंदिर\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4767	मुख्य\N_NN मंदिर\N_NN के\PSP पास\N_NST अन्य\JJ तीर्थ\N_NN स्थलों\N_NN के\PSP दर्शन\N_NN के\PSP लिए\PSP भक्‍तजन\N_NN की\PSP भीड़\N_NN लगी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4768	दक्षिणेश्वर\N_NNP माँ\N_NNP काली\N_NNP का\PSP मंदिर\N_NN विश्‍व\N_NN में\PSP सबसे\RP_INTF प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd4769	भारत\N_NN के\PSP सांस्कृतिक\N_NN धार्मिक\N_NN तीर्थ\N_NN स्थलों\N_NN में\PSP माँ\N_NN काली\N_NNP का\PSP मंदिर\N_NN सबसे\RP_INTF प्राचीन\JJ माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4770	मंदिर\N_NN की\PSP उत्तर\N_NNP दिशा\N_NN में\PSP राधाकृष्ण\N_NNP का\PSP दालान\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4771	मंदिर\N_NN की\PSP पश्चिम\N_NNP दिशा\N_NN की\PSP ओर\N_NN बारह\QT_QTC शिव\N_NNP मंदिर\N_NN बंगाल\N_NNP के\PSP अटचाला\N_NN रूप\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd4772	चाँदनी\N_NNP स्नान\N_NN घाट\N_NN के\PSP चारों\QT_QTC तरफ\N_NN शिव\N_NNP के\PSP मंदिर\N_NN हैं\V_VM ।\RD_PUNC
+htd4773	छ:\QT_QTC मंदिर\N_NN घाट\N_NN के\PSP दोनों\QT_QTC ओर\N_NN स्थित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4774	मंदिर\N_NN की\PSP तीनों\QT_QTC दिशाएँ\N_NN उत्तर\N_NNP ,\RD_PUNC पूर्व\N_NNP ,\RD_PUNC पश्चिम\N_NNP में\PSP अतिथि\N_NN कक्ष\N_NN तथा\CC_CCD कार्यालय\N_NN स्थित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4775	पर्यटक\N_NN साल\N_NN में\PSP हर\QT_QTF समय\N_NN कोलकाता\N_NNP भ्रमण\N_NN करने\V_VM आ\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4776	कैसे\DM_DMQ जाएँ\V_VM दक्षिणेश्वर\N_NNP काली\N_NNP मंदिर\N_NN ?\RD_PUNC
+htd4777	कोलकाता\N_NNP वायुसेवा\N_NN के\PSP माध्यम\N_NN से\PSP बंगलोर\N_NNP ,\RD_PUNC मुंबई\N_NNP ,\RD_PUNC दिल्ली\N_NNP ,\RD_PUNC चेन्नई\N_NNP सहित\N_NN सभी\QT_QTF प्रमुख\JJ शहरों\N_NN से\PSP जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4778	कोलकाता\N_NNP में\PSP मुख्य\JJ तौर\N_NN पर\PSP दो\QT_QTC स्टेशन\N_NN हैं\V_VM -\RD_PUNC सियालदह\N_NNP तथा\CC_CCD हावड़ा\N_NNP ।\RD_PUNC
+htd4779	कोलकाता\N_NNP रेलमार्ग\N_NN के\PSP माध्यम\N_NN से\PSP भी\RP_RPD सभी\QT_QTF प्रमुख\JJ बड़े\JJ शहरों\N_NN से\PSP जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4780	हर\QT_QTF प्रमुख\JJ शहरों\N_NN से\PSP कोलकाता\N_NNP जाया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4781	कोलकाता\N_NNP में\PSP स्थानीय\N_NN साधनों\N_NN में\PSP बस\N_NN ,\RD_PUNC मेट्रो\N_NN रेल\N_NN ,\RD_PUNC साइकल\N_NN रिक्शा\N_NN तथा\CC_CCD ऑटो\N_NN रिक्शा\N_NN चलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4782	दक्षिणेश्वर\N_NNP माँ\N_NNP काली\N_NNP मंदिर\N_NN के\PSP खुलने\V_VM का\PSP प्रातःकाल\N_NN समय\N_NN 5.30\QT_QTC से\PSP 10.30\QT_QTC तक\PSP है\V_VM ।\RD_PUNC
+htd4783	दक्षिणेश्वर\N_NNP माँ\N_NNP काली\N_NNP मंदिर\N_NN के\PSP खुलने\V_VM का\PSP संध्याकाल\N_NN समय\N_NN 4.30\QT_QTC से\PSP 7.30\QT_QTC तक\PSP है\V_VM ।\RD_PUNC
+htd4784	राजस्थान\N_NNP में\PSP अरावली\N_NNP पर्वत\N_NN की\PSP घाटियों\N_NN के\PSP मध्य\N_NN स्थित\N_NN रणकपुर\N_NNP में\PSP ऋषभदेव\N_NNP का\PSP चतुर्मुखी\N_NNP जैन\N_NNP मंदिर\N_NN है\V_VM ।\RD_PUNC
+htd4785	चारों\QT_QTC ओर\N_NN जंगलों\N_NN से\PSP घिरे\N_NN चतुर्मुखी\N_NNP जैन\N_NNP मंदिर\N_NN की\PSP भव्यता\JJ देखते\V_VM ही\RP_RPD बनती\V_VM है\V_VAUX ।\RD_PUNC
+htd4786	वैसे\DM_DMD भी\RP_RPD राजस्थान\N_NNP अपने\PR_PRF भव्य\N_NN स्मारकों\N_NN तथा\N_NN भवनों\N_NN के\PSP लिए\PSP प्रसिद्ध\JJ है\V_VAUX ।\RD_PUNC
+htd4787	इनमें\DM_DMD माउंट\N_NNP आबू\N_NNP तथा\CC_CCD दिलवाड़ा\N_NNP के\PSP विख्यात\JJ जैन\N_NNP मंदिर\N_NN भी\RP_RPD शामिल\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4788	रणकपुर\N_NNP मंदिर\N_NN उदयपुर\N_NNP से\PSP 96\QT_QTC किलोमीटर\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VAUX ।\RD_PUNC
+htd4789	भारत\N_NNP के\PSP जैन\N_NNP मंदिरों\N_NN में\PSP संभवतः\N_NN रणकपुर\N_NNP मंदिर\N_NN की\PSP इमारत\N_NN सबसे\RP_INTF भव्य\JJ तथा\CC_CCD विशाल\JJ है\V_VM ।\RD_PUNC
+htd4790	रणकपुर\N_NNP मंदिर\N_NN की\PSP इमारत\N_NN लगभग\QT_QTF 40,000\QT_QTC वर्ग\N_NN फीट\N_NN में\PSP फैली\V_VM है\V_VAUX ।\RD_PUNC
+htd4791	उदयपुर\N_NNP से\PSP रणकपुर\N_NNP के\PSP लिए\PSP प्राइवेट\N_NN बसें\N_NN तथा\CC_CCD टैक्सियाँ\N_NN उपलब्ध\V_VM रहती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4792	करीब\N_NN 600\QT_QTC वर्ष\N_NN पूर्व\N_NST 1446\QT_QTC विक्रम\N_NNP संवत\N_NNP में\PSP रणकपुर\N_NNP मंदिर\N_NN का\PSP निर्माण\V_VM कार्य\N_NN प्रारम्भ\N_NN हुआ\V_VAUX था\V_VAUX जो\PR_PRL 50\QT_QTC वर्षों\N_NN से\PSP अधिक\QT_QTF समय\N_NN तक\PSP चला\V_VM ।\RD_PUNC
+htd4793	रणकपुर\N_NNP मंदिर\N_NN के\PSP निर्माण\N_NN में\PSP करीब\N_NN 99\QT_QTC लाख\N_NN रुपए\N_NN का\PSP खर्च\N_NN आया\V_VM था\V_VAUX ।\RD_PUNC
+htd4794	रणकपुर\N_NNP मंदिर\N_NN में\PSP चार\QT_QTC कलात्मक\JJ प्रवेश\N_NN द्वार\N_NN हैं\V_VM ।\RD_PUNC
+htd4795	मंदिर\N_NN के\PSP मुख्य\JJ गृह\N_NN में\PSP तीर्थंकर\N_NNP आदिनाथ\N_NNP की\PSP संगमरमर\N_NNP से\PSP बनी\V_VM चार\QT_QTC विशाल\JJ मूर्तियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd4796	करीब\QT_QTF 72\QT_QTC इंच\N_NN ऊँची\JJ ये\DM_DMD मूतियाँ\N_NN चार\QT_QTC अलग\N_NN दिशाओं\N_NN की\PSP ओर\N_NN उन्मुख\JJ हैं\V_VM ।\RD_PUNC
+htd4797	इसी\DM_DMD कारण\N_NN इसे\DM_DMD चतुर्मुख\N_NNP मंदिर\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4798	इसके\DM_DMD अलावा\CC_CCD मंदिर\N_NN में\PSP 76\N_NN छोटे\N_NN गुम्बदनुमा\N_NN पवित्र\N_NN स्थान\N_NN ,\RD_PUNC चार\QT_QTC बड़े\N_NN प्रार्थना\N_NN कक्ष\N_NN तथा\N_NN चार\QT_QTC बड़े\N_NN पूजन\N_NN स्थल\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4799	ये\DM_DMR मनुष्य\N_NN को\PSP जीवन-मृत्यु\N_NN की\PSP 84\QT_QTC योनियों\N_NN से\PSP मुक्ति\N_NN प्राप्त\V_VM कर\V_VAUX मोक्ष\N_NN प्राप्त\N_NN करने\V_VM के\PSP लिए\PSP प्रेरित\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4800	मंदिर\N_NN की\PSP प्रमुख\JJ विशेषता\JJ इसके\DM_DMD सैकड़ों\QT_QTC खम्भे\N_NN हैं\V_VM ।\RD_PUNC
+htd4801	जिस\PR_PRL तरफ\N_NN भी\RP_RPD दृष्टि\N_NN जाती\V_VM है\V_VAUX छोटे-बड़े\JJ आकारों\N_NN के\PSP खम्भे\N_NN दिखाई\V_VM देते\V_VAUX हैं\V_VAUX ,\RD_PUNC परंतु\CC_CCD ये\DM_DMD खम्भे\N_NN इस\DM_DMD प्रकार\N_NN बनाए\V_VM गए\V_VAUX हैं\V_VAUX कि\CC_CCS कहीं\DM_DMI से\PSP भी\RP_RPD देखने\V_VM पर\PSP मुख्य\JJ पवित्र\N_NN स्थल\N_NN के\PSP `दर्शन`\N_NN में\PSP बाधा\N_NN नहीं\RP_NEG पहुँचती\V_VM है\V_VAUX ।\RD_PUNC
+htd4802	इन\DM_DMD खम्भों\N_NN पर\PSP सुंदर\JJ नक्काशी\N_NN की\PSP गई\V_VM है\V_VAUX ।\RD_PUNC
+htd4803	मंदिर\N_NN के\PSP उत्तर\N_NN में\PSP रायन\N_NN पेड़\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4804	इसके\DM_DMD अलावा\CC_CCS संगमरमर\N_NN के\PSP टुकड़े\N_NN पर\PSP भगवान\N_NNP ऋषभदेव\N_NNP के\PSP पदचिह्न\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd4805	ये\DM_DMD भगवान\N_NN ऋषभदेव\N_NNP तथा\CC_CCD शत्रुंजय\N_NNP की\PSP शिक्षाओं\N_NN की\PSP याद\N_NN दिलाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4806	मंदिर\N_NN के\PSP निर्माताओं\N_NN ने\PSP जहाँ\PR_PRL कलात्मक\N_NN दो\QT_QTC मंजिला\N_NN भवन\N_NN का\PSP निर्माण\V_VM किया\V_VAUX है\V_VAUX ,\RD_PUNC वहीं\DM_DMD भविष्य\N_NN में\PSP किसी\DM_DMI संकट\N_NN का\PSP अनुमान\N_NN लगाते\V_VM हुए\V_VAUX कई\QT_QTF तहखाने\N_NN भी\RP_RPD बनाए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4807	इन\DM_DMD तहखानों\N_NN में\PSP पवित्र\JJ मूर्तियों\N_NN को\PSP सुरक्षित\JJ रखा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4808	ये\DM_DMD तहखाने\N_NN मंदिर\N_NN के\PSP निर्माताओं\N_NN की\PSP निर्माण\N_NN संबंधी\N_NN दूरदर्शिता\N_NN का\PSP परिचय\N_NN देते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4809	दक्षिण\N_NNP भारत\N_NNP में\PSP भगवान\N_NN गणेशजी\N_NNP की\PSP पूजा\N_NN को\PSP अधिक\RP_INTF मान्यता\N_NN दी\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4810	इंदौर\N_NNP में\PSP दो\QT_QTC ऐसे\DM_DMD धार्मिक\N_NN स्थल\N_NN हैं\V_VM ,\RD_PUNC जहाँ\PR_PRL पर\PSP गणेशजी\N_NNP की\PSP आराधना\JJ भव्यता\JJ से\PSP की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4811	वास्तुकला\N_NN के\PSP साथ-साथ\N_NN विभिन्न\JJ प्रकार\N_NN के\PSP धार्मिक\N_NN स्थलों\N_NN के\PSP लिए\PSP इंदौर\N_NNP शहर\N_NN प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd4812	शहर\N_NN की\PSP भाग-दौड़\N_NN भरी\N_NN ज़िन्दगी\N_NN से\PSP अगर\CC_CCS आप\PR_PRP थक\V_VM गए\V_VM हों\V_VAUX तो\RP_RPD आप\PR_PRP मा‍नसिक\N_NN शांति\N_NN के\PSP लिए\PSP इन\DM_DMD धार्मिक\N_NN स्थलों\N_NN के\PSP दर्शन\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4813	हर\QT_QTF साल\N_NN ,\RD_PUNC गणेश\N_NNP चतुर्थी\N_NNP के\PSP दिन\N_NN बड़ा\JJ गणपति\N_NN मंदिर\N_NN में\PSP हजारों\QT_QTO एवं\CC_CCD लाखों\QT_QTO भक्‍तजन\N_NN भगवन\N_NN के\PSP दर्शन\N_NN के\PSP लिए\PSP उपस्थित\V_VM होते\V_VAUX हैं\V_VAUX भगवान\N_NN गणेश\N_NNP से\PSP मन्नत\N_NN माँगने\V_VM के\PSP लिए\PSP देश\N_NN के\PSP विभिन्न\JJ जगह\N_NN से\PSP श्रद्धालुजन\N_NN इस\DM_DMD मंदिर\N_NN में\PSP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4814	मंदिर\N_NN में\PSP आरती\N_NN तथा\CC_CCD पूजा\N_NN का\PSP आयोजन\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4815	बड़ा\JJ गणपति\N_NNP मंदिर\N_NN में\PSP भक्‍तजन\N_NN चाहें\V_VM वे\DM_DMD निम्न\JJ वर्ग\N_NN तथा\CC_CCD उच्च\JJ स्तर\N_NN के\PSP हों\V_VM सभी\QT_QTF एकत्रित\V_VM होकर\V_VAUX भगवान\N_NN गणेश\N_NNP की\PSP आराधना\JJ करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4816	धन\N_NN ,\RD_PUNC दान\N_NN के\PSP रूप\N_NN में\PSP गरीबों\JJ तथा\CC_CCD जरूरतमंद\JJ लोगों\N_NN को\PSP दिया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4817	भगवान\N_NN गणेश\N_NNP को\PSP उनके\PR_PRP प्रिय\JJ लड्डुओं\N_NN का\PSP भोग\N_NN लगाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4818	लोगों\N_NN का\PSP मानना\V_VM है\V_VAUX कि\CC_CCS इससे\DM_DMR खुश\JJ होकर\V_VM भगवान\N_NN जनकल्याण\N_NN के\PSP लिए\PSP आशीर्वाद\JJ देते\V_VM हैं\V_VAUX और\CC_CCD सभी\QT_QTF की\PSP मनोकामना\JJ पूर्ण\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4819	सन\N_NN 1875\QT_QTF में\PSP भव्य\N_NN बड़ा\JJ गणपति\N_NN मंदिर\N_NN का\PSP निर्माण\N_NN किया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4820	बड़ा\JJ गणपति\N_NNP मंदिर\N_NN में\PSP गणपतिजी\N_NNP की\PSP विशाल\JJ मूर्ति\N_NN विराजमान\JJ है\V_VAUX ।\RD_PUNC
+htd4821	25\QT_QTC फुट\N_NN ऊँची\JJ गणपतिजी\N_NN की\PSP मूर्ति\N_NN ,\RD_PUNC विश्‍व\JJ की\PSP सबसे\RP_INTF विशाल\JJ प्रतिमा\N_NN है\V_VAUX ।\RD_PUNC
+htd4822	भगवान\N_NN गणेश\N_NNP की\PSP विशाल\JJ प्रतिमा\N_NN के\PSP कारण\N_NN ही\RP_RPD मंदिर\N_NN का\PSP नाम\N_NN बड़ा\JJ गणपति\N_NN मंदिर\N_NN रखा\V_VM गया\V_VAUX ।\RD_PUNC
+htd4823	खजराना\N_NNP मंदिर\N_NN आपको\PR_PRP एक\QT_QTC ऐसा\DM_DMR स्थान\N_NN नजर\N_NN आएगा\N_NN जहाँ\PR_PRL पर\PSP धर्म\N_NN संबंधी\N_NN अनेकता\JJ में\PSP एकता\N_NN की\PSP मिसाल\N_NN आपको\PR_PRP दिखाई\V_VM देगी\V_VAUX ।\RD_PUNC
+htd4824	इंदौर\N_NNP के\PSP प्रसिद्ध\JJ खजराना\N_NNP क्षेत्र\N_NN में\PSP मंदिर\N_NN तथा\CC_CCD मस्जिद\N_NN दोनों\QT_QTO ही\RP_RPD पास-पास\N_NN स्थित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4825	खजराना\N_NNP मंदिर\N_NN में\PSP गणेशजी\N_NNP की\PSP मूर्ति\N_NN तथा\CC_CCD पास\N_NN ही\RP_RPD नाहर\N_NNP सैयद\N_NNP की\PSP दरगाह\N_NN है\V_VM ।\RD_PUNC
+htd4826	इन\DM_DMD दोनों\QT_QTO स्थानों\N_NN पर\PSP दोनों\QT_QTO धर्म\N_NN के\PSP श्रद्धालु\N_NN आराधना\N_NN के\PSP लिए\PSP देश\N_NN के\PSP कोने-कोने\N_NN से\PSP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4827	इंदौर\N_NNP में\PSP यह\DM_DMD दूसरा\QT_QTO गणेश\N_NNP मंदिर\N_NN है\V_VAUX जहाँ\PR_PRL ऐसा\DM_DMD माना\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS अगर\CC_CCS कोई\DM_DMI भक्‍त\N_NN मन्नत\N_NN माँगे\V_VM तो\RP_RPD वह\PR_PRP पूरी\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4828	इस\DM_DMD मंदिर\N_NN का\PSP निर्माण\N_NN होलकर\N_NNP राज्य\N_NN की\PSP महारानी\N_NN अहिल्याबाई\N_NNP ने\PSP करवाया\V_VM था\V_VAUX ।\RD_PUNC
+htd4829	मंदिर\N_NN के\PSP पास\N_NST नाहर\N_NNP सैयद\N_NNP की\PSP दरगाह\N_NN पर\PSP भी\RP_RPD मुसलमान\N_NN सहित\N_NN अन्य\JJ धर्म\N_NN के\PSP श्रद्धालु\JJ आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4830	गणेश\N_NNP जी\N_NN की\PSP मंदिर\N_NN में\PSP विभिन्न\JJ संस्कृति\N_NN तथा\CC_CCD सभ्यता\N_NN के\PSP लोग\N_NN यहाँ\DM_DMD पर\PSP आकर\V_VM भगवान\N_NN की\PSP आराधना\N_NN करते\V_VM हैं\V_VAUX तथा\CC_CCD मुराद\N_NN पूरी\QT_QTF हो\V_VM जाने\V_VAUX पर\PSP भगवान\N_NN गणेश\N_NNP को\PSP लड्डूओं\N_NN का\PSP भोग\N_NN लगाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4831	यहाँ\DM_DMD समूचे\N_NN इंदौर\N_NNP के\PSP ही\RP_RPD नहीं\RP_NEG बल्कि\CC_CCD बाहर\N_NN के\PSP लोग\N_NN भी\RP_RPD आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4832	लेकिन\CC_CCS इंदौर\N_NNP वासियों\N_NN के\PSP लिए\PSP यह\DM_DMD एक\QT_QTC विशेष\JJ महत्व\JJ रखता\V_VM है\V_VAUX ।\RD_PUNC
+htd4833	यूँ\N_NN तो\RP_RPD हर\JJ दिन\N_NN मंदिर\N_NN में\PSP आरती-पूजा\N_NN आदि\N_NN होते\V_VM है\V_VAUX पर\PSP बुधवार\N_NNP के\PSP दिन\N_NN विशेष\JJ आरती-पूजा\N_NN होते\V_VM हैं\V_VAUX जिसमें\PR_PRL सैकड़ों\QT_QTO भक्‍त\N_NN शामिल\V_VM होकर\V_VAUX गजानन\N_NNP का\PSP आशीर्वाद\N_NN लेते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4834	आप\PR_PRP ट्रेन\N_NN या\CC_CCD हवाईजहाज\N_NN द्वारा\N_NN इंदौर\N_NNP पहुँच\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4835	बस\N_NN या\CC_CCD गाड़ी\N_NN के\PSP माध्यम\N_NN से\PSP मंदिरों\N_NN के\PSP दर्शन\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4836	तमिलनाडु\N_NNP के\PSP नागापट्टिनम\N_NNP क्षेत्र\N_NN में\PSP भव्य\JJ तीर्थस्थल\N_NN वैलंकानी\N_NNP गिरिजाघर\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4837	भक्‍तजनों\N_NN का\PSP मानना\V_VM है\V_VAUX कि\CC_CCS मदर\N_NNP मेरी\N_NNP की\PSP प्रतिमा\N_NN यहाँ\DM_DMD जागृत\JJ की\PSP गई\V_VM है\V_VAUX ।\RD_PUNC
+htd4838	चर्च\N_NN की\PSP पवित्र\N_NN वेदी\N_NN पर\PSP देवी\N_NN मेरी\N_NNP की\PSP आराधना\N_NN की\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4839	देवी\N_NN मेरी\N_NNP में\PSP सशक्त\RB शक्ति\JJ है\V_VAUX जिससे\PR_PRP कि\CC_CCS हर\JJ दुःख\N_NN ,\RD_PUNC बीमारी\N_NN एवं\CC_CCD अन्य\JJ समस्या\N_NN दूर\N_NN हो\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4840	सोलहवीं\QT_QTO सदी\N_NN में\PSP देवी\N_NN मेरी\N_NNP एक\QT_QTC विकलांग\N_NN लड़के\N_NN के\PSP सामने\N_NST प्रकट\V_VM हुईं\V_VAUX ।\RD_PUNC
+htd4841	माँ\N_NN के\PSP आशीर्वाद\N_NN से\PSP विकलांग\N_NN लड़का\N_NN ठीक\N_NN हो\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4842	गिरिजाघर\N_NNP में\PSP सुबह\N_NN 5.45\QT_QTC बजे\N_NN से\PSP तमिल\N_NNP भाषा\N_NN में\PSP प्रार्थना\N_NN प्रारम्भ\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4843	होली\N_NNP मास\N_NN 12\QT_QTC बजे\N_NN से\PSP प्रारम्भ\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4844	संध्या\N_NN के\PSP समय\N_NN 6\QT_QTC से\PSP 6.30\QT_QTC बजे\N_NN तक\PSP चलता\V_VM है\V_VAUX ।\RD_PUNC
+htd4845	परम्परा\N_NN के\PSP अनुसार\N_NN रोसारी\N_NNP एवं\N_NN प्रार्थना\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4846	प्रार्थना\N_NN के\PSP दौरान\N_NN मोमबत्तियाँ\N_NN जलाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4847	पूजा\N_NN समाप्त\N_NN होने\N_NN पर\PSP पादरी\N_NN सबको\N_NN आशीर्वाद\N_NN देते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4848	किसी\DM_DMI समस्या\N_NN से\PSP पीड़ित\N_NN व्यक्ति\N_NN देवी\N_NN मेरी\N_NNP के\PSP समक्ष\N_NN आशीर्वाद\N_NN माँगते\V_VM हैं\V_VAUX कि\CC_CCS समस्या\N_NN का\PSP समाधान\N_NN हो\V_VM जाए\V_VAUX ।\RD_PUNC
+htd4849	गिरिजाघर\N_NNP के\PSP पास\N_NST एक\QT_QTC संग्रहालय\N_NN है\V_VM जहाँ\PR_PRL पर\PSP देवी\N_NN मेरी\N_NNP को\PSP अर्पित\N_NN की\V_VM गई\V_VAUX भेंटें\N_NN रखी\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4850	आवर\N_NNP लेडी\N_NNP ऑफ\N_NNP हेल्थ\N_NNP देवी\N_NNP मेरी\N_NNP का\PSP जन्म\N_NN 28\QT_QTC अगस्त\N_NNP से\PSP लेकर\V_VM 10\QT_QTC सितम्बर\QT_QTC तक\PSP मनाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4851	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS जब\PR_PRL श्रद्धालुओं\N_NN की\PSP मुराद\N_NN पूरी\JJ हो\V_VM जाती\V_VAUX है\V_VAUX ,\RD_PUNC तब\CC_CCS देवी\N_NN मेरी\N_NNP को\PSP भेंट\N_NN चढ़ाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4852	गिरिजाघर\N_NNP के\PSP पास\N_NST एक\QT_QTC संग्रहालय\N_NN है\V_VAUX जहाँ\PR_PRL पर\PSP देवी\N_NN मेरी\N_NNP को\PSP अर्पित\N_NN की\V_VM गई\V_VAUX भेंटें\N_NN रखी\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4853	वैलंकानी\N_NNP गिरिजाघर\N_NNP में\PSP हर\JJ साल\N_NN बड़ी\JJ धूमधाम\N_NN से\PSP पूजा\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4854	देश-विदेश\N_NNP से\PSP असंख्य\QT_QTF श्रद्धालु\N_NN वैलंकानी\N_NNP गिरिजाघर\N_NNP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4855	समारोह\N_NN के\PSP दौरान\N_NN होली\N_NNP मास\N_NN की\PSP प्रार्थना\N_NN आयोजित\V_VM की\PSP जाती\V_VM है\V_VAUX जो\PR_PRL कि\CC_CCS 6\QT_QTC भाषाओं\N_NN में\PSP बोली\V_VM जाती\V_VAUX है\V_VAUX और\CC_CCD दिन\N_NN में\PSP 14\QT_QTC बार\N_NN दोहराई\N_NN जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4856	कैसे\DM_DMQ पहुँचें\V_VM वैलंकानी\N_NNP गिरिजाघर\N_NNP ?\RD_PUNC
+htd4857	नागापट्टिनम\N_NNP जाने\V_VM के\PSP लिए\PSP नजदीकी\N_NN एयरपोर्ट\N_NN है\V_VM चेन्नई\N_NNP ।\RD_PUNC
+htd4858	नागापट्टिनम\N_NNP का\PSP नजदीकी\N_NN रेलवे\N_NN स्टेशन\N_NN है\V_VM त्रिची\N_NNP ,\RD_PUNC चेन्नई\N_NNP एवं\CC_CCD तंजावुर\N_NNP ।\RD_PUNC
+htd4859	नागापट्टिनम\N_NNP से\PSP बस\N_NN सेवाएँ\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4860	भव्य\JJ मंदिरों\N_NN के\PSP लिए\PSP मशहूर\JJ उड़ीसा\N_NNP ।\RD_PUNC
+htd4861	भारत\N_NNP के\PSP पूर्व\N_NST में\PSP बंगाल\N_NNP की\PSP खाड़ी\N_NN के\PSP तट\N_NN पर\PSP फैला\N_NN उड़ीसा\N_NNP राज्य\N_NN उसकी\N_NN राजधानी\N_NN भुवनेश्वर\N_NNP ,\RD_PUNC चार\QT_QTC धामों\N_NN में\PSP से\PSP एक\QT_QTC जगन्नाथ\N_NNP पुरी\N_NNP ,\RD_PUNC कोणार्क\N_NNP का\PSP सूर्य\N_NN मंदिर\N_NN तथा\N_NN शास्त्रीय\N_NN मंदिर-नृत्य\N_NN ओडिसी\N_NNP के\PSP लिए\PSP प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd4862	मुख्य\JJ रूप\N_NN से\PSP ग्रामीण\N_NN स्वरूप\N_NN वाला\PSP उड़ीसा\N_NNP राज्य\N_NN दस्तकारी\N_NNP ,\RD_PUNC `पिपली`\N_NNP हथकरघा\N_NNP वस्त्रों\N_NN ,\RD_PUNC पटचित्रों\N_NN (\RD_SYM वॉल\N_NNP हैंगिंग\N_NN )\RD_SYM तथा\CC_CCD रजत-आभूषणों\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4863	भुवनेश्वर\N_NNP का\PSP इतिहास\N_NN 2000\QT_QTC वर्षों\N_NN से\PSP भी\RP_RPD ज्यादा\QT_QTF पुराना\JJ है\V_VM ।\RD_PUNC
+htd4864	प्राचीन\JJ कलिंग\N_NNP राजाओं\N_NN की\PSP राजधानी\N_NN रहा\V_VM भुवनेश्वर\N_NNP उड़ीसा\N_NNP शैली\JJ के\PSP भव्य\N_NN मंदिरों\N_NN और\CC_CCD गिरजाघरों\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4865	उड़ीसा\N_NNP के\PSP प्रमुख\JJ आकर्षण\JJ वहाँ\DM_DMD के\PSP मंदिर\N_NN हैं\V_VM ।\RD_PUNC
+htd4866	तीनों\QT_QTO भुवनों\N_NN के\PSP स्वामी\N_NNP भगवान\N_NN त्रिभुवनेश्वर\N_NNP को\PSP समर्पित\N_NN लिंगराज\N_NNP मंदिर\N_NN का\PSP वर्तमान\N_NN स्वरूप\N_NN तो\RP_RPD 1090-1104\QT_QTC में\PSP बना\V_VM किंतु\CC_CCD उसके\PR_PRP कुछ\QT_QTF हिस्से\N_NN 1400\QT_QTC वर्ष\N_NN से\PSP भी\RP_RPD ज्यादा\QT_QTF पुराने\JJ हैं\V_VM ।\RD_PUNC
+htd4867	लिंगराज\N_NNP मंदिर\N_NN का\PSP प्रांगण\N_NN 150\QT_QTC मीटर\N_NN वर्गाकार\N_NN का\PSP है\V_VM तथा\CC_CCD कलश\N_NN की\PSP ऊँचाई\JJ 40\QT_QTC मीटर\N_NN है\V_VM ।\RD_PUNC
+htd4868	प्रतिवर्ष\N_NN अप्रैल\N_NNP महीने\N_NN में\PSP उड़ीसा\N_NNP में\PSP रथयात्रा\N_NN आयोजित\V_VM होती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4869	मंदिर\N_NN के\PSP निकट\N_NST ही\RP_RPD स्थित\V_VM बिंदुसागर\N_NNP सरोवर\N_NN में\PSP भारत\N_NNP के\PSP प्रत्येक\QT_QTF झरने\N_NN तथा\CC_CCD तालाब\N_NN का\PSP जल\N_NN संगृहीत\V_VM है\V_VAUX और\CC_CCD उसमें\PR_PRP स्नान\N_NN से\PSP पापमोचन\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4870	भुवनेश्वर-पुरी\N_NNP मार्ग\N_NN पर\PSP उक्त\N_NN मंदिर\N_NN के\PSP निकट\N_NST ही\RP_RPD 20\QT_QTC छोटे-बड़े\JJ मंदिरों\N_NN के\PSP समूह\N_NN में\PSP प्रमुख\JJ है\V_VAUX 650\QT_QTC ई.\N_NN में\PSP बना\V_VM परशुरामेश्वर\N_NNP मंदिर\N_NN ।\RD_PUNC
+htd4871	इसी\DM_DMD मार्ग\N_NN पर\PSP अन्य\JJ प्रमुख\N_NN स्थल\N_NN हैं\N_NN मुक्तेश्वर\N_NNP ,\RD_PUNC सिद्धेश्वर\N_NNP ,\RD_PUNC केदारगौरी\N_NNP तथा\CC_CCD राजरानी\N_NNP के\PSP मंदिर\N_NN ।\RD_PUNC
+htd4872	भुवनेश्वर\N_NNP के\PSP आसपास\N_NN के\PSP दर्शनीय\N_NN स्थल\N_NN हैं\V_VM ,\RD_PUNC उदयगिरि-\N_NNP खंडगिरि\N_NNP की\PSP गुफाएँ\N_NN ।\RD_PUNC
+htd4873	भुवनेश्वर\N_NNP के\PSP लिए\PSP दिल्ली\N_NNP से\PSP प्रतिदिन\N_NN ,\RD_PUNC कोलकाता\N_NNP से\PSP सप्ताह\N_NN में\PSP पाँच\QT_QTC तथा\CC_CCD चेन्नई\N_NNP ,\RD_PUNC नागपुर\N_NNP तथा\CC_CCD हैदराबाद\N_NNP से\PSP भी\RP_RPD दो-तीन\QT_QTC उड़ानें\N_NN उपलब्ध\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4874	भुवनेश्वर\N_NNP के\PSP मुख्य\JJ राजमार्ग\N_NN पर\PSP स्थित\V_VM बस\N_NN अड्डे\N_NN से\PSP बसें\N_NN राज्य\N_NN के\PSP पुरी\QT_QTF ,\RD_PUNC कटक\N_NNP तथा\CC_CCD कोणार्क\N_NNP सहित\N_NN सभी\QT_QTF नगरों\N_NN के\PSP लिए\PSP चलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4875	भुवनेश्वर\N_NNP रेलवे\N_NN स्टेशन\N_NN कोलकाता-चेन्नई\N_NNP मुख्य\JJ मार्ग\N_NN पर\PSP स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4876	राजधानी\N_NNP एक्सप्रेस\N_NNP मात्र\N_NN सात\QT_QTC घंटे\N_NN भुवनेश्वर\N_NNP से\PSP कोलकाता\N_NNP पहुँचाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4877	माँ\N_NN काली\N_NN सबकी\QT_QTF मुराद\N_NN पूरी\QT_QTF करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4878	इंदौर\N_NNP में\PSP जिस\PR_PRL प्रकार\N_NN से\PSP शेरोंवाली\N_NNP माँ\N_NN की\PSP पूजा\N_NN आस्था\N_NN तथा\CC_CCD विश्‍वास\N_NN के\PSP साथ\N_NST की\PSP जाती\V_VM है\V_VAUX उसी\PR_PRL विश्‍वास\N_NN के\PSP साथ\N_NST कोलकाता\N_NNP में\PSP काली\N_NN माँ\N_NN की\PSP पूजा\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4879	जिस\PR_PRL प्रकार\N_NN शेरोंवाली\N_NNP माँ\N_NN के\PSP मंदिर\N_NN में\PSP जगराता\V_VM होता\V_VAUX है\V_VAUX ,\RD_PUNC उसी\PR_PRL प्रकार\N_NN काली\N_NN माँ\N_NN के\PSP मंदिर\N_NN में\PSP जगराता\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4880	इसी\DM_DMD कारण\N_NN कोलकातावासी\N_NNP माँ\N_NN काली\N_NNP के\PSP भक्‍त\N_NN हैं\V_VM तथा\CC_CCD उनके\PR_PRP शक्ति\N_NN रूप\N_NN को\PSP मानते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4881	काली\N_NNP मंदिर\N_NN में\PSP दर्शन\N_NN किए\N_NN बिना\N_NN कोलकाता\N_NNP की\PSP सैर\N_NN अधूरी\N_NN मानी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4882	हुगली\N_NNP नदी\N_NN के\PSP पूर्वी\N_NST तट\N_NN पर\PSP स्थित\V_VM काली\N_NNP मंदिर\N_NN सन\N_NN 1855\QT_QTC में\PSP बनाया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd4883	इस\DM_DMD पुरानी\JJ इमारत\N_NN में\PSP दुर्गादेवी\N_NN तथा\CC_CCD शिव\N_NN की\PSP मूर्ति\N_NN की\PSP स्थापना\N_NN की\PSP गई\V_VM है\V_VAUX ।\RD_PUNC
+htd4884	रानी\N_NNP राशमोनी\N_NNP में\PSP स्थित\V_VM इस\DM_DMD पौराणिक\JJ मंदिर\N_NN में\PSP प्रवेश\N_NN करने\V_VM के\PSP लिए\PSP आपको\PR_PRP उपस्थित\V_VM भक्‍तजन\N_NN की\PSP भीड़\N_NN का\PSP सामना\V_VM करना\V_VAUX पड़ेगा\V_VAUX ।\RD_PUNC
+htd4885	पतली\N_NN गली\N_NN में\PSP स्थित\V_VM ,\RD_PUNC फूलों\N_NN की\PSP दुकान\N_NN ,\RD_PUNC मिठाइयों\N_NN तथा\CC_CCD पूजा\N_NN की\PSP सामग्री\N_NN से\PSP सजी\JJ हुई\V_VM दुकानों\N_NN के\PSP बीच\N_NST से\PSP गुज़रना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4886	माँ\N_NN महाशक्ति\N_NN के\PSP बारे\N_NN में\PSP अनेक\QT_QTF कथाएँ\N_NN प्रचलित\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4887	एक\QT_QTC कथा\N_NN के\PSP अनुसार\N_NN देवी\N_NN सती\N_NN ने\PSP जब\PR_PRL अपने\PR_PRF पिता\N_NN दक्ष\N_NN के\PSP यहाँ\DM_DMD अपमानित\JJ होकर\V_VM यज्ञ\N_NN में\PSP स्वयं\PR_PRF को\PSP भस्म\N_NN कर\V_VM लिया\V_VAUX तब\N_NST क्रोध\N_NN में\PSP आकर\V_VM यज्ञ\N_NN ध्वंस\N_NN के\PSP समय\N_NN भगवान\N_NN शिव\N_NNP ने\PSP तांडव\N_NN नृत्य\N_NN किया\V_VM ।\RD_PUNC
+htd4888	इस\DM_DMD समय\N_NN माता\N_NN सती\N_NN के\PSP शरीर\N_NN के\PSP अंश\N_NN कहीं-कहीं\N_NN धरती\N_NN पर\PSP गिरे\V_VM ।\RD_PUNC
+htd4889	कहते\V_VM हैं\V_VAUX कि\CC_CCS उनके\PR_PRP पाँव\N_NN के\PSP अंश\N_NN कोलकाता\N_NNP में\PSP जहाँ\PR_PRL गिरे\N_NN थे\V_VAUX ,\RD_PUNC वहाँ\DM_DMD माँ\N_NN काली\N_NNP मंदिर\N_NN बना\V_VM है\V_VAUX ।\RD_PUNC
+htd4890	इन\DM_DMD अंशों\N_NN ने\PSP पत्थर\N_NN का\PSP रूप\N_NN धारण\V_VM किया\V_VAUX था\V_VAUX और\CC_CCD इसी\DM_DMD की\PSP पूजा-अर्चना\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4891	एक\QT_QTC और\CC_CCD कथा\N_NN भी\RP_RPD प्रचलित\V_VM है\V_VAUX कि\CC_CCS भागीरथी\N_NNP नदी\N_NN के\PSP तट\N_NN पर\PSP एक\QT_QTC भक्‍त\N_NN ने\PSP पाँव\N_NN के\PSP अँगूठे\N_NN के\PSP आकार\N_NN का\PSP पत्थर\N_NN पाया\V_VM था\V_VAUX जो\PR_PRL स्वयंभू\N_NN लिंग\N_NN था\V_VAUX और\CC_CCD नकुलेश्वर\N_NNP भैरव\N_NNP का\PSP प्रतीक\N_NN था\V_VAUX ।\RD_PUNC
+htd4892	भक्‍त\N_NN इसे\DM_DMD जंगल\N_NN में\PSP ले\V_VM गया\V_VAUX और\CC_CCD माँ\N_NN काली\N_NN की\PSP पूजा\N_NN करने\V_VM लगा\V_VAUX ।\RD_PUNC
+htd4893	कोलकाता\N_NNP स्थित\V_VM प्रसिद्ध\JJ काली\N_NNP माँ\N_NN का\PSP मंदिर\N_NN बहुत\RP_INTF ही\RP_RPD भव्य\JJ है\V_VAUX ।\RD_PUNC
+htd4894	इस\DM_DMD मंदिर\N_NN की\PSP दीवारों\N_NN पर\PSP बनाई\V_VM गई\V_VAUX टेराकोटा\N_NNP की\PSP चित्रकला\N_NN के\PSP अवशेष\N_NN यहाँ\DM_DMD दिखाई\V_VM देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4895	मंदिर\N_NN के\PSP पुजारी\N_NN काली\N_NN माँ\N_NN की\PSP मूर्ति\N_NN को\PSP स्नान\N_NN कराते\V_VM हैं\V_VAUX जिसे\PR_PRL स्नान\N_NN यात्रा\N_NN के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4896	स्नान\N_NN यात्रा\N_NN साल\N_NN में\PSP एक\QT_QTC बार\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4897	स्नान\N_NN यात्रा\N_NN के\PSP दिन\N_NN अनगिनत\QT_QTF भक्‍तजन\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4898	काली\N_NNP मंदिर\N_NN में\PSP दुर्गा\N_NNP पूजा\N_NN ,\RD_PUNC नवरात्रि\N_NNP तथा\CC_CCD दशहरा\N_NNP के\PSP दिन\N_NN देवी\N_NN की\PSP विशेष\JJ पूजा\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4899	इस\DM_DMD पूजा\N_NN का\PSP समय\N_NN अक्टूबर\N_NNP के\PSP महीने\N_NN में\PSP तय\N_NN समय\N_NN के\PSP अनुसार\N_NN रखा\V_VM जाता\V_VM है\V_VAUX ।\RD_PUNC
+htd4900	मंदिर\N_NN के\PSP पट\N_NN तड़के\N_NNP 3.00\QT_QTC से\PSP लेकर\V_VM प्रात:\N_NN 8.00\QT_QTC बजे\N_NN तक\PSP खुले\V_VM रहते\V_VAUX हैं\V_VAUX तथा\CC_CCD प्रतिदिन\N_NN प्रात:\N_NN 10.00\QT_QTC से\PSP लेकर\V_VM संध्या\N_NN 5.00\QT_QTC बजे\N_NN तक\PSP भक्‍तजन\N_NN मंदिर\N_NN में\PSP पूजा-अर्चना\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4901	पूजा\N_NN का\PSP समय\N_NN 6.00\QT_QTC बजे\N_NN से\PSP लेकर\V_VM रात\N_NN के\PSP 8.30\QT_QTC तक\PSP रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd4902	काली\N_NN माँ\N_NN की\PSP पूजा\N_NN श्रद्धा\N_NN तथा\CC_CCD आस्था\N_NN के\PSP साथ\N_NST की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4903	अमावस्या\N_NN के\PSP दिन\N_NN मंदिर\N_NN में\PSP काली\N_NNP माँ\N_NNP के\PSP लिए\PSP महापूजन\N_NN का\PSP आयोजन\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4904	रात्रि\N_NN के\PSP 12.00\QT_QTC बजे\N_NN शक्तिरूपी\JJ देवी\N_NN की\PSP आरती\N_NN की\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4905	माँ\N_NN को\PSP गहनों\N_NN से\PSP सजाया\V_VM जाता\V_VAUX है\V_VAUX तथा\CC_CCD आरती\N_NNP के\PSP बाद\N_NST माँ\N_NN के\PSP चरणों\N_NN में\PSP भोग\N_NN चढ़ाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4906	आभूषणों\N_NN तथा\CC_CCD लाल\N_NN फूलों\N_NN की\PSP माला\N_NN से\PSP माँ\N_NN काली\N_NN की\PSP प्रतिमा\N_NN को\PSP सजाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4907	मुख्य\JJ प्रथा\N_NN जो\PR_PRL मंदिर\N_NN में\PSP प्रचलित\JJ है\V_VAUX वह\PR_PRP है\V_VAUX बलि\N_NN ,\RD_PUNC जिसका\PR_PRL रूप\N_NN वर्तमान\N_NN में\PSP बदल\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4908	पहले\N_NST बकरे\N_NN की\PSP बलि\N_NN चढ़ाई\V_VM जाती\V_VAUX थी\V_VAUX ,\RD_PUNC आजकल\N_NN अनाज\N_NN की\PSP बलि\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4909	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS देवी\N_NN के\PSP मंदिर\N_NN में\PSP काली\N_NN माँ\N_NN जागृत\N_NN अवस्था\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd4910	माँ\N_NN के\PSP द्वारा\N_NN यहाँ\DM_DMD पर\PSP आए\V_VAUX भक्‍तजन\N_NN की\PSP प्रार्थना\N_NN स्वीकार\N_NN की\PSP जाती\V_VM है\V_VAUX ।\RD_PUNC
+htd4911	देवी\N_NN उनकी\PR_PRP मनोकामना\PSP पूर्ण\JJ करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4912	देश\N_NN में\PSP सूर्यपुत्र\N_NNP शनिदेव\N_NNP के\PSP कई\DM_DMI मंदिर\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4913	उन्हीं\PR_PRP में\PSP से\PSP एक\QT_QTC प्रमुख\JJ है\V_VAUX महाराष्ट्र\N_NNP के\PSP अहमदनगर\N_NNP जिले\N_NN में\PSP स्थित\N_NN शिंगणापुर\N_NNP का\PSP शनि\N_NNP मंदिर\N_NN ।\RD_PUNC
+htd4914	विश्‍व\N_NN प्रसिद्ध\JJ इस\DM_DMD शनि\N_NN मंदिर\N_NN की\PSP विशेषता\JJ यह\DM_DMD है\V_VAUX कि\CC_CCS यहाँ\DM_DMD स्थित\V_VM शनिदेव\N_NNP की\PSP पाषाण\N_NN प्रतिमा\N_NN बगैर\N_NN किसी\DM_DMI छत्र\N_NN या\CC_CCD गुंबद\N_NN के\PSP खुले\N_NN आसमान\N_NN के\PSP नीचे\N_NST एक\QT_QTC संगमरमर\N_NN के\PSP चबूतरे\N_NN पर\PSP विराजित\V_VM है\V_VAUX ।\RD_PUNC
+htd4915	शिंगणापुर\N_NNP के\PSP इस\DM_DMD चमत्कारी\JJ शनि\N_NNP मंदिर\N_NN में\PSP स्थित\V_VM शनिदेव\N_NN की\PSP प्रतिमा\N_NN लगभग\QT_QTF पाँच\QT_QTC फीट\N_NN नौ\QT_QTF इंच\N_NN ऊँची\JJ व\CC_CCD लगभग\QT_QTF एक\QT_QTC फीट\N_NN छह\N_NN इंच\N_NN चौड़ी\JJ है\V_VM ।\RD_PUNC
+htd4916	देश-विदेश\N_NN से\PSP श्रद्धालु\N_NN यहाँ\DM_DMD आकर\V_VM शनिदेव\N_NNP की\PSP इस\DM_DMD दुर्लभ\N_NN प्रतिमा\N_NN का\PSP दर्शन\N_NN लाभ\N_NN लेते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4917	यहाँ\DM_DMD के\PSP मंदिर\N_NN में\PSP स्त्रियों\N_NN का\PSP शनि\N_NN प्रतिमा\N_NN के\PSP पास\N_NST जाना\V_VM वर्जित\JJ है\V_VAUX ।\RD_PUNC
+htd4918	महिलाएँ\N_NN दूर\N_NN से\PSP ही\RP_RPD शनिदेव\N_NNP के\PSP दर्शन\N_NN करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4919	सुबह\N_NN हो\V_VM या\CC_CCD शाम\N_NN ,\RD_PUNC सर्दी\N_NN हो\V_VM या\CC_CCD गर्मी\N_NN यहाँ\DM_DMD स्थित\N_NN शनि\N_NNP प्रतिमा\N_NN के\PSP समीप\N_NN जाने\V_VM के\PSP लिए\PSP पुरुषों\N_NN का\PSP स्नान\N_NN कर\V_VM पीताम्बर\N_NN धोती\N_NN धारण\N_NN करना\V_VM अत्यावश्क\N_NN है\V_VAUX ।\RD_PUNC
+htd4920	ऐसा\DM_DMD किए\DM_DMQ बगैर\N_NN पुरुष\N_NN शनि\N_NNP प्रतिमा\N_NN का\PSP स्पर्श\N_NN नहीं\RP_NEG पर\PSP सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4921	इस\DM_DMD हेतु\N_NN शिंगणापुर\N_NNP में\PSP स्नान\N_NN और\CC_CCD वस्त्रादि\N_NN की\PSP बेहतर\JJ व्यवस्थाएँ\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4922	खुले\N_NN मैदान\N_NN में\PSP एक\QT_QTC टंकी\N_NN में\PSP कई\DM_DMI सारे\N_NN नल\N_NN लगे\V_VM हुए\V_VAUX हैं\V_VAUX ,\RD_PUNC जिनके\PR_PRL जल\N_NN से\PSP स्नान\N_NN करके\N_NN पुरुष\N_NN शनिदेव\N_NNP के\PSP दर्शनों\N_NN का\PSP लाभ\N_NN ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4923	पूजनादि\N_NN की\PSP सामग्री\N_NN के\PSP लिए\PSP भी\RP_RPD यहाँ\DM_DMD आसपास\N_NN बहुत\QT_QTF सारी\QT_QTF दुकानें\N_NN हैं\V_VM ,\RD_PUNC जहाँ\PR_PRL से\PSP आप\PR_PRP पूजन\N_NN सामग्री\N_NN लेकर\V_VM शनिदेव\N_NN को\PSP अर्पित\V_VM कर\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4924	यदि\CC_CCS आप\PR_PRP पहली\QT_QTO बार\N_NN शनि\N_NN शिंगणापुर\N_NNP जा\V_VM रहे\V_VAUX हैं\V_VAUX तो\RP_RPD यहाँ\DM_DMD भक्‍तों\N_NN की\PSP श्रद्धा\N_NN व\N_NN विश्‍वास\N_NN का\PSP नजारा\N_NN देखकर\V_VM आप\PR_PRP आश्‍चर्यचकित\JJ हो\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd4925	केवल\QT_QTF बड़े-बुजुर्ग\N_NN ही\RP_RPD नहीं\RP_NEG अपितु\N_NN तीन-चार\N_NN वर्ष\N_NN के\PSP शिशु\N_NN भी\RP_RPD इस\DM_DMD शीतल\JJ जल\N_NN से\PSP स्नान\N_NN कर\V_VM शनिदेव\N_NNP के\PSP दर्शन\N_NN के\PSP लिए\PSP अपने\PR_PRF पिता\N_NN के\PSP साथ\N_NST चल\V_VM पड़ते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4926	शनि\N_NN मंदिर\N_NN में\PSP दर्शन\N_NN करने\V_VM वाला\PSP हर\JJ पुरुष\N_NN श्रद्धालु\N_NN आपको\PR_PRP यहाँ\DM_DMD पीताम्बरधारी\N_NNP ही\RP_RPD नजर\N_NN आएगा\V_VM ।\RD_PUNC
+htd4927	शनि\N_NN मंदिर\N_NN का\PSP एक\QT_QTC विशाल\JJ प्रांगण\N_NN है\V_VAUX जहाँ\PR_PRL दर्शन\N_NN के\PSP लिए\PSP भक्‍तों\N_NN की\PSP कतारें\N_NN लगती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4928	मंदिर\N_NN प्रशासन\N_NN द्वारा\N_NN शनिदेव\N_NNP के\PSP दर्शनों\N_NN की\PSP बेहतर\JJ व्यवस्थाएँ\N_NN की\V_VM गई\V_VM हैं\V_VAUX ,\RD_PUNC जिससे\PR_PRL भक्‍तों\N_NN को\PSP यहाँ\DM_DMD दर्शन\N_NN के\PSP लिए\PSP धक्का-मुक्की\N_NN जैसी\N_NN किसी\DM_DMI भी\RP_RPD स्थिति\N_NN का\PSP सामना\N_NN नहीं\RP_NEG करना\V_VM पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4929	जब\PR_PRL आप\PR_PRP यहाँ\N_NN स्थित\V_VM विशाल\JJ शनि\N_NN प्रतिमा\N_NN के\PSP दर्शन\N_NN करेंगे\V_VM तो\RP_RPD आप\PR_PRP स्वयं\PR_PRF सूर्यपुत्र\N_NNP शनिदेव\N_NNP की\PSP भक्‍ति\N_NN में\PSP रम\N_NN जाएँगे\V_VM ।\RD_PUNC
+htd4930	प्रत्येक\QT_QTF शनिवार\N_NNP ,\RD_PUNC शनि\N_NNP जयंती\N_NN व\N_NN शनैश्चरी\N_NNP अमावस्या\N_NN आदि\N_NN अवसरों\N_NN पर\PSP यहाँ\DM_DMD भक्‍तों\N_NN की\PSP भारी\QT_QTF भीड़\N_NN उमड़ती\V_VM है\V_VAUX ।\RD_PUNC
+htd4931	शनिदेव\N_NNP मंगलकारी\N_NN हैं\V_VM |\N_NN
+htd4932	आमतौर\RB पर\PSP शनिदेव\N_NNP को\PSP लेकर\V_VM हमारे\PR_PRP मन\N_NN में\PSP कई\DM_DMI भ्रामक\N_NN धारणाएँ\N_NN हैं\V_VAUX ।\RD_PUNC
+htd4933	शनि\N_NN की\PSP आराधना\N_NN ध्यानपूर्वक\N_NN की\PSP जाए\V_VM तो\RP_RPD शनिदेव\N_NN से\PSP उत्तम\JJ कोई\DM_DMI देवता\N_NN ही\RP_RPD नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd4934	शनि\N_NN की\PSP जिस\PR_PRL पर\PSP कृपा\N_NN होती\V_VM है\V_VAUX उस\PR_PRP व्यक्ति\N_NN के\PSP लिए\PSP सफलता\N_NN के\PSP सारे\N_NN द्वार\N_NN खुल\N_NN जाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4935	शिंगणापुर\N_NNP की\PSP खासियत\RB यहाँ\DM_DMD चोरी\N_NN न\RP_NEG होना\V_VM है\V_VAUX ।\RD_PUNC
+htd4936	आपको\CC_CCS यह\DM_DMD जानकर\N_NN आश्‍चर्य\JJ होगा\V_VM कि\CC_CCS शिंगणापुर\N_NNP के\PSP अधिकांश\QT_QTF घरों\N_NN में\PSP खिड़की\N_NN ,\RD_PUNC दरवाजे\N_NN और\CC_CCD तिजौरी\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd4937	दरवाजों\N_NN की\PSP जगह\N_NN यदि\CC_CCS लगे\V_VM हैं\V_VAUX तो\RP_RPD केवल\QT_QTF पर्दे\N_NN ।\RD_PUNC
+htd4938	ऐसा\DM_DMD इसलिए\CC_CCD क्योंकि\DM_DMQ यहाँ\DM_DMD चोरी\N_NN नहीं\RP_NEG होती\V_VM ।\RD_PUNC
+htd4939	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS जो\PR_PRL भी\RP_RPD चोरी\N_NN करता\V_VM है\V_VAUX उसे\DM_DMD शनि\N_NNP महाराज\N_NN उसकी\PR_PRP सजा\N_NN स्वयं\PR_PRF दे\V_VM देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4940	जब\PR_PRL गाँव\N_NN वालों\PSP पर\PSP शनिदेव\N_NNP की\PSP कृपा\N_NN है\V_VAUX व\CC_CCD चोरी\N_NN का\PSP भय\N_NN ही\RP_RPD नहीं\RP_NEG है\V_VAUX तो\RP_RPD दरवाजे\N_NN ,\RD_PUNC खिड़की\N_NN ,\RD_PUNC अलमारी\N_NN व\CC_CCD तिजौरी\N_NN का\PSP क्या\PR_PRQ काम\V_VM है\V_VAUX ?\RD_PUNC
+htd4941	कैसे\PR_PRQ पहुँचें\V_VM शिंगणापुर\N_NNP ?\RD_PUNC
+htd4942	शिर्डी\N_NNP से\PSP शिंगणापुर\N_NNP की\PSP दूरी\N_NN 70\QT_QTO कि.मी.\N_NN है\V_VAUX ।\RD_PUNC
+htd4943	नासिक\N_NNP से\PSP शिंगणापुर\N_NNP की\PSP दूरी\N_NN 170\QT_QTC कि.मी.\N_NN है\V_VM ।\RD_PUNC
+htd4944	औरंगाबाद\N_NNP से\PSP शिंगणापुर\N_NNP की\PSP दूरी\N_NN 68\QT_QTC कि.मी.\N_NN है\V_VAUX ।\RD_PUNC
+htd4945	अहमदनगर\N_NNP से\PSP शिंगणापुर\N_NNP की\PSP दूरी\N_NN 35\QT_QTC कि.मी.\N_NN है\V_VM ।\RD_PUNC
+htd4946	इलाहाबाद\N_NNP प्रसिद्ध\JJ तीर्थस्थल\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4947	जनश्रुति\N_NN के\PSP अनुसार\N_NN इलाहाबाद\N_NNP में\PSP एक\QT_QTC अनोखा\JJ मंदिर\N_NN है\V_VAUX हनुमान\N_NNP मंदिर\N_NN ।\RD_PUNC
+htd4948	भव्य\JJ हनुमान\N_NNP मंदिर\N_NN इलाहबाद\N_NNP किले\N_NN के\PSP पास\N_NST स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4949	उत्तर\N_NNP प्रदेश\N_NNP के\PSP प्रसिद्ध\JJ तीर्थस्थल\N_NN इलाहाबाद\N_NNP के\PSP हनुमान\N_NNP मंदिर\N_NN में\PSP भगवान\N_NN सोई\V_VM हुई\V_VAUX अवस्था\N_NN में\PSP हैं\V_VAUX ।\RD_PUNC
+htd4950	इलाहाबाद\N_NNP में\PSP हनुमान\N_NN मंदिर\N_NN पर्यटकों\N_NN के\PSP लिए\PSP एक\QT_QTC मुख्य\JJ आकर्षण\JJ का\PSP केन्द्र\N_NN है\V_VM ।\RD_PUNC
+htd4951	प्रति\N_NN वर्ष\N_NN हजारों\QT_QTO श्रद्धालु\N_NN इस\DM_DMD भव्य\JJ हनुमान\N_NN मंदिर\N_NN में\PSP दर्शन\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4952	ऐसी\DM_DMD मान्यता\V_VM है\V_VAUX कि\CC_CCS हनुमान\N_NNP मंदिर\N_NN में\PSP दर्शनकर\N_NN भक्‍तों\N_NN की\PSP मनोकामनाएँ\N_NN पू्र्ण\QT_QTF होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4953	गंगा\N_NNP ,\RD_PUNC यमुना\N_NNP ,\RD_PUNC सरस्वती\N_NNP तीन\QT_QTC भव्य\JJ नदियों\N_NN का\PSP संगम\N_NN यहाँ\DM_DMD पर\PSP होता\V_VM है\V_VAUX इसलिए\CC_CCS भारत\N_NNP के\PSP प्रमुख\JJ पवित्र\N_NN स्थानों\N_NN में\PSP इलाहाबाद\N_NNP प्रमुख\JJ है\V_VM ।\RD_PUNC
+htd4954	प्रयाग\N_NNP के\PSP नाम\N_NN से\PSP यह\DM_DMD स्थान\N_NN प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd4955	इलाहाबाद\DM_DMD में\PSP श्रद्धालुओं\N_NN के\PSP लिए\PSP अन्य\JJ आकर्षण\JJ के\PSP केन्द्र\V_VM हैं\V_VAUX महाकुम्भ\N_NNP मेला\N_NN जोकि\CC_CCS अपने\PR_PRF ऐतिहासिक\JJ ,\RD_PUNC आध्यात्मिक\JJ महत्व\JJ एवं\CC_CCD विशालता\JJ के\PSP लिए\PSP प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd4956	इलाहाबाद\N_NNP में\PSP बारह\QT_QTC सालों\N_NN में\PSP एक\QT_QTC बार\N_NN कुंभ\N_NNP का\PSP मेला\N_NN आयोजित\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4957	आस्था\N_NN शिक्षा\N_NN एवं\N_NN संस्कृति\N_NN से\PSP ओत-प्रोत\N_NN इलाहाबाद\N_NNP नगरी\N_NN में\PSP प्रति\N_NN वर्ष\N_NN माघ\N_NN मेले\N_NN का\PSP आयोजन\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4958	इलाहाबाद\N_NNP में\PSP सम्राट\N_NN अकबर\N_NNP ने\PSP 1583\QT_QTC में\PSP यमुना\N_NNP तट\N_NN पर\PSP किला\N_NN बनवाया\V_VM था\V_VAUX ।\RD_PUNC
+htd4959	किले\N_NN के\PSP अंदर\N_NN 232\QT_QTC फुट\N_NN का\PSP अशोक\N_NNP स्तम्भ\N_NN सुरक्षित\JJ है\V_VAUX ।\RD_PUNC
+htd4960	पातालपुरी\N_NNP मंदिर\N_NN की\PSP मान्यता\V_VM है\V_VAUX कि\CC_CCS किले\N_NN के\PSP भूगर्भ\N_NN में\PSP भगवान\N_NN राम\N_NNP चित्रकूट-गमन\N_NN के\PSP समय\N_NN इस\DM_DMD स्थान\N_NN पर\PSP आए\V_VM थे\V_VAUX ।\RD_PUNC
+htd4961	मनकामेश्वर\N_NNP मंदिर\N_NNP अन्य\JJ शिवालयों\N_NN में\PSP से\PSP प्रमुख\JJ हैं\V_VM ।\RD_PUNC
+htd4962	नवरात्रि\N_NN के\PSP समय\N_NN असंख्य\QT_QTF श्रद्धालु\N_NN मनकामेश्वर\N_NNP मंदिर\N_NN में\PSP एकत्रित\V_VM होते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4963	अलोपीदेवी\N_NNP मंदिर\N_NN में\PSP प्रत्येक\QT_QTF सोमवार\N_NNP एवं\CC_CCD शुक्रवार\N_NNP के\PSP दिन\N_NN असंख्य\QT_QTF श्रद्धालु\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4964	अलोपीदेवी\N_NNP मंदिर\N_NN में\PSP नवरात्रि\N_NN के\PSP दिनों\N_NN में\PSP देवी\N_NN की\PSP पूजा-अर्चना\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd4965	इस\DM_DMD प्रसिद्ध\JJ भव्य\JJ अलोपीदेवी\N_NNP मंदिर\N_NN में\PSP एक\QT_QTC शक्तिपीठ\N_NN में\PSP एक\QT_QTC कुण्ड\N_NN एवं\CC_CCD ऊपर\N_NST एक\QT_QTC झूला\N_NN पूजित\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd4966	हनुमत\N_NNP निकेतन\N_NNP मंदिर\N_NN में\PSP मुख्य\CC_CCD मूर्ति\N_NN हनुमानजी\N_NN की\PSP है\V_VAUX ,\RD_PUNC दक्षिण\N_NN भाग\N_NN में\PSP श्रीराम\N_NN ,\RD_PUNC लक्ष्मण\N_NN और\CC_CCD जानकी\N_NN की\PSP मूर्तियाँ\N_NN हैं\V_VAUX तथा\CC_CCD उत्तर\N_NNP भाग\N_NN में\PSP गुत्रगा\N_NNP की\PSP प्रतिमा\N_NN स्थित\V_VM है\V_VAUX ।\RD_PUNC
+htd4967	प्रयाग\N_NNP में\PSP स्थित\V_VM कल्याणीदेवी\N_NNP मंदिर\N_NN एक\QT_QTC प्रसिद्ध\JJ शक्तिपीठ\N_NN है\V_VM ।\RD_PUNC
+htd4968	कल्याणीदेवी\N_NNP मंदिर\N_NN में\PSP तीन\QT_QTC मुख्य\JJ मूर्तियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd4969	कल्याणी\N_NNP देवी\N_NN के\PSP बाएँ\N_NST तरफ\N_NN छिन्नमस्ता\N_NN देवी\N_NN की\PSP मूर्ति\N_NN है\V_VAUX और\CC_CCD दाएँ\N_NST तरफ\N_NN शंकर-पार्वती\N_NNP की\PSP मूर्तियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd4970	आनंद\N_NNP भवन\N_NN मोतीलाल\N_NNP नेहरू\N_NNP का\PSP निवास\N_NN स्थान\N_NN था\V_VAUX ।\RD_PUNC
+htd4971	1930\QT_QTC में\PSP मोतीलाल\N_NNP ने\PSP आनंद\N_NNP भवन\N_NN को\PSP राष्ट्र\N_NN के\PSP नाम\N_NN समर्पित\V_VM कर\V_VAUX दिया\V_VAUX था\V_VAUX परंतु\CC_CCD यह\DM_DMD अब\N_NST स्वराज\N_NN भवन\N_NN के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4972	स्वराज\N_NNP भवन\N_NNP नेहरू\N_NNP परिवार\N_NN के\PSP स्मारक\N_NN निधि\N_NN का\PSP प्रतीक\N_NN है\V_VAUX ।\RD_PUNC
+htd4973	किसी\DM_DMI स्थान\N_NN के\PSP इतिहास\N_NN से\PSP परिचित\N_NN होना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD वहाँ\DM_DMD के\PSP संग्रहालय\N_NN को\PSP आप\PR_PRP देख\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4974	ऐतिहासिक\JJ एवं\N_NN अनोखी\JJ वस्तुओं\N_NN से\PSP युक्त\N_NN इलाहाबाद\N_NNP के\PSP संग्रहालय\N_NN की\PSP स्थापना\N_NN सन्\N_NN 1931\QT_QTC में\PSP की\PSP गई\V_VM थी\V_VAUX ।\RD_PUNC
+htd4975	इस\DM_DMD संग्रहालय\N_NN में\PSP ई.\N_NN पूर्व\N_NST शताब्दी\N_NN के\PSP अवशेष\N_NN प्रदर्शित\V_VM किए\V_VAUX गए\V_VAUX हैं\V_VAUX ,\RD_PUNC जिनमें\PR_PRL प्राचीन\JJ वाद्य\N_NN यंत्र\N_NN ,\RD_PUNC पाषाणकालीन\N_NN पत्थर\N_NN ,\RD_PUNC प्राचीन\JJ मूर्तियों\N_NN की\PSP वीथिकाएँ\N_NN प्रमुख\JJ हैं\V_VM ।\RD_PUNC
+htd4976	इलाहाबाद\N_NNP विश्‍वविद्यालय\N_NNP को\PSP ‘ऑक्सफोर्ड\N_NNP ऑफ\N_NNP दी\N_NNP ईस्ट’\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4977	खुसरोबाग\N_NNP लगभग\QT_QTF 17\QT_QTO बीघे\N_NN क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX ऐतिहासिक\JJ दर्शनीय\N_NN स्थल\N_NN है\V_VM ।\RD_PUNC
+htd4978	माना\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS जहाँगीर\N_NNP के\PSP पुत्र\N_NN खुसरो\N_NNP को\PSP इस\DM_DMD बाग\N_NN में\PSP स्थित\V_VM पूर्वी\N_NST इमारत\N_NN में\PSP दफनाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4979	इलाहाबाद\N_NNP की\PSP मुख्य\JJ भाषा\N_NN हैं\V_VAUX हिंदी\N_NNP ,\RD_PUNC अंग्रेजी\N_NNP ,\RD_PUNC उर्दू\N_NNP ,\RD_PUNC एवं\N_NN इलाहाबादी\N_NNP बोली\N_NN जाती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4980	इलाहाबाद\N_NNP के\PSP निवासी\N_NN खड़ी\N_NNP बोली\N_NNP में\PSP बातचीत\V_VM करते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd4981	अमृतसर\N_NNP स्वर्ण\N_NNP मंदिर\N_NN का\PSP शहर\N_NN है\V_VM ।\RD_PUNC
+htd4982	16वीं\QT_QTO शताब्दी\N_NN में\PSP सिखों\N_NN के\PSP चौथे\QT_QTC गुरु\N_NN रामदास\N_NNP ने\PSP एक\QT_QTC तालाब\N_NN के\PSP किनारे\N_NN डेरा\V_VM डाला\V_VAUX ,\RD_PUNC जिसके\PR_PRP पानी\N_NN में\PSP अद्‍भुत\JJ शक्ति\N_NN थी\V_VAUX ।\RD_PUNC
+htd4983	इसी\DM_DMD कारण\N_NN इस\DM_DMD शहर\N_NN का\PSP नाम\N_NN अमृत+सर\N_NNP (\RD_SYM अमृत\N_NN का\PSP सरोवर\N_NN )\RD_SYM पड़ा\V_VM ।\RD_PUNC
+htd4984	गुरु\N_NNP रामदास\N_NNP के\PSP पुत्र\N_NN ने\PSP तालाब\N_NN के\PSP मध्य\N_NN एक\QT_QTC मंदिर\N_NN का\PSP निर्माण\V_VM कराया\V_VAUX जो\PR_PRL आज\N_NN स्वर्ण\N_NNP मंदिर\N_NN के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd4985	अमृतसर\N_NNP शहर\N_NN में\PSP अप्रैल\N_NNP माह\N_NN में\PSP बैसाखी\N_NNP का\PSP पर्व\N_NN धूमधाम\N_NN से\PSP मनाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4986	बैसाखी\N_NNP के\PSP दिन\N_NN गुरु\N_NNP गोविंदसिंह\N_NNP ने\PSP सिखों\N_NN को\PSP लड़ाकू\N_NN कौम\N_NN में\PSP परिवर्तित\V_VM करते\V_VAUX हुए\V_VAUX खालसा\N_NNP पंथ\N_NN की\PSP स्थापना\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd4987	अमृतसर\N_NNP के\PSP प्रमुख\JJ पर्यटन\N_NN स्थल\N_NN -\RD_PUNC
+htd4988	स्वर्ण\N_NNP मंदिर\N_NN सिखों\N_NN का\PSP सर्वाधिक\QT_QTF महत्वपूर्ण\JJ धार्मिक\N_NN स्थल\N_NN है\V_VAUX ।\RD_PUNC
+htd4989	स्वर्ण\N_NN मंदिर\N_NN को\PSP हरि\N_NNP मंदिर\N_NN भी\RP_RPD कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4990	स्वर्ण\N_NNP मंदिर\N_NN के\PSP गुम्बद\N_NNP पर\PSP शुद्ध\N_NN स्वर्ण\N_NN पत्तियों\N_NN का\PSP आवरण\N_NN है\V_VM ,\RD_PUNC जो\PR_PRL धरती\N_NN की\PSP ओर\N_NN झुकी\N_NN हुई\V_VM हैं\V_VAUX ।\RD_PUNC
+htd4991	इसका\DM_DMD आशय\N_NN यह\V_VM है\V_VAUX कि\CC_CCD सिख\N_NNP दुनिया\N_NN की\PSP समस्याओं\N_NN के\PSP प्रति\N_NN एक\QT_QTC जागरूक\N_NN कौम\V_VM है\V_VAUX ।\RD_PUNC
+htd4992	दुर्गियाना\N_NNP मंदिर\N_NN हिन्दुओं\N_NN का\PSP धार्मिक\N_NN स्थल\N_NN है\V_VM ,\RD_PUNC जिसके\N_NN गुम्बद\N_NN पर\PSP सोने\N_NN तथा\CC_CCD चाँदी\N_NNP का\PSP आवरण\V_VM है\V_VAUX ।\RD_PUNC
+htd4993	जलियाँवाला\N_NNP बाग\N_NN -\RD_PUNC वर्ष\N_NN 1919\QT_QTC में\PSP तत्कालीन\N_NN ब्रिटिश\N_NNP सरकार\N_NN ने\PSP इसी\DM_DMD स्थान\N_NN पर\PSP करीब\N_NN 2000\QT_QTC भारतीयों\N_NN का\PSP नरसंहार\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd4994	आज\N_NN यहाँ\DM_DMD उस\PR_PRP दुःखद\N_NN घटना\N_NN की\PSP याद\N_NN दिलाता\V_VAUX स्मारक\N_NN खड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd4995	बाबा\N_NNP अटल\N_NNP राय\N_NNP स्तंभ\N_NN ,\RD_PUNC गुरु\N_NN हरगोविंदसिंह\N_NNP के\PSP नौ\QT_QTC वर्षीय\N_NN पुत्र\N_NN का\PSP शहादत\N_NNP स्थल\N_NN है\V_VM ।\RD_PUNC
+htd4996	तरन\N_NN तारन\N_NN -\RD_PUNC अमृतसर\N_NNP से\PSP करीब\N_NN 22\QT_QTC किलोमीटर\N_NN दूर\N_NN इस\DM_DMD स्थान\N_NN पर\PSP एक\QT_QTC तालाब\N_NN है\V_VAUX ।\RD_PUNC
+htd4997	ऐसी\DM_DMD मान्यता\V_VM है\V_VAUX कि\CC_CCS इसके\DM_DMD पानी\N_NN में\PSP बीमारियों\N_NN को\PSP दूर\N_NN करने\V_VM की\PSP ताकत\V_VM है\V_VAUX ।\RD_PUNC
+htd4998	राम\N_NNP तीर्थ\N_NN ,\RD_PUNC भगवान\N_NN राम\N_NNP के\PSP पुत्रों\N_NN लव\N_NNP तथा\CC_CCD कुश\N_NNP का\PSP जन्म\N_NN स्थल\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd4999	हवाई\N_NN अड्डे\N_NN से\PSP अमृतसर\N_NNP शहर\N_NN की\PSP दूरी\N_NN करीब\N_NN 11\QT_QTC किलोमीटर\N_NN है\V_VAUX ,\RD_PUNC जिसे\PR_PRL तय\N_NN करने\N_NN में\PSP 15\QT_QTC मिनट\N_NN का\PSP समय\N_NN लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd5000	अक्टूबर\N_NNP से\PSP मार्च\N_NNP तक\PSP का\PSP समय\N_NN अमृतसर\N_NNP के\PSP भ्रमण\N_NN के\PSP लिए\PSP उपयुक्त\N_NN है\V_VM ।\RD_PUNC 

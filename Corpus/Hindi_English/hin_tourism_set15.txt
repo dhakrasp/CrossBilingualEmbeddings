@@ -1,0 +1,1001 @@
+ID	Value
+htd14001	दूसरे\QT_QTC तटों\N_NN पर\PSP भी\RP_RPD हम\PR_PRP गए\V_VM ।\RD_PUNC
+htd14002	लौटकर\V_VM यहाँ\DM_DMD के\PSP फोटो\N_NN देखकर\V_VM लगता\V_VM है\V_VAUX कि\CC_CCS क्या\DM_DMQ लहरें\N_NN थीं\V_VM ।\RD_PUNC
+htd14003	नील\N_NNP द्वीप\N_NNP पर\PSP प्लास्टिक\JJ नाव\N_NN में\PSP लगे\V_VM शीशे\N_NN में\PSP से\PSP समुद्र\N_NN में\PSP कुछ\QT_QTF फुट\N_NN गहराई\N_NN में\PSP विविध\JJ आकार-प्रकार\N_NN व\CC_CCD रंगों\N_NN के\PSP कोरल्स\N_NN (\RD_PUNC मूँगों\N_NN )\RD_PUNC की\PSP नायाब\JJ दुनिया\N_NN से\PSP परिचय\N_NN हुआ\V_VM ।\RD_PUNC
+htd14004	कई\QT_QTF तटों\N_NN पर\PSP रोमांचप्रेमी\JJ पर्यटकों\N_NN को\PSP अनुभवी\JJ गाइड\N_NN की\PSP निगरानी\N_NN में\PSP कोरल्स\N_NN व\CC_CCD जीवजंतुओं\N_NN को\PSP नजदीक\N_NN से\PSP महसूस\N_NN करने\V_VM के\PSP लिए\PSP स्नोरकेलिंग\N_NN भी\RP_RPD करने\V_VM को\PSP मिल\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14005	नारियल\N_NN इतने\DM_DMI कि\CC_CCS पानी\N_NN की\PSP जरूरत\N_NN महसूस\N_NN न\RP_NEG हुई\V_VM ।\RD_PUNC
+htd14006	लालबादामी\JJ रंग\N_NN के\PSP नारियल\N_NN का\PSP पानी\N_NN ज्यादा\QT_QTF मिठास\N_NN भरा\V_VM होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14007	पेड़\N_NN पर\PSP लगा\V_VM हरा\JJ नारियल\N_NN बड़े\JJ आकार\N_NN का\PSP हो\V_VM जाए\V_VAUX तो\RP_RPD स्वाद\N_NN कोका-कोला\N_NN जैसा\JJ हो\V_VM जाता\V_VAUX है\V_VAUX ,\RD_PUNC पीकर\V_VM ऐसा\DM_DMI लगा\V_VM भी\RP_RPD ।\RD_PUNC
+htd14008	हरे\JJ रंग\N_NN के\PSP आम\JJ नारियल\N_NN में\PSP मिठास\N_NN व\CC_CCD स्वाद\N_NN साधारण\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14009	अंदर\N_NST का\PSP गूदा\N_NN खाना\V_VM हो\V_VAUX तो\RP_RPD नारियल\N_NN से\PSP ही\RP_RPD बना\V_VM चम्मच\N_NN तुरंत\RB हाजिर\N_NN ।\RD_PUNC
+htd14010	सेहत\N_NN भी\RP_RPD और\CC_CCD लुत्फ़\N_NN भी\RP_RPD ,\RD_PUNC प्यास\N_NN बुझे\V_VM सो\CC_CCS अलग\N_NN ।\RD_PUNC
+htd14011	नील\N_NNP में\PSP रात\N_NN को\PSP रुक\V_VM सकते\V_VAUX हैं\V_VAUX ,\RD_PUNC हमें\PR_PRP तो\RP_RPD दोपहर\N_NN बाद\N_NN लौटना\V_VM ही\RP_RPD था\V_VAUX ।\RD_PUNC
+htd14012	वापसी\N_NN का\PSP सफर\N_NN हैवलॉक\N_NNP द्वीप\N_NNP को\PSP छूते\V_VM हुए\V_VAUX रहा\V_VM ।\RD_PUNC
+htd14013	यहाँ\DM_DMD भी\RP_RPD रात\N_NN को\PSP ठहरने\V_VM के\PSP लिए\PSP आरामदेह\JJ ठिकाने\N_NN हैं\V_VM ।\RD_PUNC
+htd14014	हैवलॉक\N_NNP से\PSP सवारियाँ\N_NN उतार\V_VM व\CC_CCD चिट्ठियाँ\N_NN चढ़ाकर\V_VM जहाज\N_NN जब\PR_PRL पोर्ट\N_NNP ब्लेयर\N_NNP की\PSP ओर\N_NN चला\V_VM तो\RP_RPD शाम\N_NN के\PSP रंग\N_NN पानी\N_NN पर\PSP उतर\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14015	बारिश\N_NN होकर\V_VM थमी\V_VM तो\RP_RPD चलती\JJ हवा\N_NN ने\PSP लहरों\N_NN की\PSP चाल\N_NN बदल\V_VM दी\V_VAUX ।\RD_PUNC
+htd14016	हवा\N_NN सामने\N_NN से\PSP आ\V_VM रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14017	लहरें\N_NN परेशान\N_NN ,\RD_PUNC जहाज\N_NN हल्के\JJ हिचकोले\N_NN लेता\V_VM रहा\V_VAUX ।\RD_PUNC
+htd14018	ऐसे\DM_DMI में\PSP कई\QT_QTF पर्यटकों\N_NN को\PSP सिर\N_NN दर्द\N_NN हो\V_VM जाता\V_VAUX है\V_VAUX (\RD_PUNC सी\JJ सिकनेस\N_NN )\RD_PUNC ।\RD_PUNC
+htd14019	डैक\N_NN पर\PSP खड़े\V_VM हों\V_VAUX तो\RP_RPD गहरे\JJ रंगों\N_NN में\PSP डूबता\V_VM पानी\N_NN डर\V_VM भरा\QT_QTF रोमांच\N_NN रोम-रोम\N_NN में\PSP भर\V_VM देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14020	नील\N_NNP से\PSP वाया\N_NN हैवलॉक\N_NNP होते\V_VM पोर्ट\N_NNP ब्लेयर\N_NNP तक\PSP चार\QT_QTC घंटे\N_NN से\PSP ज्यादा\QT_QTF वक्‍त\N_NN लेता\V_VM है\V_VAUX ।\RD_PUNC
+htd14021	इस\DM_DMD जहाज\N_NN में\PSP स्टाफ\JJ कैंटीन\N_NN भी\RP_RPD खुली\V_VM न\RP_NEG थी\V_VAUX ,\RD_PUNC यहाँ\DM_DMD समझ\N_NN में\PSP आया\V_VM चाय\N_NN कितनी\DM_DMQ जरूरी\N_NN है\V_VM ।\RD_PUNC
+htd14022	अब\N_NST नौसेना\N_NN के\PSP अधीन\N_NN ,\RD_PUNC कभी\DM_DMI अंग्रेजों\N_NN व\CC_CCD जापानियों\N_NN की\PSP राजधानी\N_NN रहा\V_VM रौस\N_NNP आईलैंड\N_NNP पोर्ट\N_NNP ब्लेयर\N_NNP का\PSP पड़ोसी\N_NN है\V_VM ।\RD_PUNC
+htd14023	अगली\N_NN सुबह\N_NN की\PSP यात्रा\N_NN तीन\QT_QTC द्वीपों\N_NN की\PSP सैर\N_NN कराने\V_VM वाली\JJ रही\V_VAUX मगर\CC_CCD हमें\PR_PRP सिर्फ\QT_QTF रौस\N_NNP जाना\V_VM था\V_VAUX ।\RD_PUNC
+htd14024	जाते\V_VM समय\N_NN बाएँ\N_NN तरफ\N_NN जो\PR_PRL टापू\N_NN दिखता\V_VM है\V_VAUX वह\PR_PRP नार्थबे\N_NNP है\V_VM ।\RD_PUNC
+htd14025	इसकी\PR_PRP फोटो\N_NN बीस\QT_QTC रुपये\N_NN के\PSP भारतीय\JJ नोट\N_NN के\PSP पिछले\JJ हिस्से\N_NN में\PSP प्रयोग\N_NN की\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14026	पंद्रह\QT_QTC मिनट\N_NN में\PSP हम\PR_PRP रौस\N_NNP पहुँच\V_VM गए\V_VAUX ।\RD_PUNC
+htd14027	लोहे\N_NN के\PSP गोल\JJ खूँटे\N_NN पर\PSP रस्सा\N_NN फेंक\V_VM नाव\N_NN को\PSP रोका\V_VM ।\RD_PUNC
+htd14028	यहाँ\DM_DMD प्रवेश\JJ टिकट\N_NN है\V_VM और\CC_CCD कैमरा\JJ फीस\N_NN भी\RP_RPD ।\RD_PUNC
+htd14029	पुरानी\JJ इमारतों\N_NN के\PSP खंडहर\N_NN पर\PSP जड़ों\N_NN का\PSP कब्जा\N_NN है\V_VM ।\RD_PUNC
+htd14030	रहस्मय\JJ लगती\V_VM ऐतिहासिक\JJ जगह\N_NN पर\PSP ज्वारभाटा\JJ वैधशाला\N_NN थी\V_VM ।\RD_PUNC
+htd14031	वहीं\DM_DMD छापाखाना\N_NN ,\RD_PUNC बिजलीघर\N_NN ,\RD_PUNC चर्च\N_NN ,\RD_PUNC बेकरी\N_NN ,\RD_PUNC बैरकें\N_NN ,\RD_PUNC आफिसर्स\N_NN क्लब\N_NN ,\RD_PUNC वॉटर\JJ टैंक\N_NN भी\RP_RPD बने\V_VM थे\V_VAUX ।\RD_PUNC
+htd14032	अंग्रेजी\JJ जीवन\JJ शैली\N_NN की\PSP कहानियों\N_NN के\PSP फटे\V_VM पन्नों\N_NN पर\PSP अब\N_NST आम\N_NN -\RD_PUNC कटहल\N_NN के\PSP पेड़\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd14033	और\CC_CCD दिखते\V_VM छुपते\V_VM निराश\JJ हिरण\N_NN ,\RD_PUNC मोर\N_NN व\CC_CCD बारहसिंघे\N_NN भी\RP_RPD ।\RD_PUNC
+htd14034	वे\PR_PRP यहाँ\DM_DMD के\PSP वर्तमान\N_NN में\PSP कैद\N_NN हैं\V_VM ।\RD_PUNC
+htd14035	रौस\N_NNP के\PSP फरार\N_NNP नामक\N_NN बीच\N_NN तक\PSP काफी\QT_QTF सीढ़ियाँ\N_NN उतरकर\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14036	यहाँ\DM_DMD पानी\N_NN गुस्से\N_NN में\PSP दिखा\V_VM 1\QT_QTC नारियल\JJ पानी\N_NN यहाँ\DM_DMD भी\RP_RPD एनर्जी\JJ स्रोत\N_NN की\PSP तरह\N_NN साथ\N_NN रहा\V_VM ।\RD_PUNC
+htd14037	बारिश\N_NN आई\V_VM ,\RD_PUNC तो\RP_RPD भगाकर\V_VM जेट्टी\N_NN पहुँचे\V_VM ।\RD_PUNC
+htd14038	दोपहर\N_NN बाद\N_NN बडूर\N_NNP जाना\V_VM था\V_VAUX ।\RD_PUNC
+htd14039	सड़क\N_NN के\PSP दोनों\QT_QTC ओर\N_NN बिछे\V_VM खेतों\N_NN की\PSP हरियाली\N_NN व\CC_CCD यहाँ\DM_DMD -\RD_PUNC वहाँ\PR_PRP खिले\V_VM फूलों\N_NN ने\PSP यह\DM_DMD सफर\N_NN खुशनुमा\JJ बना\V_VM दिया\N_NN ।\RD_PUNC
+htd14040	रास्ते\N_NN में\PSP उजड़े\JJ घरौंदों\N_NN ने\PSP समझा\V_VM दिया\V_VAUX कि\CC_CCS सुनामी\N_NN का\PSP कुप्रभाव\N_NN यहाँ\DM_DMD तक\PSP रहा\V_VM ।\RD_PUNC
+htd14041	यहाँ\DM_DMD के\PSP सागर\JJ तट\N_NN की\PSP रेत\N_NN मोटी\JJ है\V_VM जिसमें\PR_PRL समुद्री\JJ पौधे\N_NN सावला\JJ बिखरे\V_VM पड़े\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14042	यह\DM_DMD नर्म\JJ प्लास्टिक\N_NN के\PSP से\RP_RPD लगते\V_VM थे\V_VAUX ।\RD_PUNC
+htd14043	समंदर\N_NN यहाँ\DM_DMD गुस्से\N_NN में\PSP रहा\V_VM ।\RD_PUNC
+htd14044	काली\JJ मिर्च\N_NN ,\RD_PUNC लौंग\N_NN ,\RD_PUNC जावित्री\N_NN ,\RD_PUNC दाल\N_NN चीनी\N_NN ,\RD_PUNC सुपारी\N_NN के\PSP सुगंधित\JJ पौधे\N_NN से\PSP पूरा\QT_QTF माहौल\N_NN महका\V_VM था\V_VAUX ।\RD_PUNC
+htd14045	यहाँ\DM_DMD पड़ोस\N_NN में\PSP दुकान\N_NN पर\PSP मोती\N_NN व\CC_CCD अन्य\QT_QTF समुद्री\JJ उपहारों\N_NN से\PSP बने\V_VM आभूषण\N_NN व\CC_CCD अन्य\QT_QTF कलात्मक\JJ वस्तुएँ\N_NN उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd14046	यह\DM_DMD शहर\N_NN के\PSP शोरूम\N_NN पर\PSP महँगे\JJ दामों\N_NN में\PSP बिकती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14047	शाम\N_NN को\PSP बाजार\N_NN यात्रा\N_NN में\PSP सीप\N_NN से\PSP बने\V_VM लैंपशेड\N_NN ,\RD_PUNC सूप\JJ वॉल्स\N_NN ,\RD_PUNC कड़े\N_NN ,\RD_PUNC रिंग्स\N_NN भी\RP_RPD दिखे\V_VM ।\RD_PUNC
+htd14048	सुबह\N_NN वापस\N_NN उड़ना\V_VM था\V_VAUX ।\RD_PUNC
+htd14049	दिल\N_NN चाहता\V_VM था\V_VAUX कुछ\QT_QTF और\CC_CCD समय\N_NN यहाँ\DM_DMD रहते\V_VM मगर\CC_CCD दिमाग\N_NN काम\N_NN की\PSP तरफ\N_NN लौटने\V_VM की\PSP बात\N_NN कर\V_VM रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14050	एयर\JJ होस्टेस\N_NN बता\V_VM रही\V_VAUX थी\V_VAUX कि\CC_CCS विमान\N_NN किन\PR_PRQ -\RD_PUNC किन\PR_PRQ सुरक्षा\N_NN इंतजामों\N_NN से\PSP लैस\N_NN है\V_VM ।\RD_PUNC
+htd14051	गोवा\N_NNP के\PSP समुद्र\JJ तटों\N_NN के\PSP बारे\PSP में\PSP तो\RP_RPD हम\PR_PRP तब\N_NN जानते\V_VM ही\RP_RPD हैं\V_VM ।\RD_PUNC
+htd14052	लेकिन\CC_CCD गोवा\N_NNP का\PSP एक\QT_QTC और\CC_CCD प्राकृतिक\JJ रूप\N_NN उसके\PR_PRP घने\JJ जंगलों\N_NN ,\RD_PUNC पहाड़ों\N_NN ,\RD_PUNC झरनों\N_NN और\CC_CCD घाटियों\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd14053	उसके\PR_PRP इस\DM_DMD रूप\N_NN की\PSP खूबसूरती\N_NN भी\RP_RPD किसी\DM_DMI से\PSP कम\QT_QTF नहीं\RP_NEG ।\RD_PUNC
+htd14054	गोतंक\N_NNP भूमि\N_NNP यानि\N_NN गोवा\N_NNP देश\N_NN -\RD_PUNC विदेश\N_NN के\PSP पर्यटकों\N_NN के\PSP लिए\PSP अल्टीमेट\JJ डेस्टीनेशन\N_NN बन\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14055	पिछले\QT_QTF चंद\QT_QTF सालों\N_NN से\PSP गोवा\N_NNP का\PSP आकर्षण\N_NN दिन\N_NN दुना\QT_QTF -\RD_PUNC रात\N_NN चौगुना\QT_QTF होता\V_VM जा\V_VAUX रहा\N_NN है\V_VAUX ।\RD_PUNC
+htd14056	खूबसूरत\JJ समुद्र\JJ तट\N_NN ,\RD_PUNC पाँच\QT_QTC सौ\N_NN साल\N_NN से\PSP भी\RP_RPD ज्यादा\QT_QTF पुराने\JJ विशाल\JJ गिरजाघर\N_NN और\CC_CCD साफ\JJ -\RD_PUNC सुथरे\JJ मंदिर\N_NN और\CC_CCD उतनी\DM_DMD ही\RP_RPD सुशेगात\JJ (\RD_PUNC सुशेगात\JJ कोंकणी\N_NNP लफ्ज\N_NN है\V_VM ।\RD_PUNC सुशेगात\N_NNP का\PSP मतलब\N_NN होता\V_VM है\V_VM ,\RD_PUNC सुकूनभरी\JJ -\RD_PUNC शांतिपूर्ण\JJ ,\RD_PUNC तसल्लीबख्श\JJ )\RD_PUNC लाइफस्टाइल\N_NN ।\RD_PUNC
+htd14057	कोंकणी\N_NNP यहाँ\DM_DMD की\PSP मूल\JJ भाषा\N_NN है\V_VM ।\RD_PUNC
+htd14058	सैलानियों\N_NN में\PSP गोवा\N_NNP की\PSP लोकप्रियता\N_NN की\PSP यूँ\DM_DMI तो\RP_RPD तमाम\JJ वजहें\N_NN थी\V_VM हीं\RP_RPD ,\RD_PUNC लेकिन\CC_CCD अब\N_NST इको\JJ टूरिज्म\N_NN ने\PSP वहाँ\PR_PRP की\PSP खूबसूरती\N_NN में\PSP एक\QT_QTC नया\JJ आयाम\N_NN जोड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd14059	गोवा\N_NNP ने\PSP अपने\PR_PRF समुद्र\JJ तट\N_NN ,\RD_PUNC कैसिनो\N_NN ,\RD_PUNC चर्च\N_NN आदि\N_NN की\PSP भव्य\JJ खूबसूरती\N_NN में\PSP इको\JJ टूरिज्म\N_NN भी\RP_RPD शामिल\N_NN कर\V_VM लिया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14060	इससे\PSP यहाँ\DM_DMD आने\V_VM वाले\JJ सैलानियों\N_NN की\PSP संख्या\N_NN में\PSP एक\QT_QTC नया\JJ वर्ग\N_NN और\JJ जुड़\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14061	इको\JJ टूरिज्म\N_NN यानि\CC_CCS एक\QT_QTC तरह\N_NN से\PSP कुदरती\JJ पर्यटन\JJ स्थल\N_NN जहाँ\PR_PRL की\PSP प्राकृतिक\JJ रचना\N_NN वैसे\DM_DMD ही\RP_RPD सँभाली\V_VM गई\V_VAUX हो\V_VAUX जैसी\JJ प्रकृति\N_NN ने\PSP हमें\PR_PRP दी\V_VM थी\V_VAUX ,\RD_PUNC जहाँ\PR_PRL पर्यावरण\N_NN का\PSP संतुलन\N_NN न\RP_NEG बिगड़ा\V_VM हो\V_VAUX ।\RD_PUNC ।\RD_PUNC
+htd14062	गोवा\N_NNP के\PSP इस\DM_DMD इको\JJ -\RD_PUNC टूरिज्म\N_NN नक्शे\N_NN में\PSP शामिल\N_NN हैं\V_VM -\RD_PUNC भगवान\N_NNP महावीर\N_NNP वाइल्ड\N_NNP लाइफ\N_NNP सैंक्चुअरी\N_NNP या\CC_CCS जिसे\PR_PRL पहले\QT_QTF कहा\V_VM जाता\V_VAUX था\V_VAUX मोलेम\N_NNP नेशनल\N_NNP पार्क\N_NNP ।\RD_PUNC
+htd14063	गोवा\N_NNP की\PSP राजधानी\N_NN पणजी\N_NNP से\PSP साठ\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP यानि\CC_CCS पणजी\N_NNP -\RD_PUNC बेलगाम\N_NNP नेशनल\N_NNP हाइवे\N_NNP पर\PSP यह\DM_DMD वन्य\JJ जीव\N_NN अभयारण्य\N_NN 107\QT_QTC वर्ग\N_NN किलोमीटर\N_NN इलाके\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd14064	यहाँ\DM_DMD ऊँचे\JJ पहाड़\N_NN भी\RP_RPD हैं\V_VM और\CC_CCD गहरी\JJ घाटियाँ\N_NN भी\RP_RPD ।\RD_PUNC
+htd14065	पक्षियों\N_NN को\PSP देखना\V_VM जिन्हें\PR_PRL भाता\V_VM हैं\V_VAUX ,\RD_PUNC उनके\PR_PRP लिए\PSP यह\DM_DMD स्थान\N_NN सटीक\JJ है\V_VM ।\RD_PUNC
+htd14066	यहाँ\DM_DMD पक्षियों\N_NN और\CC_CCD जंगली\JJ जानवरों\N_NN की\PSP कई\QT_QTF किस्मों\N_NN के\PSP नजारे\N_NN बेहद\QT_QTF नजदीक\JJ से\PSP देखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14067	यहाँ\DM_DMD से\PSP महज\JJ एक\QT_QTC घंटे\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM दूधसागर\N_NNP फॉल्स\N_NNP जिसकी\PR_PRL ख्याति\N_NN दूर-दराज\N_NN तक\PSP फैली\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14068	आँखों\N_NN को\PSP सुकून\N_NN देना\V_VM हो\V_VAUX ,\RD_PUNC तो\RP_RPD दूधसागर\N_NNP जैसे\JJ कुदरती\JJ वॉटरफॉल\N_NN का\PSP कोई\DM_DMI विकल्प\N_NN नहीं\RP_NEG हैं\V_VM ।\RD_PUNC
+htd14069	इको\JJ टूरिज्म\N_NN के\PSP जितने\DM_DMI स्थल\N_NN गोवा\N_NNP में\PSP हैं\V_VM ,\RD_PUNC शायद\JJ ही\RP_RPD कहीं\DM_DMI ओर\N_NN हो\V_VM ।\RD_PUNC
+htd14070	पणजी\N_NNP से\PSP 52\QT_QTC कि.मी.\N_NN और\CC_CCD मडगाँव\N_NNP से\PSP 36\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP एक\QT_QTC खूबसूरत\JJ जंगल\N_NN बना\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14071	इसे\PR_PRP बोन्डला\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14072	बोन्डला\N_NNP वन्यजीव\JJ अभयारण्य\N_NN भी\RP_RPD है\V_VM ,\RD_PUNC और\CC_CCD चिड़ियाघर\N_NN व\CC_CCD बोटोनिकल\JJ गार्डन\N_NN भी\RP_RPD ।\RD_PUNC
+htd14073	सपरिवार\N_NN रहने\V_VM और\CC_CCD जंगल\N_NN का\PSP लुत्फ़\N_NN उठाने\V_VM के\PSP लिए\PSP गोवा\N_NNP सरकार\N_NNP की\PSP तरफ\N_NN से\PSP यहाँ\DM_DMD बेहतरीन\JJ कॉटेज\N_NN भी\RP_RPD उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd14074	यहाँ\DM_DMD देखने\V_VM लायक\N_NN अन्य\QT_QTF चीजों\N_NN में\PSP डीयर\N_NNP सफारी\N_NNP पार्क\N_NNP ,\RD_PUNC बर्ड\N_NNP लाइफ\N_NNP पार्क\N_NNP ,\RD_PUNC नेचर\N_NNP एजुकेशन\N_NNP सेंटर\N_NNP ,\RD_PUNC रोज\N_NNP गार्डन\N_NNP भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd14075	लेकिन\CC_CCD बोंडला\N_NNP पार्क\N_NNP हर\QT_QTF बृहस्पतिवार\N_NNP को\PSP बंद\N_NN रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd14076	गोवा\N_NNP की\PSP तीसरी\QT_QTO बड़ी\JJ वाइल्ड\JJ लाइफ\JJ सैंक्चुअरी\N_NN है\V_VM कोतिगाँव\N_NNP ।\RD_PUNC
+htd14077	दक्षिण\N_NNP गोवा\N_NNP का\PSP यह\DM_DMD प्रमुख\JJ पर्यटन\N_NN स्थल\N_NN पणजी\N_NNP से\PSP 76\QT_QTC कि.मी.\N_NN की\PSP दूरी\N_NN पर\PSP बना\V_VM है\V_VAUX ।\RD_PUNC
+htd14078	वहीं\N_NN सलीम\N_NNP अली\N_NNP बर्ड\N_NNP सैंक्चुअरी\N_NNP तो\RP_RPD पूरी\QT_QTF दुनिया\N_NN में\PSP जानी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14079	यह\DM_DMD गोवा\N_NNP की\PSP प्रख्यात\JJ मांडवी\N_NNP नदी\N_NNP के\PSP किनारे\N_NN फैली\V_VM है\V_VAUX ।\RD_PUNC
+htd14080	यहाँ\DM_DMD पक्षियों\N_NN की\PSP विविध\JJ किस्में\N_NN देखने\V_VM पूरे\QT_QTF साल\N_NN भर\RP_RPD पर्यटक\N_NN यहाँ\DM_DMD आते\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14081	गोवा\N_NNP जाने\V_VM वाले\JJ हर\QT_QTF पर्यटक\N_NN की\PSP ,\RD_PUNC चाहे\V_VM वो\PR_PRP विदेशी\JJ हो\V_VM या\CC_CCD देशी\JJ ,\RD_PUNC स्थानीय\JJ फूड\N_NN खाए\V_VM बिना\RP_NEG गोवा\N_NNP यात्रा\N_NN व्यर्थ\N_NN कहलाएगी\V_VM ।\RD_PUNC
+htd14082	दुनियाभर\N_NN में\PSP मशहूर\JJ यहाँ\DM_DMD के\PSP खाने\N_NN का\PSP असली\JJ जायका\N_NN उसके\PR_PRP मसालों\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd14083	यही\DM_DMD वजह\N_NN है\V_VM कि\CC_CCS पिछले\JJ कुछ\QT_QTF सालों\N_NN से\PSP गोवा\N_NNP के\PSP इको\JJ टूरिज्म\N_NN में\PSP स्पाइस\N_NN प्लांटेशन\N_NN भी\RP_RPD प्रमुख\JJ तौर\N_NN पर\PSP शामिल\N_NN हो\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14084	वैसे\DM_DMI ,\RD_PUNC विदेशी\JJ पर्यटक\N_NN तो\RP_RPD गोवा\N_NNP के\PSP मशहूर\JJ काजू\N_NN ,\RD_PUNC कोकोनट\N_NN ,\RD_PUNC आम\N_NN ,\RD_PUNC आमसूल\N_NN के\PSP बगीचे\N_NN देखने\V_VM में\PSP भी\RP_RPD बेहद\JJ रुचि\N_NN रखते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14085	गोवा\N_NNP में\PSP हर्बल\JJ गार्डस\JJ पर्यटकों\N_NN के\PSP लिए\PSP नया\JJ आकर्षण\N_NN बनते\V_VM जा\V_VAUX रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14086	पार्वती-माधव\N_NNP पार्क\N_NNP प्लान्टेशन\N_NNP ,\RD_PUNC केरी\N_NNP नामक\N_NN गाँव\N_NN में\PSP बसा\V_VM है\V_VAUX ।\RD_PUNC
+htd14087	यहाँ\DM_DMD काफी\QT_QTF सारा\QT_QTF हर्बल\JJ कल्टीवेशन\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14088	ऑर्गेनिक\JJ फार्मिंग\N_NN के\PSP अलावा\N_NN यहाँ\DM_DMD पर\PSP पर्यटकों\N_NN का\PSP ठेठ\JJ गोवन\JJ लजीज\JJ खाना\N_NN भी\RP_RPD खिलाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14089	इसके\PR_PRP अलावा\N_NN वालपई\N_NNP गाँव\N_NN के\PSP निकट\N_NN रस्टिक\N_NNP प्लांटेशन\N_NNP फलों\N_NN के\PSP बगीचों\N_NN के\PSP लिए\PSP खास\JJ देखने\V_VM लायक\N_NN है\V_VM ।\RD_PUNC
+htd14090	इनके\DM_DMD अलावा\N_NN सहकारी\N_NNP स्पाइस\N_NNP फार्म\N_NNP ,\RD_PUNC संस्कृति\N_NNP सैवियो\N_NNP प्लांटेशन\N_NNP आदि\N_NN पर\PSP मसाले\N_NN उगाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14091	यह\DM_DMD पर्यटकों\N_NN को\PSP आकर्षित\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14092	स्पाइस\JJ फार्म्स\N_NN की\PSP हम\PR_PRP बात\N_NN करें\V_VM और\CC_CCD पास्कल\N_NNP ऑर्गेनिक\N_NNP स्पाइस\N_NNP विलेज\N_NNP का\PSP जिक्र\N_NN न\RP_NEG करें\V_VM तो\RP_RPD गलत\N_NN होगा\V_VM ।\RD_PUNC
+htd14093	गोवा\N_NNP की\PSP मशहूर\JJ नदी\N_NN खांडेपार\N_NNP है\V_VM ।\RD_PUNC
+htd14094	इसी\DM_DMD नदी\N_NN के\PSP किनारे\N_NN पास्कल\N_NNP स्पाइस\N_NNP फार्म\N_NNP मौजूद\N_NN है\V_VM ।\RD_PUNC
+htd14095	यहाँ\DM_DMD पहुँचने\V_VM के\PSP लिए\PSP आपको\PR_PRP फोंडा\N_NNP शहर\N_NN से\PSP आठ\QT_QTC कि.मी.\N_NN अंदर\N_NN जाना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd14096	मिलग्रीस\N_NNP फर्नांडिस\N_NNP और\CC_CCD उनकी\PR_PRP पत्‍नी\N_NN एमिशिएना\N_NNP के\PSP प्रकृति\JJ प्रेम\N_NN ने\PSP उन्हें\PR_PRP पास्कल\N_NNP स्पाइस\N_NNP फार्म\N_NNP का\PSP निर्माण\N_NN करने\V_VM के\PSP लिए\PSP प्रेरित\N_NN किया\V_VM ।\RD_PUNC
+htd14097	मिलग्रीस\N_NNP फर्नांडिस\N_NNP के\PSP बड़े\JJ भाई\N_NN भी\RP_RPD नेचर\JJ लवर\N_NN थे\V_VM ।\RD_PUNC
+htd14098	उनका\PR_PRP अचानक\RB इंतकाल\N_NN होने\V_VM पर\PSP फर्नांडिस\N_NNP दंपत्ति\N_NN ने\PSP उनकी\PR_PRP याद\N_NN में\PSP इस\DM_DMD खूबसूरत\JJ स्पाइस\JJ फार्म\N_NN का\PSP निर्माण\N_NN किया\V_VM ।\RD_PUNC
+htd14099	यह\DM_DMD अब\N_NST गोवा\N_NNP आनेवाले\N_NN कई\QT_QTF देशी\JJ -\RD_PUNC विदेशी\JJ पर्यटकों\N_NN की\PSP पहली\QT_QTO पसंद\N_NN बन\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14100	1992\QT_QTC में\PSP इन्हें\PR_PRP गोवा\N_NNP सरकार\N_NNP का\PSP सर्वश्रेष्‍ठ\JJ किसान\N_NN का\PSP पुरस्कार\N_NN मिल\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14101	1998\QT_QTC में\PSP एक\QT_QTC अंतराष्‍ट्रीय\JJ पुरस्कार\N_NN भी\RP_RPD जीत\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14102	वैसे\DM_DMI तो\RP_RPD गोवा\N_NNP में\PSP काफी\QT_QTF सारी\QT_QTF कृषि\JJ भूमि\N_NN को\PSP इको\JJ टूरिज्म\N_NN की\PSP तर्ज\N_NN पर\PSP विकसित\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14103	यह\DM_DMD लगभग\JJ 20\QT_QTC एकड़\N_NN में\PSP फैले\V_VM पास्कल\N_NNP फार्म\N_NNP को\PSP पर्यटक\N_NN खासा\JJ ऊँचा\JJ आँकते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14104	इसकी\PR_PRP एक\QT_QTC वजह\N_NN यह\DM_DMD भी\RP_RPD हो\V_VM सकती\V_VAUX है\V_VAUX कि\CC_CCS यह\DM_DMD सौ\QT_QTC फीसदी\N_NN आर्गनिक\JJ फार्म\N_NN है\V_VM ।\RD_PUNC
+htd14105	यहाँ\DM_DMD के\PSP प्रवेश\JJ द्वार\N_NN पर\PSP ही\RP_RPD गजराज\N_NN आपका\PR_PRP भव्य\JJ स्वागत\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd14106	हाथी\N_NN पर\PSP मेहमानों\N_NN की\PSP सवारी\N_NN इनके\PR_PRP आतिथ्य\N_NN की\PSP खासियत\N_NN है\V_VM ।\RD_PUNC
+htd14107	खांडेपार\N_NNP नदी\N_NN में\PSP राफ्‍टिंग\N_NN का\PSP अनुभव\N_NN भी\RP_RPD लिया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14108	मेहमानों\N_NN की\PSP खालिस\JJ देसी\JJ अंदाज\N_NN में\PSP खातिरदारी\N_NN के\PSP लिए\PSP गोवन\JJ संगीत\N_NN और\CC_CCD नृत्य\N_NN से\PSP सजी\JJ महफिल\N_NN मदमस्त\N_NN कर\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14109	प्रकृति\N_NN की\PSP असाधारण\JJ खूबसूरती\N_NN से\PSP सराबोर\JJ वातावरण\N_NN में\PSP जब\PR_PRL इतनी\DM_DMD शानदार\JJ मेहमानवाजी\N_NN हो\V_VM ,\RD_PUNC तो\RP_RPD क्या\DM_DMQ कहने\V_VM ।\RD_PUNC
+htd14110	यहाँ\DM_DMD जंगल\N_NN के\PSP बीचों-बीच\N_NST बने\V_VM रेस्तराँ\N_NN में\PSP बैठकर\V_VM गोवन\JJ फूड\N_NN जैसे\CC_CCS झींगा\N_NN ,\RD_PUNC लॉबस्टर\N_NN ,\RD_PUNC क्रैब\N_NN (\RD_PUNC केकड़ा\N_NN )\RD_PUNC ,\RD_PUNC सोलकढ़ी\N_NN का\PSP मजा\N_NN लेना\V_VM अनोखा\JJ अनुभव\N_NN हैं\V_VM ।\RD_PUNC
+htd14111	स्थानीय\JJ भोजन\N_NN में\PSP सीफूड\N_NN के\PSP अलावा\N_NN शाकाहारी\JJ व\CC_CCD कॉटिनेंटल\JJ व्यंजन\N_NN भी\RP_RPD परोसे\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14112	इनके\DM_DMD लिए\PSP खूबसूरत\JJ कॉटेज\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd14113	कई\QT_QTF कॉटेज\N_NN तो\RP_RPD खांडेपार\N_NNP नदी\N_NN के\PSP ठीक\JJ सामने\N_NN हैं\V_VM ।\RD_PUNC
+htd14114	वहाँ\DM_DMD फिशिंग\N_NN ,\RD_PUNC बोटिंग\N_NN ,\RD_PUNC स्विमिंग\N_NN जैसी\JJ सारी\QT_QTF मौज-मस्ती\N_NN उपलब्ध\N_NN है\V_VM ।\RD_PUNC
+htd14115	दूधसागर\N_NNP का\PSP बहता\JJ पानी\N_NN आगे\N_NN जाकर\V_VM इसी\DM_DMD खांडेपार\N_NNP नदी\N_NN में\PSP मिल\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14116	इसकी\PR_PRP सुंदरता\N_NN में\PSP मानो\V_VM चार\QT_QTC चाँद\N_NN लग\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14117	चारों\QT_QTC ओर\N_NN खूशबू\N_NN फैलाते\V_VM फूल\N_NN ,\RD_PUNC खिले\V_VM हुए\V_VAUX कमल\N_NN ,\RD_PUNC औषधि\JJ वनस्पतियाँ\N_NN सबका\QT_QTF मिला-जुला\N_NN असर\N_NN दीवाना\N_NN सा\RP_RPD बना\V_VM देता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14118	लौंग\N_NN ,\RD_PUNC इलायची\N_NN ,\RD_PUNC काली\JJ मिर्च\N_NN ,\RD_PUNC जायफल\N_NN ,\RD_PUNC हींग\N_NN ,\RD_PUNC हल्दी\N_NN जैसे\JJ पारंपरिक\JJ मसाले\N_NN तो\RP_RPD हैं\V_VM ही\RP_RPD ।\RD_PUNC
+htd14119	केसर\N_NN ,\RD_PUNC वैनिला\N_NN और\CC_CCD एलोवेरा\N_NN जैसी\JJ नई\JJ खोजी\JJ औषधियाँ\N_NN और\CC_CCD बाँस\N_NN ,\RD_PUNC तुलसी\N_NN ,\RD_PUNC नीम\N_NN व\CC_CCD लेमनग्रास\N_NN जैसे\JJ पेड़\N_NN -\RD_PUNC पौधे\N_NN भरपूर\JJ हैं\V_VM ।\RD_PUNC
+htd14120	लोकप्रिय\JJ विदेशी\JJ फूल\N_NN -\RD_PUNC एंथूरियम\N_NN ,\RD_PUNC ऑर्किड\N_NN ,\RD_PUNC जरबेरा\N_NN ,\RD_PUNC बोगनवेलिया\N_NN ,\RD_PUNC एक्झोरा\N_NN ,\RD_PUNC कई\QT_QTF तरह\N_NN के\PSP फर्न\N_NN ,\RD_PUNC हेलिकोर्निया\N_NN ,\RD_PUNC पेंडुलम\N_NN वगैरह\N_NN यहाँ\DM_DMD की\PSP प्रकृति\N_NN में\PSP रंग\N_NN भरते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14121	पर्यटकों\N_NN के\PSP लिए\PSP यहाँ\DM_DMD बर्ड\N_NN वाचिंग\N_NN भी\RP_RPD एक\QT_QTC बड़ा\JJ आकर्षण\N_NN है\V_VM ।\RD_PUNC
+htd14122	यहाँ\DM_DMD बड़ी\JJ संख्या\N_NN में\PSP प्रवासी\JJ पक्षी\N_NN भी\RP_RPD हर\QT_QTF साल\N_NN आते\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14123	इसकी\PR_PRP गोवा\N_NNP के\PSP पर्यटन\JJ सर्किट\N_NN में\PSP अलग\N_NN जगह\N_NN बन\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14124	गोवा\N_NNP में\PSP यदि\CC_CCS समुद्र\JJ तटों\N_NN से\PSP इतर\N_NN शांत\JJ छुट्टियाँ\N_NN आप\PR_PRP मनाना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD इस\DM_DMD अनुभव\N_NN को\PSP आजमाया\N_NN जा\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14125	गोवा\N_NNP की\PSP सड़क\N_NN बेहद\RP_INTF आरामदायक\JJ हैं\V_VM ।\RD_PUNC
+htd14126	किसी\DM_DMI भी\RP_RPD कोने\N_NN से\PSP किसी\DM_DMI भी\RP_RPD कोने\N_NN तक\PSP जाने\V_VM के\PSP लिए\PSP किराए\N_NN पर\PSP मोटर\N_NN साइकिल\N_NN और\CC_CCD कार\N_NN उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd14127	निजी\JJ बस\JJ सेवा\N_NN और\CC_CCD सरकारी\JJ कदंब\JJ बस\N_NN सेवा\N_NN भी\RP_RPD हर\QT_QTF शहर\N_NN के\PSP लिए\PSP उपलब्ध\N_NN है\V_VM ।\RD_PUNC
+htd14128	स्वप्नगंधा\N_NNP जंगल\N_NN में\PSP कोलारघाट\N_NNP में\PSP स्थित\N_NN दूधसागर\N_NNP वाटरवाल्स\N_NNP गोवा\N_NNP -\RD_PUNC कर्नाटक\N_NNP सीमा\N_NN पर\PSP स्थित\N_NN हैं\V_VM ।\RD_PUNC
+htd14129	ऊँचाई\N_NN में\PSP यह\DM_DMD प्रपात\N_NN भारत\N_NNP में\PSP पाँचवे\QT_QTO नंबर\N_NN पर\PSP है\V_VM ।\RD_PUNC
+htd14130	नाम\N_NN के\PSP अनुरूप\N_NN दूध\N_NN जैसा\JJ पानी\N_NN ।\RD_PUNC
+htd14131	पणजी\N_NNP या\CC_CCD मडगाँव\N_NNP में\PSP टैक्सी\N_NN या\CC_CCD बस\N_NN से\PSP यहाँ\DM_DMD पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14132	लेकिन\CC_CCD सबसे\RP_INTF मजेदार\JJ बात\N_NN यह\DM_DMD है\V_VM कि\CC_CCS दो\QT_QTC हजार\N_NN फुट\N_NN की\PSP ऊँचाई\N_NN से\PSP गिरते\V_VM इस\DM_DMD झरने\N_NN के\PSP ठीक\JJ सामने\N_NN कुछ\QT_QTF मीटर\N_NN की\PSP दूरी\N_NN पर\PSP रेल\JJ पटरी\N_NN गुजरती\V_VM है\V_VAUX ।\RD_PUNC
+htd14133	मडगाँव\N_NNP से\PSP ट्रेन\N_NN से\PSP यहाँ\DM_DMD आया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14134	रोमांटिक\JJ प्रेमी\N_NN प्रपात\N_NN के\PSP सहारे\N_NN -\RD_PUNC सहारे\N_NN चट्टानों\N_NN व\CC_CCD झाड़ियों\N_NN पर\PSP चढ़ाई\V_VM करते\V_VAUX -\RD_PUNC करते\V_VAUX उसके\PR_PRP शीर्ष\N_NN तक\PSP पहुँच\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14135	मडगाँव\N_NNP के\PSP लिए\PSP दिल्ली\N_NNP -\RD_PUNC मुंबई\N_NNP व\CC_CCD अन्य\QT_QTF जगहों\N_NN से\PSP सीधी\JJ ट्रेनें\N_NN हैं\V_VM ।\RD_PUNC
+htd14136	दांबोलिन\N_NNP हवाई\N_NNP अड्डा\N_NNP भी\RP_RPD मडगाँव\N_NNP से\PSP पाँच\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd14137	तरूधान\N_NNP घाटी\N_NNP स्थित\N_NN सीजन्स\N_NNP होटल\N_NNP का\PSP हरियाली\N_NN भरा\RP_RPD रिजार्ट\N_NN और\CC_CCD क्लब\JJ हाउस\N_NN औपचारिक\JJ उद्‍घाटन\N_NN के\PSP बाद\N_NN अत्यंत\RP_INTF भव्य\JJ समारोह\N_NN के\PSP साथ\PSP 31\QT_QTC अक्‍टूबर\N_NNP ,\RD_PUNC 2009\QT_QTC को\PSP खुल\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14138	यहाँ\DM_DMD टिमटिमाते\JJ तारों\N_NN के\PSP बीच\N_NST चमकते\V_VM हुए\V_VAUX समाज\N_NN के\PSP प्रतिष्‍ठित\JJ एवं\CC_CCD नामचीन\JJ हस्तियों\N_NN ने\PSP स्वादिष्‍ट\JJ एवं\CC_CCD जायकेदार\JJ व्यंजनों\N_NN का\PSP भरपूर\JJ लुत्फ़\N_NN लिया\V_VM ।\RD_PUNC
+htd14139	सीजन्स\N_NNP होटल\N_NNP सुरम्य\JJ तरूधान\N_NNP घाटी\N_NNP में\PSP स्थित\N_NN हैं\V_VM ।\RD_PUNC
+htd14140	यह\DM_DMD अरावली\N_NNP पहाड़ियों\N_NNP की\PSP भव्यता\N_NN से\PSP घिरा\V_VM एक\QT_QTC स्वर्ग\N_NN है\V_VM ।\RD_PUNC
+htd14141	हरे\JJ -\RD_PUNC भरे\JJ एवं\CC_CCD सुंदर\JJ बगीचों\N_NN तथा\CC_CCD प्राकृतिक\JJ जल-स्रोतों\N_NN से\PSP युक्‍त\JJ 75\QT_QTC एकड़\N_NN के\PSP विस्तार\N_NN क्षेत्र\N_NN में\PSP फैले\V_VM यहाँ\DM_DMD के\PSP रिजार्ट\N_NN में\PSP आरामदायक\JJ ,\RD_PUNC अत्याधुनिक\JJ एवं\CC_CCD पूर्ण\QT_QTF सुविधायुक्‍त\JJ सुपीरियर\JJ रूम\N_NN ,\RD_PUNC प्रीमियम\JJ रूम\N_NN और\CC_CCD एक्जीक्यूटिव\JJ सुइट\N_NN से\PSP आकर्षक\JJ बागीचों\N_NN या\CC_CCD स्वीमिंग\N_NN पूल\N_NN का\PSP पूरा\QT_QTF नजारा\N_NN दिखता\V_VM है\V_VAUX ।\RD_PUNC
+htd14142	यह\DM_DMD रिजार्ट\N_NN आई.टी.सी.\N_NNP क्लासिक\N_NNP गोल्फ\N_NNP कोर्स\N_NNP से\PSP बमुश्किल\JJ 100\QT_QTC मी.\N_NN की\PSP दूरी\N_NN पर\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd14143	यहाँ\DM_DMD 27\QT_QTC होल\N_NN वाले\JJ गोल्फ\JJ कोर्स\N_NN की\PSP सुविधा\N_NN है\V_VM ।\RD_PUNC
+htd14144	यह\DM_DMD नई\N_NNP दिल्ली\N_NNP अंतराष्‍ट्रीय\N_NNP हवाई-अड्डे\N_NNP से\PSP 40\QT_QTC कि.मी.\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd14145	सीजन्स\N_NNP ग्रुप\N_NNP की\PSP स्थापना\N_NN सन्‌\N_NN 1987\QT_QTC में\PSP हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd14146	इसकी\PR_PRP पूरे\QT_QTF दिल्ली\N_NNP -\RD_PUNC एन.सी.आर.\N_NNP में\PSP उत्कृष्‍ट\JJ रेस्टोरेंटों\N_NN एवं\CC_CCD आउटडोर\JJ कैटरिंग\JJ सेवाओं\N_NN में\PSP एक\QT_QTC विश्‍वसनीय\JJ पहचान\N_NN है\V_VM ।\RD_PUNC
+htd14147	ग्राहम\N_NNP कुक\N_NNP द्वारा\PSP डिजाइन\N_NN किया\V_VM 9\QT_QTC होल\N_NN गोल्फ\JJ कोर्स\N_NN वाला\JJ यह\DM_DMD रिसार्ट\N_NN एक\QT_QTC उभरता\V_VM हुआ\V_VAUX वेलनेस\JJ सेंटर\N_NN है\V_VM ।\RD_PUNC
+htd14148	बच्चों\N_NN के\PSP लिए\PSP हवादार\JJ क्रीडांगन\N_NN के\PSP साथ\PSP ही\RP_RPD मल्टीकुजीन\JJ फूड\N_NN ,\RD_PUNC स्वीमिंग\N_NN पूल\N_NN ,\RD_PUNC टेबिल\JJ टेनिस\JJ रूम\N_NN एवं\CC_CCD स्नूकर\JJ रूम\N_NN जैसी\JJ सुविधाओं\N_NN से\PSP युक्‍त\N_NN क्लब\JJ हाउस\JJ वाला\JJ यह\DM_DMD रिसोर्ट\N_NN परिवार\N_NN के\PSP साथ\PSP मौज-मस्ती\N_NN करने\V_VM का\PSP एक\QT_QTC आदर्श\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd14149	साथ\PSP ही\RP_RPD स्पा\N_NN और\CC_CCD अन्य\QT_QTF वेलनेस\N_NN से\PSP संबंधित\N_NN सुविधायें\N_NN भी\RP_RPD इस\DM_DMD रिसोर्ट\N_NN को\PSP और\QT_QTF भी\RP_RPD खास\JJ बना\V_VM देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14150	यहाँ\DM_DMD सम्पूर्ण\JJ परिवेश\N_NN में\PSP व्याप्‍त\N_NN शान्ति\N_NN किसी\DM_DMI भी\RP_RPD आयोजन\N_NN या\CC_CCD समारोह\N_NN को\PSP सफल\N_NN बनाने\V_VM का\PSP एक\QT_QTC महत्त्वपूर्ण\JJ कारण\N_NN है\V_VM ।\RD_PUNC
+htd14151	यहाँ\DM_DMD स्थित\N_NN हरा\JJ -\RD_PUNC भरा\JJ एवं\CC_CCD विशाल\JJ लॉन\N_NN बैंक्विट\N_NN ,\RD_PUNC डिनर\N_NN एवं\CC_CCD थीम\JJ पार्टीज\N_NN के\PSP लिए\PSP एक\QT_QTC उत्कृष्‍ट\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd14152	पूरा\QT_QTF रिसोर्ट\N_NN वाई-फाई\N_NN की\PSP सुविधा\N_NN से\PSP लैस\N_NN है\V_VM ।\RD_PUNC
+htd14153	यहाँ\DM_DMD मौजूद\N_NN फलों\N_NN के\PSP बगीचे\N_NN ,\RD_PUNC रेतीली\JJ भूमि\N_NN ,\RD_PUNC जल-स्रोत\N_NN ,\RD_PUNC चट्‍टानी\JJ दृश्य\N_NN और\CC_CCD रंग\JJ -\RD_PUNC बिरंगी\JJ झाड़ियों\N_NN के\PSP गुच्छे\N_NN स्पेन\N_NNP के\PSP वाल्डेरामा\N_NNP और\CC_CCD कैलीफोर्निया\N_NNP के\PSP पेबल\N_NNP बीच\N_NNP जैसे\JJ गोल्फ\JJ कोर्स\N_NN का\PSP नजारा\N_NN प्रस्तुत\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14154	इसके\PR_PRP अतिरिक्‍त\N_NN यहाँ\DM_DMD ड्राईविंग\JJ रेंज\N_NN ,\RD_PUNC चिपिंग\N_NN एवं\CC_CCD पुटिंग\JJ एरिया\N_NN ,\RD_PUNC बैटरी\N_NN से\PSP संचालित\N_NN गोल्फ\JJ गाड़ी\N_NN और\CC_CCD प्रशिक्षित\JJ कैंडीज\N_NN की\PSP भी\RP_RPD सुविधा\N_NN है\V_VM ।\RD_PUNC
+htd14155	यहाँ\DM_DMD स्थित\N_NN प्रो\N_NN शॉप\N_NN में\PSP गोल्फ\JJ उपकरण\N_NN ,\RD_PUNC परिधान\N_NN ,\RD_PUNC गोल्फ\JJ सेट्‍स\N_NN और\CC_CCD शूज\N_NN भी\RP_RPD मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14156	वास्तव\N_NN में\PSP तरूनधान\N_NNP घाटी\N_NNP एक\QT_QTC प्राकृतिक\JJ स्वर्ग\N_NN है\V_VM जहाँ\PR_PRL सर्वत्र\QT_QTF मौलिक\JJ फलोद्यानों\N_NN एवं\CC_CCD विशिष्‍ट\JJ फलों\N_NN की\PSP बहार\N_NN छाई\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14157	दिन\N_NN में\PSP आस-पास\JJ के\PSP खेतों\N_NN में\PSP गेरू-पीत\JJ रंग\N_NN वाले\JJ सरसों\N_NN तथा\CC_CCD सुनहरी\JJ बालियों\N_NN वाले\JJ गेहूँ\N_NN की\PSP स्वर्णिम\JJ चमक\N_NN दिखती\V_VM है\V_VAUX ।\RD_PUNC
+htd14158	यहाँ\DM_DMD ग्रामीण\JJ जीवन\N_NN की\PSP आभा\N_NN अपने\PR_PRF चरम\N_NN पर\PSP होती\V_VM है\V_VAUX ।\RD_PUNC
+htd14159	ऊधमसिंह\N_NNP नगर\N_NNP की\PSP तराई\N_NN में\PSP स्थित\N_NN काशीपुर\N_NNP में\PSP नगर\N_NN से\PSP आधे\QT_QTF मील\N_NN की\PSP दूरी\N_NN पर\PSP गोविषाण\N_NNP टीला\N_NNP अपने\PR_PRF भीतर\N_NST कई\QT_QTF इतिहास\N_NN समेटे\V_VM हुए\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14160	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS यहाँ\DM_DMD चीनी\JJ यात्री\N_NN ह्वेनसांग\N_NNP और\CC_CCD फाहियान\N_NNP आए\V_VM थे\V_VAUX ।\RD_PUNC
+htd14161	फाहियान\N_NNP गुप्‍तकाल\N_NNP के\PSP समय\N_NN (\RD_PUNC 399\QT_QTC ई.\N_NN से\PSP 414\QT_QTC ई.\N_NN )\RD_PUNC यहाँ\DM_DMD पहुँचे\V_VM ।\RD_PUNC
+htd14162	यायावर\N_NNP फाहियान\N_NNP ने\PSP यहाँ\DM_DMD बौद्ध\JJ स्तूप\N_NN होने\V_VM की\PSP बात\N_NN अपने\PR_PRF यात्रा\JJ वृतांत्त\N_NN में\PSP लिखी\V_VM थी\V_VAUX ।\RD_PUNC
+htd14163	इसके\PR_PRP बाद\N_NN चीनी\JJ यात्री\N_NN ह्वेनसांग\N_NNP (\RD_PUNC 621\QT_QTC ई.\N_NN से\PSP 645\QT_QTC ई.\N_NN )\RD_PUNC जब\PR_PRL उस\PR_PRP स्थान\N_NN पर\PSP पहुँचा\V_VM तो\RP_RPD उसने\PR_PRP इस\DM_DMD स्थान\N_NN का\PSP पूरा\QT_QTF विवरण\N_NN अपने\PR_PRF वृतांत्त\N_NN में\PSP दिया\V_VM ।\RD_PUNC
+htd14164	ह्वेनसांग\N_NNP के\PSP अनुसार\N_NN वह\PR_PRP मादीपुर\N_NNP से\PSP चलकर\V_VM 66\QT_QTC मील\N_NN की\PSP यात्रा\N_NN पूरी\N_NN कर\V_VM गोविषाण\N_NNP नामक\N_NN स्थान\N_NN पर\PSP पहुँचा\V_VM ।\RD_PUNC
+htd14165	यहाँ\DM_DMD ऊँची\JJ भूमि\N_NN पर\PSP ढाई\QT_QTF मील\N_NN को\PSP गोलाई\N_NN लिए\PSP एक\QT_QTC स्थान\N_NN था\V_VM ।\RD_PUNC
+htd14166	इसमें\PR_PRP बगीचे\N_NN ,\RD_PUNC तालाब\N_NN एवं\CC_CCD मछली\JJ कुंडों\N_NN के\PSP अलावा\N_NN दो\QT_QTC मठ\N_NN थे\V_VM ,\RD_PUNC जिनमें\PR_PRL सौ\N_NN बौद्ध\JJ धर्मानुयायी\N_NN रहते\V_VM थे\V_VAUX ।\RD_PUNC
+htd14167	यहाँ\DM_DMD 30\QT_QTC ब्राह्मण\JJ धर्म\N_NN के\PSP मंदिर\N_NN थे\V_VM ।\RD_PUNC
+htd14168	शहर\N_NN के\PSP बाहर\N_NST एक\QT_QTC बड़े\JJ मठ\N_NN में\PSP 200\QT_QTC फूट\N_NN ऊँचा\JJ अशोक\N_NNP का\N_NNP स्तूप\N_NNP था\V_VM ।\RD_PUNC
+htd14169	इसके\PR_PRP अलावा\N_NN दो\QT_QTC छोटे\JJ -\RD_PUNC छोटे\JJ स्तूप\N_NN थे\V_VM ,\RD_PUNC जिनमें\PR_PRL भगवान\N_NNP बुद्ध\N_NNP के\PSP नख\N_NN एवं\CC_CCD बाल\N_NN रखे\V_VM गए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14170	इन\PR_PRP मठों\N_NN में\PSP भगवान\N_NNP बुद्ध\N_NNP ने\PSP लोगों\N_NN को\PSP धर्म\JJ उपदेश\N_NN दिए\V_VM थे\V_VAUX ।\RD_PUNC
+htd14171	1868\QT_QTC में\PSP भारत\N_NNP के\PSP तत्कालीन\JJ पुरातत्त्व\JJ सर्वेक्षण\N_NN सर\N_NNP अलेक्जेंडर\N_NNP कनिंघम\N_NNP ने\PSP इस\DM_DMD स्थान\N_NN का\PSP दौरा\V_VM किया\V_VAUX लेकिन\CC_CCD इनमें\DM_DMD उन्हें\PR_PRP ये\DM_DMD वस्तुएँ\N_NN खासकर\V_VM भगवान\N_NNP बुद्ध\N_NNP के\PSP नख\N_NN एवं\CC_CCD बाल\N_NN नहीं\RP_NEG मिले\V_VM ।\RD_PUNC
+htd14172	कनिंघम\N_NNP को\PSP इस\DM_DMD टीले\N_NN की\PSP सबसे\RP_INTF ऊँचाई\N_NN पर\PSP स्थित\N_NN भीमगोड़ा\N_NNP स्थल\N_NNP पर\PSP एक\QT_QTC पुरातात्त्विक\JJ निर्माण\N_NN का\PSP पता\N_NN चला\V_VM ।\RD_PUNC
+htd14173	यहाँ\DM_DMD पर\PSP भारत\N_NNP के\PSP तत्कालीन\JJ मुख्य\JJ पुरातत्त्व\JJ सर्वेक्षक\N_NN डॉ.\N_NNP वाई.\N_NNP डी.\N_NNP शर्मा\N_NNP के\PSP नेतृत्व\N_NN में\PSP सीमित\JJ खुदाई\N_NN का\PSP कार्य\N_NN आरंभ\N_NN किया\V_VM गया\V_VAUX ,\RD_PUNC जिसका\PR_PRL उद्देश्य\N_NN यह\DM_DMD जानना\V_VM था\V_VAUX कि\CC_CCS इस\DM_DMD टीले\N_NN के\PSP अंदर\N_NST के\PSP भवनों\N_NN की\PSP आकृति\N_NN क्या\PR_PRQ है\V_VM ।\RD_PUNC
+htd14174	1966\QT_QTC में\PSP सीमित\JJ खुदाई\N_NN करके\V_VM यह\DM_DMD कहा\V_VM गया\V_VAUX कि\CC_CCS पुरातात्त्विक\JJ दृष्‍टि\N_NN से\PSP महत्त्वपूर्ण\JJ होने\V_VM के\PSP कारण\N_NN इसका\PR_PRP संरक्षण\N_NN जरूरी\JJ है\V_VM ।\RD_PUNC
+htd14175	इसमें\DM_DMD 596वीं\QT_QTO शताब्दी\N_NN की\PSP किलेनुमा\JJ दीवारें\N_NN मिली\V_VM थी\V_VAUX ।\RD_PUNC
+htd14176	आकर्षक\JJ रूप\N_NN से\PSP उकेरी\V_VM गई\V_VAUX ईंटों\N_NN से\PSP बनी\V_VM दीवारों\N_NN की\PSP शिल्पकला\N_NN भी\RP_RPD अनूठी\JJ थी\V_VM ।\RD_PUNC
+htd14177	इसके\PR_PRP अलावा\N_NN ताँबे\N_NN के\PSP सिक्के\N_NN बर्तन\N_NN समेत\N_NN ताँबे\N_NN पर\PSP नक्काशी\N_NN करने\V_VM वाली\JJ कखानी\N_NN भी\RP_RPD यहाँ\DM_DMD मिली\V_VM ।\RD_PUNC
+htd14178	चॉकलेटी\JJ रंग\N_NN का\PSP दो\QT_QTC छिद्रों\N_NN वाला\JJ सुरक्षा\JJ ताबीज\N_NN यहाँ\DM_DMD मिला\V_VM ।\RD_PUNC
+htd14179	इसके\PR_PRP अलावा\N_NN भूरे\JJ लाल\JJ रंग\N_NN लिए\PSP मिट्टी\N_NN के\PSP बने\V_VM हुए\V_VAUX दीये\N_NN और\CC_CCD अलग-अलग\JJ आकृति\N_NN के\PSP अगरबत्ती\N_NN रखने\V_VM के\PSP खाँचे\N_NN और\CC_CCD तीरों\N_NN की\PSP नोंक\N_NN ,\RD_PUNC लोहे\N_NN की\PSP छड़ें\N_NN और\CC_CCD चाकू\N_NN भी\RP_RPD इसकी\PR_PRP खुदाई\N_NN से\PSP प्राप्‍त\N_NN हुआ\V_VM ।\RD_PUNC
+htd14180	1969\QT_QTC में\PSP एक\QT_QTC बार\N_NN फिर\RB यहाँ\DM_DMD खुदाई\N_NN कर\V_VM 140\QT_QTC फूट\N_NN लंबे\JJ ,\RD_PUNC 82\QT_QTC फूट\N_NN चौड़े\JJ और\CC_CCD साढ़े\QT_QTF उन्नीस\QT_QTC फुट\N_NN ऊँचे\JJ विशाल\JJ चैत्य\N_NNP के\PSP अवशेष\N_NN मिले\V_VM ।\RD_PUNC
+htd14181	एक\QT_QTC प्रदक्षिणा\JJ पथ\N_NN भी\RP_RPD मिला\V_VM ,\RD_PUNC जिसका\PR_PRL काफी\QT_QTF हिस्सा\N_NN मंदिर\N_NN की\PSP मुख्य\JJ दीवार\N_NN के\PSP निर्माण\N_NN से\PSP मेल\N_NN खाता\V_VM था\V_VAUX ।\RD_PUNC
+htd14182	मिट्टी\N_NN से\PSP बने\V_VM पतले\JJ पहिए\N_NN के\PSP आकार\N_NN के\PSP बर्तन\N_NN को\PSP एक\QT_QTC क्रम\N_NN से\PSP पाया\V_VM गया\V_VAUX ।\RD_PUNC
+htd14183	इस\DM_DMD अभियान\N_NN की\PSP विशेषता\N_NN यह\DM_DMD थी\V_VM कि\CC_CCS जो\PR_PRL चीजें\N_NN यहाँ\DM_DMD मिली\V_VM ,\RD_PUNC वह\PR_PRP अन्य\QT_QTF स्थानों\N_NN की\PSP खुदाई\N_NN में\PSP कही\DM_DMI नहीं\RP_NEG मिली\V_VM ।\RD_PUNC
+htd14184	परातत्त्वविदों\N_NN को\PSP आशा\N_NN है\V_VM कि\CC_CCS गोविषाण\N_NNP टीले\N_NNP पर\PSP उत्खनन\N_NN से\PSP ह्वेनसांग\N_NNP के\PSP यात्रा\N_NN विवरण\N_NN में\PSP वर्णित\N_NN बौद्ध\N_NNP स्तूप\N_NNP के\PSP अलावा\N_NN यहाँ\DM_DMD पर\PSP ताम्रयुगीन\JJ सभ्यता\N_NN के\PSP अवशेष\N_NN प्राप्‍त\N_NN हो\V_VM सकेंगे\V_VAUX ।\RD_PUNC
+htd14185	गोविषाण\N_NNP की\PSP बाबत\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS इसे\PR_PRP भगवान\N_NNP बुद्ध\N_NNP ने\PSP लगभग\JJ 2,600\QT_QTC वर्ष\N_NN पूर्व\JJ बसाया\V_VM था\V_VAUX ।\RD_PUNC
+htd14186	काशीपुर\N_NNP का\PSP पुराना\JJ किला\N_NN उज्जैन\N_NNP कहलाता\V_VM है\V_VAUX ।\RD_PUNC
+htd14187	जिसके\PR_PRL निकट\N_NN द्रोण\N_NNP सागर\N_NNP है\V_VM ।\RD_PUNC
+htd14188	यह\DM_DMD सागर\N_NN किले\N_NN से\PSP पहले\JJ बना\V_VM है\V_VAUX ।\RD_PUNC
+htd14189	यह\DM_DMD सागर\N_NN पांडवों\N_NNP ने\PSP अपने\PR_PRF गुरु\N_NN द्रोणाचार्य\N_NNP के\PSP लिए\PSP बनाया\V_VM था\V_VAUX ,\RD_PUNC ऐसी\DM_DMI मान्यता\N_NN है\V_VM ।\RD_PUNC
+htd14190	इसका\PR_PRP चोकोर\JJ क्षेत्रफल\N_NN 600\QT_QTC वर्ग\N_NN फूट\N_NN है\V_VM ।\RD_PUNC
+htd14191	यहाँ\DM_DMD गंगोत्री\N_NNP जाने\V_VM वाले\JJ यात्री\N_NN आते\V_VM है\V_VAUX ।\RD_PUNC
+htd14192	इसके\PR_PRP किनारे\N_NN सती\N_NN नारियों\N_NN के\PSP स्मारक\N_NN हैं\V_VM ।\RD_PUNC
+htd14193	इस\DM_DMD उज्जैन\N_NNP किले\N_NNP की\PSP दीवारें\N_NN 60\QT_QTC फूट\N_NN ऊँची\JJ हैं\V_VM ।\RD_PUNC
+htd14194	इस\DM_DMD दीवार\N_NN की\PSP लंबाई\N_NN -\RD_PUNC चौड़ाई\N_NN तथा\CC_CCD ऊँचाई\N_NN क्रमश:\RB 15\QT_QTC फूट\N_NN ×\RD_SYM 10\QT_QTC फूट\N_NN ×\RD_SYM 21\QT_QTC /\RD_SYM 2\QT_QTC फूट\N_NN ऊँचे\JJ किले\N_NN में\PSP ज्वाला\N_NNP देवी\N_NNP ,\RD_PUNC जिन्हें\PR_PRL उज्जैनी\N_NNP देवी\N_NNP कहा\V_VM जाता\V_VAUX है\V_VAUX ,\RD_PUNC की\PSP मूर्ति\N_NN स्थापित\N_NN है\V_VM ।\RD_PUNC
+htd14195	यहाँ\DM_DMD चैत\N_NNP माह\N_NN में\PSP एक\QT_QTC विशाल\JJ मेला\N_NN लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd14196	चैती\JJ मेले\N_NN के\PSP नाम\N_NN से\PSP प्रसिद्ध\JJ इस\DM_DMD मेले\N_NN में\PSP दूर\JJ -\RD_PUNC दूर\JJ से\PSP लोग\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14197	यहाँ\DM_DMD कई\QT_QTF मंदिर\N_NN बाद\N_NN में\PSP बने\V_VM ,\RD_PUNC उनमें\PR_PRP मुख्यत:\RB भूतेश्‍वर\N_NNP ,\RD_PUNC मुक्‍तेश्‍वर\N_NNP ,\RD_PUNC नागनाथ\N_NNP ,\RD_PUNC जागीश्‍वर\N_NNP प्रमुख\JJ हैं\V_VM ।\RD_PUNC
+htd14198	गोविषाण\N_NNP नगर\N_NN उस\PR_PRP प्राचीन\JJ रेशम\N_NNP मार्ग\N_NNP के\PSP बीच\N_NST में\PSP स्थित\N_NN है\V_VM जो\PR_PRL प्राचीनकाल\N_NN में\PSP उत्तर\N_NNP पथ\N_NNP अफ़गानिस्तान\N_NNP के\PSP बामियान\N_NNP नामक\N_NN स्थान\N_NN से\PSP आरंभ\N_NN होता\V_VM था\V_VAUX और\CC_CCD तक्षशिला\N_NNP से\PSP होकर\V_VM पांडवों\N_NNP की\PSP राजधानी\N_NN हस्तिनापुर\N_NNP तक\PSP पहुँचता\V_VM था\V_VAUX ।\RD_PUNC
+htd14199	गोविषाण\N_NNP तीन\QT_QTC के\PSP बीच\N_NN में\PSP स्थित\N_NN था\V_VM ,\RD_PUNC जिनमें\PR_PRL से\PSP एक\QT_QTC मार्ग\N_NN यहाँ\DM_DMD से\PSP पाटलिपुत्र\N_NNP को\PSP दूसरा\QT_QTO अहिचूछ्त्र\N_NNP और\CC_CCD तीसरा\QT_QTO कौशांबी\N_NNP को\PSP जाता\V_VM था\V_VAUX ।\RD_PUNC
+htd14200	इस\DM_DMD स्थल\N_NN पर\PSP पहले\QT_QTO खुदाइयों\N_NN में\PSP ताम्रयुगीन\JJ सभ्यता\N_NN के\PSP दौर\N_NN की\PSP गेरुए\JJ रंग\N_NN के\PSP मृदभांड\N_NN मिल\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14201	गोविषाण\N_NNP में\PSP पिछले\QT_QTF कुछ\QT_QTF वर्षों\N_NN पूर्व\JJ जो\PR_PRL खुदाई\N_NN हुई\V_VM उसके\PR_PRP तहत\N_NN डॉ.\N_NNP धर्मवीर\N_NNP शर्मा\N_NNP ने\PSP ठाकुरद्वारा\N_NNP के\PSP मदारपुर\N_NNP गाँव\N_NN के\PSP पास\N_NN ताम्र\JJ मानवाकृतियाँ\N_NN हड़प्पाकाल\N_NNP के\PSP बाद\N_NN मिलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14202	इन्हें\PR_PRP हड़प्पा\N_NNP व\CC_CCD ताम्रयुगीन\JJ सभ्यता\N_NN के\PSP बीच\N_NN का\PSP सेतु\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14203	गोविषाण\N_NNP की\PSP खुदाई\N_NN से\PSP हड़प्पा\JJ सभ्यता\N_NN के\PSP आस-पास\N_NN रहने\V_VM वाले\JJ शुद्ध\JJ ताँबे\N_NN की\PSP वस्तुएँ\N_NN बनाने\V_VM वाले\JJ लोगों\N_NN के\PSP बारे\N_NN में\PSP जानकारी\N_NN मिल\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14204	कुमाऊँ\N_NNP में\PSP आज\N_NST भी\RP_RPD ताँबे\N_NN के\PSP कारीगर\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14205	टम्टा\N_NNP नाम\N_NN से\PSP पहचाने\V_VM जाने\V_VAUX वाले\JJ ये\DM_DMD कारीगर\N_NN ताँबे\N_NN के\PSP बर्तन\N_NN उपयोग\N_NN में\PSP लाते\V_VM रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14206	इस\DM_DMD स्थल\N_NN से\PSP प्राप्‍त\V_VM चिकनी\JJ मिट्टी\N_NN की\PSP कलाकृतियों\N_NN वाले\JJ मृदभांडों\N_NN के\PSP अध्ययन\N_NN से\PSP पुरातत्त्वविद\N_NN इन्हें\PR_PRP ई.\N_NN पूर्व\N_NN 1,100\QT_QTC लेकर\V_VM ई.\N_NN पूर्व\N_NN 1,500\QT_QTC तक\PSP बताते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14207	जो\PR_PRL इस\DM_DMD बात\N_NN का\PSP संकेत\N_NN है\V_VM कि\CC_CCS इस\DM_DMD क्षेत्र\N_NN का\PSP संबंध\N_NN महाभारत\N_NNP काल\N_NNP से\PSP हो\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14208	इस\DM_DMD क्षेत्र\N_NN को\PSP उत्तर\N_NNP व\CC_CCD दक्षिण\N_NNP पांचाल\N_NNP के\PSP रूप\N_NN में\PSP महाभारत\N_NNP के\PSP योद्धा\N_NN द्रोणाचार्य\N_NNP ने\PSP विभाजित\N_NN किया\V_VM और\CC_CCD इसे\PR_PRP अपने\PR_PRF राज्य\N_NN का\PSP हिस्सा\N_NN बनाया\V_VM ।\RD_PUNC
+htd14209	इसी\PR_PRP गोविषाण\N_NNP के\PSP उत्तर\N_NNP के\PSP ब्रह्मपुर\N_NNP में\PSP कत्यूरी-राजाओं\N_NNP का\PSP राज्य\N_NN रहा\V_VM होगा\V_VAUX ।\RD_PUNC
+htd14210	ह्वेनसांग\N_NNP लखनपुर\N_NNP आया\V_VM जो\PR_PRL ब्रह्मपुर\N_NNP की\PSP राजधानी\N_NN थी\V_VM ।\RD_PUNC
+htd14211	ह्वेनसांग\N_NNP सातवीं\QT_QTO शताब्दी\N_NN में\PSP आया\V_VM था\V_VAUX और\CC_CCD 16\QT_QTC वर्ष\N_NN रहकर\V_VM चीन\N_NNP लौट\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14212	यह\DM_DMD नगरी\N_NN काशीपुर\N_NNP कहलाई\V_VM जो\PR_PRL चंद\N_NNP राजाओं\N_NN के\PSP राजकर्मियों\N_NN की\PSP निवास\JJ स्थली\N_NN रही\V_VM थी\V_VAUX ।\RD_PUNC
+htd14213	इनमें\N_NN से\PSP कुछ\QT_QTF राजा\N_NNP लालचंद\N_NNP के\PSP वंशजों\N_NN के\PSP कारिंदे\N_NN भी\RP_RPD थे\V_VM जो\PR_PRL आज\N_NST भी\RP_RPD अच्छे\JJ पदों\N_NN पर\PSP हैं\V_VM ।\RD_PUNC
+htd14214	यहाँ\DM_DMD का\PSP चौबे\N_NNP खानदान\N_NN पुराना\JJ है\V_VM ।\RD_PUNC
+htd14215	अग्रवाल\N_NNP ,\RD_PUNC खन्नी\N_NNP और\CC_CCD वैश्य\N_NNP भी\RP_RPD यहाँ\DM_DMD के\PSP तिजारतदां\N_NN रहे\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14216	कहा\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS बाद\N_NN में\PSP इसी\DM_DMD काशीपुर\N_NNP नगर\N_NN को\PSP 1918\QT_QTC में\PSP नए\JJ सिरे\N_NN से\PSP कुमाऊँ\N_NNP के\PSP राजा\N_NN काशीनाथ\N_NNP ने\PSP बसाया\V_VM था\V_VAUX ।\RD_PUNC
+htd14217	काशीपुर\N_NNP का\PSP किला\N_NN शिवदेव\N_NNP जोशी\N_NNP ने\PSP 1745\QT_QTC में\PSP बनवाया\V_VM था\V_VAUX ।\RD_PUNC
+htd14218	कूर्मांचल\N_NNP के\PSP प्रसिद्ध\JJ कवि\N_NN गुमानी\N_NNP की\PSP पैदाइश\N_NN भी\RP_RPD काशीपुर\N_NNP की\PSP ही\RP_RPD है\V_VM ।\RD_PUNC
+htd14219	गोविषाण\N_NNP की\PSP खुदाई\N_NN में\PSP शुंग\N_NNP और\CC_CCD कुषाण\N_NNP काल\N_NN (\RD_PUNC ईसा\N_NNP पूर्व\JJ 200\QT_QTC से\PSP लेकर\V_VM 130\QT_QTC ईसा\N_NNP पूर्व\JJ )\RD_PUNC तक\PSP राजपुर\N_NNP काल\N_NN के\PSP मनके\N_NN ,\RD_PUNC मृदभांड\N_NN ,\RD_PUNC सिक्के\N_NN मिले\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14220	इसके\PR_PRP अलावा\N_NN अनाज\N_NN रखने\V_VM के\PSP बर्तन\N_NN एवं\CC_CCD गेहू\N_NN के\PSP दाने\N_NN भी\RP_RPD प्राप्‍त\N_NN हुए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14221	जो\PR_PRL इसी\DM_DMD काल\N_NN के\PSP समझे\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14222	इस\DM_DMD साल\N_NN की\PSP पूरी\QT_QTF खुदाई\N_NN में\PSP कत्यूर\JJ काल\N_NN से\PSP पहले\JJ 2900\QT_QTC ईसा\N_NNP पूर्व\JJ तक\PSP जानकारी\N_NN मिलने\V_VM की\PSP संभावना\N_NN है\V_VM ।\RD_PUNC
+htd14223	अमेरिका\N_NNP का\PSP हवाई\N_NNP द्वीप\N_NNP समूह\N_NNP आग\N_NN उगलते\V_VM ज्वालामुखियों\N_NN ,\RD_PUNC हरी\JJ -\RD_PUNC भरी\JJ घाटियों\N_NN ,\RD_PUNC दूर\JJ तक\PSP फैले\V_VM सफेद\JJ समुद्री\JJ तटों\N_NN ,\RD_PUNC पहाड़\N_NN की\PSP चोटियों\N_NN और\CC_CCD अपनी\PR_PRF समृद्ध\JJ सांस्कृतिक\JJ विरासत\N_NN के\PSP लिए\PSP पूरी\QT_QTF दुनिया\N_NN में\PSP मशहूर\JJ है\V_VM ।\RD_PUNC
+htd14224	हवाई\N_NNP द्वीप\N_NNP को\PSP बिग\N_NNP आइलैंड\N_NNP के\PSP नाम\N_NN से\PSP भी\RP_RPD जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14225	यह\DM_DMD अमेरिका\N_NNP का\PSP 50वाँ\QT_QTO राज्य\N_NN है\V_VM ।\RD_PUNC
+htd14226	यहाँ\DM_DMD देखने\V_VM लायक\N_NN काफी\QT_QTF कुछ\N_NN है\V_VM ।\RD_PUNC
+htd14227	इन\PR_PRP द्वीप\JJ समूहों\N_NN में\PSP सबसे\RP_INTF लोकप्रिय\JJ है\JJ ओआहू\N_NNP ।\RD_PUNC
+htd14228	ओआहू\N_NNP होनोलुलू\N_NNP का\PSP सबसे\RP_INTF बड़ा\JJ नगर\N_NN है\V_VM ।\RD_PUNC
+htd14229	यहाँ\DM_DMD आप\PR_PRP सर्फिंग\N_NN और\CC_CCD धूप\N_NN स्नान\N_NN का\PSP खुलकर\V_VM लुत्फ़\N_NN उठा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14230	इसके\PR_PRP बाद\N_NN आप\PR_PRP माई\N_NNP और\CC_CCD कौआई\N_NNP द्वीप\N_NNP की\PSP ओर\N_NN रुख\N_NN करें\V_VM ।\RD_PUNC
+htd14231	इन\PR_PRP सभी\QT_QTF द्वीपों\N_NN की\PSP जलवायु\N_NN एक\QT_QTC सी\RP_RPD है\V_VM ।\RD_PUNC
+htd14232	हवाई\N_NNP का\PSP यह\DM_DMD भाग\N_NN हमेशा\QT_QTF हरा\JJ -\RD_PUNC भरा\JJ रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd14233	होनोलुलू\N_NNP में\PSP पर्यटकों\N_NN के\PSP आकर्षण\N_NN का\PSP मुख्य\JJ केंद्र\N_NN यहाँ\DM_DMD के\PSP पूर्व\N_NNP में\PSP स्थित\N_NN वाईकीकी\N_NNP समुद्र\N_NNP तट\N_NNP है\V_VM ।\RD_PUNC
+htd14234	वाईकीकी\N_NNP को\PSP एक\QT_QTC अलग\N_NN द्वीप\N_NN भी\RP_RPD माना\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14235	इसके\PR_PRP एक\QT_QTC ओर\N_NN समुद्र\N_NN और\CC_CCD दूसरी\QT_QTO ओर\N_NN आला\N_NNP वाई\N_NNP नहर\N_NNP है\V_VM ,\RD_PUNC जो\PR_PRL इसे\PR_PRP होनोलुलू\N_NNP से\PSP अलग\N_NN करती\V_VM है\V_VAUX ।\RD_PUNC
+htd14236	बच्चों\N_NN को\PSP होनोलुलू\N_NNP अजायबघर\N_NNP व\CC_CCD वाईकीकी\N_NNP मत्स्यालय\N_NNP अवश्य\JJ ले\V_VM जाएँ\V_VAUX ।\RD_PUNC
+htd14237	यहाँ\DM_DMD की\PSP संस्कृति\N_NN को\PSP नजदीक\JJ से\PSP जानने\V_VM के\PSP लिए\PSP बिशप\N_NNP संग्रहालय\N_NNP अवश्य\RB जाएँ\V_VM ।\RD_PUNC
+htd14238	यहाँ\DM_DMD पुरातात्त्विक\JJ अवशेष\N_NN का\PSP एक\QT_QTC बड़ा\JJ संग्रह\N_NN है\V_VM ।\RD_PUNC
+htd14239	वाईकीकी\N_NNP का\PSP एक\QT_QTC अन्य\QT_QTF मशहूर\JJ स्थल\N_NN है\V_VM डायमंड\N_NNP हैड\N_NNP ।\RD_PUNC
+htd14240	हवाई\N_NNP मैरीटाइम\N_NNP सेंटर\N_NNP भी\RP_RPD देखने\V_VM लायक\N_NN है\V_VM ,\RD_PUNC जहाँ\PR_PRL इस\DM_DMD क्षेत्र\N_NN के\PSP समुद्री\JJ बेड़ों\N_NN के\PSP विकास\N_NN की\PSP दास्तान\N_NN को\PSP बहुत\QT_QTF सुंदर\JJ ढंग\N_NN से\PSP पेश\N_NN किया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14241	यदि\CC_CCS आप\PR_PRP कला\N_NN और\CC_CCD संस्कृति\N_NN के\PSP प्रेमी\N_NN हैं\V_VM तो\RP_RPD यहाँ\DM_DMD से\PSP करीब\JJ आधा\QT_QTF मील\N_NN दूर\N_NN पूर्व\N_NNP में\PSP स्थित\N_NN अकादमी\N_NNP ऑफ\N_NNP फाइन\N_NNP आर्ट्‍स\N_NNP की\PSP कलादीर्घा\N_NN देखने\V_VM जरूर\RB जाएँ\V_VM ।\RD_PUNC
+htd14242	यहाँ\DM_DMD अनेक\QT_QTF दुर्लभ\JJ कलाकृतियाँ\N_NN देखी\V_VM जा\V_VAUX सकती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14243	पश्‍चिम\N_NNP में\PSP होटल\N_NNP स्ट्रीट\N_NNP से\PSP केवल\QT_QTF पाँच\QT_QTC मिनट\N_NN की\PSP दूरी\N_NN पर\PSP है\V_VM चाइना\N_NNP टाउन\N_NNP ,\RD_PUNC जहाँ\PR_PRL सड़क\N_NN के\PSP दोनों\QT_QTO ओर\N_NN अनेक\QT_QTF मालिशघर\N_NN ,\RD_PUNC क्लब\N_NN ,\RD_PUNC पूल\N_NN हाउस\N_NN बने\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14244	शाम\N_NN को\PSP यहाँ\DM_DMD की\PSP रौनक\N_NN देखते\V_VM बनती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14245	इसके\PR_PRP अलावा\N_NN यहाँ\DM_DMD शॉपिंग\JJ मॉल\N_NN ,\RD_PUNC रेस्तराँ\N_NN ,\RD_PUNC नाइट\JJ क्लब\N_NN और\CC_CCD अनेक\QT_QTF बार\N_NN हैं\JJ जहाँ\PR_PRL आप\PR_PRP अपना\PR_PRF अच्छा\JJ समय\N_NN बिता\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14246	यदि\CC_CCS आप\PR_PRP अपने\PR_PRF दोस्तों\N_NN के\PSP लिए\PSP कोई\DM_DMI उपहार\N_NN ले\V_VM जाना\V_VAUX चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD किंग\N_NNP स्ट्रीट\N_NNP पर\PSP स्थित\N_NN प्लाजा\N_NN में\PSP खरीदारी\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14247	हवाई\N_NNP द्वीप\N_NNP की\PSP खूबसूरती\N_NN आपको\PR_PRP बार\RB -\RD_PUNC बार\RB यहाँ\DM_DMD आने\V_VM के\PSP लिए\PSP मजबूर\N_NN कर\V_VM देगी\V_VAUX ।\RD_PUNC
+htd14248	दक्षिण\JJ भारत\N_NNP की\PSP पारस्परिक\JJ पहचान\N_NN या\CC_CCD तो\RP_RPD उसके\PR_PRP मंदिरों\N_NN से\PSP बनती\V_VM है\V_VAUX ,\RD_PUNC या\CC_CCD फिर\N_NN उसे\PR_PRP तीन\QT_QTC ओर\N_NN से\PSP घेरे\V_VM उस\PR_PRP समुद्र\N_NN से\PSP ,\RD_PUNC जिसके\PR_PRL दो\QT_QTC छोर\N_NN कन्याकुमारी\N_NNP पर\PSP जाकर\V_VM मिलते\V_VM हैं\V_VAUX ,\RD_PUNC लेकिन\CC_CCD इस\DM_DMD गिनती\N_NN में\PSP हम\PR_PRP प्रदेश\N_NN की\PSP विराट\JJ एवं\CC_CCD भव्य\JJ वन\JJ सम्पदा\N_NN को\PSP अक्सर\RB भूल\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14249	जंगल\N_NN को\PSP भूलना\V_VM दरअसल\RB अपने\PR_PRF जीवन\N_NN के\PSP शाश्‍वत\JJ स्रोत\N_NN से\PSP मुँह\N_NN मोड़\V_VM लेने\V_VAUX जैसी\JJ इन्सानी\JJ कृतघ्नता\N_NN का\PSP ही\RP_RPD रूप\N_NN माना\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14250	कंक्रीट\N_NN की\PSP जिस\PR_PRL शहरी\JJ सभ्यता\N_NN पर\PSP आज\N_NST हमारे\PR_PRP पाँव\N_NN टिके\V_VM हुए\V_VAUX हैं\V_VAUX ,\RD_PUNC जंगल\N_NN उसी\PR_PRP की\PSP प्राण-शक्‍ति\N_NN है\V_VM ,\RD_PUNC लेकिन\CC_CCD हमारी\PR_PRP त्रासदी\N_NN है\V_VM कि\CC_CCS हमारे\PR_PRP पास\N_NN इसके\PR_PRP बारे\N_NN में\PSP सोचने\V_VM तक\PSP का\PSP समय\N_NN बाकी\N_NN नहीं\RP_NEG बचा\V_VM है\V_VAUX ।\RD_PUNC
+htd14251	मेरा\PR_PRP मानना\V_VM है\V_VAUX कि\CC_CCS आपने\PR_PRP यदि\CC_CCS जंगल\N_NN की\PSP खुशबू\N_NN को\PSP महसूस\N_NN नहीं\RP_NEG किया\V_VM तो\RP_RPD शायद\RB आपने\PR_PRP जीवन\N_NN अब\N_NST तक\PSP पूरी\QT_QTF तरह\N_NN नहीं\RP_NEG जिया\V_VM ।\RD_PUNC
+htd14252	यह\DM_DMD बात\N_NN और\CC_CCD तमाम\JJ जगहों\N_NN से\PSP अधिक\QT_QTF ,\RD_PUNC दक्षिण\JJ भारत\N_NNP के\PSP विराट\JJ जंगलों\N_NN से\PSP गुज़रते\V_VM हुए\V_VAUX सहज\N_NN ही\RP_RPD समझी\V_VM जा\V_VAUX सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14253	जंगली\JJ फूलों\N_NN ,\RD_PUNC फलों\N_NN ,\RD_PUNC पक्षियों\N_NN और\CC_CCD वन्य\JJ जीवों\N_NN से\PSP भरे\V_VM ये\DM_DMD जंगल\N_NN इतने\DM_DMI रचे-बसे\V_VM हैं\V_VAUX कि\CC_CCS कुछ\QT_QTF समय\N_NN पहले\QT_QTF डाकू\N_NN वीरप्पन\N_NNP इनकी\PR_PRP छाँह\N_NN तले\N_NN वर्षों\N_NN तक\PSP पुलिस\N_NN की\PSP नज़रों\N_NN से\PSP अदृश्य\N_NN बना\V_VM रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14254	इसकी\PR_PRP गहराई\N_NN में\PSP चंदन\N_NN के\PSP पेड़ों\N_NN ,\RD_PUNC असंख्य\JJ आयुर्वेदिक\JJ औषधियों\N_NN के\PSP स्रोत\N_NN और\CC_CCD हमारी\PR_PRP रोज़मर्रा\JJ -\RD_PUNC जीवन\N_NN से\PSP ताल्लुक\N_NN रखने\V_VM वाले\JJ अनगिनत\QT_QTF मसाले\N_NN ,\RD_PUNC चाय-कॉफी\N_NN के\PSP पौधे\N_NN बिखरे\V_VM पड़े\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14255	इसकी\PR_PRP लम्बी\JJ पगडंडियों\N_NN पर\PSP पत्तों\N_NN को\PSP छूते\V_VM और\CC_CCD इसकी\PR_PRP धड़कती\V_VM हुई\V_VAUX साँसों\N_NN को\PSP अपने\PR_PRF भीतर\N_NN उतारते\V_VM हुए\V_VAUX आप\PR_PRP विराट\JJ की\PSP उस\PR_PRP विलक्षण\JJ रचना\N_NN के\PSP प्रति\N_NN चमत्कार\N_NN के\PSP भाव\N_NN से\PSP भर\V_VM उठेंगे\V_VAUX ।\RD_PUNC
+htd14256	यदि\CC_CCS यह\DM_DMD प्रकृति\N_NN ईश्‍वर\N_NN का\PSP ही\RP_RPD एक\QT_QTC विस्तार\N_NN है\V_VM तो\RP_RPD फिर\N_NN उसका\PR_PRP दुनियावी\JJ अस्तित्त्व\N_NN चाहे\V_VM जितना\N_NN भी\RP_RPD अमूर्त\N_NN क्यों\PR_PRQ न\RP_NEG हो\V_VM ,\RD_PUNC इन\PR_PRP जंगलों\N_NN की\PSP धड़कनों\N_NN में\PSP आप\PR_PRP इसे\DM_DMD बेहद\RP_INTF मूर्त\JJ और\CC_CCD प्रत्यक्ष\JJ ढंग\N_NN से\PSP अपनी\PR_PRF आँखों\N_NN के\PSP सामने\N_NN देख\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14257	केरल\N_NNP के\PSP इलायची\N_NNP प्रदेश\N_NNP में\PSP स्थित\N_NN पेरियार\N_NNP अभयारण्य\N_NNP इस\DM_DMD देश\N_NN के\PSP सबसे\RP_INTF महत्त्वपूर्ण\JJ राष्‍ट्रीय\JJ जंगलों\N_NN में\PSP है\V_VM और\CC_CCD पेरियार\N_NNP झील\N_NNP के\PSP इर्द-गिर्द\N_NN फैला\V_VM इसका\PR_PRP 780\QT_QTC वर्ग\N_NN किलोमीटर\N_NN का\PSP विशाल\JJ क्षेत्र\N_NN कई\QT_QTF दिनों\N_NN की\PSP यात्रा\N_NN का\PSP सबब\N_NN बन\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14258	पेरियार\N_NNP तक\PSP पहुँचने\V_VM के\PSP भी\RP_RPD दो\QT_QTC रास्ते\N_NN हैं\V_VM ,\RD_PUNC लेकिन\CC_CCD हमने\PR_PRP कोट्टायम\N_NNP रेलवे\N_NNP स्टेशन\N_NNP से\PSP 120\QT_QTC किलोमीटर\N_NN की\PSP सड़क\N_NN का\PSP रास्ता\N_NN चुना\V_VM ।\RD_PUNC
+htd14259	यह\DM_DMD रास्ता\N_NN केरल\N_NNP के\PSP कंजिरापल्ली\N_NNP शहर\N_NNP से\PSP होता\V_VM हुआ\V_VAUX धीरे\RB -\RD_PUNC धीरे\RB चाय\JJ बागानों\N_NN से\PSP ढँकी\V_VM पहाड़ियों\N_NN में\PSP ऊपर\N_NST चढ़\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14260	यह\DM_DMD प्रदेश\N_NN अपनी\PR_PRF नीलगिरि\JJ चाय\N_NN के\PSP आलावा\N_NN कॉफी\N_NN एवं\CC_CCD इलायची\N_NN बागानों\N_NN के\PSP लिए\PSP भी\RP_RPD विश्‍वविख्यात\JJ है\V_VM ।\RD_PUNC
+htd14261	कुछ\QT_QTF आगे\N_NN हम\PR_PRP पिरमेड\N_NNP गाँव\N_NNP से\PSP होकर\V_VM गुज़रे\V_VM तो\RP_RPD वहाँ\DM_DMD सड़क\N_NN के\PSP करीब\N_NN ही\RP_RPD एक\QT_QTC खूबसूरत\JJ झरना\N_NN पहाड़\N_NN से\PSP नीचे\N_NST गिर\V_VM रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14262	पेरियार\N_NNP के\PSP गाँव\N_NN थेकड़ी\N_NNP से\PSP कुछ\QT_QTF पहले\N_NN ही\RP_RPD दुनियावी\JJ हालात\N_NN ने\PSP हमें\PR_PRP रास्ते\N_NN में\PSP रोक\V_VM दिया\V_VAUX ।\RD_PUNC
+htd14263	पता\N_NN चला\V_VM कि\CC_CCS चाय\N_NN बागान\N_NN के\PSP तमाम\QT_QTF कर्मचारी\N_NN अपने\PR_PRF मालिकों\N_NN के\PSP खिलाफ\N_NN धरने\N_NN पर\PSP हैं\V_VM ।\RD_PUNC
+htd14264	इनमें\DM_DMD स्‍त्रियों\N_NN की\PSP एक\QT_QTC बड़ी\JJ तादाद\N_NN थी\V_VM और\CC_CCD वे\PR_PRP पुरुषों\N_NN के\PSP साथ\PSP रास्ते\N_NN को\PSP रोककर\V_VM सड़क\N_NN पर\PSP थीं\V_VM ।\RD_PUNC
+htd14265	हज़ारों\N_NN धरना\N_NN देने\V_VM वालों\JJ की\PSP वजह\N_NN से\PSP यातायात\N_NN बंद\N_NN हो\V_VM गया\V_VAUX था\V_VAUX और\CC_CCD पुलिस\N_NN की\PSP टुकड़ी\N_NN एक\QT_QTC ओर\N_NN खड़ी\V_VM असहाय\JJ भाव\N_NN से\PSP तमाशा\N_NN देख\V_VM रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14266	दूसरी\QT_QTO तमाम\QT_QTF गाड़ियों\N_NN के\PSP साथ\PSP हम\PR_PRP भी\RP_RPD धरने\N_NN के\PSP टूटने\V_VM का\PSP इंतज़ार\N_NN करते\V_VM रहे\V_VAUX ।\RD_PUNC
+htd14267	एक\QT_QTC जानकार\N_NN ने\PSP इस\DM_DMD ’\RD_PUNC चक्काजाम\N_NN ’\RD_PUNC के\PSP प्रति\N_NN अपनी\PR_PRF सहानुभूति\N_NN जताते\V_VM हुए\V_VAUX बताया\V_VM कि\CC_CCS ये\DM_DMD बागान\N_NN बेहद\RP_INTF पुराने\JJ हैं\V_VAUX और\CC_CCD सदियों\N_NN के\PSP शोषण\N_NN के\PSP बाद\N_NN अब\N_NST इनके\DM_DMD कर्मचारी\N_NN एक\QT_QTC बड़ी\JJ को-ऑपरेटिव\N_NN संघ\N_NN का\PSP हिस्सा\N_NN बन\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14268	पेरियार\N_NNP का\PSP निकटतम\JJ गाँव\N_NN कुमिली\N_NNP है\V_VM और\CC_CCD इसी\DM_DMD से\PSP सटकर\V_VM पेरियार\N_NNP नेशनल\N_NNP पार्क\N_NNP की\PSP सरहद\N_NN पर\PSP फैला\V_VM है\V_VAUX थेकड़ी\N_NNP का\PSP इलाका\N_NN जहाँ\PR_PRL हमने\PR_PRP ठहरने\V_VM की\PSP व्यवस्था\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd14269	पेरियार\N_NNP के\PSP बीचों-बीच\N_NN एक\QT_QTC खूबसूरत\JJ झील\N_NN है\V_VM जिसके\PR_PRL चारों\QT_QTO ओर\N_NN घना\JJ जंगल\N_NN फैल\V_VM है\V_VAUX ।\RD_PUNC
+htd14270	गर्मियों\N_NN में\PSP जब\PR_PRL सब\QT_QTF जगह\N_NN पानी\N_NN सूख\V_VM जाता\V_VAUX है\V_VAUX तो\RP_RPD यह\DM_DMD झील\N_NN जंगल\N_NN के\PSP जीव\N_NN -\RD_PUNC जंतुओं\N_NN के\PSP लिए\PSP प्यास\N_NN बुझाने\N_NN का\PSP एकमात्र\QT_QTF ज़रिया\N_NN बन\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14271	जंगल\N_NN में\PSP बनी\V_VM इस\DM_DMD झील\N_NN के\PSP महत्त्व\N_NN को\PSP देखते\V_VM हुए\V_VAUX फौज\N_NN के\PSP एक\QT_QTC अंग्रेजी\JJ कर्नल\N_NN पेनीक्किक\N_NNP ने\PSP इस\DM_DMD झील\N_NN का\PSP पानी\N_NN बढ़ाने\V_VM के\PSP लिए\PSP पेरियार\N_NNP नदी\N_NNP पर\PSP बाँध\N_NN का\PSP सुझाव\N_NN दिया\V_VM और\CC_CCD त्रावनकोर\N_NNP के\PSP राजा\N_NN की\PSP देखरेख\N_NN में\PSP 1895\QT_QTC में\PSP यह\DM_DMD बाँध\N_NN बना\V_VM भी\RP_RPD ,\RD_PUNC जिससे\PR_PRL पेरियार\N_NNP झील\N_NNP का\PSP क्षेत्रफल\N_NN 26\QT_QTC से\PSP बढ़कर\V_VM 55\QT_QTC वर्ग\N_NN किलोमीटर\N_NN हो\V_VM गया\V_VAUX ।\RD_PUNC
+htd14272	बाँध\N_NN से\PSP जंगल\N_NN का\PSP एक\QT_QTC हिस्सा\N_NN पानी\N_NN में\PSP ज़रूर\RB डूबा\V_VM ,\RD_PUNC लेकिन\CC_CCD खूबसूरत\JJ जलाशय\N_NN के\PSP भरपूर\JJ पानी\N_NN से\PSP आकृष्‍ट\N_NN होकर\V_VM बहुत\QT_QTF से\PSP जानवर\N_NN इस\DM_DMD वन\N_NN की\PSP ओर\N_NN आने\V_VM लगे\V_VAUX ।\RD_PUNC
+htd14273	इनमें\DM_DMD हाथियों\N_NN के\PSP अलावा\N_NN बाघ\N_NN और\CC_CCD दूसरे\QT_QTO जानवर\N_NN भी\RP_RPD थे\V_VM ।\RD_PUNC
+htd14274	बाद\N_NN में\PSP इसे\PR_PRP राष्‍ट्रीय\JJ उद्यान\N_NN में\PSP तब्दील\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd14275	खूबसूरत\JJ झील\N_NN का\PSP आकार\N_NN बढ़ने\V_VM से\PSP जो\PR_PRL वृक्ष\N_NN पानी\N_NN में\PSP डूबे\V_VM ,\RD_PUNC उनमें\PR_PRP से\PSP कुछ\QT_QTF के\PSP ठूँठ\N_NN आज\N_NST भी\RP_RPD पानी\N_NN के\PSP ऊपर\N_NST दिखाई\V_VM देते\V_VAUX हैं\V_VAUX और\CC_CCD इन\PR_PRP पर\PSP हज़ारों\N_NN पक्षी\N_NN वास\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14276	थेकड़ी\N_NNP और\CC_CCD उसके\PR_PRP नज़दीक\JJ कुमिली\N_NNP गाँव\N_NN एक\QT_QTC तरह\N_NN से\PSP अब\N_NST यहाँ\DM_DMD आने\V_VM वाले\JJ स्थानीय\JJ और\CC_CCD विदेशी\JJ पर्यटकों\N_NN की\PSP आवश्यकताओं\N_NN के\PSP अनुरूप\N_NN ढल\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14277	यहाँ\DM_DMD छोटे\JJ -\RD_PUNC बड़े\JJ होटल\N_NN ,\RD_PUNC चायखाने\N_NN ,\RD_PUNC रेस्तराँ\N_NN और\CC_CCD मसाले\N_NN बेचने\V_VM वाली\JJ दुकानें\N_NN उग\V_VM आई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14278	जंगल\N_NN से\PSP सटकर\V_VM खड़े\V_VM हमारे\PR_PRP झोपड़ीनुमा\JJ कॉटेज\N_NN के\PSP बाहर\N_NST दूर\N_NN तक\PSP हरियाली\N_NN का\PSP साम्राज्य\N_NN था\V_VM ।\RD_PUNC
+htd14279	सामने\N_NN पेड़\N_NN के\PSP झुरमुट\N_NN में\PSP बैठा\V_VM सुनहरा\JJ पीलक\N_NN या\CC_CCD ’\RD_PUNC गोल्डन\JJ ओरियोल\N_NN ’\RD_PUNC अपनी\PR_PRF सुरीली\JJ आवाज़\N_NN में\PSP कुछ\DM_DMI कहना\V_VM चाह\V_VAUX रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14280	मीठे\JJ आवाज़\N_NN में\PSP बोलने\V_VM वाले\JJ इस\DM_DMD सुपरिचित\JJ पीले\JJ पक्षी\N_NN का\PSP बंगला\N_NN नाम\N_NN है\V_VM ’\RD_PUNC बोउकथाकोऊ\N_NN ’\RD_PUNC यानी\N_NN ’बहू\N_NN कथा\N_NN कहो\V_VM !\RD_PUNC ’\RD_PUNC
+htd14281	जंगली\JJ फूलों\N_NN की\PSP कई\QT_QTF मोहक\JJ किस्में\N_NN आपको\PR_PRP जगह\N_NN -\RD_PUNC जगह\N_NN उगी\V_VM दिखाई\V_VM दे\V_VAUX जाएँगी\N_NN ।\RD_PUNC
+htd14282	ये\DM_DMD जंगली\JJ ’\RD_PUNC ऑर्किड\N_NN ’\RD_PUNC हैं\V_VM जो\PR_PRL जंगल\N_NN में\PSP हर\QT_QTF जगह\N_NN फैले\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14283	इनकी\DM_DMD किस्में\N_NN उत्तर\JJ भारत\N_NNP के\PSP फूलों\N_NN से\PSP बिल्कुल\RP_INTF जुदा\N_NN हैं\V_VM ।\RD_PUNC
+htd14284	और\CC_CCD इनके\DM_DMD साथ\PSP ही\RP_RPD आप\PR_PRP देख\V_VM सकते\V_VAUX हैं\V_VAUX रास्तों\N_NN पर\PSP आपके\PR_PRP आगे-आगे\RB चलती\V_VM हुई\V_VAUX बेहद\RP_INTF खूबसूरत\JJ रंग-बिरंगी\JJ तितलियाँ\N_NN !\RD_PUNC
+htd14285	पेरियार\N_NNP राष्‍ट्रीय\N_NNP उद्यान\N_NNP केरल\N_NNP के\PSP उदिक्की\N_NNP जिले\N_NN में\PSP स्थित\N_NN है\V_VM ।\RD_PUNC
+htd14286	यहाँ\DM_DMD पहुँचने\V_VM के\PSP लिए\PSP आप\PR_PRP पश्‍चिम\JJ दिशा\N_NN में\PSP 115\QT_QTC -\RD_PUNC 120\QT_QTC किलोमीटर\N_NN दूर\N_NN कोट्टायम\N_NNP की\PSP ओर\N_NN से\PSP आ\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14287	कोट्टायम\N_NNP के\PSP लिए\PSP मुंबई\N_NNP ,\RD_PUNC दिल्ली\N_NNP और\CC_CCD चेन्नई\N_NNP से\PSP सीधी\JJ रेलगाड़ियाँ\N_NN हैं\V_VM ।\RD_PUNC
+htd14288	पूर्व\N_NNP की\PSP दिशा\N_NN से\PSP निकटतम\JJ स्टेशन\N_NN मदुरई\N_NNP होगा\V_VM ।\RD_PUNC
+htd14289	कोट्टायम\N_NNP और\CC_CCD मदुरै\N_NNP ,\RD_PUNC दोनों\QT_QTO से\PSP ही\RP_RPD पेरियार\N_NNP के\PSP निकटतम\JJ स्थल\N_NN कुमिली\N_NNP के\PSP लिए\PSP बसें\N_NN मिल\V_VM जाएँगी\V_VAUX ,\RD_PUNC जो\PR_PRL लगभग\JJ चार\QT_QTC घंटे\N_NN लेती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14290	केरल\N_NNP के\PSP पर्यटक\N_NN स्थल\N_NN मुन्नार\N_NNP से\PSP भी\RP_RPD बोदिनयाकनुर\N_NNP के\PSP रास्ते\N_NN पेरियार\N_NNP के\PSP लिए\PSP वाहन\N_NN मिल\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd14291	थेकड़ी\N_NNP के\PSP चेकपोस्ट\N_NN से\PSP आपको\PR_PRP भीतर\N_NN जाने\V_VM का\PSP टिकट\N_NN खरीदना\V_VM होगा\V_VAUX ,\RD_PUNC जो\PR_PRL चार\QT_QTC दिनों\N_NN के\PSP लिए\PSP वैध\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14292	कुमिली\N_NNP के\PSP बस\N_NN अड्‍डे\N_NN से\PSP थेकड़ी\N_NNP बमुश्किल\RB एक\QT_QTC किलोमीटर\N_NN के\PSP फासले\N_NN पर\PSP है\V_VM और\CC_CCD यहाँ\DM_DMD रहने\V_VM की\PSP लगभग\JJ हर\QT_QTF तरह\N_NN की\PSP व्यवस्था\N_NN उपलब्ध\N_NN है\V_VM ।\RD_PUNC
+htd14293	बस\JJ अड्‍डे\N_NN से\PSP पेरियार\N_NNP झील\N_NNP की\PSP जेट्टी\N_NN के\PSP लिए\PSP भी\RP_RPD नियमित\RB बसें\N_NN चलती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14294	थेकड़ी\N_NNP में\PSP हमें\PR_PRP यहाँ\DM_DMD जंगल\N_NN लॉज\N_NN की\PSP सुविधा\N_NN पसंद\N_NN आई\V_VM जिसमें\PR_PRL पूरी\QT_QTF सुविधाओं\N_NN से\PSP लैस\N_NN छोटे\JJ -\RD_PUNC छोटे\JJ कॉटेज\N_NN हैं\V_VM ।\RD_PUNC
+htd14295	’\RD_PUNC स्पाइस\N_NNP विलेज\N_NNP ’\RD_PUNC एवं\CC_CCD ’\RD_PUNC ताज\N_NNP गार्डन\N_NNP रिट्रीट\N_NNP ’\RD_PUNC के\PSP महँगे\JJ रिसॉर्टों\N_NN से\PSP लेकर\V_VM बेहद\RP_INTF सस्ते\JJ मगर\N_NN साफ-सुथरे\JJ कमरे\N_NN यहाँ\DM_DMD मिल\V_VM जाएँगे\V_VAUX ।\RD_PUNC
+htd14296	इसके\PR_PRP अलावा\N_NN केरल\N_NNP सरकार\N_NN की\PSP केटीडीसी\N_NNP के\PSP तीन\QT_QTC होटल\N_NN भी\RP_RPD यहाँ\DM_DMD हैं\V_VM ।\RD_PUNC
+htd14297	हर\QT_QTF हालत\N_NN में\PSP ठहरने\V_VM की\PSP अग्रिम\JJ व्यवस्था\N_NN करना\V_VM उचित\N_NN होगा\V_VM ।\RD_PUNC
+htd14298	यहाँ\DM_DMD आने\V_VM के\PSP बाद\N_NN आप\PR_PRP एकाध\QT_QTF दिन\N_NN वॉच\N_NN टावर\N_NN में\PSP भी\RP_RPD गुज़ारने\V_VM का\PSP प्रोग्राम\N_NN बना\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14299	यदि\CC_CCS आप\PR_PRP बिना\RP_NEG रिजर्वेशन\N_NN किए\V_VM पेरियार\N_NNP जाना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD कम\JJ से\PSP कम\JJ छुट्टी\N_NN के\PSP दिनों\N_NN से\PSP बचें\V_VM क्योंकि\CC_CCS तब\CC_CCS यहाँ\DM_DMD काफी\QT_QTF भीड़\N_NN मिल\V_VM सकती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14300	पेरियार\N_NNP का\PSP प्रमुख\JJ आकर्षण\N_NN वहाँ\DM_DMD की\PSP झील\N_NN की\PSP जेट्टी\N_NN से\PSP चलने\V_VM वाली\JJ नाव\N_NN है\V_VM ,\RD_PUNC जो\PR_PRL दिन\N_NN में\PSP कई\QT_QTF बार\N_NN नियमित\JJ रूप\N_NN से\PSP चलती\V_VM है\V_VAUX ।\RD_PUNC
+htd14301	सुबह\N_NN सात\QT_QTC बजे\N_NN पहली\QT_QTO नाव\N_NN लेने\V_VM के\PSP लिए\PSP कम\JJ से\PSP कम\JJ बीस\QT_QTC मिनट\N_NN पहले\JJ जेट्टी\N_NN पर\PSP पहुँचना\V_VM ज़रूरी\RB होगा\V_VM ।\RD_PUNC
+htd14302	इस\DM_DMD पहली\QT_QTO नाव\N_NN में\PSP जानवरों\N_NN के\PSP देखने\V_VM की\PSP संभावना\N_NN सबसे\RP_INTF अधिक\QT_QTF होती\V_VM है\V_VAUX ।\RD_PUNC
+htd14303	शाम\N_NN की\PSP नाव\N_NN में\PSP आप\PR_PRP सूर्यास्त\N_NN के\PSP सुहाने\JJ दृश्य\N_NN का\PSP आनंद\N_NN ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14304	नाव\N_NN के\PSP 2\QT_QTC घंटे\N_NN के\PSP सफर\N_NN के\PSP लिए\PSP 50\QT_QTC रुपय\N_NN का\PSP टिकट\N_NN है\V_VM ।\RD_PUNC
+htd14305	वॉच\N_NN टावर\N_NN में\PSP रहने\V_VM के\PSP लिए\PSP दो\QT_QTC दिन\N_NN का\PSP पैकेज\N_NN मिलता\V_VM है\V_VAUX ,\RD_PUNC लेकिन\CC_CCD बिस्तर\N_NN और\CC_CCD खाने\N_NN का\PSP सामान\N_NN आपको\PR_PRP स्वयं\PR_PRF जुटाना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd14306	चौकीदार\N_NN आपके\PR_PRP लिए\PSP खाना\N_NN बना\V_VM सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14307	इसकी\PR_PRP बुकिंग\N_NN भी\RP_RPD कुमिली\N_NNP के\PSP सूचना\JJ केंद्र\N_NN से\PSP हो\V_VM जाती\V_VAUX है\V_VAUX और\CC_CCD यहीं\DM_DMD से\PSP आप\PR_PRP रात\N_NN की\PSP एवं\CC_CCD दिन\N_NN की\PSP ट्रेक\N_NN इंतज़ाम\N_NN भी\RP_RPD कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14308	ट्रेक\N_NN पर\PSP जाते\V_VM समय\N_NN स्थानीय\JJ अधिकृत\JJ गार्ड\N_NN को\PSP साथ\PSP रखना\V_VM अनिवार्य\JJ है\V_VM और\CC_CCD यह\DM_DMD सुरक्षा\N_NN की\PSP दृष्‍टि\N_NN से\PSP भी\RP_RPD ज़रूरी\JJ है\V_VM ।\RD_PUNC
+htd14309	पेरियार\N_NNP साल\N_NN के\PSP बारहों\QT_QTO महीने\N_NN खुला\V_VM रहता\V_VAUX है\V_VAUX ,\RD_PUNC लेकिन\CC_CCD बरसात\N_NN के\PSP मौसम\N_NN में\PSP जोंकों\N_NN का\PSP संकट\N_NN काफी\RP_INTF बढ़\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14310	नम\N_NN एवं\CC_CCD धूप\N_NN रहित\JJ इलाकों\N_NN में\PSP यूँ\RP_RPD भी\RP_RPD जोंकें\N_NN मिल\V_VM सकती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14311	इनके\DM_DMD लिए\PSP यहाँ\DM_DMD खास\JJ मोज़े\N_NN मिल\V_VM जाते\V_VAUX हैं\V_VAUX और\CC_CCD नमक\N_NN ,\RD_PUNC चाय\N_NN के\PSP बूरे\N_NN से\PSP मिला\V_VM एक\QT_QTC पावडर\N_NN भी\RP_RPD मिलता\V_VM है\V_VAUX जिससे\PR_PRL जोंकें\N_NN पैर\N_NN पर\PSP नहीं\RP_NEG चढ़तीं\V_VM ।\RD_PUNC
+htd14312	जंगल\N_NN में\PSP चलने\V_VM के\PSP लिए\PSP बंद\JJ जूते\N_NN पहनना\V_VM ठीक\JJ होगा\V_VM और\CC_CCD आवश्यकता\N_NN हो\V_VM तो\RP_RPD इनके\DM_DMD ऊपर\N_NST जोंक\N_NN से\PSP बचने\V_VM वाले\JJ मोज़े\N_NN चढ़ा\V_VM लें\V_VAUX ।\RD_PUNC
+htd14313	इसके\PR_PRP बावजूद\N_NN अगर\CC_CCS जोंक\N_NN चढ़\V_VM जाए\V_VAUX तो\RP_RPD घबराएँ\V_VM नहीं\RP_NEG ,\RD_PUNC इसे\PR_PRP मसलने\V_VM की\PSP जगह\N_NN इस\DM_DMD पर\PSP नमक\N_NN छिड़कें\V_VM और\CC_CCD जोंक\N_NN को\PSP गिराकर\V_VM ज़ख्म\N_NN छोड़\V_VM दें\V_VAUX ,\RD_PUNC यह\DM_DMD मच्छर\N_NN के\PSP काटने\V_VM से\PSP बहुत\RP_INTF अधिक\QT_QTF कष्‍टदायी\JJ नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd14314	यदि\CC_CCS आपके\PR_PRP पास\N_NN कुछ\QT_QTF दिनों\N_NN का\PSP समय\N_NN है\V_VM तो\RP_RPD आप\PR_PRP पेरियार\N_NNP के\PSP साथ\PSP मुन्नार\N_NNP और\CC_CCD कुमारकोम\N_NNP घूमने\V_VM का\PSP प्रोग्राम\N_NN भी\RP_RPD बना\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14315	कुमिली\N_NNP में\PSP आपको\PR_PRP खाने\N_NN का\PSP सब\QT_QTF सामान\N_NN मिल\V_VM जाएगा\V_VAUX ।\RD_PUNC
+htd14316	यहाँ\DM_DMD से\PSP लौटते\V_VM समय\N_NN आप\PR_PRP यहाँ\DM_DMD की\PSP खासियत\N_NN चाय\N_NN ,\RD_PUNC सूखा\JJ अदरक\N_NN और\CC_CCD मसालों\N_NN की\PSP खरीदारी\N_NN कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14317	बाकी\N_NN सामान\N_NN के\PSP साथ\PSP पीने\N_NN का\PSP पानी\N_NN और\CC_CCD एक\QT_QTC टॉर्च\N_NN अपने\PR_PRF साथ\PSP ज़रूर\RP_INTF रखें\V_VM ।\RD_PUNC
+htd14318	और\CC_CCD साथ\PSP ही\RP_RPD एक\QT_QTC दूरबीन\N_NN और\CC_CCD संभव\N_NN हो\V_VM तो\RP_RPD अच्छे\JJ जूम\N_NN वाला\JJ कैमरा\N_NN ,\RD_PUNC तस्वीरें\N_NN कैद\N_NN करने\V_VM के\PSP लिए\PSP ।\RD_PUNC
+htd14319	15वीं\QT_QTO सदी\N_NN में\PSP क्रिस्टोफर\N_NNP कोलंबस\N_NNP द्वारा\PSP खोजी\V_VM गई\V_VAUX नई\JJ धरती\N_NN पर\PSP ब्लू\N_NNP माउंटेन\N_NNP ,\RD_PUNC उष्‍ण\JJ कटिबंधीय\JJ प्राकृतिक\JJ दृश्यावलियाँ\N_NN ,\RD_PUNC कलकल\N_NN करती\V_VM हुई\V_VAUX बहती\JJ नदियाँ\N_NN और\CC_CCD दहाड़ते\V_VM हुए\V_VAUX जलप्रपातों\N_NN का\PSP सौंदर्य\N_NN देखने\V_VM पर्यटक\N_NN साल\N_NN भर\RP_RPD जमैका\N_NNP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14320	पर्यटक\N_NN यहाँ\DM_DMD की\PSP अकूत\JJ प्राकृतिक\JJ संपदा\N_NN से\PSP अभिभूत\N_NN हो\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14321	234\QT_QTC कि.मी.\N_NN लंबे\JJ और\CC_CCD 35\QT_QTC से\PSP लेकर\V_VM 82\QT_QTC कि.मी.\N_NN की\PSP चौड़ाई\N_NN वाले\JJ कैरिबियन\N_NNP सागर\N_NNP में\PSP बसे\V_VM इस\DM_DMD देश\N_NN का\PSP कुल\JJ क्षेत्रफल\N_NN 10,991\QT_QTC वर्ग\N_NN कि.मी.\N_NN है\V_VM ।\RD_PUNC
+htd14322	यहाँ\DM_DMD की\PSP खूबसूरत\JJ पहाड़ियों\N_NN से\PSP हो\V_VM कर\V_VAUX करीब\JJ 120\QT_QTC नदियाँ\N_NN यहाँ\DM_DMD बहती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14323	उष्‍ण\JJ कटिबंधीय\JJ वातावरण\N_NN होने\V_VM से\PSP यहाँ\DM_DMD मौसम\N_NN साल\N_NN भर\RP_RPD गरम\JJ रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd14324	यहाँ\DM_DMD की\PSP आबादी\N_NN 27\QT_QTC लाख\N_NN है\V_VM ।\RD_PUNC
+htd14325	इसमें\DM_DMD से\PSP 91\QT_QTC %\RD_SYM लोग\N_NN अफ्रीकी\JJ मूल\N_NN के\PSP और\CC_CCD शेष\N_NN लेबनानी\N_NNP ,\RD_PUNC चीनी\N_NNP ,\RD_PUNC भारतीय\N_NNP ,\RD_PUNC स्पेनिश\N_NNP और\CC_CCD फ्रेंच\N_NNP मूल\N_NN के\PSP हैं\V_VM ।\RD_PUNC
+htd14326	अधिकांश\QT_QTF लोग\N_NN अफ्रीकी\N_NNP ,\RD_PUNC फ्रेंच\N_NNP ,\RD_PUNC स्पेनिश\N_NNP और\CC_CCD अंग्रेजी\N_NNP भाषा\N_NN के\PSP मिश्रण\N_NN से\PSP बनी\V_VM भाषा\N_NN पेटोइस\N_NNP बोलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14327	यहाँ\DM_DMD की\PSP अधिकारिक\JJ भाषा\N_NN अंग्रेजी\N_NNP है\V_VM ।\RD_PUNC
+htd14328	यहाँ\DM_DMD बहुसंख्यक\QT_QTF ईसाइयों\N_NN के\PSP साथ\PSP -\RD_PUNC साथ\PSP कुछ\QT_QTF हिंदू\N_NN ,\RD_PUNC मुस्लिम\N_NN और\CC_CCD बहाई\N_NN धर्मावलंबी\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd14329	पिछली\QT_QTF कई\QT_QTF शताब्दियों\N_NN से\PSP जिस\PR_PRL तरह\N_NN से\PSP अंतर्जातीय\JJ या\CC_CCD फिर\CC_CCS भिन्न\JJ नस्लों\N_NN के\PSP बीच\N_NN विवाह\N_NN होते\V_VM आए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14330	इन\PR_PRP सब\N_NN से\PSP यहाँ\DM_DMD का\PSP समाज\N_NN विभिन्न\JJ नस्लों\N_NN यानी\CC_CCD डाइवर्स\JJ शारीरिक\JJ संरचनाओं\N_NN वाला\JJ बन\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14331	अमेरिका\N_NNP की\PSP खोज\V_VM करने\V_VAUX वाले\JJ क्रिस्टोफर\N_NNP कोलंबस\N_NNP ने\PSP ही\RP_RPD वर्ष\N_NN 1494\QT_QTC में\PSP कैरिबियन\N_NNP सागर\N_NNP में\PSP इस\DM_DMD द्वीप\N_NN की\PSP खोज\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd14332	इस\DM_DMD के\PSP उत्तरी\JJ हिस्से\N_NN में\PSP सेंट\N_NNP एन\N_NNP की\N_NNP खाड़ी\N_NNP में\PSP पहली\QT_QTO बार\N_NN वह\PR_PRP 4\QT_QTC मई\N_NNP ,\RD_PUNC 1494\QT_QTC को\PSP पहुँचा\V_VM था\V_VAUX ।\RD_PUNC
+htd14333	इस\DM_DMD क्षेत्र\N_NN में\PSP कोलंबस\N_NNP का\PSP पदार्पण\N_NN हुआ\V_VM उस\PR_PRP के\PSP कुछ\QT_QTF हिस्से\N_NN को\PSP स्पेन\N_NNP ने\PSP अपने\PR_PRF कब्जे\N_NN में\PSP ले\V_VM लिया\V_VAUX ।\RD_PUNC
+htd14334	इस\DM_DMD हिस्से\N_NN का\PSP नाम\N_NN जाइमाका\N_NNP था\V_VM ।\RD_PUNC
+htd14335	इसे\N_NN स्थानीय\JJ भाषा\N_NN में\PSP ’\RD_PUNC झरनों\N_NN की\PSP भूमि\N_NN ’\RD_PUNC या\CC_CCD ’\RD_PUNC वन\N_NN और\CC_CCD जल\N_NN की\PSP भूमि\N_NN ’\RD_PUNC कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14336	1509\QT_QTC में\PSP यहाँ\DM_DMD स्पेन\N_NNP के\PSP लोगों\N_NN का\PSP आना\V_VM शुरू\N_NN हो\V_VM गया\V_VAUX ।\RD_PUNC
+htd14337	अन्य\QT_QTF कई\QT_QTF भागों\N_NN पर\PSP अधिकार\N_NN करते\V_VM हुए\V_VAUX 1523\QT_QTC में\PSP उन्होंने\PR_PRP सेंट\N_NNP जागो\N_NNP डी\N_NNP ला\N_NNP वेगा\N_NNP में\PSP अपनी\PR_PRF प्रशासकीय\JJ राजधानी\N_NN बनाई\V_VM ।\RD_PUNC
+htd14338	15वीं\QT_QTO शताब्दी\N_NN से\PSP ले\V_VM कर\V_VAUX 1962\QT_QTC तक\PSP जमैका\N_NNP पर\PSP स्पेन\N_NNP और\CC_CCD ब्रिटिश\JJ शासकों\N_NN ने\PSP राज\N_NN किया\V_VM ।\RD_PUNC
+htd14339	इस\DM_DMD बीच\N_NN अंगरेजों\N_NN ने\PSP यहाँ\DM_DMD गन्ने\N_NN की\PSP खेती\N_NN पर\PSP ज्यादा\QT_QTF जोर\N_NN दिया\V_VM और\CC_CCD चीनी\N_NN के\PSP कई\QT_QTF कारखाने\N_NN स्थापित\N_NN किए\V_VM ।\RD_PUNC
+htd14340	चीनी\N_NN उद्योग\N_NN में\PSP मजदूरों\N_NN की\PSP बढ़ती\V_VM माँग\N_NN ने\PSP यहाँ\DM_DMD बंधुआ\JJ मजदूरों\N_NN और\CC_CCD दास\JJ प्रथा\N_NN को\PSP फलने-फूलने\V_VM का\PSP पूरा\QT_QTF मौका\N_NN दिया\V_VM ।\RD_PUNC
+htd14341	मजदूरों\N_NN की\PSP कमी\N_NN को\PSP देखते\V_VM हुए\V_VAUX अफ्रीका\N_NNP से\PSP 10\QT_QTC लाख\N_NN से\PSP अधिक\N_NN दास\N_NN मँगाए\V_VM गए\V_VAUX ।\RD_PUNC
+htd14342	इन\PR_PRP में\PSP से\PSP बहुतों\QT_QTF को\PSP अमेरिका\N_NNP के\PSP अन्य\QT_QTF स्थानों\N_NN पर\PSP भेज\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd14343	17वीं\QT_QTO और\CC_CCD 18वीं\QT_QTO शताब्दी\N_NN के\PSP दौरान\PSP इन\PR_PRP दासों\N_NN ने\PSP कई\QT_QTF विद्रोह\N_NN किए\V_VM ।\RD_PUNC
+htd14344	इस\DM_DMD के\PSP परिणाम\N_NN स्वरूप\JJ ब्रिटिश\N_NNP पार्लियामेंट\N_NNP ने\PSP 1\QT_QTC अगस्त\N_NNP ,\RD_PUNC 1838\QT_QTC को\PSP जमैका\N_NNP में\PSP 3\QT_QTC लाख\N_NN से\PSP अधिक\QT_QTF दासों\N_NN को\PSP मुक्‍त\N_NN कर\V_VM दिया\V_VAUX ।\RD_PUNC
+htd14345	बड़ी\JJ संख्या\N_NN में\PSP दासों\N_NN को\PSP मुक्‍त\N_NN किए\V_VM जाने\V_VAUX से\PSP चीनी\N_NN उद्योग\N_NN में\PSP मजदूरों\N_NN का\PSP अभाव\N_NN हो\V_VM गया\V_VAUX ।\RD_PUNC
+htd14346	इसलिए\CC_CCD अंगरेजों\N_NN ने\PSP भारत\N_NNP से\PSP सस्ते\JJ मजदूरों\N_NN को\PSP लाने\V_VM के\PSP बारे\N_NN में\PSP सोचा\V_VM ।\RD_PUNC
+htd14347	10\QT_QTC मई\N_NNP ,\RD_PUNC 1845\QT_QTC को\PSP पहले\QT_QTO प्रवासी\JJ भारतीय\JJ मजदूर\N_NN परमेश्‍वर\N_NNP ने\PSP जमैका\N_NNP की\PSP धरती\N_NN पर\PSP कदम\N_NN रखा\V_VM ।\RD_PUNC
+htd14348	चीनी\N_NN उद्योग\N_NN में\PSP काम\N_NN करने\V_VM के\PSP लिए\PSP 1845\QT_QTC से\PSP ले\V_VM कर\V_VAUX 1917\QT_QTC तक\PSP 36,412\QT_QTC भारतीय\JJ मजदूरों\N_NN को\PSP अनुबंध\N_NN के\PSP आधार\N_NN पर\PSP जमैका\N_NNP भेजा\V_VM गया\V_VAUX ।\RD_PUNC
+htd14349	इस\DM_DMD में\PSP करीब\QT_QTF 12,109\QT_QTC मजदूर\N_NN ठेके\N_NN की\PSP अवधि\N_NN समाप्‍त\N_NN हो\V_VM जाने\V_VAUX पर\PSP लौट\V_VM आए\V_VAUX ।\RD_PUNC
+htd14350	फिलहाल\CC_CCD ,\RD_PUNC वहाँ\DM_DMD भारतीय\JJ मूल\N_NN के\PSP 50,000\QT_QTC से\PSP अधिक\QT_QTF लोग\N_NN हैं\V_VM ।\RD_PUNC
+htd14351	यह\DM_DMD वहाँ\DM_DMD की\PSP सामाजिक\JJ मूलधारा\N_NN में\PSP पूरी\QT_QTF तरह\N_NN से\PSP हिलमिल\N_NN गए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14352	भारतीय\JJ मूल\N_NN के\PSP लोगों\N_NN की\PSP वहाँ\DM_DMD कितनी\DM_DMQ पैठ\N_NN है\V_VM ।\RD_PUNC
+htd14353	इस\DM_DMD बात\N_NN का\PSP अंदाजा\N_NN इस\DM_DMD से\PSP भी\RP_RPD लगाया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX कि\CC_CCS भारतीय\JJ वहाँ\DM_DMD सुप्रीम\JJ कोर्ट\N_NN के\PSP न्यायाधीश\N_NN पद\N_NN तक\PSP पहुँच\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14354	भारतीय\JJ मूल\N_NN के\PSP लोग\N_NN बड़ी\JJ संख्या\N_NN में\PSP यहाँ\DM_DMD डाक्‍टर\N_NN ,\RD_PUNC पेथोलोजिस्ट\N_NN ,\RD_PUNC प्रोफेसर\N_NN और\CC_CCD चार्टर्ड\N_NN अकांउटेंट\N_NN हैं\V_VM ।\RD_PUNC
+htd14355	इलेक्‍ट्रॉनिक्स\N_NN और\CC_CCD ज्वेलरी\N_NN के\PSP कारोबार\N_NN में\PSP बड़ी\JJ संख्या\N_NN में\PSP यहाँ\DM_DMD सिंधी\JJ समुदाय\N_NN के\PSP लोग\N_NN हैं\V_VM ।\RD_PUNC
+htd14356	जमैका\N_NNP में\PSP ऐसे\CC_CCS अनेक\QT_QTF भारतीय\JJ संगठन\N_NN हैं\V_VM ,\RD_PUNC जो\PR_PRL सांस्कृतिक\JJ समारोहों\N_NN और\CC_CCD भारतीय\JJ व्यंजनों\N_NN के\PSP प्रति\N_NN उन\PR_PRP की\PSP रुचि\N_NN कितनी\DM_DMQ ज्यादा\QT_QTF है\V_VM ।\RD_PUNC
+htd14357	इस\DM_DMD बात\N_NN का\PSP पता\N_NN इस\DM_DMD से\PSP भी\RP_RPD चलता\V_VM है\V_VAUX कि\CC_CCS उस\PR_PRP की\PSP पहचान\N_NN कायम\N_NN रखने\V_VM के\PSP लिए\PSP किंग्सटन\N_NNP में\PSP वे\PR_PRP वर्ष\N_NN 2005\QT_QTC से\PSP ’\RD_PUNC रोटी\N_NN ’\RD_PUNC त्योहार\N_NN का\PSP आयोजन\N_NN कर\V_VM रहे\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14358	राजधानी\N_NN किंग्सटन\N_NNP के\PSP अलावा\N_NN ओचो\N_NNP रिओज\N_NNP ,\RD_PUNC नेग्रिल\N_NNP और\CC_CCD मोंटेगो\N_NNP बे\N_NNP जैसे\JJ शहरों\N_NN में\PSP भारतीय\JJ कारोबारियों\N_NN के\PSP अनेक\QT_QTF प्लाजा\N_NN हैं\V_VM ।\RD_PUNC
+htd14359	कठिन\JJ परिश्रम\N_NN ,\RD_PUNC पेशेवर\JJ विशेषज्ञता\N_NN और\CC_CCD संपन्न\JJ सांस्कृतिक\JJ विरासत\N_NN के\PSP कारण\N_NN जमैका\N_NNP में\PSP भारतीयों\N_NN का\PSP काफी\QT_QTF सम्मान\N_NN है\V_VM ।\RD_PUNC
+htd14360	हालाँकि\CC_CCD इस\DM_DMD दौरान\PSP उस\PR_PRP देश\N_NN की\PSP लंबी\JJ समयावधि\N_NN बिताने\V_VM और\CC_CCD वहाँ\DM_DMD निवास\N_NN करने\V_VM वाले\JJ अन्य\QT_QTF नस्ल\N_NN के\PSP लोगों\N_NN से\PSP शादी\N_NN कर\V_VM लेने\V_VAUX के\PSP कारण\N_NN भारतीय\JJ मूल\N_NN के\PSP बहुत\QT_QTF सारे\QT_QTF लोग\N_NN अब\N_NST अपनी\PR_PRF भारतीय\JJ मूल\N_NN के\PSP बहुत\QT_QTF सारे\QT_QTF लोग\N_NN अब\N_NST अपनी\PR_PRF भारतीय\JJ पहचान\N_NN खो\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14361	इन\PR_PRP सब\N_NN के\PSP बावजूद\N_NN अभी\N_NST भी\RP_RPD वहाँ\DM_DMD ये\DM_DMD न\RP_NEG केवल\QT_QTF होली\N_NN और\CC_CCD दीवाली\N_NN जैसे\JJ भारतीय\JJ त्योहार\N_NN मनाते\V_VM हैं\V_VAUX बल्कि\CC_CCD भारतीय\JJ व्यंजनों\N_NN से\PSP भी\RP_RPD यह\DM_DMD मोह\N_NN रखते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14362	प्रचुर\QT_QTF प्राकृतिक\JJ सौंदर्य\N_NN के\PSP अलावा\N_NN वाटर\JJ स्पोर्ट्‍स\N_NN ,\RD_PUNC जर्क\N_NN मीट\N_NN ,\RD_PUNC रेगाई\N_NN म्यूजिक\N_NN और\CC_CCD ब्लू\N_NNP माउंटेन\N_NNP अंतर्राष्‍ट्रीय\JJ स्तर\N_NN पर\PSP पर्यटकों\N_NN के\PSP आकर्षण\N_NN के\PSP केंद्र\N_NN हैं\V_VM ।\RD_PUNC
+htd14363	इन्हें\DM_DMD देखने\V_VM के\PSP लिए\PSP दुनिया\N_NN भर\RP_RPD से\PSP बड़ी\JJ संख्या\N_NN में\PSP पर्यटक\N_NN जमैका\N_NNP आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14364	खासकर\CC_CCD यहाँ\DM_DMD की\PSP जर्क\N_NN मीट\N_NN तो\RP_RPD दुनिया\N_NN भर\N_NN में\PSP मशहूर\N_NN हैं\V_VM ।\RD_PUNC
+htd14365	एकी\N_NN जमैका\N_NNP का\PSP राष्‍ट्रीय\JJ फल\N_NN है\V_VM ।\RD_PUNC
+htd14366	इसे\DM_DMD स्थानीय\N_NN लोग\N_NN नमकीन\JJ मछली\N_NN के\PSP साथ\PSP चटखारे\N_NN ले\V_VM कर\V_VAUX खाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14367	अपने\PR_PRF देश\N_NN से\PSP बाहर\N_NN जमैका\N_NNP के\PSP निवासियों\N_NN को\PSP इस\DM_DMD फल\N_NN की\PSP कमी\N_NN बहुत\QT_QTF खलती\V_VM है\V_VAUX ।\RD_PUNC
+htd14368	यों\CC_CCD कहें\V_VM कि\CC_CCS वे\PR_PRP इस\DM_DMD फल\N_NN के\PSP बिना\RP_NEG अन्यत्र\JJ कहीं\DM_DMI नहीं\RP_NEG रहना\V_VM चाहेंगे\V_VAUX तो\RP_RPD शायद\RB अतिशयोक्‍ति\N_NN न\RP_NEG होगी\V_VM ।\RD_PUNC
+htd14369	एकी\N_NN का\PSP पका\JJ फल\N_NN काफी\QT_QTF स्वादिष्‍ट\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14370	हालाँकि\CC_CCD इतनी\DM_DMD विशेषताओं\N_NN के\PSP बावजूद\N_NN इस\DM_DMD फल\N_NN का\PSP एक\QT_QTC कड़वा\JJ पहलू\N_NN भी\RP_RPD है\V_VM कि\CC_CCS इस\DM_DMD का\PSP कच्चा\JJ फल\N_NN जहरीला\JJ होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14371	इस\DM_DMD द्वीप\N_NN के\PSP पूर्वी\JJ हिस्से\N_NN में\PSP 7,402\QT_QTC फुट\N_NN ऊँचा\JJ मैजेस्टिक\JJ ब्लू\N_NNP माउंटेन\N_NNP आकाश\N_NN को\PSP छूता\V_VM हुआ\V_VAUX प्रतीत\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14372	सिटीज\N_NNP आफ\N_NNP मोंटेगो\N_NNP बे\N_NNP ,\RD_PUNC ओचो\N_NNP रिओज\N_NNP ,\RD_PUNC पोर्ट\N_NNP एंटोनियो\N_NNP और\CC_CCD नेग्रिल\N_NNP जैसे\JJ सुंदर\JJ प्राकृतिक\JJ तट\N_NN पर्यटकों\N_NN के\PSP आकर्षण\N_NN के\PSP विशेष\JJ केंद्र\N_NN हैं\V_VM ।\RD_PUNC
+htd14373	पर्यटकों\N_NN में\PSP इस\DM_DMD द्वीप\N_NN के\PSP आकर्षण\N_NN का\PSP अंदाजा\N_NN आप\PR_PRP इस\DM_DMD तथ्य\N_NN से\PSP भी\RP_RPD लगा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14374	यहाँ\DM_DMD की\PSP कुल\JJ आबादी\N_NN जहाँ\PR_PRL 27\QT_QTC लाख\N_NN है\V_VM वहीं\PR_PRL हर\QT_QTF साल\N_NN यहाँ\DM_DMD आने\V_VM वाले\JJ पर्यटकों\N_NN की\PSP संख्या\N_NN उस\PR_PRP से\PSP कहीं\DM_DMI अधिक\QT_QTF यानी\CC_CCD 30\QT_QTC लाख\N_NN से\PSP भी\RP_RPD ज्यादा\QT_QTF है\V_VM ।\RD_PUNC
+htd14375	10\QT_QTC लाख\N_NN से\PSP ज्यादा\QT_QTF पर्यटक\N_NN तो\RP_RPD केवल\QT_QTF अमेरिका\N_NNP से\PSP ही\RP_RPD आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14376	वर्ष\N_NN 2006\QT_QTC में\PSP जमैका\N_NNP को\PSP पर्यटकों\N_NN से\PSP 19\QT_QTC लाख\N_NN अमेरिकी\JJ डॉलर\N_NN की\PSP कमाई\N_NN हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd14377	देश\N_NN के\PSP उत्तर-पश्‍चिमी\JJ हिस्से\N_NN में\PSP स्थित\N_NN मोंटेगो\N_NNP बे\N_NNP जमैका\N_NNP का\PSP दूसरा\QT_QTO बड़ा\JJ शहर\N_NN है\V_VM ।\RD_PUNC
+htd14378	इसे\N_NN यहाँ\DM_DMD की\PSP पर्यटन\JJ राजधानी\N_NN के\PSP तौर\N_NN पर\PSP भी\RP_RPD जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14379	यह\DM_DMD शहर\N_NN यूरोप\N_NNP और\CC_CCD अमेरिका\N_NNP के\PSP प्रमुख\JJ शहरों\N_NN से\PSP वायुसेवा\N_NN से\PSP सीधे\JJ जुड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14380	यहाँ\DM_DMD बहुत\QT_QTF से\PSP ऐसे\CC_CCS लक्जरी\JJ होटल\N_NN हैं\V_VM ,\RD_PUNC जिन\PR_PRL का\PSP अपना\PR_PRF निजी\JJ सी\N_NN बीच\N_NN (\RD_PUNC सागर\N_NN तट\N_NN )\RD_PUNC भी\RP_RPD हैं\V_VAUX ।\RD_PUNC
+htd14381	डाक्‍टर्स\N_NNP केव\N_NNP ,\RD_PUNC कोर्नवाल\N_NNP बीच\N_NNP और\CC_CCD वाल्टर\N_NNP फ्लैचर\N_NNP जैसे\JJ बीचों\N_NN की\PSP गिनती\N_NN शानदार\JJ बीचों\N_NN में\PSP होती\V_VM है\V_VAUX ,\RD_PUNC जो\PR_PRL दुनिया\N_NN भर\RP_RPD में\PSP मशहूर\JJ हैं\V_VM ।\RD_PUNC
+htd14382	मोंटेगो\N_NNP का\PSP 500\QT_QTC साल\N_NN पुराना\JJ किला\N_NN पर्यटकों\N_NN के\PSP आकर्षण\N_NN का\PSP केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd14383	शहर\N_NN में\PSP अनेक\QT_QTF वाटर\N_NN स्पोर्ट्‍स\N_NN और\CC_CCD मैरीन\N_NN पार्क\N_NN हैं\V_VM ।\RD_PUNC
+htd14384	ओयस्टर\N_NNP बे\N_NNP लैगून\N_NNP में\PSP नौकायन\N_NN का\PSP अलग\N_NN ही\RP_RPD रोमांच\N_NN है\V_VM ।\RD_PUNC
+htd14385	इस\DM_DMD में\PSP नौकायन\N_NN के\PSP दौरान\PSP कुछ\DM_DMI भ्रम\N_NN सा\RP_RPD महसूस\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14386	ऐसा\CC_CCS लगता\V_VM है\V_VAUX जैसे\CC_CCS नाव\N_NN लैगून\N_NN में\PSP गहरे\JJ पानी\N_NN के\PSP अंदर\N_NN गोते\N_NN लगा\V_VM रही\V_VAUX हो\V_VAUX ।\RD_PUNC
+htd14387	मोंटेगो\N_NNP बे\N_NN में\PSP बहुत\QT_QTF से\PSP सिंधी\JJ व्यापारी\N_NN हैं\V_VM ।\RD_PUNC
+htd14388	इन्होंने\PR_PRP ड्‍यूटी\JJ फ्री\JJ व्यापार\N_NN को\PSP यहाँ\DM_DMD नियंत्रित\N_NN कर\V_VM रखा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14389	यह\DM_DMD शहर\N_NN अंतर्राष्‍ट्रीय\JJ स्तर\N_NN पर\PSP उस\PR_PRP समय\N_NN और\QT_QTF प्रख्यात\JJ हुआ\V_VM जब\PR_PRL वर्ष\N_NN 1999\QT_QTC में\PSP यहाँ\DM_DMD जी-15\N_NNP देशों\N_NN का\PSP शिखर\JJ सम्मेलन\N_NN आयोजित\N_NN किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd14390	जमैका\N_NNP के\PSP उत्तरी\JJ तट\N_NN पर\PSP बसा\V_VM शहर\N_NN ओचो\N_NNP रिओज\N_NNP (\RD_PUNC जिसे\PR_PRL स्पेनिश\N_NN में\PSP 8\QT_QTC नदियाँ\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX )\RD_PUNC यहाँ\DM_DMD का\PSP प्रमुख\JJ शहर\N_NN व\CC_CCD पर्यटन\JJ स्थल\N_NN है\V_VM ।\RD_PUNC
+htd14391	यह\DM_DMD शहर\N_NN स्कूबा\JJ डाइविंग\N_NN और\CC_CCD वाटर\JJ स्पोर्ट्‍स\N_NN गेम\N_NN के\PSP लिए\PSP विख्यात\JJ है\V_VM ।\RD_PUNC
+htd14392	पर्यटकों\N_NN के\PSP बीच\N_NST यह\DM_DMD जगह\N_NN ’\RD_PUNC डून्स\N_NNP रिवर\N_NNP फाल्स\N_NNP ’\RD_PUNC के\PSP नाम\N_NN से\PSP प्रख्यात\N_NN है\V_VM ।\RD_PUNC
+htd14393	यहाँ\DM_DMD साल\N_NN भर\RP_RPD पर्यटकों\N_NN का\PSP ताँता\N_NN लगा\V_VM रहता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14394	600\QT_QTC फुट\N_NN ऊपर\N_NST से\PSP सीधे\JJ समुद्र\N_NN में\PSP गिरते\V_VM हुए\V_VAUX जलप्रपात\N_NN का\PSP दृश्य\N_NN बड़ा\JJ ही\RP_RPD मनोहारी\JJ लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd14395	गिरते\V_VM हुए\V_VAUX पानी\N_NN के\PSP बहाव\N_NNP के\PSP विरुद्ध\N_NN आगे\N_NN बढ़ना\V_VM पर्यटकों\N_NN में\PSP एक\QT_QTC अलग\N_NN ही\RP_RPD रोमांच\N_NN पैदा\V_VM करता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14396	शहर\N_NN के\PSP पास\N_NN ही\RP_RPD डाल्फिन\N_NNP कोव\N_NNP और\CC_CCD वाइट\N_NNP रिवर\N_NNP वैली\N_NNP पर्यटकों\N_NN के\PSP आकर्षण\N_NN के\PSP केंद्र\N_NN हैं\V_VM ।\RD_PUNC
+htd14397	डाल्फिन\N_NNP कोव\N_NNP के\PSP प्राकृतिक\JJ वातावरण\N_NN में\PSP आप\PR_PRP डाल्फिनों\N_NN के\PSP संग\N_NN तैरने\V_VM के\PSP साथ\PSP -\RD_PUNC साथ\PSP खेल\N_NN का\PSP मजा\N_NN ले\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14398	प्लेसिड\N_NNP बीच\N_NNP के\PSP किनारे\N_NN पर\PSP आप\PR_PRP शार्क\N_NN के\PSP साथ\PSP खेलने\V_VM के\PSP अलावा\N_NN नाव\N_NN की\PSP सवारी\N_NN का\PSP लुत्फ़\N_NN भी\RP_RPD उठा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14399	किंग्सटन\N_NNP से\PSP सड़क\JJ मार्ग\N_NN से\PSP यहाँ\DM_DMD तक\PSP आप\PR_PRP पहाड़ियों\N_NN के\PSP बीच\N_NN से\PSP 2\QT_QTC घंटे\N_NN में\PSP पहुँच\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14400	ऊँचे\JJ -\RD_PUNC ऊँचे\JJ पहाड़ों\N_NN और\CC_CCD हरी-भरी\JJ घाटियों\N_NN से\PSP होकर\V_VM जाने\V_VM वाली\JJ इस\DM_DMD सड़क\N_NN यात्रा\N_NN का\PSP आनंद\N_NN पर्यटकों\N_NN के\PSP मन\N_NN में\PSP अपनी\PR_PRF यादें\N_NN बसा\V_VM लेता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14401	इसी\DM_DMD रास्ते\N_NN में\PSP फर्न\N_NNP गली\N_NNP है\V_VM ।\RD_PUNC
+htd14402	यहाँ\DM_DMD नदी\N_NN के\PSP किनारे\N_NN होते\V_VM हुए\V_VAUX सड़क\N_NN बनी\V_VM है\V_VAUX ।\RD_PUNC
+htd14403	इस\DM_DMD जगह\N_NN पर\PSP न\RP_NEG केवल\QT_QTF बड़े\JJ -\RD_PUNC बड़े\JJ वृक्ष\N_NN हैं\V_VM ,\RD_PUNC बल्कि\CC_CCD फर्न\N_NN की\PSP करीब\JJ 600\QT_QTC प्रजातियाँ\N_NN भी\RP_RPD हैं\V_VM ।\RD_PUNC
+htd14404	यहाँ\DM_DMD भी\RP_RPD भारतीय\JJ कारोबारी\N_NN आप\PR_PRP को\PSP बहुतायत\QT_QTF में\PSP मिल\V_VM जाएँगें\V_VAUX ।\RD_PUNC
+htd14405	एक\QT_QTC बाजार\N_NN में\PSP तो\RP_RPD ताजमहल\N_NNP की\PSP तर्ज\N_NN पर\PSP दुकान\N_NN को\PSP आकार\N_NN दिया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14406	यह\DM_DMD उन\PR_PRP की\PSP भारतीय\JJ पहचान\N_NN को\PSP उजागर\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd14407	यदि\CC_CCS आप\PR_PRP भारतीय\JJ व्यंजनों\N_NN का\PSP स्वाद\N_NN लेना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD यहाँ\DM_DMD भारतीय\JJ भोजन\N_NN की\PSP भी\RP_RPD पूरी\QT_QTF व्यवस्था\N_NN है\V_VM ।\RD_PUNC
+htd14408	देश\N_NN के\PSP पश्‍चिमी\JJ हिस्से\N_NN में\PSP बसा\V_VM नेग्रिल\N_NNP मनोरम\JJ सागरीय\JJ तट\N_NN की\PSP छटा\N_NN को\PSP समेटे\N_NN है\V_VM ।\RD_PUNC
+htd14409	समुद्री\JJ जहाजों\N_NN से\PSP भी\RP_RPD इस\DM_DMD तट\N_NN तक\PSP जाने\V_VM की\PSP साप्‍ताहिक\JJ सुविधा\N_NN उपलब्ध\N_NN है\V_VM ।\RD_PUNC
+htd14410	करीब\RP_INTF 7\QT_QTC मील\N_NN लंबे\JJ इस\DM_DMD क्षेत्र\N_NN में\PSP फैले\V_VM समुद्री\JJ तट\N_NN पर\PSP आप\PR_PRP ठहर\V_VM कर\V_VAUX पूरा\QT_QTF आराम\N_NN फरमा\N_NN सकते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14411	इन\PR_PRP तटों\N_NN पर\PSP लाखों\N_NN साल\N_NN पहले\JJ मूँगे\N_NN की\PSP चट्‍टानें\N_NN बनीं\V_VM थीं\V_VAUX ।\RD_PUNC
+htd14412	यह\DM_DMD अभी\N_NST भी\RP_RPD उसी\PR_PRP आकार\N_NN में\PSP मौजूद\N_NN हैं\V_VM ।\RD_PUNC
+htd14413	पर्यटक\N_NN यहाँ\DM_DMD तैरने\N_NN और\CC_CCD स्कूबा\JJ डाइविंग\N_NN और\CC_CCD वाटर\JJ स्पोर्ट्‍स\N_NN गेम\N_NN का\PSP मजा\N_NN उठाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14414	पर्यटकों\N_NN के\PSP लिए\PSP न\RP_NEG केवल\QT_QTF समुद्री\JJ तटों\N_NN पर\PSP बल्कि\CC_CCD शहर\N_NN में\PSP ठहरने\V_VM के\PSP लिए\PSP भी\RP_RPD लक्जरी\JJ होटल\N_NN बने\V_VM हुए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14415	आराम\N_NN के\PSP क्षणों\N_NN में\PSP जब\PR_PRL भी\RP_RPD आप\PR_PRP भूख\N_NN महसूस\N_NN करें\V_VM तो\RP_RPD तरोताजा\N_NN होने\V_VM के\PSP लिए\PSP यहाँ\DM_DMD रेड\JJ स्नैपर\JJ फिश\N_NN ,\RD_PUNC लोबस्टर\N_NN और\CC_CCD कोंच\JJ सूप\N_NN आप\PR_PRP को\PSP हर\QT_QTF समय\N_NN मिल\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14416	यह\DM_DMD क्षेत्र\N_NN सदियों\N_NN से\PSP इस\DM_DMD देश\N_NN की\PSP मुख्य\JJ पृष्‍ठभूमि\N_NN से\PSP अलग\N_NN रहा\V_VM और\CC_CCD इस\DM_DMD की\PSP खोज\N_NN सब\QT_QTF से\PSP बाद\N_NN में\PSP हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd14417	इसलिए\CC_CCD यहाँ\DM_DMD का\PSP इतिहास\N_NN ज्यादा\RP_INTF पुराना\JJ नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd14418	सौर\JJ ऊर्जा\N_NN से\PSP चलने\V_VM वाला\JJ 100\QT_QTC फुट\N_NN ऊँचा\JJ पुराना\JJ नेग्रिल\N_NNP लाइट\N_NNP हाउस\N_NNP यहाँ\DM_DMD का\PSP ऐतिहासिक\JJ आकर्षण\N_NN है\V_VM ।\RD_PUNC
+htd14419	ब्लू\N_NNP माउंटेन\N_NNP के\PSP बाद\N_NN देश\N_NN के\PSP पूर्वोत्तर\JJ भाग\N_NN में\PSP बसा\V_VM है\V_VAUX पोर्ट\N_NNP एंटोनियो\N_NNP ।\RD_PUNC
+htd14420	राजधानी\N_NN किंग्सटन\N_NNP से\PSP यहाँ\DM_DMD केवल\QT_QTF 2\QT_QTC घंटे\N_NN में\PSP पहुँचा\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14421	वर्ष\N_NN 1888\QT_QTC में\PSP निर्मित\N_NN फोर्ट\N_NNP जार्ज\N_NNP ,\RD_PUNC लाइट\N_NNP हाउस\N_NNP ,\RD_PUNC डाइवर्स\N_NNP नदी\N_NN पर\PSP रिच\N_NNP फाल्स\N_NNP ,\RD_PUNC समरसेट\N_NNP फाल्स\N_NNP ,\RD_PUNC ब्लू\N_NNP होल\N_NNP ,\RD_PUNC गुफाएँ\N_NN और\CC_CCD रेनफारेस्ट\N_NN जैसी\JJ कई\QT_QTF ऐसी\CC_CCS जगहें\N_NN हैं\V_VM ,\RD_PUNC जो\PR_PRL यह\DM_DMD पर्यटकों\N_NN को\PSP लुभाती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14422	यहीं\DM_DMD पर\PSP पूरब\N_NNP में\PSP 200\QT_QTC फुट\N_NN गहरा\JJ ब्लू\N_NNP लैगून\N_NNP भी\RP_RPD है\V_VM जिस\PR_PRL में\PSP खनिज\JJ पदार्थों\N_NN के\PSP आधिक्य\QT_QTF की\PSP वजह\N_NN से\PSP पानी\N_NN में\PSP कोबाल्ट\JJ ब्लू\JJ से\PSP लेकर\V_VM एमरल्ड\JJ ग्रीन\JJ कलर\N_NN की\PSP धारियाँ\N_NN बनी\V_VM हुई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14423	हॉलीवुड\N_NN की\PSP ब्लाकबस्टर\JJ फिल्म\N_NN ’\RD_PUNC ब्लू\N_NNP लैगून\N_NNP ’\RD_PUNC के\PSP कुछ\QT_QTF भागों\N_NN की\PSP शूटिंग\N_NN भी\RP_RPD यहाँ\DM_DMD की\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14424	साथ\PSP ही\RP_RPD इस\DM_DMD जगह\N_NN की\PSP खूबसूरती\N_NN का\PSP अंदाजा\N_NN आप\PR_PRP इस\DM_DMD बात\N_NN से\PSP भी\RP_RPD लगा\V_VM सकते\V_VAUX हैं\V_VAUX कि\CC_CCS इस\DM_DMD छोटे\JJ से\PSP द्वीप\N_NN में\PSP बहुत\QT_QTF से\PSP हॉलीवुड\N_NN फिल्म\JJ स्टारों\N_NN ने\PSP अपनी\PR_PRF निजी\JJ जिंदगी\N_NN के\PSP क्षणों\N_NN का\PSP लुत्फ़\N_NN उठाने\V_VM के\PSP लिए\PSP व्यक्‍तिगत\JJ तौर\N_NN पर\PSP अपना\PR_PRF आशियाना\N_NN बना\V_VM रखा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14425	द्वीप\N_NN के\PSP दक्षिणपूर्वी\JJ हिस्से\N_NN में\PSP ब्लू\N_NNP माउंटेन\N_NNP के\PSP कदमों\N_NN तले\N_NN ही\RP_RPD यह\DM_DMD राजधानी\N_NN बसी\V_VM हुई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14426	1693\QT_QTC में\PSP यह\DM_DMD शहर\N_NN बसाया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14427	इस\DM_DMD के\PSP बाद\N_NN से\PSP इस\DM_DMD शहर\N_NN ने\PSP चक्रवाती\JJ तूफान\N_NN ,\RD_PUNC भूकंप\N_NN और\CC_CCD आग\N_NN के\PSP कई\QT_QTF आघात\N_NN सहे\V_VM ।\RD_PUNC
+htd14428	वर्ष\N_NN 1907\QT_QTC में\PSP आए\V_VM भयानक\JJ भूकंप\N_NN ने\PSP इस\DM_DMD शहर\N_NN को\PSP पूरी\QT_QTF तरह\N_NN से\PSP नेस्तनाबूद\N_NN कर\V_VM दिया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14429	इस\DM_DMD के\PSP बाद\N_NN यहाँ\DM_DMD के\PSP निवासियों\N_NN ने\PSP इसे\PR_PRP फिर\RB से\PSP बसाने\V_VM में\PSP अथक\JJ परिश्रम\N_NN किया\V_VM ।\RD_PUNC
+htd14430	लगभग\JJ 100\QT_QTC वर्ग\N_NN कि.मी.\N_NN क्षेत्रफल\N_NN में\PSP बसे\V_VM इस\DM_DMD शहर\N_NN में\PSP जमैका\N_NNP की\PSP कुल\JJ आबादी\N_NN का\PSP एकतिहाई\QT_QTF हिस्सा\N_NN निवास\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd14431	शहर\N_NN में\PSP कला\N_NN ,\RD_PUNC संग्रहालय\N_NN ,\RD_PUNC संगीत\N_NN ,\RD_PUNC थिएटर\N_NN ,\RD_PUNC सिनेमा\N_NN ,\RD_PUNC होटल\N_NN ,\RD_PUNC रेस्तराँ\N_NN और\CC_CCD नाइटक्लब\N_NN जैसी\JJ वे\PR_PRP सभी\QT_QTF चीजें\N_NN हैं\V_VM ,\RD_PUNC जो\PR_PRL इस\DM_DMD की\PSP समृद्धि\N_NN का\PSP वर्णन\N_NN करने\V_VM के\PSP साथ\PSP ही\RP_RPD पर्यटकों\N_NN को\PSP लुभाती\V_VM है\V_VAUX ।\RD_PUNC
+htd14432	ब्रिटिश\JJ काल\N_NN के\PSP विला\N_NN और\CC_CCD गार्डनों\N_NN के\PSP साथ\PSP ही\RP_RPD ऊँचे\JJ -\RD_PUNC ऊँचे\JJ आधुनिक\JJ अपार्टमेंट\N_NN भी\RP_RPD यहाँ\DM_DMD आप\PR_PRP को\PSP दिखाई\V_VM दे\V_VAUX जाएँगें\V_VAUX ।\RD_PUNC
+htd14433	जमैका\N_NNP के\PSP मशहूर\JJ रास्टाफेरियन\JJ सिंगर\N_NN बोब\N_NNP मार्ले\N_NNP का\PSP निवास\N_NN और\CC_CCD रिकार्डिंग\N_NN स्टूडियो\N_NN किंग्सटन\N_NNP में\PSP ही\RP_RPD है\V_VM ।\RD_PUNC
+htd14434	इसे\N_NN अब\N_NST एक\QT_QTC संग्रहालय\N_NN में\PSP तबदील\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14435	19वीं\QT_QTO सदी\N_NN में\PSP महोगनी\N_NN वुड\N_NN से\PSP बना\V_VM यह\DM_DMD शानदार\JJ भवन\N_NN डेवोन\N_NNP हाउस\N_NNP आज\N_NST पर्यटकों\N_NN के\PSP आकर्षण\N_NN का\PSP केंद्र\N_NN बन\V_VM चुका\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14436	इस\DM_DMD में\PSP छोटा\JJ संग्रहालय\N_NN और\CC_CCD हैंडीक्राफ्ट\N_NN बाजार\N_NN है\V_VM ।\RD_PUNC
+htd14437	साथ\PSP ही\RP_RPD इस\DM_DMD भवन\N_NN में\PSP कुछ\QT_QTF स्थानीय\JJ त्योहार\N_NN और\CC_CCD फैशन\N_NN शो\N_NN भी\RP_RPD आयोजित\N_NN किए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14438	यहाँ\DM_DMD 200\QT_QTC एकड़\N_NN भूमि\N_NN में\PSP होप\N_NNP बोटेनिकल\N_NNP गार्डन\N_NNP और\CC_CCD चिड़ियाघर\N_NNP है\V_VM ।\RD_PUNC
+htd14439	इस\DM_DMD गार्डन\N_NN में\PSP बड़ी\JJ संख्या\N_NN में\PSP कैरिबियाई\JJ पेड़\N_NN -\RD_PUNC पौधों\N_NN का\PSP संग्रह\N_NN है\V_VM ।\RD_PUNC
+htd14440	देश\N_NN भर\QT_QTF में\PSP वृहद\JJ पैमाने\N_NN पर\PSP फैले\V_VM चीनी\N_NN उद्योग\N_NN के\PSP कच्चे\JJ माल\N_NN ,\RD_PUNC जैसे\CC_CCD गन्नों\N_NN की\PSP ढुलाई\N_NN को\PSP आसान\N_NN बनाने\V_VM के\PSP लिए\PSP अंगरेजों\N_NN ने\PSP जमैका\N_NNP में\PSP पहली\QT_QTO बार\N_NN 1845\QT_QTC में\PSP किंग्सटन\N_NNP से\PSP एंजिल्स\N_NNP तक\PSP 23\QT_QTC कि.मी.\N_NN लंबी\JJ रेललाइन\N_NN बिछाई\V_VM थी\V_VAUX ।\RD_PUNC
+htd14441	हालाँकि\CC_CCD 1975\QT_QTC में\PSP इस\DM_DMD रेललाइन\N_NN को\PSP बंद\N_NN कर\V_VM दिया\V_VAUX गया\V_VAUX ।\RD_PUNC
+htd14442	फिर\CC_CCD भी\RP_RPD किंग्सटन\N_NNP का\PSP रेलवे\JJ यार्ड\N_NN पर्यटकों\N_NN के\PSP आकर्षण\N_NN का\PSP केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd14443	शहर\N_NN के\PSP बीचोंबीच\N_NN ही\RP_RPD विश्‍वविख्यात\JJ सबीना\N_NNP पार्क\N_NNP क्रिकेट\N_NNP स्टेडियम\N_NNP है\V_VM ।\RD_PUNC
+htd14444	यहाँ\DM_DMD वर्ष\N_NN 2007\QT_QTC में\PSP वेस्टइंडीज\N_NNP में\PSP आयोजित\N_NN अंतर्राष्‍ट्रीय\N_NNP विश्‍व\N_NNP कप\N_NNP क्रिकेट\N_NNP का\PSP पहला\QT_QTO सेमीफाइनल\N_NN मैच\N_NN खेला\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14445	ईस्टर\N_NNP के\PSP समय\N_NN जमैका\N_NNP में\PSP ऐसा\CC_CCS जश्‍न\N_NN मनाया\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS पूरा\QT_QTF माहौल\N_NN कार्निवाल\N_NN सा\RP_RPD होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14446	इस\DM_DMD कार्निवाल\N_NN में\PSP युवक\N_NN -\RD_PUNC युवतियाँ\N_NN एक\QT_QTC साथ\PSP उन्मत्त\JJ हो\V_VM कर\V_VAUX नाचते\V_VM -\RD_PUNC गाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14447	इस\DM_DMD दौरान\PSP कई\QT_QTF बार\N_NN अश्‍लील\JJ हरकतें\N_NN भी\RP_RPD सामने\N_NN आती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14448	इसी\DM_DMD शहर\N_NN में\PSP इमेन्सिपेशन\N_NNP (\RD_PUNC मुक्‍ति\N_NN )\RD_PUNC पार्क\N_NNP में\PSP एक\QT_QTC नग्न\JJ पुरुष\N_NN और\CC_CCD महिला\N_NN की\PSP विशालकाय\JJ प्रतिमा\N_NN लगाई\V_VM गई\V_VAUX है\V_VAUX जिस\PR_PRL पर\PSP विभिन्न\QT_QTF वर्गों\N_NN की\PSP ओर\N_NN से\PSP मिलीजुली\JJ प्रतिक्रियाएँ\N_NN हुई\V_VM थीं\V_VAUX ।\RD_PUNC
+htd14449	यह\DM_DMD स्थान\N_NN पर्यटकों\N_NN के\PSP बीच\N_NN खासा\RP_INTF लोकप्रिय\JJ हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14450	अगर\N_NN आप\PR_PRP यहाँ\DM_DMD भारतीय\JJ खानों\N_NN का\PSP स्वाद\N_NN लेना\V_VM चाहते\V_VAUX हैं\V_VAUX तो\RP_RPD अकबर\N_NNP रेस्टोरेंट\N_NNP और\CC_CCD ज्वेल\N_NNP आफ\N_NNP इंडिया\N_NNP में\PSP जा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14451	किंग्सटन\N_NNP अंतर्राष्‍ट्रीय\N_NNP हवाई\N_NNP अड्‍डे\N_NNP के\PSP निकट\N_NN ही\RP_RPD दक्षिण\N_NNP में\PSP है\V_VM पोर्ट\N_NNP रॉयल\N_NNP ।\RD_PUNC
+htd14452	ब्रिटिश\JJ शासकों\N_NN ने\PSP 1655\QT_QTC में\PSP जब\PR_PRL स्पेन\N_NNP से\PSP जमैका\N_NNP का\PSP शासन\N_NN अपने\PR_PRF हाथों\N_NN में\PSP लिया\V_VM था\V_VAUX तब\PR_PRL यहीं\DM_DMD फोर्ट\N_NNP चार्ल्स\N_NNP का\PSP निर्माण\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd14453	उस\PR_PRP समय\N_NN यह\DM_DMD ब्रिटिश\JJ नौसेना\N_NN के\PSP एडमिल\N_NN का\PSP निवास\N_NN हुआ\V_VM करता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14454	यहाँ\DM_DMD और\QT_QTF भी\RP_RPD कई\QT_QTF भवन\N_NN बने\V_VM थे\V_VAUX ।\RD_PUNC
+htd14455	यह\DM_DMD 1692\QT_QTC में\PSP आए\V_VM विनाशकारी\JJ भूकंप\N_NN में\PSP ध्वस्त\N_NN हो\V_VM गए\V_VAUX ।\RD_PUNC
+htd14456	इस\DM_DMD शहर\N_NN का\PSP अधिकांश\QT_QTF हिस्सा\N_NN समुद्र\N_NN में\PSP डूब\V_VM गया\V_VAUX ।\RD_PUNC
+htd14457	पोर्ट\N_NNP रॉयल\N_NNP के\PSP किनारे\N_NN ही\RP_RPD लाइम\N_NNP नामक\N_NN एक\QT_QTC छोटा\JJ सा\RP_RPD द्वीप\N_NN है\V_VM ।\RD_PUNC
+htd14458	यहाँ\DM_DMD राजधानी\N_NN किंग्सटन\N_NNP की\PSP भागदौड़\N_NN से\PSP समय\N_NN निकाल\V_VM कर\V_VAUX घूमने\V_VM के\PSP लिए\PSP लोग\N_NN यहाँ\DM_DMD आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14459	इसके\PR_PRP एक\QT_QTC ओर\N_NN सैंड\N_NNP बीच\N_NNP है\V_VM तो\RP_RPD दूसरी\QT_QTO ओर\N_NN मूँगे\N_NN की\PSP चट्‍टानें\N_NN हैं\V_VM ।\RD_PUNC
+htd14460	जमैका\N_NNP के\PSP दक्षिणी\JJ तटीय\JJ क्षेत्रों\N_NN में\PSP भी\RP_RPD बहुत\QT_QTF से\PSP पर्यटक\JJ स्थल\N_NN हैं\V_VM ।\RD_PUNC
+htd14461	ब्लैक\N_NNP रिवर\N_NNP और\CC_CCD वाई\N_NNP एस\N_NNP फाल्स\N_NNP भी\RP_RPD इसी\DM_DMD हिस्से\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd14462	जमैका\N_NNP में\PSP बिजली\N_NN टेलीफोन\N_NN और\CC_CCD ऑटोमोबाइल\N_NN की\PSP सुविधा\N_NN सब\QT_QTF से\PSP पहले\QT_QTO ब्लैक\N_NNP रिवर\N_NNP शहर\N_NN में\PSP ही\RP_RPD उपलब्ध\N_NN हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd14463	इस\DM_DMD नदी\N_NN की\PSP तलहटी\N_NN में\PSP काफी\QT_QTF मात्रा\N_NN में\PSP काले\JJ रंग\N_NN की\PSP गाद\N_NN जमी\V_VM हुई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14464	इस\DM_DMD कारण\N_NN इस\DM_DMD का\PSP नाम\N_NN ब्लैक\N_NNP रिवर\N_NNP पड़ा\V_VM ।\RD_PUNC
+htd14465	नदी\N_NN के\PSP किनारों\N_NN की\PSP पट्‍टियों\N_NN में\PSP यहाँ\DM_DMD विभिन्न\QT_QTF प्रजाति\N_NN के\PSP ढेरों\QT_QTF फर्न\N_NN पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14466	यहाँ\DM_DMD हमेशा\RB सैकड़ों\N_NN घड़ियाल\N_NN डेरा\N_NN डले\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14467	नदी\N_NN में\PSP नौकाविहार\N_NN का\PSP आनंद\N_NN लेते\V_VM समय\N_NN इन\PR_PRP घड़ियालों\N_NN को\PSP भोजन\N_NN की\PSP तलाश\N_NN में\PSP इधर-उधर\N_NN भटकते\V_VM हुए\V_VAUX पर्यटक\N_NN अपने\PR_PRF आस-पास\N_NN आसानी\JJ से\PSP देख\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14468	वाई\N_NNP एस\N_NNP जलप्रपात\N_NNP को\PSP देख\V_VM कर\V_VAUX तो\RP_RPD शायद\RB आप\PR_PRP की\PSP साँसें\N_NN थम\V_VM जाएँगी\V_VAUX ।\RD_PUNC
+htd14469	इस\DM_DMD जगह\N_NN पर\PSP काफी\QT_QTF ऊपर\N_NN से\PSP पानी\N_NN इतने\DM_DMI वेग\N_NN से\PSP नीचे\N_NST गिरता\V_VM है\V_VAUX कि\CC_CCS वहाँ\DM_DMD चट्‍टानों\N_NN के\PSP बीच\N_NN एक\QT_QTC गहरी\JJ खाई\N_NN बन\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14470	लोग\N_NN पेड़\N_NN के\PSP ऊपर\N_NST से\PSP शरीर\N_NN में\PSP रस्सी\N_NN बाँध\V_VM कर\V_VAUX गहरी\JJ खाई\N_NN में\PSP गोते\N_NN लगाते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14471	इस\DM_DMD के\PSP रोमांच\N_NN की\PSP आप\PR_PRP केवल\QT_QTF कल्पना\N_NN ही\RP_RPD कर\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14472	मेंडेविले\N_NNP और\CC_CCD बैंबू\N_NNP एवेन्यू\N_NNP से\PSP गुजरते\V_VM हुए\V_VAUX किंग्सटन\N_NNP से\PSP इस\DM_DMD दक्षिणी\JJ तट\N_NN तक\PSP का\PSP सफर\N_NN बड़ा\JJ ही\RP_RPD सुहाना\N_NN है\V_VM ।\RD_PUNC
+htd14473	सड़क\N_NN के\PSP दोनों\QT_QTC किनारों\N_NN पर\PSP कई\QT_QTF कि.मी.\N_NN तक\PSP लंबे\JJ -\RD_PUNC लंबे\JJ बाँस\N_NN इस\DM_DMD तरह\N_NN से\PSP आच्छादित\N_NN हैं\V_VM कि\CC_CCS सड़क\N_NN को\PSP छतरी\N_NN की\PSP तरह\N_NN ढक\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14474	यह\DM_DMD दृश्य\N_NN बड़ा\JJ ही\RP_RPD मनोहारी\JJ लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd14475	जमैका\N_NNP में\PSP पक्षियों\N_NN की\PSP 200\QT_QTC से\PSP अधिक\QT_QTF प्रजातियाँ\N_NN पाई\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14476	पपीहे\N_NN ,\RD_PUNC तोते\N_NN ,\RD_PUNC पेलिकन्स\N_NN और\CC_CCD हमिंगबर्ड\N_NN बड़ी\JJ संख्या\N_NN में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14477	हालाँकि\CC_CCD ऐसा\JJ कोई\DM_DMI भी\RP_RPD बड़ा\JJ स्तनधारी\JJ जीव\N_NN नहीं\RP_NEG है\V_VM ,\RD_PUNC जो\PR_PRL मूल\JJ रूप\N_NN से\PSP जमैका\N_NNP का\PSP हो\V_VM ।\RD_PUNC
+htd14478	बड़े\JJ सुअर\N_NN के\PSP आकार\N_NN का\PSP खतरनाक\JJ दिखाई\V_VM देने\V_VM वाला\JJ जमैकन\JJ हुतिआ\N_NN या\CC_CCD कोनी\N_NN ही\RP_RPD एकमात्र\QT_QTF स्थानीय\JJ स्तनधारी\JJ जीव\N_NN है\V_VM ।\RD_PUNC
+htd14479	सैंकड़ों\N_NN वर्ष\N_NN पूर्व\JJ जमैका\N_NNP में\PSP भारी\JJ संख्या\N_NN में\PSP चूहों\N_NN और\CC_CCD साँपों\N_NN ने\PSP देश\N_NN भर\N_NN में\PSP उत्पात\N_NN मचा\V_VM रखा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14480	इस\DM_DMD समस्या\N_NN से\PSP निबटने\V_VM के\PSP लिए\PSP भारत\N_NNP से\PSP यहाँ\DM_DMD काफी\QT_QTF संख्या\N_NN में\PSP नेवलों\N_NN को\PSP भेजा\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14481	विशाल\JJ गिरगिट\N_NN के\PSP आकार\N_NN की\PSP भाँति\N_NN एक\QT_QTC जीव\N_NN इगुआना\N_NN जमैका\N_NNP का\PSP राष्‍ट्रीय\JJ पशु\N_NN है\V_VM ।\RD_PUNC
+htd14482	विभिन्न\QT_QTF प्रजातियों\N_NN के\PSP आम\N_NN के\PSP पेड़\N_NN भी\RP_RPD बाहरी\JJ देशों\N_NN से\PSP यहाँ\DM_DMD मँगाए\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14483	ठेके\N_NN पर\PSP काम\N_NN करने\V_VM गए\V_VAUX विदेशी\JJ मूल\N_NN के\PSP श्रमिक\N_NN यहाँ\DM_DMD अपने\PR_PRF साथ\PSP बंबई\N_NNP आम\N_NN की\PSP किस्म\N_NN भी\RP_RPD ले\V_VM गए\V_VAUX थे\V_VAUX ,\RD_PUNC जो\PR_PRL अब\N_NST यहाँ\DM_DMD बड़ी\JJ संख्या\N_NN में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14484	नारियल\N_NN ,\RD_PUNC केला\N_NN ,\RD_PUNC पपीता\N_NN ,\RD_PUNC एकी\N_NN ,\RD_PUNC नारंगी\N_NN ,\RD_PUNC अंगूर\N_NN ,\RD_PUNC पैशन\N_NN फ्रूट\N_NN यहाँ\DM_DMD वृहद\JJ मात्रा\N_NN में\PSP दिखाई\V_VM देंगें\V_VAUX ।\RD_PUNC
+htd14485	केदार\N_NN ,\RD_PUNC महोगनी\N_NN ,\RD_PUNC लोगवुड\N_NN ,\RD_PUNC रोजवुड\N_NN ,\RD_PUNC इबोनी\N_NN ,\RD_PUNC पामेटो\N_NN पाम\N_NN और\CC_CCD पिमेंटो\N_NN जैसे\JJ वृक्षों\N_NN से\PSP यहाँ\DM_DMD के\PSP जंगल\N_NN भरे\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14486	जमैका\N_NNP के\PSP निवासी\N_NN जिंदगी\N_NN के\PSP झंझटों\N_NN से\PSP इतर\N_NN जीवन\N_NN जीने\V_VM में\PSP विश्‍वास\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14487	भविष्‍य\N_NN की\PSP चिंता\N_NN किए\V_VM बिना\RP_NEG वे\PR_PRP वर्तमान\N_NN को\PSP पूरी\QT_QTF तरह\N_NN जीना\N_NN चाहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14488	संगीत\N_NN और\CC_CCD भोजन\N_NN से\PSP उन्हें\PR_PRP विशेष\JJ लगाव\N_NN है\V_VM ।\RD_PUNC
+htd14489	हालाँकि\CC_CCD जमैका\N_NNP में\PSP रहने\CC_CCD वाले\JJ लोगों\N_NN का\PSP जीवन\JJ स्तर\N_NN उतना\RP_INTF अच्छा\JJ नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd14490	क्योंकि\CC_CCS अपराध\N_NN का\PSP ग्राफ\N_NN वहाँ\DM_DMD ऊँचा\JJ है\V_VM ।\RD_PUNC
+htd14491	साथ\PSP ही\RP_RPD विवाह\N_NN की\PSP परंपरा\N_NN इस\DM_DMD कदर\N_NN बिगड़\V_VM चुकी\V_VAUX है\V_VAUX कि\CC_CCS यह\DM_DMD एक\QT_QTC भयानक\JJ सामाजिक\JJ समस्या\N_NN का\PSP रूप\N_NN ले\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14492	अनाथ\N_NN और\CC_CCD ऐसे\JJ बच्चे\N_NN ,\RD_PUNC जिन\N_NN को\PSP उन\PR_PRP के\PSP पिता\N_NN का\PSP साया\N_NN नहीं\RP_NEG मिल\V_VM पाता\V_VAUX ,\RD_PUNC उन\PR_PRP की\PSP भी\RP_RPD संख्या\N_NN बढ़\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14493	सिंगल\JJ मदर\N_NN की\PSP संख्या\N_NN भी\RP_RPD ज्यादा\QT_QTF है\V_VM ।\RD_PUNC
+htd14494	देश\N_NN में\PSP मूलभूत\JJ चीजों\N_NN का\PSP अधिकांश\QT_QTF भाग\N_NN बाहरी\JJ देशों\N_NN से\PSP ही\RP_RPD आयात\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX और\CC_CCD यही\DM_DMD वजह\N_NN है\V_VM कि\CC_CCS देश\N_NN के\PSP वार्षिक\JJ बजट\N_NN का\PSP लगभग\JJ 60\QT_QTC %\RD_SYM हिस्सा\N_NN विदेशी\JJ कर्ज\N_NN चुकाने\V_VM में\PSP ही\RP_RPD चला\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14495	भारी\JJ बारिश\N_NN से\PSP सड़कों\N_NN की\PSP हालत\N_NN हमेशा\RB ही\RP_RPD खस्ताहाल\N_NN बनी\V_VM रहती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14496	सड़कों\N_NN का\PSP रखरखाव\N_NN सरकार\N_NN के\PSP लिए\PSP एक\QT_QTC बड़ी\JJ सिरदर्दी\N_NN है\V_VM ।\RD_PUNC
+htd14497	फिर\CC_CCD भी\RP_RPD सच्चाई\N_NN यही\DM_DMD है\V_VM कि\CC_CCS जमैका\N_NNP के\PSP निवासियों\N_NN के\PSP लिए\PSP यहाँ\DM_DMD का\PSP जीवन\N_NN किसी\DM_DMD चुनौती\N_NN से\PSP कम\JJ नहीं\RP_NEG तो\RP_RPD दूसरी\QT_QTO ओर\N_NN पर्यटकों\N_NN के\PSP लिए\PSP यह\DM_DMD देश\N_NN पूरी\QT_QTF तरह\N_NN से\PSP पैसा\N_NN वसूल\N_NN है\V_VM ।\RD_PUNC
+htd14498	शायद\RB यही\DM_DMD कारण\N_NN हो\V_VM सकता\V_VAUX है\V_VAUX कि\CC_CCS जमैका\N_NNP की\PSP जितनी\PR_PRL आबादी\N_NN है\V_VM उससे\PR_PRP कहीं\DM_DMI अधिक\QT_QTF पर्यटक\N_NN यहाँ\DM_DMD हर\QT_QTF साल\N_NN घूमने\V_VM आते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14499	यहाँ\DM_DMD दूर\JJ तक\PSP फैले\V_VM समुद्र\JJ तट\N_NN ,\RD_PUNC कोणार्क\N_NNP का\PSP विश्‍वप्रसिद्ध\JJ सूर्यमंदिर\N_NNP व\CC_CCD अद्‍भुत\JJ कलाओं\N_NN को\PSP प्रदर्शित\N_NN करती\V_VM धरोहरें\N_NN पर्यटकों\N_NN का\PSP ध्यान\N_NN बरबस\RB ही\RP_RPD आकर्षित\N_NN कर\V_VM लेती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14500	क्षितिज\N_NN सा\RP_RPD फैला\V_VM नीला\JJ समुद्र\N_NN ,\RD_PUNC सोने\N_NN और\CC_CCD चाँदी\N_NN की\PSP सी\RP_RPD चमक\N_NN से\PSP चमचमाते\JJ समुद्रतट\N_NN ,\RD_PUNC हरेभरे\JJ जंगल\N_NN ,\RD_PUNC बेजोड़\JJ वास्तुकला\N_NN ,\RD_PUNC जिस\PR_PRL के\PSP हर\QT_QTF पत्थर\N_NN से\PSP प्राचीन\JJ इतिहास\N_NN की\PSP गूँज\N_NN सुनाई\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14501	अपनी\PR_PRF इसी\DM_DMD सुंदरता\N_NN और\CC_CCD भव्यता\N_NN के\PSP कारण\N_NN उड़ीसा\N_NNP पर्यटकों\N_NN के\PSP लिए\PSP स्वप्‍न\JJ स्थल\N_NN रहा\V_VM है\V_VAUX ।\RD_PUNC
+htd14502	विशेष\JJ आकर्षण\N_NN के\PSP साथ\PSP -\RD_PUNC साथ\PSP पर्यटकों\N_NN को\PSP अपनी\PR_PRF ओर\N_NN आकर्षित\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14503	पुरी\N_NNP ,\RD_PUNC कोणार्क\N_NNP और\CC_CCD भुवनेश्‍वर\N_NNP ऐसा\CC_CCS स्वर्णिम\JJ त्रिकोण\N_NN है\V_VM ,\RD_PUNC जहाँ\PR_PRL बहुत\QT_QTF से\PSP भव्य\JJ मंदिरों\N_NN की\PSP दिव्य\JJ छटा\N_NN बिखरी\V_VM हुई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14504	खंडगिरी\N_NNP ,\RD_PUNC उदयगिरी\N_NNP व\CC_CCD धौली\N_NNP की\PSP चट्‍टानों\N_NN को\PSP काट\V_VM कर\V_VAUX बनाई\V_VM गई\V_VAUX 2\QT_QTC हजार\N_NN साल\N_NN पुरानी\JJ जैन\N_NN ,\RD_PUNC बौद्ध\N_NN गुफाएँ\N_NN तथा\CC_CCD अनेक\QT_QTF अशोक\N_NNP की\PSP नीतियों\N_NN और\CC_CCD राजाज्ञों\N_NN से\PSP संबंधित\N_NN शिलालेख\N_NN एक\QT_QTC अलग\N_NN दुनिया\N_NN का\PSP अनुभव\N_NN कराते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14505	यहाँ\DM_DMD के\PSP त्यौहार\N_NN मन\N_NN को\PSP प्रसन्न\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14506	उड़ीसा\N_NNP की\PSP जगन्नाथ\N_NNP यात्रा\N_NN विश्‍व\N_NN की\PSP सब\QT_QTF से\PSP विशाल\JJ धार्मिक\JJ यात्रा\N_NN है\V_VM ,\RD_PUNC जिस\PR_PRL में\PSP देश\N_NN के\PSP कोने\N_NN -\RD_PUNC कोने\N_NN से\PSP ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC अपितु\CC_CCS विदेशों\N_NN से\PSP भी\RP_RPD आने\V_VM वाले\JJ पर्यटकों\N_NN की\PSP भीड़\N_NN जमा\N_NN होती\V_VM है\V_VAUX ।\RD_PUNC
+htd14507	यहाँ\DM_DMD अन्य\QT_QTF त्यौहारों\N_NN में\PSP उत्कृष्‍ट\JJ हस्तशिल्प\N_NN ,\RD_PUNC विस्मयकारी\JJ नृत्यसंगीत\N_NN एवं\CC_CCD सुस्वाद\JJ भोजन\N_NN का\PSP भी\RP_RPD लुत्फ़\N_NN उठाया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14508	आर्य\JJ ,\RD_PUNC द्रविड़\JJ और\CC_CCD आदिवासी\JJ संस्कृति\N_NN का\PSP संगम\N_NN होने\V_VM के\PSP कारण\N_NN उड़ीसा\N_NNP विभिन्न\JJ धार्मिक\JJ परंपराओं\N_NN का\PSP मिलन\JJ स्थल\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd14509	साल\N_NN भर\N_NN यहाँ\DM_DMD त्योहार\N_NN मनाए\V_VM जाते\V_VAUX रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14510	यहाँ\DM_DMD के\PSP कुछ\QT_QTF लोकप्रिय\JJ आनंदोत्सव\N_NN हैं\V_VM जैसे\CC_CCD मकरमेला\N_NN ,\RD_PUNC शीतला\N_NN स्थली\N_NN ,\RD_PUNC रथयात्रा\N_NN ,\RD_PUNC राजाप्रभा\N_NN ,\RD_PUNC कोणार्क\N_NNP का\PSP त्योहार\N_NN इकमरा\N_NN उत्सव\N_NN ,\RD_PUNC श्रीक्षेत्र\N_NN उत्सव\N_NN (\RD_PUNC पुरी\N_NNP त्योहार\N_NN )\RD_PUNC ,\RD_PUNC राजारानी\N_NN संगीत\N_NN त्योहार\N_NN ,\RD_PUNC कलिंग\N_NNP महोत्सव\N_NN ,\RD_PUNC पुरी\N_NNP समुद्र\JJ तट\JJ त्योहार\N_NN इत्यादि\N_NN ।\RD_PUNC
+htd14511	ये\DM_DMD सब\QT_QTF एकसाथ\N_NN मिल\V_VM कर\V_VAUX उड़ीसा\N_NNP के\PSP वातावरण\N_NN को\PSP रंगीन\JJ बना\V_VM देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14512	उड़ीसा\N_NNP का\PSP प्राचीन\JJ नाम\N_NN ’\RD_PUNC उत्कल\N_NNP ’\RD_PUNC है\V_VM अर्थात\CC_CCD कला\N_NN में\PSP उत्तम\JJ स्थल\N_NN ।\RD_PUNC
+htd14513	यहाँ\DM_DMD उत्कृष्‍ट\JJ हस्तशिल्प\N_NN का\PSP खजाना\N_NN है\V_VM ।\RD_PUNC
+htd14514	मंदिरों\N_NN में\PSP उत्तम\JJ नक्काशी\N_NN और\CC_CCD मूर्तिकला\N_NN बरबस\RB ही\RP_RPD पर्यटकों\N_NN का\PSP मन\N_NN मोह\V_VM लेती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14515	कलाओं\N_NN में\PSP उत्तम\JJ इस\DM_DMD स्थल\N_NN की\PSP अन्य\QT_QTF कलाएँ\N_NN जैसे\CC_CCD वस्‍त्रों\N_NN पर\PSP पारंपरिक\JJ बंधेज\N_NN के\PSP काम\N_NN की\PSP कला\N_NN ,\RD_PUNC पीतल\N_NN के\PSP काम\N_NN की\PSP कला\N_NN ,\RD_PUNC घंटी\N_NN की\PSP धातु\N_NN कला\N_NN ,\RD_PUNC चमकदार\JJ रंगीन\JJ लकड़ी\N_NN पर\PSP नक्काशी\N_NN ,\RD_PUNC पेपरपैशी\N_NN मुखौटों\N_NN की\PSP कला\N_NN ’\RD_PUNC पिपली\N_NN ’\RD_PUNC का\PSP गोटे\N_NN पट्‍टे\N_NN का\PSP काम\N_NN एवं\CC_CCD रघुराज\N_NN की\PSP ’\RD_PUNC पोटो\N_NN ’\RD_PUNC चित्रकला\N_NN तथा\CC_CCD रेत\N_NN से\PSP बनाई\V_VM जाने\V_VM वाली\JJ कृतियों\N_NN की\PSP कलाएँ\N_NN देशविदेशों\N_NN में\PSP विशेष\JJ भूमिका\N_NN निभाती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14516	मंदिरों\N_NN की\PSP प्रतिकृतियों\N_NN के\PSP गहनों\N_NN में\PSP घोड़े\N_NN ,\RD_PUNC हाथी\N_NN ,\RD_PUNC रथ\N_NN ,\RD_PUNC सभी\QT_QTF कुछ\QT_QTF चाँदी\N_NN के\PSP तारों\N_NN से\PSP बना\V_VM होता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14517	अपने\PR_PRF प्राकृतिक\JJ सौंदर्य\N_NN के\PSP साथ\PSP -\RD_PUNC साथ\PSP उड़ीसा\N_NNP अपनी\PR_PRF संस्कृति\N_NN ,\RD_PUNC परंपरा\N_NN और\CC_CCD कला\N_NN की\PSP दृष्‍टि\N_NN से\PSP भी\RP_RPD समृद्ध\N_NN है\V_VM ।\RD_PUNC
+htd14518	पुरी\N_NNP का\PSP शांत\JJ वातावरण\N_NN और\CC_CCD समुद्र\JJ तट\N_NN पूरे\QT_QTF विश्‍व\N_NN के\PSP पर्यटकों\N_NN के\PSP लिए\PSP आकर्षण\N_NN का\PSP केंद्र\N_NN है\V_VM ।\RD_PUNC
+htd14519	कोणार्क\N_NNP स्थित\N_NN चंद्रभागा\N_NNP समुद्रतट\N_NNP एशिया\N_NNP के\PSP सब\QT_QTF से\PSP खूबसूरत\JJ समुद्र\JJ तटों\N_NN में\PSP से\PSP एक\QT_QTC है\V_VM ।\RD_PUNC
+htd14520	इस\DM_DMD शांत\JJ ,\RD_PUNC मनोरम\JJ समुद्र\JJ तट\N_NN पर\PSP सूर्यास्त\N_NN और\CC_CCD सूर्योदय\N_NN के\PSP मनोहारी\JJ दृश्यों\N_NN का\PSP आनंद\N_NN लिया\V_VM जा\V_VAUX सकता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14521	चाँदीपुर\N_NNP में\PSP हर\QT_QTF दिन\N_NN समुद्र\N_NN 5\QT_QTC किलोमीटर\N_NN घट\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14522	यहाँ\DM_DMD लोग\N_NN पानी\N_NN पर\PSP चलने\V_VM का\PSP आनंद\N_NN उठा\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14523	यहाँ\DM_DMD एशिया\N_NNP की\PSP सब\QT_QTF से\PSP बड़ी\JJ खारे\JJ पानी\N_NN की\PSP झील\N_NN है\V_VM ।\RD_PUNC
+htd14524	यह\DM_DMD भारत\N_NNP में\PSP उन\PR_PRP जगहों\N_NN में\PSP से\PSP एक\QT_QTC है\V_VM जहाँ\PR_PRL आप\PR_PRP प्रवासी\JJ पक्षियों\N_NN व\CC_CCD डॉलफिनों\N_NN को\PSP देख\V_VM सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14525	चंद्रिका\N_NNP वन\N_NN के\PSP एक\QT_QTC बड़े\JJ क्षेत्र\N_NN में\PSP फैला\V_VM हुआ\V_VAUX नंदन\N_NNP कानन\N_NNP सेंच्युरी\N_NNP पार्क\N_NNP प्राकृतिक\JJ सौंदर्य\N_NN से\PSP भरपूर\JJ है\V_VM ।\RD_PUNC
+htd14526	बाघ\N_NN ,\RD_PUNC तेंदुए\N_NN ,\RD_PUNC शेर\N_NN ,\RD_PUNC काले\N_NN भालू\N_NN ,\RD_PUNC चीते\N_NN ,\RD_PUNC यूरोपियन\JJ भूरे\JJ भालू\N_NN ,\RD_PUNC भारतीय\JJ अजगर\N_NN ,\RD_PUNC किंग\N_NN कोबरा\N_NN आदि\N_NN इस\DM_DMD पार्क\N_NN के\PSP सौंदर्य\N_NN को\PSP और\QT_QTF बढ़ा\V_VM देते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14527	यहाँ\DM_DMD की\PSP खूबसूरत\N_NN झील\N_NN इस\DM_DMD की\PSP सुंदरता\N_NN में\PSP चार\QT_QTC चाँद\N_NN लगा\V_VM देती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14528	यह\DM_DMD झील\N_NN चिड़ियाघर\N_NN और\CC_CCD बोटनिकल\N_NN गार्डन\N_NN को\PSP 2\QT_QTC भागों\N_NN में\PSP बाँटती\V_VM है\V_VAUX ।\RD_PUNC
+htd14529	यह\DM_DMD भारत\N_NNP का\PSP सब\QT_QTF से\PSP संकुचित\JJ मार्ग\N_NN है\V_VM ,\RD_PUNC जहाँ\PR_PRL से\PSP महानदी\N_NNP गुजरती\V_VM है\V_VM ।\RD_PUNC
+htd14530	बदरामा\N_NNP सेंच्युरी\N_NNP में\PSP बाघ\N_NN ,\RD_PUNC हाथी\N_NN ,\RD_PUNC तेंदुए\N_NN ,\RD_PUNC सांभर\N_NN एवं\CC_CCD बाइसन\N_NN घने\JJ जंगलों\N_NN में\PSP पाए\V_VM जाते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14531	भीतरकनिका\N_NNP सेंच्युरी\N_NNP विदेशों\N_NN से\PSP लाए\V_VM गए\V_VAUX कछुओं\N_NN और\CC_CCD अन्य\QT_QTF जीव\N_NN जन्तुओं\N_NN के\PSP लिए\PSP प्रसिद्ध\JJ है\V_VM ।\RD_PUNC
+htd14532	बिहार\N_NNP के\PSP नवादा\N_NNP जिले\N_NN की\PSP मिट्‍टी\N_NN में\PSP दफन\N_NN है\V_VM इतिहास\N_NN की\PSP धरोहर\N_NN ।\RD_PUNC
+htd14533	यहाँ\DM_DMD कई\QT_QTF स्थानों\N_NN से\PSP अनेक\QT_QTF दुर्लभ\JJ मूर्तियाँ\N_NN बरामद\N_NN हुई\V_VM हैं\V_VAUX जो\PR_PRL पूर्वी\JJ कला\JJ शैली\N_NN के\PSP अदभुत\JJ नमूने\N_NN हैं\V_VM ।\RD_PUNC
+htd14534	ऑस्ट्रेलिया\N_NNP ,\RD_PUNC इंग्लैंड\N_NNP ,\RD_PUNC जापान\N_NNP तक\PSP ये\DM_DMD प्रसिद्ध\JJ हैं\V_VM ।\RD_PUNC
+htd14535	यहाँ\DM_DMD देश\N_NN -\RD_PUNC विदेश\N_NN से\PSP शोध\N_NN के\PSP लिए\PSP शोधार्थी\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14536	गुदड़ी\N_NN में\PSP लाल\N_NN बिहार\N_NN के\PSP संदर्भ\N_NN में\PSP यह\DM_DMD बात\N_NN सार्थक\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd14537	वर्तमान\N_NN में\PSP फटेहाल\JJ बिहार\N_NNP के\PSP पास\N_NN ऐतिहासिक\JJ -\RD_PUNC पुरातात्त्विक\JJ और\CC_CCD धार्मिक\JJ धरोहरों\N_NN का\PSP खजाना\N_NN है\V_VM ।\RD_PUNC
+htd14538	पिछले\QT_QTF दो\QT_QTC दशक\N_NN के\PSP लिए\PSP भले\N_NN ही\RP_RPD बिहार\N_NNP के\PSP नवादा\N_NNP जिले\N_NN की\PSP पहचान\N_NN दो\QT_QTC बाहुबली\JJ सरगनाओं\N_NN के\PSP वर्चस्व\N_NN की\PSP लड़ाई\N_NN में\PSP नरसंहारों\N_NN से\PSP बन\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14539	सच\N_NN तो\RP_RPD यह\DM_DMD है\V_VAUX कि\CC_CCS यहाँ\DM_DMD की\PSP मिट्‍टी\N_NN में\PSP न\RP_NEG केवल\QT_QTF कई\QT_QTF कालों\N_NN के\PSP समृद्ध\JJ इतिहास\N_NN के\PSP पुख्ता\JJ प्रमाण\N_NN दफन\V_VM हैं\V_VAUX ,\RD_PUNC बल्कि\CC_CCD बिहार\N_NNP और\CC_CCD बंगाल\N_NNP में\PSP छठी\QT_QTO से\PSP दसवीं\QT_QTO सदी\N_NN के\PSP बीच\N_NN पनपी\V_VM और\CC_CCD समृद्ध\JJ हुई\V_VM मगध\N_NNP -\RD_PUNC बंग\N_NNP यानी\CC_CCS पाल\N_NNP -\RD_PUNC सेन\N_NNP कला\N_NNP की\PSP धरोहर\N_NN है\V_VM ।\RD_PUNC
+htd14540	जिले\N_NN के\PSP सोनूबिगहा\N_NNP ,\RD_PUNC मड़रा\N_NNP ,\RD_PUNC मरूई\N_NNP ,\RD_PUNC समाय\N_NNP ,\RD_PUNC सिसवां\N_NNP ,\RD_PUNC कोशला\N_NNP ,\RD_PUNC पटवासराय\N_NNP ,\RD_PUNC महरावां\N_NNP ,\RD_PUNC बेरमी\N_NNP ,\RD_PUNC नरहट\N_NNP और\CC_CCD मकनपुर\N_NNP में\PSP जमीन\N_NN से\PSP निकली\V_VM मूर्तियाँ\N_NN ,\RD_PUNC जो\PR_PRL आज\N_NST नवादा\N_NNP स्थित\N_NN नारद\N_NNP संग्रहालय\N_NNP की\PSP शोभा\N_NN बढ़ा\V_VM रही\V_VAUX हैं\V_VAUX केवल\QT_QTF अति\RP_INTF प्राचीन\JJ ही\RP_RPD नहीं\RP_NEG हैं\V_VM बल्कि\CC_CCD कला\N_NN की\PSP अदभुत\JJ बानगी\N_NN पेश\N_NN करती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14541	इसी\DM_DMD कारण\N_NN मगध\JJ -\RD_PUNC बंग\JJ अथवा\CC_CCD पाल\JJ -\RD_PUNC सेन\JJ कला\JJ शैली\N_NN के\PSP अवशेषों\N_NN के\PSP संग्रह\N_NN और\CC_CCD शोध\N_NN का\PSP इस\DM_DMD प्रमुख\JJ केंद्र\N_NN माना\V_VM जा\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14542	कला\N_NN की\PSP इसी\DM_DMD शैली\N_NN को\PSP बाद\N_NN में\PSP चलकर\V_VM कला\N_NN शैली\N_NN (\RD_PUNC ईस्टर्न\N_NNP स्कूल\N_NNP ऑफ\N_NNP आर्ट\N_NNP )\RD_PUNC का\PSP नाम\N_NN मिला\V_VM ।\RD_PUNC
+htd14543	पटना\N_NNP से\PSP करीब\JJ सवा\QT_QTF सौ\N_NN किलोमीटर\N_NN दूर\N_NN नवादा\N_NNP चौक\N_NNP स्थित\N_NN नारद\N_NNP संग्रहालय\N_NNP आज\N_NST दुर्लभ\JJ प्राचीन\JJ मूर्तियों\N_NN ,\RD_PUNC पांडुलिपियों\N_NN ,\RD_PUNC अस्त्र-शस्त्र\N_NN ,\RD_PUNC कलाकृतियों\N_NN ,\RD_PUNC सिक्कों\N_NN के\PSP बेमिसाल\JJ संग्रह\N_NN के\PSP कारण\N_NN देश\N_NN -\RD_PUNC दुनिया\N_NN के\PSP शोधकर्ताओं\N_NN और\CC_CCD पर्यटकों\N_NN के\PSP आकर्षण\N_NN का\PSP केंद्र\N_NN बन\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14544	देर\N_NN से\PSP ही\RP_RPD सही\N_NN ,\RD_PUNC भारत\N_NNP सरकार\N_NNP की\PSP नजर\N_NN इस\DM_DMD संग्रहालय\N_NN पर\PSP पड़ी\V_VM है\V_VAUX ।\RD_PUNC
+htd14545	इंडियन\N_NNP नेशनल\N_NNP ट्रस्ट\N_NNP फॉर\N_NNP आर्ट\N_NNP एंड\N_NNP कल्चर\N_NNP हेरिटेज\N_NNP के\PSP लखनऊ\N_NNP स्थित\N_NN कलाकृति\JJ संस्कृति\JJ अनुसंधान\JJ केंद्र\N_NN के\PSP वैज्ञानिकों\N_NN को\PSP यहाँ\DM_DMD संग्रहीत\JJ पुरातात्त्विक\JJ महत्त्व\N_NN के\PSP अवशेषों\N_NN और\CC_CCD पांडुलिपियों\N_NN को\PSP सहेजने\V_VM की\PSP जिम्मेदारी\N_NN सौंपी\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14546	जल्दी\N_NN ही\RP_RPD वैज्ञानिकों\N_NN का\PSP दल\N_NN यहाँ\DM_DMD आकर\N_NN अपना\PR_PRF काम\N_NN प्रारंभ\N_NN करेगा\V_VM ।\RD_PUNC
+htd14547	संग्रहालय\N_NN के\PSP अध्यक्ष\N_NN डॉ.\N_NNP अवध\N_NNP किशोर\N_NNP प्रसाद\N_NNP सिंह\N_NNP ने\PSP बताया\V_VM कि\CC_CCS नरसिंह\N_NNP अवतार\N_NNP ,\RD_PUNC नटराज\N_NNP ,\RD_PUNC बोधित्सव\N_NNP ,\RD_PUNC वासुकी\N_NNP की\PSP प्रतिमाएँ\N_NN मूर्ति\JJ कला\JJ विज्ञान\N_NN की\PSP दृष्‍टि\N_NN से\PSP अति\RP_INTF महत्त्वपूर्ण\JJ हैं\V_VM ।\RD_PUNC
+htd14548	बोधिसत्व\N_NNP की\PSP मूर्ति\N_NN पर\PSP शोध\N_NN की\PSP योजना\N_NN बनाई\V_VM गई\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14549	गया\N_NNP जिले\N_NN के\PSP वजीरगंज\N_NNP के\PSP हराही\N_NNP से\PSP प्राप्‍त\N_NN हिंदू\JJ देवी\JJ कंकाली\N_NNP की\PSP प्रतिमा\N_NN ,\RD_PUNC कुर्कीहार\N_NNP से\PSP मिली\V_VM पद्यपाणि\N_NNP अवलोकीतेश्‍वर\N_NNP ,\RD_PUNC धुरियावां\N_NNP से\PSP बरामद\V_VM बौद्ध\JJ देवी\JJ हरीति\N_NNP और\CC_CCD हिंदू\JJ मंजुश्री\N_NNP की\PSP प्रतिमा\N_NN अदभुत\JJ हैं\V_VM ।\RD_PUNC
+htd14550	डॉ.\N_NNP सिंह\N_NNP ने\PSP बताया\V_VM कि\CC_CCS ईस्टर्न\N_NNP स्कूल\N_NNP ऑफ\N_NNP आर्ट\N_NNP के\PSP स्वतंत्र\JJ अस्तित्त्व\N_NN का\PSP उल्लेख\N_NN तारानाथ\N_NNP में\PSP मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd14551	तारानाथ\N_NNP में\PSP कहा\V_VM गया\V_VAUX है\V_VAUX कि\CC_CCS देवपाल\N_NNP और\CC_CCD धर्मपाल\N_NNP पालवंशीय\JJ शासकों\N_NN के\PSP समय\N_NN धीमान\N_NNP और\CC_CCD उनके\PR_PRP पुत्र\N_NN वितपाल\N_NNP ने\PSP अनेक\QT_QTF मूर्तियाँ\N_NN बनाई\V_VM थीं\V_VAUX ।\RD_PUNC
+htd14552	सलीमपुर\N_NNP अभिलेख\N_NN में\PSP मगध\N_NNP के\PSP एक\QT_QTC प्रसिद्ध\JJ शिल्पी\N_NN सोमेश्‍वर\N_NNP की\PSP चर्चा\N_NN है\V_VM ।\RD_PUNC
+htd14553	जाहिर\N_NN है\V_VAUX कि\CC_CCS मगध\N_NNP में\PSP मूर्ति\JJ कला\N_NN बहुत\QT_QTF समृद्ध\JJ थी\V_VM ।\RD_PUNC
+htd14554	नवादा\N_NNP जिले\N_NN के\PSP बेरमी\N_NNP में\PSP मिली\V_VM सूर्य\N_NN की\PSP प्रतिमा\N_NN के\PSP पैर\N_NN में\PSP जूते\N_NN हैं\V_VM ।\RD_PUNC
+htd14555	मान्यता\N_NN है\V_VM कि\CC_CCS सूर्य\N_NNP का\PSP पैर\N_NN देखने\V_VM से\PSP अनिष्‍ट\N_NN होता\V_VM है\V_VAUX इसलिए\CC_CCD पैर\N_NN में\PSP जूता\N_NN पहनाया\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14556	बिहार\N_NNP मगही\N_NNP मंडल\N_NNP के\PSP अध्यक्ष\N_NN राम\N_NNP रतन\N_NNP प्रसाद\N_NNP रत्‍नाकर\N_NNP कहते\V_VM हैं\V_VAUX कि\CC_CCS ईस्टर्न\N_NNP स्कूल\N_NNP ऑफ\N_NNP आर्ट\N_NNP पर\PSP की\V_VM गई\V_VAUX अबतक\N_NST की\PSP शोध\N_NN अधूरी\V_VM है\V_VM ,\RD_PUNC जब\PR_PRL तक\PSP कि\CC_CCS नारद\N_NNP संग्रहालय\N_NNP की\PSP मूर्तियों\N_NN का\PSP अध्ययन\N_NN पूरा\QT_QTF नहीं\RP_NEG हो\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14557	इन्हीं\DM_DMD कारणों\N_NN से\PSP नवादा\N_NNP शहर\N_NNP के\PSP मध्य\N_NN स्थित\N_NN नारद\N_NNP संग्रहालय\N_NNP को\PSP मगध\JJ -\RD_PUNC बंग\JJ शैली\N_NN का\PSP प्रतिनिधि\JJ संग्रहालय\N_NN कहा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14558	भारतीय\JJ पुरातत्त्व\N_NNP सर्वेक्षण\N_NN के\PSP पूर्व\JJ निदेशक\N_NN डॉ.\N_NNP अमरेंद्र\N_NNP नाथ\N_NNP के\PSP नेतृत्व\N_NN में\PSP दो\QT_QTC दर्जन\N_NN शोधकर्ताओं\N_NN ने\PSP मूर्तिकला\JJ विज्ञान\N_NN पर\PSP यहाँ\DM_DMD शोध\N_NN किया\V_VM है\V_VAUX ।\RD_PUNC
+htd14559	उन्होंने\PR_PRP कहा\V_VM कि\CC_CCS यह\DM_DMD बिहार\N_NNP ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC भारत\N_NNP के\PSP प्रमुख\JJ संग्रहालयों\N_NN में\PSP एक\QT_QTC है\V_VM ।\RD_PUNC
+htd14560	यह\DM_DMD संग्रहालय\N_NN क्रमिक\JJ विकास\N_NN के\PSP अध्ययन\N_NN का\PSP अवसर\N_NN देता\V_VM है\V_VAUX ।\RD_PUNC
+htd14561	उनके\PR_PRP साथ\PSP आए\V_VM राज्य\JJ सरकार\N_NN के\PSP पुरातत्त्व\N_NN विभाग\N_NN के\PSP पटना\N_NNP अंचल\N_NN के\PSP अधिकारी\N_NN डॉ.\N_NNP जलज\N_NNP कुमार\N_NNP तिवारी\N_NNP का\PSP कहना\V_VM था\V_VAUX कि\CC_CCS यह\DM_DMD प्राचीन\JJ भारतीय\JJ मूर्तिकला\N_NN का\PSP प्रतिनिधित्व\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd14562	अपनी\PR_PRF इन्हीं\DM_DMD खूबियों\N_NN के\PSP कारण\N_NN देश\N_NN के\PSP ही\RP_RPD नहीं\RP_NEG ,\RD_PUNC अनेक\QT_QTF देशों\N_NN के\PSP शोधकर्ताओं\N_NN का\PSP नारद\N_NNP संग्रहालय\N_NNP तीर्थ\N_NN बनता\V_VM जा\V_VAUX रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14563	कुछ\QT_QTF समय\N_NN पूर्व\JJ जर्मनी\N_NNP और\CC_CCD ऑस्ट्रेलिया\N_NNP के\PSP दो\QT_QTC शोधकर्ताओं\N_NN ने\PSP यहाँ\DM_DMD का\PSP दौरा\N_NN किया\V_VM ।\RD_PUNC
+htd14564	उन्होंने\PR_PRP यहाँ\DM_DMD का\PSP संग्रह\N_NN देखकर\V_VM कहा\V_VM कि\CC_CCS यह\DM_DMD भारत\N_NNP का\PSP प्रमुख\JJ संग्रहालय\N_NN है\V_VM और\CC_CCD इसे\PR_PRP विकसित\N_NN करने\V_VM की\PSP जरूरत\N_NN है\V_VM ।\RD_PUNC
+htd14565	इसके\PR_PRP पहले\N_NN भी\RP_RPD कई\QT_QTF विदेशी\JJ शोधकर्ताओं\N_NN ने\PSP इस\DM_DMD संग्रहालय\N_NN के\PSP महत्त्व\N_NN को\PSP स्वीकारा\N_NN है\V_VM ।\RD_PUNC
+htd14566	जापान\N_NNP के\PSP कोजी\N_NNP आमदा\N_NNP के\PSP अनुसार\N_NN ,\RD_PUNC ’\RD_PUNC बौद्ध\JJ कला\N_NN पर\PSP शोध\N_NN के\PSP लिए\PSP यह\DM_DMD बेहतर\JJ स्थान\N_NN है\V_VM ।\RD_PUNC ’\RD_PUNC
+htd14567	जापान\N_NNP के\PSP ही\RP_RPD नागोया\N_NNP यूनिवर्सिटी\N_NNP के\PSP कला\JJ इतिहास\N_NN के\PSP प्रो.\N_NNP अकीरा\N_NNP मियाजी\N_NNP ने\PSP कहा\V_VM कि\CC_CCS शोध\N_NN के\PSP लिए\PSP यहाँ\DM_DMD की\PSP बौद्ध\JJ और\CC_CCD हिंदू\JJ धर्म\N_NN से\PSP जुड़ी\V_VM मूर्तियाँ\N_NN अवसर\N_NN उपलब्ध\N_NN कराती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14568	कैंब्रिज\N_NNP यूनिवर्सिटी\N_NNP के\PSP प्रो.\N_NNP दिलीप\N_NNP कुमार\N_NNP चक्रवर्ती\N_NNP ने\PSP इस\DM_DMD संग्रहालय\N_NN का\PSP जायजा\N_NN लेने\V_VM के\PSP बाद\N_NN वहाँ\DM_DMD रखी\V_VM अतिथि\N_NN पंजी\N_NN में\PSP अपनी\PR_PRF टिप्पणी\N_NN इस\DM_DMD तरह\N_NN लिखी\V_VM है\V_VAUX -\RD_PUNC मैंने\PR_PRP बिहार\N_NNP के\PSP कई\QT_QTF संग्रहालय\N_NN देखे\V_VM हैं\V_VAUX ,\RD_PUNC उनमें\PR_PRP यह\DM_DMD सबसे\RP_INTF बेहतर\JJ लगा\V_VM ।\RD_PUNC
+htd14569	कोरिया\N_NNP के\PSP नामडोंग\N_NNP सिन\N_NNP ,\RD_PUNC यूएसए\N_NNP के\PSP बियान\N_NN किस्टसर\N_NNP समेत\N_NN दर्जनों\N_NN विदेशी\JJ शोधकर्ताओं\N_NN ने\PSP भी\RP_RPD पाषाणकालीन\JJ मूर्तियों\N_NN के\PSP संरक्षण\N_NN के\PSP लिए\PSP इसे\PR_PRP महत्त्वपूर्ण\JJ केंद्र\N_NN करार\N_NN दिया\V_VM है\V_VAUX ।\RD_PUNC
+htd14570	बिहारशरीफ\N_NNP स्थित\N_NN नालंदा\N_NNP कॉलेज\N_NNP के\PSP इतिहास\N_NN के\PSP शिक्षक\N_NN डॉ.\N_NNP राजीव\N_NNP रंजन\N_NNP कहते\V_VM हैं\V_VAUX कि\CC_CCS पाल\N_NNP काल\N_NNP गया\V_VM ,\RD_PUNC नवादा\N_NNP और\CC_CCD नालंदा\N_NNP का\PSP मूर्ति\JJ कला\N_NN के\PSP विकास\N_NN का\PSP स्वर्णिम\JJ काल\N_NN था\V_VM ।\RD_PUNC
+htd14571	कुर्कीहार\N_NNP और\CC_CCD आसपास\N_NN शिल्पकार\N_NN बड़ी\JJ संख्या\N_NN में\PSP मूर्तियों\N_NN का\PSP निर्माण\N_NN करते\V_VM थे\V_VAUX ।\RD_PUNC
+htd14572	यही\DM_DMD वजह\N_NN है\V_VM कि\CC_CCS इस\DM_DMD इलाके\N_NN में\PSP वैष्णव\JJ ,\RD_PUNC शैव\JJ ,\RD_PUNC बौद्ध\JJ ,\RD_PUNC जैन\JJ और\CC_CCD हिंदू\JJ धर्म\N_NN से\PSP जुड़ी\V_VM मूर्तियाँ\N_NN मिलती\V_VM रही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14573	भले\N_NN ही\RP_RPD नारद\N_NNP संग्रहालय\N_NNP अति\RP_INTF प्राचीन\JJ कलाकृति\N_NN ,\RD_PUNC सिक्के\N_NN ,\RD_PUNC पांडुलिपि\N_NN और\CC_CCD अस्त्र\N_NN -\RD_PUNC शस्त्र\N_NN के\PSP संग्रह\N_NN के\PSP लिए\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX लेकिन\CC_CCD खुद\PR_PRF यह\DM_DMD अभी\N_NST जवान\N_NN है\V_VM ।\RD_PUNC
+htd14574	इसकी\PR_PRP स्थापना\N_NN 1973\QT_QTC में\PSP यहाँ\DM_DMD के\PSP जिलाधिकारी\N_NN नरेंद्र\N_NNP पाल\N_NNP सिंह\N_NNP ने\PSP एक\QT_QTC टिन\JJ शेड\N_NN में\PSP की\V_VM थी\V_VAUX ।\RD_PUNC
+htd14575	उन्होंने\PR_PRP नवादा\N_NNP और\CC_CCD आसपास\N_NN बिखरी\V_VM प्राचीन\JJ मूर्तियों\N_NN एवं\CC_CCD अन्य\QT_QTF वस्तुओं\N_NN का\PSP यहाँ\DM_DMD संग्रह\N_NN किया\V_VM ।\RD_PUNC
+htd14576	उनके\PR_PRP इस\DM_DMD प्रयास\N_NN को\PSP जन\N_NN सहयोग\N_NN ने\PSP चार\QT_QTC चाँद\N_NN लगा\V_VM दिया\V_VAUX ।\RD_PUNC
+htd14577	नरेंद्र\N_NNP पाल\N_NNP सिंह\N_NNP ने\PSP उसी\PR_PRP वर्ष\N_NN इसे\PR_PRP बिहार\N_NNP पुरातत्त्व\N_NNP एवं\N_NNP संग्रहालय\N_NNP निदेशालय\N_NNP को\PSP सौंप\V_VM दिया\V_VAUX और\CC_CCD 2\QT_QTC मई\N_NNP ,\RD_PUNC 1974\QT_QTC को\PSP इसका\PR_PRP विधिवत\JJ उदघाटन\N_NN राज्यपाल\N_NN आर.\N_NNP डी.\N_NNP भंडारी\N_NNP ने\PSP किया\V_VM ।\RD_PUNC
+htd14578	उदयन\N_NNP पाँच\QT_QTC हजार\N_NN ली\N_NN (\RD_PUNC 1000\QT_QTC मील\N_NN )\RD_PUNC के\PSP गोलकार\JJ घेरे\N_NN में\PSP फैला\V_VM पर्वतों\N_NN -\RD_PUNC पठारों\N_NN एवं\CC_CCD दल-दल\N_NN घाटियों\N_NN का\PSP क्षेत्र\N_NN है\V_VM ।\RD_PUNC
+htd14579	यह\DM_DMD मुख्यत:\JJ सेब\N_NN की\PSP खेती\N_NN का\PSP क्षेत्र\N_NN है\V_VM ,\RD_PUNC जहाँ\PR_PRL घने\JJ जंगल\N_NN हैं\V_VM ,\RD_PUNC फल\N_NN -\RD_PUNC फूलों\N_NN से\PSP लदे\V_VM वृक्ष\N_NN हैं\V_VM ,\RD_PUNC सोने\N_NN व\CC_CCD लोहे\N_NN की\PSP खदानें\N_NN हैं\V_VM ,\RD_PUNC जहाँ\PR_PRL कठोर\JJ शीत\N_NN व\CC_CCD गर्मी\N_NN दोनों\QT_QTO ऋतु\N_NN असहनीय\JJ हैं\V_VM ।\RD_PUNC
+htd14580	यही\DM_DMD धरती\N_NN गुरू\N_NNP पद्‍मसम्भव\N_NNP की\PSP जन्म\JJ स्थली\N_NN भी\RP_RPD रही\V_VM है\V_VAUX ।\RD_PUNC
+htd14581	यहाँ\DM_DMD के\PSP निवासी\N_NN मृदुभाषी\JJ ,\RD_PUNC ज्ञान\JJ पिपासु\JJ एवं\CC_CCD बौद्ध\JJ धर्म\N_NN के\PSP अनुयायी\N_NN हैं\V_VM ।\RD_PUNC
+htd14582	स्वात\N_NNP नदी\N_NNP के\PSP दोनों\QT_QTO तटों\N_NN पर\PSP लगभग\JJ 14\QT_QTC सौ\N_NN मठ\N_NN हैं\V_VM ,\RD_PUNC जहाँ\PR_PRL कभी\DM_DMI 18\QT_QTC हजार\N_NN बौद्ध\JJ भिक्षु\N_NN रहते\V_VM थे\V_VAUX ।\RD_PUNC
+htd14583	परंतु\CC_CCD अब\N_NST अधिकांश\QT_QTF वीरान\N_NN हैं\V_VM ।\RD_PUNC
+htd14584	ये\DM_DMD बौद्ध\JJ भिक्षु\N_NN मंत्रोचारण\N_NN में\PSP लीन\N_NN पुरानी\JJ विनय\JJ विचारधारा\N_NN के\PSP पाँच\QT_QTC विचार\JJ स्तम्भों\N_NN -\RD_PUNC सर्वस्ती\N_NN यादिन\N_NN ,\RD_PUNC धर्मगुप्‍ता\N_NN ,\RD_PUNC महिससका\N_NN ,\RD_PUNC कस्यपिया\N_NN व\CC_CCD महासंघी\N_NN का\PSP अनुकरण\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14585	स्वात\N_NNP के\PSP किनारे\N_NN लगभग\JJ 10\QT_QTC मंदिर\N_NN भी\RP_RPD स्थित\N_NN हैं\V_VM ।\RD_PUNC
+htd14586	इस\DM_DMD तट\N_NN पर\PSP बसे\V_VM 4\QT_QTC -\RD_PUNC 5\QT_QTC बड़े\JJ शहर\N_NN हैं\V_VM ।\RD_PUNC
+htd14587	बायें\JJ तट\N_NN पर\PSP स्थित\N_NN मंगलापुरा\N_NNP अधिकांश\QT_QTF राजाओं\N_NN की\PSP राजधानी\N_NN रही\V_VM है\V_VAUX ।\RD_PUNC
+htd14588	यहाँ\DM_DMD से\PSP 1\QT_QTC मील\N_NN की\PSP दूरी\N_NN पर\PSP एक\QT_QTC बड़ा\JJ स्तूप\N_NN है\V_VM ।\RD_PUNC
+htd14589	बोधिसत्व\N_NN की\PSP मान्यताओं\N_NN में\PSP बुद्ध\N_NNP जब\PR_PRL यहाँ\DM_DMD शांति\N_NNP ऋषि\N_NNP के\PSP रूप\N_NN में\PSP रहे\V_VM थे\V_VAUX तो\RP_RPD कलि\N_NNP राजा\N_NNP ने\PSP उनके\PR_PRP हाथ\N_NN यहीं\DM_DMD काट\V_VM डाले\V_VAUX ।\RD_PUNC
+htd14590	मंगलापुरा\N_NNP से\PSP उत्तर\N_NNP पूर्व\N_NNP की\PSP ओर\N_NN 50\QT_QTC -\RD_PUNC 52\QT_QTC मील\N_NN की\PSP दूरी\N_NN पर\PSP नागा\N_NNP अपलाला\N_NNP नाम\N_NN का\PSP एक\QT_QTC पर्वत\N_NN है\V_VM (\RD_PUNC जो\PR_PRL संभवत:\JJ वर्तमान\N_NN नंगा\N_NNP पर्वत\N_NNP होगा\V_VM )\RD_PUNC ।\RD_PUNC
+htd14591	स्वात\N_NNP नदी\N_NNP यहीं\DM_DMD से\PSP निकलती\V_VM है\V_VAUX ।\RD_PUNC
+htd14592	यह\DM_DMD मान्यता\N_NN है\V_VM कि\CC_CCS कश्‍यप\N_NNP बुद्ध\N_NNP के\PSP समय\N_NN यह\DM_DMD नाग\N_NNP किंगकी\N_NNP या\CC_CCD गंगी\N_NNP नाम\N_NN से\PSP मानव\JJ रूप\N_NN में\PSP जन्मा\V_VM था\V_VAUX ।\RD_PUNC
+htd14593	उसे\N_NN जहरीले\JJ ड्रैगन\N_NN (\RD_PUNC परदार\JJ नाग\N_NN )\RD_PUNC के\PSP प्रभाव\N_NN को\PSP समाप्‍त\N_NN करने\V_VM की\PSP अद्‍भुत\JJ दैवीय\JJ शक्‍ति\N_NN प्राप्‍त\N_NN थी\V_VM ।\RD_PUNC
+htd14594	स्थानीय\JJ जनता\N_NN उसे\PR_PRP वर्ष\N_NN भर\N_NN के\PSP लिए\PSP अनाज\N_NN भेंट\N_NN करती\V_VM थी\V_VAUX ।\RD_PUNC
+htd14595	कुछ\QT_QTF वर्षों\N_NN बाद\N_NN जब\PR_PRL लोग\N_NN अनाज\N_NN देना\V_VM भूल\V_VM गये\V_VAUX ,\RD_PUNC यही\DM_DMD किंगकी\N_NNP मनुष्य\N_NN एक\QT_QTC ड्रैगन\N_NN में\PSP बदल\V_VM गया\V_VAUX ।\RD_PUNC
+htd14596	जिसके\PR_PRL मुँह\N_NN से\PSP उगलती\V_VM आग\N_NN ने\PSP सारी\QT_QTF फसल\N_NN समाप्‍त\N_NN कर\V_VM दी\V_VAUX ।\RD_PUNC
+htd14597	तब\CC_CCD भगवान\N_NNP बुद्ध\N_NNP ने\PSP शाक्य\N_NNP तथागत\N_NNP के\PSP रूप\N_NN में\PSP अवतरित\N_NN होकर\V_VM इंद्र\N_NNP के\PSP वज्र\N_NN की\PSP सहायता\N_NN से\PSP इस\DM_DMD ड्रैगन\N_NN राजा\N_NN को\PSP वश\N_NN में\PSP किया\V_VM ।\RD_PUNC
+htd14598	अभी\N_NN भी\RP_RPD जब\PR_PRL हर\QT_QTF बारहवें\QT_QTO वर्ष\N_NN सफेद\JJ फेन\N_NN उगलती\V_VM यह\DM_DMD स्वात\N_NNP नदी\N_NNP कहर\N_NN बरपाती\V_VM है\V_VAUX तो\RP_RPD इसे\DM_DMD ड्रैगन\N_NN राजा\N_NN का\PSP कोप\N_NN माना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14599	नंगा\N_NNP पर्वत\N_NNP में\PSP स्थित\N_NN बुद्ध\N_NNP के\PSP पद\JJ चिह्‍नों\N_NN को\PSP देखने\V_VM दूर\JJ -\RD_PUNC दूर\JJ से\PSP लोग\N_NN आते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14600	मुगंकियाली\N_NNP के\PSP उत्तर\N_NNP पश्‍चिम\N_NNP में\PSP सिन्धु\N_NNP की\PSP सँकरी\JJ अन्धकारमय\JJ घाटी\N_NN है\V_VM ।\RD_PUNC
+htd14601	रास्ता\N_NN चट्‍टानी\JJ एवं\CC_CCD तीखा\JJ है\V_VM ,\RD_PUNC जिसे\PR_PRL मैंने\PR_PRP कई\QT_QTF बार\N_NN रस्सियों\N_NN की\PSP मदद\N_NN से\PSP पार\N_NN किया\V_VM तो\RP_RPD कई\QT_QTF बार\N_NN लोहे\N_NN की\PSP चेन\N_NN से\PSP बने\V_VM झूला\JJ पुलों\N_NN से\PSP ।\RD_PUNC
+htd14602	कई\QT_QTF जगह\N_NN हवा\N_NN में\PSP झूलते\V_VM हुए\V_VAUX ढके\JJ पांव\N_NN पुल\N_NN थे\V_VM ,\RD_PUNC जिनके\PR_PRL नीचे\N_NST गहरे\JJ में\PSP नदी\N_NN बहती\V_VM थी\V_VAUX ।\RD_PUNC
+htd14603	लगभग\JJ 200\QT_QTC मील\N_NN चलकर\V_VM मैं\PR_PRP तालीलों\N_NN की\PSP घाटी\N_NN पहुँचा\V_VM ।\RD_PUNC
+htd14604	यह\DM_DMD दरद\N_NN जाति\N_NN का\PSP मूल\JJ क्षेत्र\N_NN है\V_VM ,\RD_PUNC जहाँ\PR_PRL दारिल\N_NNP नदी\N_NNP बहती\V_VM है\V_VAUX ।\RD_PUNC
+htd14605	फाहियान\N_NNP ने\PSP इस\DM_DMD घाटी\N_NN को\PSP तोली\N_NNP के\PSP नाम\N_NN से\PSP पुकारा\V_VM है\V_VAUX ।\RD_PUNC
+htd14606	यहाँ\DM_DMD 100\QT_QTC फुट\N_NN लंबी\JJ लकड़ी\N_NN की\PSP बनी\V_VM मैत्रेय\N_NNP बोधिसत्व\N_NNP की\PSP मूर्ति\N_NN देखी\V_VM ,\RD_PUNC जिसे\PR_PRL अरहतमध्यान्तिक\N_NNP नाम\N_NN के\PSP एक\QT_QTC मूर्तिकार\JJ साधु\N_NN ने\PSP बनाया\V_VM था\V_VAUX ।\RD_PUNC
+htd14607	विश्‍वास\N_NN किया\V_VM जाता\V_VAUX है\V_VAUX कि\CC_CCS यह\DM_DMD मूर्ति\N_NN तीन\QT_QTC बार\N_NN स्वर्ग\N_NN की\PSP यात्रा\N_NN कर\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14608	तालिलो\N_NNP घाटी\N_NNP के\PSP पूर्व\N_NNP में\PSP कई\QT_QTF नदी\N_NN घाटियों\N_NN को\PSP पार\V_VM करते\V_VAUX सिन्धु\N_NNP नदी\N_NNP के\PSP सहारे\N_NN चलकर\V_VM मैं\PR_PRP पोलुलो\N_NNP अर्थात\N_NN बोलोर\N_NNP (\RD_PUNC बल्तिस्तान\N_NNP )\RD_PUNC पहुँचा\V_VM ।\RD_PUNC
+htd14609	बल्तिस्तान\N_NNP की\PSP परिधि\N_NN 1000\QT_QTC मील\N_NN है\V_VM ।\RD_PUNC
+htd14610	चारों\QT_QTC ओर\N_NN से\PSP बर्फीले\JJ पहाड़ों\N_NN से\PSP घिरी\V_VM ,\RD_PUNC पूर्व\N_NNP -\RD_PUNC पश्‍चिम\N_NNP में\PSP फैली\V_VM एवं\CC_CCD उत्तर\N_NNP -दक्षिण\N_NNP से\PSP सँकरी\JJ है\V_VM बल्तिस्तान\N_NNP घाटी\N_NNP ।\RD_PUNC
+htd14611	यहाँ\DM_DMD गेहूँ\N_NN तथा\CC_CCD दालें\N_NN पैदा\N_NN होती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14612	सोने\N_NN तथा\CC_CCD चाँदी\N_NN की\PSP खानें\N_NN भी\RP_RPD यहाँ\DM_DMD हैं\V_VM ।\RD_PUNC
+htd14613	यहीं\DM_DMD से\PSP सोने\N_NN की\PSP आपूर्ति\N_NN अन्य\QT_QTF क्षेत्रों\N_NN को\PSP होती\V_VM रही\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14614	जलवायु\N_NN बहुत\RP_INTF सर्द\JJ है\V_VM ।\RD_PUNC
+htd14615	लोग\N_NN उग्र\JJ स्वभाव\N_NN के\PSP हैं\V_VM ।\RD_PUNC
+htd14616	सहिष्णुता\N_NN का\PSP इनके\PR_PRP स्वभाव\N_NN में\PSP सर्वथा\JJ अभाव\N_NN है\V_VM ।\RD_PUNC
+htd14617	ये\DM_DMD सख्त\JJ एवं\CC_CCD तुच्छ\JJ मानसिकता\N_NN वाले\N_NN हैं\V_VM ।\RD_PUNC
+htd14618	अपने\PR_PRF हाथ\N_NN के\PSP बुने\V_VM ऊनी\JJ कपड़े\N_NN पहनते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14619	इनकी\PR_PRP भाषा\N_NN भारत\N_NNP से\PSP भिन्न\N_NN परंतु\CC_CCD लिपी\N_NN मिलती-जुलती\JJ है\V_VM ।\RD_PUNC
+htd14620	बल्तिस्तान\N_NNP में\PSP तब\N_NST एक\QT_QTC सौ\N_NN संघ\N_NN थे\V_VM ,\RD_PUNC जिनमें\PR_PRL लगभग\JJ एक\QT_QTC हजार\N_NN बौद्ध\JJ भिक्षु\N_NN रहते\V_VM होंगे\V_VAUX ।\RD_PUNC
+htd14621	ज्ञान\N_NN एवं\CC_CCD धर्म\N_NN के\PSP प्रति\N_NN इनका\PR_PRP कोई\DM_DMI झुकाव\N_NN नहीं\RP_NEG था\V_VM ।\RD_PUNC
+htd14622	आचरण\N_NN में\PSP सर्वथा\RP_INTF कच्चे\JJ थे\V_VM ।\RD_PUNC
+htd14623	बल्तिस्तान\N_NNP छोड़कर\V_VM मैं\PR_PRP गांधार\N_NNP की\PSP राजधानी\N_NN उदाखण्ड\N_NNP भी\RP_RPD गया\V_VM परंतु\CC_CCD फिर\QT_QTF सिन्धु\N_NNP पार\N_NN कर\V_VM तक्षशिला\N_NNP आ\V_VM पहुँचा\V_VAUX ।\RD_PUNC
+htd14624	सिन्धु\N_NNP की\PSP चौड़ाई\N_NN आधा\QT_QTF मील\N_NN थी\V_VM ।\RD_PUNC
+htd14625	कोई\DM_DMI भी\RP_RPD यात्री\N_NN नदी\N_NN पार\N_NN करते\V_VM अपनी\PR_PRF महत्त्वपूर्ण\JJ सामग्री\N_NN सिन्धु\N_NNP की\PSP लहरों\N_NN को\PSP समर्पित\N_NN कर\V_VM देता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14626	तक्षशिला\N_NNP राज्य\N_NN 40\QT_QTC मील\N_NN तथा\CC_CCD राजधानी\JJ क्षेत्र\N_NN 2\QT_QTC मील\N_NN की\PSP परिधि\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd14627	राजपरिवार\N_NN लगभग\JJ समाप्‍त\N_NN हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14628	अत:\CC_CCS राजकीय\JJ अधिकारी\N_NN सत्ता\N_NN के\PSP लिए\PSP लड़ते\V_VM रहते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14629	तक्षशिला\N_NNP की\PSP धरती\N_NN नदियों\N_NN से\PSP पूर्ण\JJ सिंचित\JJ ,\RD_PUNC फल\N_NN -\RD_PUNC फूलों\N_NN से\PSP लदी\V_VM तथा\CC_CCD उपजाऊ\JJ है\V_VM ।\RD_PUNC
+htd14630	जलवायु\N_NN भी\RP_RPD शीतोष्ण\JJ है\V_VM ।\RD_PUNC
+htd14631	निवासी\N_NN जीवंत\JJ ,\RD_PUNC साहसी\JJ तथा\CC_CCD बौद्ध\JJ धर्म\N_NN के\PSP तीन\QT_QTC प्रमुख\JJ प्रतीकों\N_NN को\PSP मानते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14632	यद्यपि\CC_CCD अब\N_NST बौद्ध\JJ विहार\JJ वीरान\N_NN हैं\V_VM तथा\CC_CCD बौद्ध\JJ भिक्षु\N_NN बहुत\QT_QTF कम\JJ ।\RD_PUNC
+htd14633	यहाँ\DM_DMD महायानी\JJ बौद्ध\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14634	तक्षशिला\N_NNP के\PSP 14\QT_QTC मील\N_NN उत्तर\N_NNP में\PSP नागराजा\N_NNP इलापत्र\N_NNP का\PSP तालाब\N_NN है\V_VM ।\RD_PUNC
+htd14635	100\QT_QTC कदम\N_NN गोलाकार\JJ आकृति\N_NN लिये\V_VM कमल\N_NN के\PSP फूलों\N_NN से\PSP भरे\V_VM साफ\JJ पवित्र\JJ जल\N_NN के\PSP इस\DM_DMD तालाब\N_NN का\PSP जिक्र\N_NN चीनी\JJ बौद्ध\JJ साहित्य\N_NN में\PSP बहुत\QT_QTF मिलता\V_VM है\V_VAUX ।\RD_PUNC
+htd14636	मेरा\PR_PRP अगला\N_NN पड़ाव\N_NN तक्षशिला\N_NNP से\PSP लगभग\JJ 140\QT_QTC मील\N_NN दक्षिणी\JJ -\RD_PUNC पूर्व\N_NNP में\PSP स्थित\N_NN सिम्हापुर\N_NNP राज्य\N_NN था\V_VM ।\RD_PUNC
+htd14637	सिन्धु\N_NNP नदी\N_NNP इस\DM_DMD राज्य\N_NN की\PSP पश्‍चिमी\JJ सीमा\N_NN बनाती\V_VM है\V_VAUX ।\RD_PUNC
+htd14638	इस\DM_DMD राज्य\N_NN का\PSP कोई\DM_DMI निश्‍चित\N_NN राजा\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd14639	यह\DM_DMD राज्य\N_NN कश्मीर\N_NNP का\PSP ही\RP_RPD एक\QT_QTC हिस्सा\N_NN है\V_VM ।\RD_PUNC
+htd14640	निवासी\N_NN बहुत\QT_QTF साहसी\JJ एवं\CC_CCD हिंसक\JJ प्रवृत्ति\N_NN के\PSP हैं\V_VM ।\RD_PUNC
+htd14641	सिम्हापुर\N_NNP शहर\N_NN से\PSP 9\QT_QTC मील\N_NN दक्षिण\N_NNP में\PSP अशोक\N_NNP का\PSP बनाया\V_VM हुआ\V_VAUX एक\QT_QTC स्तूप\N_NN है\V_VM ।\RD_PUNC
+htd14642	उसके\PR_PRP आसपास\N_NN 10\QT_QTC तालाब\N_NN हैं\V_VM ,\RD_PUNC जिसमें\PR_PRL नाग\N_NN एवं\CC_CCD मछलियाँ\N_NN रहती\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14643	एक\QT_QTC संघ\N_NN भी\RP_RPD है\V_VM जो\PR_PRL अब\N_NST वीरान\JJ पड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd14644	यहीं\N_NN पर\PSP दिगम्बर\JJ जैन\N_NN का\PSP मंदिर\N_NN है\V_VM ।\RD_PUNC
+htd14645	निकट\N_NN में\PSP एक\QT_QTC हिन्दू\JJ मंदिर\N_NN भी\RP_RPD है\V_VM ।\RD_PUNC
+htd14646	इस\DM_DMD स्थान\N_NN से\PSP 40\QT_QTC मील\N_NN दक्षिण\N_NNP -\RD_PUNC पूर्व\N_NNP पहुँचने\V_VM पर\PSP मनिक्याला\JJ बौद्ध\JJ स्तूप\N_NN पड़ता\V_VM है\V_VAUX ,\RD_PUNC जहाँ\PR_PRL बुद्ध\N_NNP ने\PSP महासत्व\N_NNP कुमार\N_NNP बनकर\V_VM एक\QT_QTC भूखे\JJ चीते\N_NN को\PSP अपना\PR_PRF शरीर\N_NN खिला\V_VM दिया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14647	इस\DM_DMD स्थान\N_NN पर\PSP उगने\V_VM वाले\JJ पेड़\N_NN -\RD_PUNC पौधे\N_NN लाल\JJ रंग\N_NN के\PSP होते\V_VM हैं\V_VAUX तथा\CC_CCD जमीन\N_NN के\PSP भीतर\N_NN से\PSP लाल\JJ रंग\N_NN की\PSP धातु\N_NN निकलती\V_VM है\V_VAUX ।\RD_PUNC
+htd14648	यहाँ\DM_DMD लगभग\JJ 100\QT_QTC महायान\JJ संघधर्मी\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14649	कश्मीर\N_NNP राज्य\N_NN की\PSP परिधि\N_NN 1400\QT_QTC मील\N_NN है\V_VM ।\RD_PUNC
+htd14650	चारों\QT_QTC ओर\N_NN से\PSP ऊँचें\JJ बर्फीले\JJ पर्वतों\N_NN से\PSP घिरा\V_VM होने\V_VAUX के\PSP कारण\N_NN यह\DM_DMD राज्य\N_NN बाह्य\JJ आक्रमण\N_NN से\PSP सदैव\QT_QTF सुरक्षित\N_NN रहा\V_VM ।\RD_PUNC
+htd14651	महाभारत\N_NNP काल\N_NNP से\PSP पूर्व\N_NN इसे\PR_PRP कश्यपपुरा\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14652	धान\N_NN की\PSP खेती\N_NN ,\RD_PUNC फलों\N_NN से\PSP लदे\V_VM बागान\N_NN ,\RD_PUNC नाग\N_NN तथा\CC_CCD अश्‍व\N_NN जैसे\JJ जीव\N_NN और\CC_CCD औषधीय\JJ पौधों\N_NN से\PSP लदी\V_VM कश्‍मीर\N_NNP की\PSP धरती\N_NN बहुत\QT_QTF रिझाती\V_VM है\V_VAUX ।\RD_PUNC
+htd14653	लोग\N_NN कहते\V_VM हैं\V_VAUX कि\CC_CCS कश्मीर\N_NNP घाटी\N_NN की\PSP रक्षा\N_NN नाग\N_NN करता\V_VM है\V_VAUX ।\RD_PUNC
+htd14654	अत:\CC_CCD यहाँ\DM_DMD के\PSP निवासी\N_NN अन्य\QT_QTF क्षेत्रों\N_NN से\PSP श्रेष्‍ठ\JJ ,\RD_PUNC सुंदर\JJ ,\RD_PUNC ज्ञान\JJ पिपासु\JJ परंतु\CC_CCD लालची\JJ होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14655	कठोर\JJ शीत\N_NN से\PSP बचने\V_VM को\PSP ये\DM_DMD चमड़े\N_NN के\PSP वस्त्र\N_NN पहनते\V_VM हैं\V_VAUX तथा\CC_CCD पतले\JJ साफे\N_NN से\PSP सिर\N_NN ढकते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14656	पूरी\QT_QTF घाटी\N_NN में\PSP बौद्ध\JJ धर्म\N_NN मानने\V_VM वाले\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14657	यहाँ\DM_DMD 100\QT_QTC संघ\JJ मठ\N_NN हैं\V_VM ,\RD_PUNC जिनमें\PR_PRL 5000\QT_QTC भिक्षु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14658	घाटी\N_NN में\PSP अशोक\N_NNP द्वारा\PSP बनाये\V_VM 4\QT_QTC स्तूप\N_NN हैं\V_VM ।\RD_PUNC
+htd14659	यहाँ\DM_DMD की\PSP झीलें\N_NN प्राचीन\JJ नाग\JJ झील\N_NN का\PSP हिस्सा\N_NN हैं\V_VM ।\RD_PUNC
+htd14660	पूर्व\N_NN में\PSP व्यास\N_NNP या\CC_CCD विपाशा\N_NNP से\PSP पश्‍चिम\N_NNP में\PSP राजौरी\N_NNP के\PSP बीच\N_NN दो\QT_QTC हजार\N_NN मील\N_NN की\PSP परिधि\N_NN में\PSP फैला\V_VM टक्का\N_NNP देश\N_NNP गुर्जर\N_NNP सम्राज्य\N_NNP एक\QT_QTC हिस्सा\N_NN था\V_VM ।\RD_PUNC
+htd14661	यह\DM_DMD चिनाव\N_NNP के\PSP तट\N_NN पर\PSP रहने\V_VM वाली\N_NN टक्का\N_NN जनजाति\N_NN का\PSP देश\N_NN है\V_VM ।\RD_PUNC
+htd14662	इसका\PR_PRP प्रभाव\N_NN कभी\DM_DMI पूरे\QT_QTF पंजाब\N_NNP में\PSP था\V_VM ।\RD_PUNC
+htd14663	राजौरी\N_NNP से\PSP दो\QT_QTC दिन\N_NN चलकर\V_VM चिनाव\N_NNP पार\N_NN करता\V_VM हुआ\V_VAUX मैं\PR_PRP तीसरे\QT_QTO दिन\N_NN जम्मू\N_NNP (\RD_PUNC जम्बू\N_NNP या\CC_CCD जयपुरा\N_NNP )\RD_PUNC पहुँचा\V_VM ।\RD_PUNC
+htd14664	चौथे\QT_QTO दिन\N_NN सकल\N_NNP पहुँचा\V_VM ।\RD_PUNC
+htd14665	यहाँ\DM_DMD की\PSP धरती\N_NN खूब\QT_QTF उपजाऊ\N_NN है\V_VM ।\RD_PUNC
+htd14666	चावल\N_NN की\PSP संपन्न\JJ खेती\N_NN के\PSP रूप\N_NN में\PSP ही\RP_RPD यह\DM_DMD क्षेत्र\N_NN प्रख्यात\JJ नहीं\RP_NEG था\V_VAUX बल्कि\CC_CCD सोने\N_NN ,\RD_PUNC चाँदी\N_NN ,\RD_PUNC ताँबे\N_NN ,\RD_PUNC लोहे\N_NN एवं\CC_CCD अभ्रक\N_NN की\PSP मिश्रित\JJ धातु\N_NN ’\RD_PUNC तिवोई\N_NN ’\RD_PUNC के\PSP लिए\PSP भी\RP_RPD विख्यात\JJ है\V_VM ।\RD_PUNC
+htd14667	कुल्लू\N_NNP प्रांत\N_NNP 600\QT_QTC मील\N_NN की\PSP परिधि\N_NN में\PSP चारों\QT_QTC ओर\N_NN पर्वतों\N_NN से\PSP घिरा\V_VM है\V_VAUX ।\RD_PUNC
+htd14668	मुख्य\JJ शहर\N_NN तीन\QT_QTC मील\N_NN की\PSP परिधि\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd14669	कनिंघम\N_NNP ने\PSP कुल्लू\N_NNP की\PSP पुरानी\JJ राजधानी\N_NN नगरकोट\N_NNP तथा\CC_CCD वर्तमान\JJ राजधानी\N_NN को\PSP सुल्तानपुर\N_NNP के\PSP नाम\N_NN से\PSP पुकारा\V_VM है\V_VAUX ।\RD_PUNC
+htd14670	कुल्लू\N_NNP घाटी\N_NNP उर्वर\JJ एवं\CC_CCD संपन्न\JJ है\V_VM ।\RD_PUNC
+htd14671	वनस्पति\N_NN घनी\JJ ,\RD_PUNC पहाड़\N_NN बर्फीले\JJ एवं\CC_CCD औषधीय\JJ पादपों\N_NN से\PSP भरे\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14672	फल\N_NN -\RD_PUNC फूल\N_NN प्रचुर\JJ मात्रा\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd14673	सोना\N_NN ,\RD_PUNC चाँदी\N_NN ,\RD_PUNC ताँबा\N_NN एवं\CC_CCD स्फटिक\N_NN का\PSP दोहन\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14674	जलवायु\N_NN बहुत\RP_INTF ठंडी\JJ है\V_VM ।\RD_PUNC
+htd14675	ओलावृष्‍टि\N_NN एवं\CC_CCD बर्फ\N_NN खूब\QT_QTF गिरती\V_VM है\V_VAUX ।\RD_PUNC
+htd14676	निवासी\N_NN सामान्यतया\RB घैंघा\N_NN एवं\CC_CCD गोले\N_NN की\PSP बीमारी\N_NN से\PSP ग्रस्त\N_NN हैं\V_VM परंतु\CC_CCD न्यायप्रिय\JJ व\CC_CCD बहादुर\JJ हैं\V_VM ।\RD_PUNC
+htd14677	देखने\V_VM में\PSP कठोर\JJ एवं\CC_CCD डरावने\JJ लगते\V_VM हैं\V_VM ।\RD_PUNC
+htd14678	उत्तर\N_NNP में\PSP पर्वतों\N_NN से\PSP घिरा\V_VM ,\RD_PUNC पूर्व\N_NNP में\PSP गंगा\N_NNP एवं\CC_CCD पश्‍चिम\N_NNP में\PSP यमुना\N_NNP के\PSP बीच\N_NN स्थित\N_NN स्रुघ्न\N_NNP क्षेत्र\N_NN सिरमौर\N_NNP से\PSP 100\QT_QTC कि.मी.\N_NN पूर्व\N_NNP में\PSP पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd14679	मैं\PR_PRP इसी\DM_DMD रास्ते\N_NN चलकर\V_VM कालसी\N_NNP पहुँचा\V_VM ।\RD_PUNC
+htd14680	यमुना\N_NNP के\PSP पश्‍चिम\N_NNP में\PSP स्थित\N_NN वीरान\N_NN पड़े\V_VM एक\QT_QTC शहर\N_NN से\PSP भी\RP_RPD मैं\PR_PRP गुजरा\V_VM ।\RD_PUNC
+htd14681	यहाँ\DM_DMD निवासी\N_NN सच्चे\JJ एवं\CC_CCD ईमानदार\JJ हैं\V_VM ।\RD_PUNC
+htd14682	मूलत:\CC_CCD हिन्दू\JJ धर्म\N_NN में\PSP विश्‍वास\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14683	यहाँ\DM_DMD 100\QT_QTC हिन्दू\JJ मंदिर\N_NN हैं\V_VM ।\RD_PUNC
+htd14684	हीनयान\JJ बौद्ध\JJ धर्म\N_NN के\PSP भी\RP_RPD 5\QT_QTC संघ\N_NN हैं\V_VM ,\RD_PUNC जिनमें\PR_PRL 1000\QT_QTC बौद्ध\N_NN भिक्षु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14685	यहाँ\DM_DMD तथागत\JJ बुद्ध\N_NN के\PSP पवित्र\JJ केश\N_NN एवं\CC_CCD नाखून\N_NN एक\QT_QTC बड़े\JJ स्तूप\N_NN के\PSP भीतर\N_NN सुरक्षित\N_NN रखे\V_VM गये\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14686	तथागत\N_NNP बुद्ध\N_NNP के\PSP निर्वाण\N_NN प्राप्‍त\N_NN करने\V_VM के\PSP बाद\N_NN इस\DM_DMD क्षेत्र\N_NN में\PSP फिर\CC_CCS हिंदू\JJ धर्म\N_NN का\PSP बोलबाला\N_NN हो\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14687	गंगा\N_NNP पार\N_NN कर\V_VM मैं\PR_PRP मंदौर\N_NNP पहुँचा\V_VM ।\RD_PUNC
+htd14688	चार\QT_QTC मील\N_NN की\PSP परिधि\N_NN में\PSP मंदौर\N_NNP नगर\N_NN तथा\CC_CCD 1200\QT_QTC मील\N_NN की\PSP परिधि\N_NN में\PSP फैला\V_VM था\V_VAUX मंदौर\N_NNP साम्राज्य\N_NNP ।\RD_PUNC
+htd14689	जलवायु\N_NN एवं\CC_CCD मिट्‍टी\N_NN कृषि\N_NN के\PSP उपयुक्‍त\JJ तथा\CC_CCD निवासी\N_NN सच्चे\JJ एवं\CC_CCD ईमानदार\JJ हैं\V_VM ।\RD_PUNC
+htd14690	ये\DM_DMD बौद्ध\JJ एवं\CC_CCD हिंदू\JJ धर्म\N_NN को\PSP मानने\V_VM वाले\N_NN हैं\V_VM ।\RD_PUNC
+htd14691	यहाँ\DM_DMD शूद्र\N_NNP राजा\N_NN का\PSP राज्य\N_NN है\V_VM ,\RD_PUNC जो\PR_PRL हिंदू\JJ धर्म\N_NN में\PSP आस्था\N_NN रखता\V_VM है\V_VAUX ।\RD_PUNC
+htd14692	लगभग\JJ 20\QT_QTC संघ\N_NN हैं\V_VM ,\RD_PUNC जिनमें\PR_PRL 800\QT_QTC बौद्ध\JJ भिक्षु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14693	ये\DM_DMD महायान\JJ तथा\CC_CCD सर्वस्तिवद\JJ विचारधारा\N_NN के\PSP मानने\V_VM वाले\N_NN हैं\V_VM ।\RD_PUNC
+htd14694	यहाँ\DM_DMD लगभग\JJ 50\QT_QTC हिंदू\JJ मंदिर\N_NN हैं\V_VM ।\RD_PUNC
+htd14695	मन्दौर\N_NNP से\PSP एक\QT_QTC मील\N_NN नीचे\N_NST एक\QT_QTC छोटा\JJ संघ\N_NN है\V_VM ,\RD_PUNC जिसमें\PR_PRL 50\QT_QTC बौद्धभिक्षु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14696	यहीं\DM_DMD कभी\DM_DMI पूर्व\N_NN में\PSP गुणप्रभु\N_NNP नामक\N_NN विद्धान\JJ भिक्षु\N_NN ने\PSP तत्वविभंजनशास्त्र\N_NNP की\PSP रचना\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd14697	इस\DM_DMD स्थान\N_NN से\PSP थोड़ी\QT_QTF ही\RP_RPD दूरी\N_NN पर\PSP एक\QT_QTC दूसरा\QT_QTO संघ\N_NN है\V_VM ,\RD_PUNC जिसमें\PR_PRL 200\QT_QTC हीनयान\JJ भिक्षु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14698	यहाँ\DM_DMD संघभद्र\N_NNP की\PSP मृत्यु\N_NN हुई\V_VM थी\V_VAUX ,\RD_PUNC जिन्होंने\N_NN विभाषिकाविचार\N_NNP का\PSP विरोध\N_NN कर\V_VM अभिधर्मकोष\N_NNP शास्त्र\N_NNP की\PSP रचना\N_NN की\V_VM थी\V_VAUX ।\RD_PUNC
+htd14699	संघभद्र\N_NNP के\PSP विषय\N_NN में\PSP की\PSP मिथक\N_NN हैं\V_VM ,\RD_PUNC जिसमें\PR_PRL बौद्धिसत्व\N_NN से\PSP इनका\N_NN मिलना\V_VM व\CC_CCD भिन्न\JJ -\RD_PUNC भिन्न\JJ मत-\N_NN मतान्तरों\N_NN के\PSP संशयों\N_NN को\PSP दूर\N_NN करना\V_VM प्रमुख\JJ हैं\V_VM ।\RD_PUNC
+htd14700	संघ\N_NNP भद्र\N_NNP की\PSP अस्थियाँ\N_NN यहीं\DM_DMD पर\PSP स्तूप\N_NN बनाकर\V_VM सुरक्षित\N_NN रखी\V_VM गयी\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14701	इसी\DM_DMD मठ\N_NN के\PSP पास\N_NN विमलमित्र\N_NNP नामक\N_NN दूसरे\QT_QTO बौद्ध\JJ विद्वान\N_NN की\PSP भी\RP_RPD समाधि\N_NN है\V_VM ।\RD_PUNC
+htd14702	विमलमित्र\N_NNP कश्मीर\N_NNP का\PSP रहने\V_VM वाला\N_NN था\V_VM ,\RD_PUNC जिसने\PR_PRL पूरे\QT_QTF भारत\N_NNP का\PSP भ्रमण\N_NN कर\V_VM बौद्धधर्म\N_NN की\PSP प्रमुख\JJ विचारधाराओं\N_NN व\CC_CCD ग्रंथों\N_NN का\PSP अध्ययन\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd14703	उसकी\PR_PRP ज्ञान\JJ महिमा\N_NN यह\DM_DMD थी\V_VM कि\CC_CCS उसकी\PR_PRP मृत्यु\N_NN के\PSP समय\N_NN धरती\N_NN ने\PSP स्वयं\PR_PRF फटकर\V_VM उसे\PR_PRP समाधिस्त\N_NN कर\V_VM लिया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14704	ब्रह्यपुर\N_NNP राज्य\N_NN के\PSP उत्तर\N_NNP में\PSP बर्फीले\JJ पहाड़ों\N_NN के\PSP मध्य\N_NN स्तिथ\N_NN सुवर्ण\N_NNP गोत्र\N_NNP (\RD_PUNC भोटांतिक\N_NNP )\RD_PUNC नाम\N_NN का\PSP राज्य\N_NN है\V_VM ।\RD_PUNC
+htd14705	यहाँ\DM_DMD से\PSP उत्तम\JJ प्रकार\N_NN का\PSP सोना\N_NN आता\V_VM है\V_VAUX ।\RD_PUNC
+htd14706	पश्‍चिम\N_NNP से\PSP पूर्व\N_NNP दिशा\N_NN में\PSP फैले\V_VM इस\DM_DMD राज्य\N_NN की\PSP शासक\N_NN महिला\N_NN है\V_VM परंतु\CC_CCD शासक\N_NN महिला\N_NN के\PSP पति\N_NN को\PSP भी\RP_RPD शासक\N_NN कहकर\V_VM पुकारा\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14707	शासन\N_NN महिला\N_NN के\PSP ही\RP_RPD हाथ\N_NN में\PSP होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14708	पुरुष\N_NN युद्ध\N_NN करते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14709	यह\DM_DMD राज्य\N_NN पूर्वी\JJ एवं\CC_CCD पश्‍चिमी\JJ दो\QT_QTC भागों\N_NN में\PSP बँटा\V_VM है\V_VAUX ।\RD_PUNC
+htd14710	शीतकालीन\JJ गेहूँ\N_NN की\PSP एक\QT_QTC फसल\N_NN यहाँ\DM_DMD बोयी\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14711	यहाँ\DM_DMD खूब\QT_QTF भेड़ें\N_NN पाली\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14712	घोड़े\N_NN भी\RP_RPD पर्याप्‍त\JJ मात्रा\N_NN में\PSP हैं\V_VAUX ।\RD_PUNC
+htd14713	जलवायु\N_NN अत्यंत\RP_INTF ठंडी\JJ है\V_VM ।\RD_PUNC
+htd14714	निवासी\N_NN फुर्तीले\JJ एवं\CC_CCD स्फूर्तिवान\JJ हैं\V_VM ।\RD_PUNC
+htd14715	इस\DM_DMD राज्य\N_NN के\PSP पूर्व\N_NNP में\PSP तिब्बत\N_NNP तथा\CC_CCD उत्तर\N_NNP में\PSP खुतान\N_NNP पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd14716	इस\DM_DMD राज्य\N_NN के\PSP पश्‍चिम\N_NNP में\PSP सम्पहा\N_NNP ,\RD_PUNC मलासा\N_NNP (\RD_PUNC वर्तमान\JJ हिमाचल\N_NNP प्रदेश\N_NNP )\RD_PUNC की\PSP सीमा\N_NN पड़ती\V_VM है\V_VAUX ।\RD_PUNC
+htd14717	गोविषाण\N_NNP से\PSP 80\QT_QTC मील\N_NN दक्षिण\N_NNP -\RD_PUNC पूर्व\N_NNP जाने\V_VM पर\PSP अहिक\N_NNP राज्य\N_NN पड़ता\V_VM है\V_VAUX ।\RD_PUNC
+htd14718	महाभारत\N_NNP में\PSP इसे\PR_PRP अहिछत्र\N_NNP कहा\V_VM गया\V_VAUX है\V_VAUX ,\RD_PUNC जो\PR_PRL उत्तर\JJ पांचाल\N_NNP राज्य\N_NN (\RD_PUNC वर्तमान\JJ रूहेलखण्ड\N_NNP )\RD_PUNC की\PSP राजधानी\N_NN थी\V_VM ।\RD_PUNC
+htd14719	अहिक\N_NNP राजधानी\N_NN क्षेत्र\N_NN (\RD_PUNC वर्तमान\JJ बरेली\N_NNP )\RD_PUNC तीन\QT_QTC से\PSP चार\QT_QTC मील\N_NN में\PSP फैला\V_VM है\V_VAUX ।\RD_PUNC
+htd14720	जलवायु\N_NN मृदुल\JJ तथा\CC_CCD गेहूँ\N_NN की\PSP खेती\N_NN के\PSP योग्य\JJ है\V_VM ।\RD_PUNC
+htd14721	निवासी\N_NN सच्चे\JJ ,\RD_PUNC ईमानदार\JJ परंतु\N_NN चालाक\JJ हैं\V_VM ।\RD_PUNC
+htd14722	यहाँ\DM_DMD 300\QT_QTF भिन्न\JJ -\RD_PUNC भिन्न\JJ मूर्तियों\N_NN वाले\N_NN 9\QT_QTC मंदिर\N_NN हैं\V_VM ।\RD_PUNC
+htd14723	10\QT_QTC संघ\N_NN भी\RP_RPD हैं\V_VM ,\RD_PUNC जिसमें\PR_PRL 1000\QT_QTC भिक्षु\N_NN रहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14724	अहिक\N_NNP से\PSP अतरंजीखेड़ा\N_NNP होते\V_VM हुए\V_VAUX 50\QT_QTC -\RD_PUNC 60\QT_QTC मील\N_NN चलकर\V_VM सहावर\N_NNP के\PSP पास\N_NN मैंने\PR_PRP गंगा\N_NNP पार\N_NN की\PSP तथा\CC_CCD महान\JJ खगोलविद\N_NN बराह\N_NNP मिहिर\N_NNP के\PSP शहर\N_NN कपिथा\N_NNP की\PSP ओर\N_NN चला\V_VM गया\V_VAUX ।\RD_PUNC
+htd14725	यों\CC_CCD तो\RP_RPD ईसाई\N_NN मिशनरियों\N_NN की\PSP हिमालय\N_NNP और\CC_CCD तिब्बत\N_NNP क्षेत्र\N_NN में\PSP जाने\V_VM की\PSP शुरुआत\N_NN 17वीं\QT_QTO सदी\N_NN के\PSP पहले\N_NN ही\RP_RPD दशक\N_NN में\PSP हो\V_VM गयी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14726	लेकिन\CC_CCD पश्‍चिमी\JJ तिब्बत\N_NNP के\PSP गूँगे\N_NNP या\CC_CCD नारी\N_NNP खरसम\N_NNP क्षेत्र\N_NN यानी\N_NN सतलज\N_NNP घाटी\N_NNP में\PSP पहले\QT_QTO यूरोपीय\JJ के\PSP रूप\N_NN में\PSP जाने\V_VM का\PSP सौभाग्य\N_NN आन्तोनियो\N_NNP दी\N_NNP अन्द्रादे\N_NNP को\PSP मिला\V_VM था\V_VAUX ।\RD_PUNC
+htd14727	वह\PR_PRP मार्च\N_NNP 1624\QT_QTC में\PSP आगरा\N_NNP से\PSP चलकर\V_VM मई\N_NNP -\RD_PUNC जून\N_NNP -\RD_PUNC जुलाई\N_NNP में\PSP हिमालय\N_NNP क्षेत्र\N_NN की\PSP यात्रा\N_NN के\PSP बाद\N_NN अगस्त\N_NNP प्रारंभ\N_NN में\PSP छपरांग\N_NNP और\CC_CCD वहाँ\DM_DMD से\PSP नवम्बर\N_NNP 1624\QT_QTC में\PSP आगरा\N_NNP वापस\N_NN पहुँचा\V_VM था\V_VAUX ।\RD_PUNC
+htd14728	जून\N_NNP 1625\QT_QTC में\PSP वह\PR_PRP पुन:\RB आगरा\N_NNP से\PSP छपरांग\N_NNP को\PSP चला\V_VM था\V_VAUX ।\RD_PUNC
+htd14729	अप्रैल\N_NNP 1626\QT_QTC में\PSP उसने\PR_PRP वहाँ\DM_DMD पहला\QT_QTO गिरजाघर\N_NN बनवाया\V_VM था\V_VAUX ।\RD_PUNC
+htd14730	इस\DM_DMD साल\N_NN वह\PR_PRP वापस\N_NN आगरा\N_NNP आया\V_VM था\V_VAUX ।\RD_PUNC
+htd14731	फिर\CC_CCD अन्य\QT_QTF पादरी\N_NN वहाँ\DM_DMD गये\V_VM ।\RD_PUNC
+htd14732	वहाँ\DM_DMD राजा\N_NN सहित\N_NN अनेक\QT_QTF तिब्बतियों\N_NN ने\PSP ईसाई\JJ धर्म\N_NN में\PSP दीक्षा\N_NN ली\V_VM थी\V_VAUX ।\RD_PUNC
+htd14733	लेकिन\CC_CCD 1630\QT_QTC के\PSP तख्ता\N_NN पलट\N_NN में\PSP धर्मान्तरिਤ\JJ राजा\N_NN और\CC_CCD अन्य\QT_QTF लोगों\N_NN को\PSP सजाएँ\N_NN दी\V_VM गई\V_VAUX ।\RD_PUNC
+htd14734	यहाँ\DM_DMD प्रस्तुत\N_NN है\V_VM अन्द्रादे\N_NNP की\PSP पहली\QT_QTO यात्रा\N_NN ,\RD_PUNC जो\PR_PRL कि\CC_CCS आगरा\N_NNP से\PSP हरिद्वार\N_NNP ,\RD_PUNC श्रीनगर\N_NNP ,\RD_PUNC बद्रीनाथ\N_NNP तथा\CC_CCD माणा\N_NNP दर्रा\N_NNP होकर\V_VM छपरांग\N_NNP तक\PSP हुई\V_VM थी\V_VAUX ।\RD_PUNC
+htd14735	मैं\PR_PRP अनेक\QT_QTF दिनों\N_NN तक\PSP किसी\DM_DMI कारवां\N_NN अथवा\CC_CCD मौके\N_NN का\PSP इन्तजार\N_NN करता\V_VM रहा\V_VAUX ताकि\CC_CCD मैं\PR_PRP तिब्बत\N_NNP में\PSP प्रवेश\N_NN कर\V_VM सकूँ\V_VAUX ।\RD_PUNC
+htd14736	इसी\DM_DMD समय\N_NN मुझे\PR_PRP बताया\V_VM गया\V_VAUX कि\CC_CCS श्रीनगर\N_NNP राजा\N_NN ने\PSP मेरी\PR_PRP यात्रा\N_NN को\PSP सही\JJ समाप्‍त\N_NN करने\V_VM के\PSP आदेश\N_NN दिए\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14737	मैंने\PR_PRP तिब्बत\N_NNP जाने\V_VM वाले\JJ मार्ग\N_NN ,\RD_PUNC मौसम\N_NN और\CC_CCD दिक्कतों\N_NN के\PSP बारे\N_NN में\PSP ज्यादा\QT_QTF जानकारियाँ\N_NN इकट्‍ठी\N_NN की\V_VM और\CC_CCD दो\QT_QTC ईसाई\JJ साथियों\N_NN और\CC_CCD माणा\N_NNP के\PSP एक\QT_QTC मार्गदर्शक\N_NN के\PSP साथ\PSP तिब्बत\N_NNP को\PSP रवाना\N_NN हो\V_VM गया\V_VAUX ।\RD_PUNC
+htd14738	दो\QT_QTC दिन\N_NN तक\PSP हम\PR_PRP तेजी\RB से\PSP चलते\V_VM रहे\V_VAUX लेकिन\CC_CCD तीसरे\QT_QTO दिन\N_NN हमें\PR_PRP तीन\QT_QTC स्थानीय\JJ लोगों\N_NN ने\PSP आकर\V_VM रोक\N_NN लिया\V_VM ,\RD_PUNC जिन्हें\PR_PRL इस\DM_DMD क्षेत्र\N_NN में\PSP राज्याधिकारी\N_NN ने\PSP भेजा\V_VM था\V_VAUX ।\RD_PUNC
+htd14739	आगे\N_NN मार्ग\N_NN ज्यादा\QT_QTF कठिन\N_NN था\V_VM ।\RD_PUNC
+htd14740	बर्फ\N_NN कई\QT_QTF फीट\N_NN गहरी\JJ थी\V_VM ।\RD_PUNC
+htd14741	कभी\DM_DMI हम\PR_PRP सीने\N_NN तक\PSP बर्फ\N_NN में\PSP होते\V_VM थे\V_VAUX कभी\DM_DMI कंधों\N_NN तक\PSP ।\RD_PUNC
+htd14742	कभी\RB -\RD_PUNC कभी\RB हम\PR_PRP बर्फ\N_NN पर\PSP ही\RP_RPD पसर\V_VM जाते\V_VAUX थे\V_VAUX और\CC_CCD हाथ\N_NN -\RD_PUNC पाँव\N_NN चलाते\V_VM रहते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14743	यात्रा\N_NN चलती\V_VM रही\V_VAUX ,\RD_PUNC जब\PR_PRL तक\PSP कि\CC_CCS हम\PR_PRP इस\DM_DMD पर्वत\N_NN के\PSP ऊपर\N_NST नहीं\RP_NEG पहुँच\V_VM गये\V_VAUX ।\RD_PUNC
+htd14744	यहीं\DM_DMD सरस्वती\N_NNP नदी\N_NNP एक\QT_QTC बर्फीले\JJ तालाब\N_NN से\PSP जन्म\N_NN लेती\V_VM है\V_VAUX ।\RD_PUNC
+htd14745	यह\DM_DMD गंगा\N_NNP अलकनंदा\N_NNP का\PSP स्रोत\N_NN था\V_VM ।\RD_PUNC
+htd14746	अगली\N_NN धार\N_NN का\PSP पानी\N_NN तिब्बत\N_NNP की\PSP ओर\N_NN जाता\V_VM था\V_VAUX यानी\CC_CCS सतलज\N_NNP नदी\N_NNP में\PSP ।\RD_PUNC
+htd14747	यहाँ\DM_DMD से\PSP उतार\N_NN शुरू\N_NN हो\V_VM गया\V_VAUX और\CC_CCD एक\QT_QTC नदी\N_NN थोलिंग\N_NNP (\RD_PUNC टोटलिंग\N_NNP )\RD_PUNC की\PSP ओर\N_NN उतरती\V_VM थी\V_VAUX ।\RD_PUNC
+htd14748	हमारे\PR_PRP सामने\N_NN तिब्बत\N_NNP का\PSP विस्तृत\JJ पठार\N_NN था\V_VM ।\RD_PUNC
+htd14749	लगातार\RB बर्फ\N_NN में\PSP चलने\V_VM और\CC_CCD लगातार\RB बर्फ\N_NN गिरने\V_VM से\PSP हमारी\PR_PRP आँखों\N_NN को\PSP बहुत\JJ कष्‍ट\N_NN हो\V_VM रहा\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14750	यह\DM_DMD हिमअंधता\N_NN थी\V_VM ।\RD_PUNC
+htd14751	रास्ता\N_NN ठीक\N_NN से\PSP दिखता\V_VM नहीं\RP_NEG था\V_VM ।\RD_PUNC
+htd14752	एक\QT_QTC बार\N_NN तो\RP_RPD इस\DM_DMD दिक्कत\N_NN से\PSP परेशान\N_NN होकर\V_VM हमने\PR_PRP माणा\N_NNP वापस\N_NN लौटने\V_VM की\PSP सोची\V_VM ।\RD_PUNC
+htd14753	हम\PR_PRP 6\QT_QTC दिन\N_NN में\PSP माणा\N_NNP वापस\N_NN जा\V_VM सकते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14754	मेरे\N_NN दोनों\QT_QTC साथी\N_NN वास्तव\N_NN में\PSP थके\V_VM और\CC_CCD निराशा\N_NN से\PSP भरे\V_VM थे\V_VAUX ।\RD_PUNC
+htd14755	मैं\PR_PRP न\RP_NEG आगे\N_NN बढ़\V_VM सकता\V_VAUX था\V_VAUX और\CC_CCD न\RP_NEG ये\DM_DMD दो\QT_QTC साथी\N_NN मेरे\PR_PRP बिना\RP_NEG पीछे\N_NN जा\V_VM सकते\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14756	तीन\QT_QTC दिन\N_NN बाद\N_NN हमारी\PR_PRP खोज\N_NN में\PSP माणा\N_NNP का\PSP एक\QT_QTC भोटिया\N_NN आया\V_VM ,\RD_PUNC जिसे\PR_PRL गाँव\N_NN वालों\N_NN ने\PSP भेजा\V_VM था\V_VAUX ।\RD_PUNC
+htd14757	इस\DM_DMD भय\N_NN के\PSP कारण\N_NN कि\CC_CCS हमारी\PR_PRP तिब्बत\N_NNP की\PSP यात्रा\N_NN में\PSP हुए\V_VM संभावित\JJ अनिष्‍ट\JJ के\PSP लिए\PSP कहीं\DM_DMI माणावासी\N_NN जिम्मेदार\N_NN न\RP_NEG समझे\V_VM जाएँ\V_VAUX ।\RD_PUNC
+htd14758	तीन\QT_QTC दिन\N_NN बाद\N_NN गुफाओं\N_NN में\PSP अस्थाई\JJ आवास\N_NN बनाने\V_VM में\PSP कामयाब\N_NN हुए\V_VM और\CC_CCD यहीं\DM_DMD मैनुअल\N_NNP मारक्यूज\N_NNP रसद\N_NNP के\PSP साथ\PSP पहुँच\V_VM गये\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14759	बर्फ\N_NN पिघलने\V_VM का\PSP इंतजार\N_NN किया\V_VM गया\V_VAUX ।\RD_PUNC
+htd14760	जब\PR_PRL चलने\V_VM का\PSP समय\N_NN आया\V_VM तो\RP_RPD हम\PR_PRP सभी\QT_QTF हिमअंधता\N_NN के\PSP शिकार\N_NN बने\V_VM हुए\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14761	तिब्बत\N_NNP से\PSP स्थानीय\JJ राजा\N_NN को\PSP हमारे\PR_PRP आगमन\N_NN की\PSP सूचना\N_NN मिली\V_VM तो\RP_RPD आदमी\N_NN और\CC_CCD घोड़े\N_NN पहुँच\V_VM गये\V_VAUX और\CC_CCD इस\DM_DMD तरह\N_NN अगस्त\N_NNP 1624\QT_QTC के\PSP प्रारंभ\N_NN में\PSP मैं\PR_PRP पहले\QT_QTO यूरोपीय\JJ के\PSP रूप\N_NN में\PSP छपरांग\N_NNP पहुँचा\V_VM ।\RD_PUNC
+htd14762	टनकपुर\N_NNP -\RD_PUNC पिथौरागढ़\N_NNP मार्ग\N_NN पर\PSP कुमाऊँ\N_NNP की\PSP ऐतिहासिक\JJ नगरी\N_NN चम्पावत\N_NNP से\PSP साढ़े\QT_QTF तीन\QT_QTC कि.मी.\N_NN पहले\QT_QTO एक\QT_QTC ग्राम\N_NN फुलारा\N_NNP है\V_VM ,\RD_PUNC जहाँ\PR_PRL से\PSP दाँयी\N_NN ओर\N_NN गिड़ियागाड़\N_NNP (\RD_PUNC नदी\N_NN )\RD_PUNC दक्षिण\N_NNP से\PSP उत्तर\N_NNP की\PSP ओर\N_NN बहती\V_VM है\V_VAUX ।\RD_PUNC
+htd14763	इस\DM_DMD गाड़\N_NN पर\PSP एक\QT_QTC छोटा\JJ सा\RP_RPD पुल\N_NN पैदल\N_NN पार\N_NN करके\V_VM निरंतर\RB ऊँचाई\N_NN पर\PSP जाते\V_VM दो\QT_QTC -\RD_PUNC ढाई\QT_QTF कि.मी.\N_NN मार्ग\N_NN पर\PSP चैकुनी\N_NNP ग्राम\N_NNP बसा\V_VM है\V_VAUX ।\RD_PUNC
+htd14764	मार्ग\N_NN के\PSP दोनों\QT_QTC ओर\N_NN विशाल\JJ घाटी\N_NN में\PSP सीढ़ीनुमा\JJ खेत\N_NN अपनी\PR_PRF हरी-भरी\JJ छटा\N_NN बिखेरते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14765	चैकुनी\N_NNP के\PSP सीमांत\N_NN पर\PSP पहुँचते\V_VM ही\RP_RPD एक\QT_QTC पहाड़ी\N_NN पर\PSP थोड़ी\QT_QTF समतल\JJ भूमि\N_NN में\PSP मध्यकाल\N_NN का\PSP एक\QT_QTC प्रस्तर\JJ निर्मित\N_NN मंदिर\JJ समूह\N_NN दृष्‍टिगोचर\N_NN होता\V_VM है\V_VAUX -\RD_PUNC अपने\PR_PRF स्थापत्य\JJ और\CC_CCD मूर्तिकला\JJ शैली\N_NN में\PSP समस्त\QT_QTF भारत\N_NNP से\PSP एकात्मता\N_NN स्थापित\N_NN करते\V_VM हुए\V_VAUX ।\RD_PUNC
+htd14766	यह\DM_DMD पंचायतन\QT_QTF प्रकार\N_NN का\PSP है\V_VM परंतु\CC_CCD वर्तमान\N_NN में\PSP चारों\QT_QTC कोणों\N_NN पर\PSP बने\V_VM हुए\V_VAUX लघु\JJ मंदिर\N_NN ध्वस्त\N_NN हो\V_VM चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14767	उनकी\PR_PRP केवल\QT_QTF आधारशिलाएँ\N_NN ही\RP_RPD दिखाई\V_VM देती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14768	प्रांगण\N_NN के\PSP मध्य\N_NN में\PSP नागर\JJ शैली\N_NN का\PSP रेखा\N_NN -\RD_PUNC शिखर\N_NN युक्‍त\N_NN मुख्य\JJ मंदिर\N_NN पूर्वाभिमुख\N_NN है\V_VM ।\RD_PUNC
+htd14769	इसकी\PR_PRP तलछंद\JJ योजना\N_NN में\PSP गर्भ-\JJ गृह\N_NN ,\RD_PUNC अंतराल\N_NN और\CC_CCD सभा\JJ मंडप\N_NN हैं\V_VM ।\RD_PUNC
+htd14770	मुख्य\JJ मंदिर\N_NN की\PSP बाह्यभित्तियों\N_NN पर\PSP अलंकरण\N_NN के\PSP साथ\PSP चतुर्भुजी\JJ देवी\N_NN -\RD_PUNC देवताओं\N_NN के\PSP चित्र\N_NN उकेरित\N_NN हैं\V_VM ।\RD_PUNC
+htd14771	गर्भगृह\N_NN के\PSP ऊपर\N_NST विमान\N_NN की\PSP प्रस्तर\JJ शिलाएँ\N_NN भी\RP_RPD अलंकरणयुक्‍त\N_NN हैं\V_VM ।\RD_PUNC
+htd14772	अर्द्धमण्डप\N_NN की\PSP त्रिफुलीय\JJ चंद्रमाला\N_NN में\PSP भी\RP_RPD देव\JJ आकृतियाँ\N_NN और\CC_CCD अन्य\QT_QTF अलंकरण\N_NN उकेरित\N_NN हैं\V_VM ।\RD_PUNC
+htd14773	गर्भगृह\N_NN में\PSP शिवलिंग\N_NN स्थापित\N_NN है\V_VM ।\RD_PUNC
+htd14774	पृष्‍ठ\JJ भित्ति\N_NN पर\PSP अष्‍टभुजी\JJ शिव\N_NN की\PSP नृत्यरत\JJ प्रतिमा\N_NN का\PSP पट्‍ट\N_NN लगा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14775	शिव\N_NNP की\PSP भुजाएँ\N_NN खंडित\N_NN हैं\V_VM ।\RD_PUNC
+htd14776	उनके\PR_PRP दो\QT_QTC दाहिने\N_NN हाथों\N_NN में\PSP कमण्डल\N_NN और\CC_CCD कपाल\N_NN और\CC_CCD बाँए\N_NN हाथों\N_NN में\PSP त्रिशूल\N_NN /\N_NN फरसा\N_NN आदि\N_NN हैं\V_VM ।\RD_PUNC
+htd14777	वृषभ\N_NN की\PSP अस्पष्‍ट\JJ आकृति\N_NN निम्न\N_NN भाग\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd14778	उनके\PR_PRP दोनों\QT_QTC ओर\N_NN कदाचित\RB गंगा\N_NNP और\CC_CCD उमा\N_NNP की\PSP भी\RP_RPD आकृतियाँ\N_NN रही\V_VM होंगी\V_VAUX ,\RD_PUNC जो\PR_PRL काफी\QT_QTF अस्पष्‍ट\JJ हो\V_VM गई\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14779	अन्य\QT_QTF प्रतिमाएँ\N_NN उमा\N_NNP -\RD_PUNC महेश्‍वर\N_NNP ,\RD_PUNC सिंह\N_NN और\CC_CCD वृषभ\N_NN सहित\N_NN पार्वती\N_NNP ,\RD_PUNC गणेश\N_NNP ,\RD_PUNC विष्णु\N_NNP आदि\N_NN की\PSP हैं\V_VM जो\PR_PRL काफी\QT_QTF खंडित\N_NN अवस्था\N_NN में\PSP हैं\V_VM ।\RD_PUNC
+htd14780	पार्वती\N_NNP प्रतिमा\N_NN का\PSP अधिकांश\QT_QTF भाग\N_NN बाँयी\N_NN ओर\N_NN से\PSP खंडित\N_NN है\V_VM ।\RD_PUNC
+htd14781	उनके\PR_PRP दाँए\N_NN पृष्‍ठ\JJ हस्त\N_NN में\PSP एक\QT_QTC विशाल\JJ पद्‍मकलिका\N_NN है\V_VM और\CC_CCD अग्र\JJ दाँया\N_NN हस्त\N_NN अभय\JJ मुद्रा\N_NN में\PSP है\V_VM ।\RD_PUNC
+htd14782	वक्ष\N_NN ,\RD_PUNC दोनों\QT_QTC बाँयी\N_NN भुजाएँ\N_NN और\CC_CCD पैर\N_NN खंडित\N_NN हैं\V_VM ।\RD_PUNC
+htd14783	खंडित\JJ दाँया\N_NN पैर\N_NN निम्न\N_NN भाग\N_NN में\PSP वृषभ\N_NN पर\PSP टिका\N_NN है\V_VM ।\RD_PUNC
+htd14784	बाँयी\N_NN ओर\N_NN सिंह\N_NN आकृति\N_NN है\V_VM ।\RD_PUNC
+htd14785	पार्वती\N_NNP की\PSP मुखाकृति\N_NN कुछ\DM_DMI नेपाली\N_NN प्रभाव\N_NN लिये\PSP है\V_VM ।\RD_PUNC
+htd14786	उनके\PR_PRP शीश\N_NN पर\PSP रज्जुनुमा\JJ रेखीय\JJ वृत्तों\N_NN के\PSP अभिप्राय\N_NN से\PSP अलंकृत\JJ टोपीनुमा\JJ मुकुट\N_NN है\V_VM ।\RD_PUNC
+htd14787	वे\PR_PRP लंबे\JJ कानों\N_NN में\PSP पंखुड़ियों\N_NN वाले\N_NN वृत्ताकार\JJ कुण्डल\N_NN ,\RD_PUNC ग्रीवा\N_NN में\PSP कण्ठहार\N_NN ,\RD_PUNC कोहनी\N_NN के\PSP पास\N_NN भुजबंद\N_NN और\CC_CCD कलाइयों\N_NN में\PSP कंगन\N_NN धारण\N_NN किये\V_VM प्रदर्शित\N_NN हैं\V_VM ।\RD_PUNC
+htd14788	सभा\JJ मण्डल\N_NN में\PSP वृषभ\N_NN की\PSP एक\QT_QTC घिसी\V_VM हुई\V_VAUX प्रतिमा\N_NN है\V_VM ।\RD_PUNC
+htd14789	उसकी\PR_PRP मुखाकृति\N_NN बिल्कुल\RP_INTF अस्पष्‍ट\JJ हो\V_VM चुकी\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14790	मुख्य\JJ मंदिर\N_NN के\PSP प्रवेशद्वार\N_NN में\PSP लगी\V_VM प्रस्तर\JJ पटिट्‍काएँ\N_NN पुष्प\JJ लताओं\N_NN के\PSP लयात्मक\JJ अलंकरण\N_NN से\PSP उकेरित\N_NN हैं\V_VM ।\RD_PUNC
+htd14791	चैकुनी\N_NNP ग्राम\N_NN चैकुनी\N_NNP बोहरा\N_NNP नाम\N_NN से\PSP प्रसिद्ध\JJ रहा\V_VM है\V_VAUX ।\RD_PUNC
+htd14792	बताया\V_VM गया\V_VAUX कि\CC_CCS मुख्य\JJ मंदिर\N_NN से\PSP दस\QT_QTC कदम\N_NN पीछे\N_NN की\PSP ओर\N_NN इतना\DM_DMD ही\RP_RPD बड़ा\JJ एक\QT_QTC और\N_NN मंदिर\N_NN था\V_VM ।\RD_PUNC
+htd14793	उसके\PR_PRP साथ\PSP ही\RP_RPD छत्रछाया\N_NN की\PSP तरह\N_NN ’\RD_PUNC खड़िक\N_NN ’\RD_PUNC का\PSP एक\QT_QTC विशाल\JJ वृक्ष\N_NN था\V_VM ।\RD_PUNC
+htd14794	इस\DM_DMD मंदिर\N_NN को\PSP ध्वस्त\N_NN करते\V_VM हुये\V_VAUX यह\DM_DMD वृक्ष\N_NN टूट\V_VM कर\V_VAUX गिर\V_VM पड़ा\V_VAUX ।\RD_PUNC
+htd14795	मंदिर\N_NN के\PSP शिला\JJ प्रस्तर\N_NN कुछ\QT_QTF लोगों\N_NN ने\PSP अपने\PR_PRF घरों\N_NN में\PSP और\QT_QTF कुछ\QT_QTF बाहर\N_NST खेतों\N_NN की\PSP मेंढ़\N_NN में\PSP प्रयुक्‍त\N_NN कर\V_VM लिये\V_VAUX ।\RD_PUNC
+htd14796	चम्पावत\N_NNP के\PSP समृद्ध\JJ दिनों\N_NN में\PSP यह\DM_DMD प्राचीन\JJ मंदिर\JJ समूह\N_NN कभी\DM_DMI पूजा\N_NN अर्चना\N_NN के\PSP लिये\PSP अति\RP_INTF महत्त्वपूर्ण\JJ रहा\V_VM होगा\V_VAUX ।\RD_PUNC
+htd14797	वर्तमान\N_NN में\PSP तो\RP_RPD बिल्कुल\RP_INTF उजाड़\N_NN पड़ा\V_VM हुआ\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14798	इस\DM_DMD मंदिर\JJ समूह\N_NN के\PSP प्रति\N_NN गाँव\N_NN वालों\N_NN की\PSP कोई\DM_DMI श्रद्धा\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd14799	गाँव\N_NN में\PSP छोटे\JJ -\RD_PUNC छोटे\JJ थानों\N_NN (\RD_PUNC देवस्थान\N_NN )\RD_PUNC की\PSP पूजा\N_NN का\PSP प्रचलन\N_NN है\V_VM ।\RD_PUNC
+htd14800	कुलदेवी\N_NN की\PSP पूजा\N_NN भी\RP_RPD की\V_VM जाती\V_VAUX है\V_VAUX और\CC_CCD बलि\N_NN भी\RP_RPD चढ़ाई\V_VM जाती\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14801	इस\DM_DMD मंदिर\N_NN की\PSP भूमि\N_NN को\PSP तो\RP_RPD गाँव\N_NN के\PSP वार्षिक\JJ मेले\N_NN पर\PSP ही\RP_RPD सफाई\N_NN करके\V_VM प्रयोग\N_NN में\PSP ले\V_VM लिया\V_VAUX जाता\V_VAUX है\V_VAUX अन्यथा\CC_CCD मंदिर\N_NN के\PSP रख-रखाव\N_NN का\PSP कोई\DM_DMI साधन\N_NN नहीं\RP_NEG है\V_VM ।\RD_PUNC
+htd14802	पिथौरागढ़\N_NNP जिले\N_NN में\PSP अन्य\QT_QTF प्रतिमाओं\N_NN के\PSP अतिरिक्‍त\N_NN शेषशायी\JJ विष्णु\N_NNP की\PSP भी\RP_RPD स्वतंत्र\JJ प्रतिमाएँ\N_NN मंदिरों\N_NN और\CC_CCD नौलों\N_NN में\PSP प्रचुर\JJ मात्रा\N_NN में\PSP उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd14803	उत्तराखण्ड\N_NNP में\PSP ये\DM_DMD प्रतिमायें\N_NN अत्यंत\RP_INTF दुर्गम\JJ ग्रामों\N_NN के\PSP मंदिरों\N_NN और\CC_CCD नौलों\N_NN में\PSP मध्ययुगीन\JJ शैलियों\N_NN और\CC_CCD स्थानीय\JJ लोक\JJ शैली\N_NN में\PSP भी\RP_RPD उपलब्ध\N_NN हैं\V_VM ।\RD_PUNC
+htd14804	पिथौरागढ़\N_NNP के\PSP विषाड़\N_NNP ग्राम\N_NN में\PSP बिल्वेश्‍वर\N_NNP महादेव\N_NNP तथा\CC_CCD नकुलेश्‍वर\N_NNP में\PSP भी\RP_RPD अनंतशायी\JJ विष्णु\N_NNP की\PSP प्रतिमाएँ\N_NN पूजित\N_NN हैं\V_VM ।\RD_PUNC
+htd14805	चमदेवल\N_NNP क्षेत्र\N_NN के\PSP ग्राम\N_NN बसकुनी\N_NNP और\CC_CCD मढ़गाँव\N_NNP के\PSP प्राचीन\JJ मंदिरों\N_NN में\PSP कई\QT_QTF प्रतिमाएँ\N_NN पार्श्‍व\JJ देवताओं\N_NN के\PSP रूप\N_NN में\PSP पूजी\V_VM जा\V_VAUX रही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14806	चमदेवल\N_NNP पहुँचने\V_VM के\PSP लिए\PSP पिथौरागढ़\N_NNP से\PSP लोहाघाट\N_NNP की\PSP यात्रा\N_NN एक\QT_QTC चिरस्मरणीय\JJ अनुभव\N_NN रहा\V_VM ।\RD_PUNC
+htd14807	देहरादून\N_NNP में\PSP रहते\V_VM हुए\V_VAUX हिमालय\N_NNP से\PSP अभिभूत\N_NN मेरा\PR_PRP मन\N_NN सदैव\QT_QTF लालायित\N_NN रहा\V_VM हिमालय\N_NNP में\PSP विचरण\N_NN करने\V_VM के\PSP लिए\PSP ।\RD_PUNC
+htd14808	पहले\QT_QTO नैनीताल\N_NNP से\PSP अलमोड़ा\N_NNP होते\V_VM हुए\V_VAUX पिथौरागढ़\N_NNP और\CC_CCD फिर\CC_CCS पिथौरागढ़\N_NNP से\PSP लोहाघाट\N_NNP ।\RD_PUNC
+htd14809	देवदार\N_NN के\PSP घने\JJ जंगल\N_NN ,\RD_PUNC चौड़ी\JJ घाटियाँ\N_NN ,\RD_PUNC ऊँची\JJ पर्वत\N_NN श्रृंखलाएँ\N_NN ,\RD_PUNC घाटियों\N_NN की\PSP तलहटी\N_NN में\PSP बसे\V_VM हुए\V_VAUX घरों\N_NN की\PSP केवल\QT_QTF छतें\N_NN दिखायी\V_VM देती\V_VAUX हुई\V_VAUX और\CC_CCD कहीं\DM_DMI पर्वत\JJ चोटियों\N_NN पर\PSP निर्मित\N_NN लघु\JJ देवालयों\N_NN की\PSP लाल\JJ पताकाएँ\N_NN बरबस\RB निमंत्रण\N_NN देती\V_VM हुई\V_VAUX ।\RD_PUNC
+htd14810	दृष्‍टि\N_NN वहीं\PR_PRP केंद्रीत\N_NN हो\V_VM जाती\V_VAUX ।\RD_PUNC
+htd14811	वाहन\N_NN से\PSP उतरकर\V_VM थोड़ी\QT_QTF दूर\N_NN पैदल\N_NN चलने\V_VM पर\PSP ग्राम\N_NN के\PSP सीमांत\N_NN पर\PSP ही\RP_RPD पृष्‍ठ\JJ भूमि\N_NN में\PSP ऊँची\JJ जगती\N_NN पर\PSP बना\V_VM और\CC_CCD सफेदी\N_NN से\PSP पूर्ण\QT_QTF रूप\N_NN में\PSP पुता\V_VM हुआ\V_VAUX पीढ़ा\JJ द्‍यूल\JJ शैली\N_NN में\PSP एक\QT_QTC विशालकाय\JJ मंदिर\N_NN (\RD_PUNC ऊँचाई\N_NN लगभग\JJ 30\QT_QTC -\RD_PUNC 35\QT_QTC फीट\N_NN )\RD_PUNC बरबस\RB ही\RP_RPD ध्यान\N_NN आकर्षित\N_NN करता\V_VM है\V_VM ।\RD_PUNC
+htd14812	समीप\N_NN ही\RP_RPD एक\QT_QTC बोर्ड\N_NN पर\PSP लिखा\V_VM है\V_VAUX -\RD_PUNC ’\RD_PUNC चौमू\N_NNP (\RD_PUNC चौखाम\N_NNP )\RD_PUNC देवता\N_NN -\RD_PUNC पंच\JJ रत्‍न\JJ मंदिर\N_NN -\RD_PUNC ग्राम\N_NN सभा\N_NN बसकुनी\N_NNP ’\RD_PUNC ।\RD_PUNC
+htd14813	यह\DM_DMD प्राचीन\JJ मंदिर\N_NN गर्भगृह\N_NN ,\RD_PUNC अर्द्धमण्डप\N_NN और\CC_CCD सभा\JJ मण्डप\N_NN युक्‍त\N_NN है\V_VM ।\RD_PUNC
+htd14814	गर्भगृह\N_NN में\PSP शिवलिंग\JJ शिला\N_NN और\CC_CCD त्रिशुल\N_NN प्रतिष्‍ठापित\N_NN है\V_VM ।\RD_PUNC
+htd14815	स्थानीय\JJ ’\RD_PUNC चौमू\N_NNP ’\RD_PUNC देवता\N_NN के\PSP साथ\PSP मंदिर\N_NN में\PSP सूर्य\N_NNP ,\RD_PUNC महिषासुर\N_NNP मर्दिनी\N_NNP ,\RD_PUNC शेषशायी\N_NNP आदि\N_NN अनेकों\QT_QTF मूर्तियाँ\N_NN पार्श्‍व\JJ देवी-देवताओं\N_NN के\PSP रूप\N_NN में\PSP पूजी\V_VM जा\V_VAUX रही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14816	मढ़गाँव\N_NNP पहुँचने\V_VM के\PSP लिए\PSP चमदेवल\N_NNP से\PSP पहाड़ी\JJ पगडंडियों\N_NN खेतों\N_NN और\CC_CCD खेतों\N_NN की\PSP मेढ़ों\N_NN आदि\N_NN के\PSP लगभग\JJ एक\QT_QTC कि.मी.\N_NN मार्ग\N_NN की\PSP उतराई\N_NN पर\PSP चलते\V_VM ,\RD_PUNC चढ़ते\V_VM ,\RD_PUNC उतरते\V_VM जाना\V_VAUX पड़ता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14817	गाँव\N_NN में\PSP कुछ\QT_QTF उत्सुक\JJ व्यक्‍ति\N_NN भी\RP_RPD हमारे\PR_PRP पथ\JJ -\RD_PUNC प्रदर्शक\N_NN बन\V_VM गए\V_VAUX ।\RD_PUNC
+htd14818	दूर\N_NN सूने\JJ एक\QT_QTC स्थान\N_NN पर\PSP पहुँच\V_VM कर\V_VAUX हमने\PR_PRP जब\PR_PRL पूछा\V_VM कि\CC_CCS इस\DM_DMD स्थान\N_NN का\PSP नाम\N_NN क्या\PR_PRQ है\V_VM तो\RP_RPD पता\N_NN चला\V_VM यह\DM_DMD गुमदेश\N_NNP के\PSP नाम\N_NN से\PSP जाना\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14819	दूर\N_NN तक\PSP बस्ती\N_NN का\PSP पता\N_NN नहीं\RP_NEG चलता\V_VM ।\RD_PUNC
+htd14820	एक\QT_QTC तरह\N_NN से\PSP इस\DM_DMD क्षेत्र\N_NN में\PSP अकेले\JJ चलता\V_VM -\RD_PUNC चलता\V_VM व्यक्‍ति\N_NN गुम\N_NN हुआ\V_VM लगता\V_VAUX है\V_VAUX इसलिए\CC_CCD इसे\DM_DMD गुमदेश\N_NNP कहते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14821	बहुत\QT_QTF सी\RP_RPD कहानियाँ\N_NN जुड़ी\V_VM होंगी\V_VAUX इस\DM_DMD क्षेत्र\N_NN से\PSP जिन्हें\PR_PRL जानने\V_VM के\PSP लिए\PSP कुछ\QT_QTF दिन\N_NN यहाँ\DM_DMD ठहरें\V_VM तो\RP_RPD ही\RP_RPD जान\V_VM पाएँगे\V_VAUX ।\RD_PUNC
+htd14822	गुमदेश\N_NNP के\PSP कुछ\QT_QTF आगे\N_NN उतराई\N_NN है\V_VM फिर\CC_CCS एक\QT_QTC सुंदर\JJ घाटी\N_NN की\PSP पट्‍टी\N_NN शिलंग\N_NN में\PSP मढ़गाँव\N_NNP बसा\V_VM है\V_VAUX ।\RD_PUNC
+htd14823	देहली\N_NNP से\PSP 11\QT_QTC अगस्त\N_NNP 88\QT_QTC की\PSP प्रात:\N_NN साढ़े\QT_QTF सात\QT_QTC बजे\N_NN सिंगापुर\N_NNP को\PSP चला\V_VM ।\RD_PUNC
+htd14824	वहाँ\DM_DMD के\PSP स्थानीय\JJ समय\N_NN के\PSP अनुसार\N_NN सायं\N_NN साढ़े\QT_QTF पाँच\QT_QTC बजे\N_NN सिंगापुर\N_NNP पहुँचा\V_VM और\CC_CCD रात्रि\N_NN तीन\QT_QTC बजे\N_NN पर्थ\N_NNP में\PSP उतरा\V_VM ।\RD_PUNC
+htd14825	वहाँ\DM_DMD माघ\N_NN महीने\N_NN जैसा\JJ चंचल\N_NN व\CC_CCD हवा\N_NN बादल\N_NN युक्‍त\N_NN मौसम\N_NN था\V_VM ।\RD_PUNC
+htd14826	कठोर\JJ जाड़ा\N_NN अभी\N_NST -\RD_PUNC अभी\N_NST बीता\V_VM था\V_VAUX ।\RD_PUNC
+htd14827	होटल\N_NN में\PSP सुस्ता\V_VM ही\RP_RPD रहा\V_VAUX था\V_VAUX कि\CC_CCS फोन\N_NN की\PSP घंटी\N_NN बजी\V_VM और\CC_CCD ठेठ\JJ कुमाउँनी\N_NN बोल\N_NN में\PSP कुशलक्षेम\N_NN पूछी\V_VM गयी\V_VAUX ।\RD_PUNC
+htd14828	कैनबरा\N_NNP से\PSP उप\JJ उच्चायुक्‍त\N_NN चंद्रमोहन\N_NNP भंडारी\N_NNP जी\N_NNP की\PSP स्नेहिल\JJ वाणी\N_NN थी\V_VM ।\RD_PUNC
+htd14829	उन्होंने\PR_PRP मेरी\PR_PRP यात्रा\N_NN का\PSP सारा\QT_QTF प्रबंधन\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd14830	कार्यक्रमानुसार\N_NN उसी\PR_PRP दिन\N_NN मैं\PR_PRP दो\QT_QTC बजे\N_NN वेस्टर्न\N_NNP आस्ट्रेलियन\N_NNP म्यूजियम\N_NNP गया\V_VM ।\RD_PUNC
+htd14831	गुफाकला\JJ प्रभारी\N_NN पीटर\N_NNP रौनडौल्फ\N_NNP से\PSP मिला\V_VM ,\RD_PUNC जिन्होंने\PR_PRL मुझे\PR_PRP संग्रहालय\N_NN पाल\N_NNP मैन्स\N_NNP लौफगन\N_NNP से\PSP मिलाया\V_VM और\CC_CCD मैं\PR_PRP प्रथम\QT_QTO बार\N_NN ऑस्ट्रेलियाई\JJ जनजातीय\JJ कला\N_NN को\PSP एक\QT_QTC कृत्रिम\JJ शिलाश्रय\N_NN और\CC_CCD शिलाखण्ड\N_NN में\PSP देख\V_VM सका\V_VAUX ।\RD_PUNC
+htd14832	शिलाश्रय\N_NN पौलीस्ट्रीन\JJ फोम\N_NN का\PSP बड़ा\QT_QTF सजीव\JJ बना\V_VM था\V_VAUX ,\RD_PUNC जिसमें\PR_PRL पौराणिक\JJ मुँहविहीन\JJ नारी\N_NN ’\RD_PUNC बाँजिना\N_NN ’\RD_PUNC जिस\PR_PRL गुहाचितेरे\N_NN द्वारा\PSP बनाई\V_VM गयी\V_VAUX थी\V_VAUX ,\RD_PUNC वह\PR_PRP कुछ\QT_QTF वर्ष\N_NN पूर्व\N_NN स्वर्ग\N_NN सिधार\V_VM चुका\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14833	अनुरेखित\JJ शिलाखंड\N_NN फाइबर\JJ ग्लास\N_NN का\PSP बना\V_VM था\V_VAUX ।\RD_PUNC
+htd14834	दूसरे\QT_QTO दिन\N_NN में\PSP एबोरीजनल\N_NNP आर्ट\N_NNP गैलरी\N_NNP देखने\V_VM गया\V_VAUX ,\RD_PUNC वहाँ\DM_DMD जनजातीय\JJ भौतिक\JJ संपदा\N_NN की\PSP सारी\QT_QTF कलात्मक\JJ वस्तुएँ\N_NN विक्रय\N_NN हेतु\PSP प्रदर्शित\N_NN थी\V_VM ।\RD_PUNC
+htd14835	उसी\PR_PRP दिन\N_NN शाम\N_NN को\PSP मैं\PR_PRP वेस्टर्न\N_NNP आस्ट्रेलियन\N_NNP आर्ट\N_NNP गैलरी\N_NNP भी\RP_RPD गया\V_VM ।\RD_PUNC
+htd14836	यहाँ\DM_DMD आधुनिक\JJ कलाकारों\N_NN की\PSP कृतियाँ\N_NN और\CC_CCD जनजातीय\JJ शिल्प\N_NN देखे\V_VM ।\RD_PUNC
+htd14837	भारतीय\JJ काष्‍ठ\JJ कला\N_NN और\CC_CCD नेपाली\JJ तथा\CC_CCD बर्मी\JJ धातु\JJ कला\N_NN के\PSP प्रतिमान\N_NN भी\RP_RPD यहाँ\DM_DMD प्रदर्शित\N_NN थे\V_VM ।\RD_PUNC
+htd14838	रविवार\N_NNP 14\QT_QTC को\PSP मैं\PR_PRP रेल\N_NN से\PSP 19\QT_QTC कि.मी.\N_NN दूर\N_NN पश्‍चिमी\JJ समुद्र\N_NN तट\N_NN पर\PSP स्थित\N_NN फ्रीमैंटल\N_NNP गया\V_VM ,\RD_PUNC जहाँ\PR_PRL मुझे\PR_PRP बिरुकमारी\N_NNP कला\N_NNP दीर्घा\N_NNP देखनी\V_VM थी\V_VAUX ।\RD_PUNC
+htd14839	पर्थ\N_NNP के\PSP छोटे\JJ से\PSP स्टेशन\N_NN पर\PSP दस\QT_QTC मिनट\N_NN पूर्व\N_NN तक\PSP रेलगाड़ी\N_NN नहीं\RP_NEG थी\V_VM ,\RD_PUNC न\RP_NEG कोई\DM_DMI हलचल\N_NN ।\RD_PUNC
+htd14840	पाँच\QT_QTC मिनट\N_NN पूर्व\N_NN चार\QT_QTC बोगियों\N_NN वाली\N_NN सुंदर\JJ छोटी\JJ सी\N_NN गाड़ी\N_NN आयी\V_VM और\CC_CCD आठ\QT_QTC -\RD_PUNC दस\QT_QTC लोग\N_NN उसमें\PR_PRP चढ़\V_VM गये\V_VAUX ।\RD_PUNC
+htd14841	गाड़ी\N_NN चलने\V_VM लगी\V_VAUX तो\RP_RPD टिकट\N_NN बाबू\N_NN आकर\V_VM टिकटें\N_NN थमाने\V_VM लगा\V_VAUX ।\RD_PUNC
+htd14842	छुट्‍टी\N_NN का\PSP दिन\N_NN था\V_VM ।\RD_PUNC
+htd14843	युवक\N_NN युवतियाँ\N_NN अपनी\PR_PRF -\RD_PUNC अपनी\PR_PRF रंगबिरंगी\JJ नावें\N_NN लेकर\V_VM समुद्र\JJ तट\N_NN का\PSP आनंद\N_NN लेने\V_VM जा\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14844	बीच\N_NN में\PSP जिस\PR_PRL जगह\N_NN गाड़ी\N_NN और\QT_QTF रूकी\V_VM कुछ-एक\QT_QTF वैसे\PR_PRL ही\RP_RPD मौजी\JJ चढ़\V_VM गये\V_VAUX ।\RD_PUNC
+htd14845	सर्वत्र\QT_QTF साफ\JJ सफाई\JJ और\CC_CCD शांति\JJ थी\V_VM ।\RD_PUNC
+htd14846	छोटी\JJ सी\N_NN बस्ती\N_NN ,\RD_PUNC थोड़ी\QT_QTF दुकानें\N_NN ।\RD_PUNC
+htd14847	बिरुकमारी\N_NNP कलादीर्घा\N_NNP दूसरी\QT_QTO मंजिल\N_NN पर\PSP थी\V_VM ,\RD_PUNC विक्रय\JJ केंद्र\N_NN नीचे\N_NST ।\RD_PUNC
+htd14848	कलादीर्घा\N_NN में\PSP आधुनिक\JJ नगर\N_NN ,\RD_PUNC जनजातीय\JJ ईसाई\JJ कलाकारों\N_NN की\PSP पश्‍चिमी\JJ ढंग\N_NN की\PSP टैम्प्रा\N_NN कृतियों\N_NN की\PSP प्रदर्शनी\N_NN लगी\V_VM थी\V_VAUX ।\RD_PUNC
+htd14849	विक्रय\JJ केंद्र\N_NN में\PSP पोस्टर\N_NN व\CC_CCD तैल\JJ रंगों\N_NN से\PSP परंपरागत\JJ प्रतिमानों\N_NN पर\PSP आधारित\N_NN वस्तुएँ\N_NN थी\V_VM ।\RD_PUNC
+htd14850	गुफाचित्रों\N_NN को\PSP वृक्ष\JJ छालों\N_NN ,\RD_PUNC कपड़ों\N_NN और\CC_CCD पर्दों\N_NN पर\PSP उतारा\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14851	यहाँ\DM_DMD पूर्णत:\QT_QTF व्यापारिक\JJ माहौल\N_NN था\V_VM ।\RD_PUNC
+htd14852	जनजातीय\JJ कलाकार\N_NN अर्थोपार्जन\N_NNP हेतु\N_NNP अपनी\PR_PRF कला\N_NN को\PSP नये\JJ धरातलों\N_NN पर\PSP चित्रित\N_NN कर\V_VM बेच\V_VM रहे\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14853	कलादीर्घा\N_NN देखने\V_VM के\PSP बाद\N_NN मैं\PR_PRP कुछ\QT_QTF देर\N_NN तट\N_NN पर\PSP चला\V_VM गया\V_VAUX ।\RD_PUNC
+htd14854	पर्थ\N_NNP वापस\N_NN आकर\V_VM मैं\PR_PRP तीसरे\QT_QTO पहर\N_NN सप्‍ताहांत\N_NN की\PSP पैंठ\N_NN का\PSP आनंद\N_NN लेने\V_VM चला\V_VM गया\V_VAUX ।\RD_PUNC
+htd14855	यह\DM_DMD कमोबेश\JJ भारतीय\JJ उपनगरीय\JJ बाजार\N_NN जैसी\JJ थी\V_VM ।\RD_PUNC
+htd14856	शहद\N_NN की\PSP बाल्टियाँ\N_NN बिक\V_VM रहीं\V_VAUX थीं\V_VAUX पाँच\QT_QTC डॉलर\N_NN में\PSP ।\RD_PUNC
+htd14857	फलों\N_NN के\PSP सिवा\N_NN अन्य\QT_QTF कुछ\QT_QTF नहीं\RP_NEG खरीदा\V_VM ।\RD_PUNC
+htd14858	कल\N_NN प्रात:\N_NN मेलबोर्न\N_NNP को\PSP जाना\V_VM था\V_VAUX ।\RD_PUNC
+htd14859	मुझे\PR_PRP ज्ञात\N_NN था\V_VM कि\CC_CCS ऑस्ट्रेलिया\N_NNP भारत\N_NNP -\RD_PUNC पाकिस्तान\N_NNP के\PSP संयुक्‍त\JJ क्षेत्रफल\N_NN से\PSP लगभग\JJ दूना\QT_QTF है\V_VM और\CC_CCD यहाँ\DM_DMD की\PSP अस्सी\QT_QTC प्रतिशत\N_NN आबादी\N_NN तटवर्ती\JJ कुछेक\QT_QTF नगरों\N_NN में\PSP रहती\V_VM है\V_VAUX ।\RD_PUNC
+htd14860	मैं\PR_PRP साढ़े\QT_QTF चार\QT_QTC बजे\N_NN तीन\QT_QTC हजार\N_NN कि.मी.\N_NN उड़कर\V_VM मेलबोर्न\N_NNP पहुँच\V_VM गया\V_VAUX ।\RD_PUNC
+htd14861	दूसरे\QT_QTO दिन\N_NN विक्टोरिया\N_NNP के\PSP राज्य\JJ संग्रहालय\N_NN में\PSP निदेशक\N_NN एड्रंयू\N_NNP रीवज्\N_NNP के\PSP साथ\PSP साढ़े\QT_QTF नौ\QT_QTC बजे\N_NN मिलना\V_VM तय\N_NN था\V_VM ।\RD_PUNC
+htd14862	जनजातीय\JJ कक्ष\N_NN की\PSP प्रभारी\N_NN मैडम\N_NN ने\PSP मुझे\PR_PRP संग्रहालय\N_NN वीथियाँ\N_NN तो\RP_RPD दिखाई\V_VM हीं\N_NN गोदाम\N_NN भी\RP_RPD दिखलाया\V_VM ,\RD_PUNC जहाँ\PR_PRL बड़ी\JJ मात्रा\N_NN में\PSP छालचित्र\N_NN ,\RD_PUNC चित्रण\JJ सामग्री\N_NN ,\RD_PUNC विशेषत:\RB टहनियों\N_NN को\PSP चबा\V_VM कर\V_VAUX बनायी\V_VM गयी\V_VAUX तूलिकाएँ\N_NN ,\RD_PUNC खनिज\N_NN रंग\N_NN ,\RD_PUNC फलों\N_NN के\PSP अलंकृत\JJ खोल\N_NN ,\RD_PUNC सज्जित\JJ आदिम\JJ वाद्य\N_NN यंत्र\N_NN ,\RD_PUNC रेशों\N_NN की\PSP टोकरियाँ\N_NN और\CC_CCD मृतक\JJ काष्‍ठ\JJ स्मारक\N_NN देखने\V_VM को\PSP मिले\V_VM ।\RD_PUNC
+htd14863	एक\QT_QTC छाल\JJ -\RD_PUNC चित्र\N_NN में\PSP रायफल\N_NN और\CC_CCD इमू\N_NN पक्षी\N_NN समेत\N_NN गोरे\N_NN का\PSP चित्रण\N_NN था\V_VM ।\RD_PUNC
+htd14864	छाल\JJ चित्रों\N_NN की\PSP कीमत\N_NN 15,000\QT_QTC ऑस्ट्रेलियाई\JJ डॉलर\N_NN तक\PSP थी\V_VM जो\PR_PRL आज\N_NST के\PSP पौने\QT_QTF चार\QT_QTC लाख\N_NN रुपये\N_NN प्रति\N_NN नग\N_NN है\V_VM ।\RD_PUNC
+htd14865	उसी\PR_PRP दिन\N_NN शाम\N_NN की\PSP उड़ान\N_NN से\PSP मैं\PR_PRP कैनबरा\N_NNP पहुँच\V_VM गया\V_VAUX ।\RD_PUNC
+htd14866	उच्चायोग\N_NN का\PSP वाहन\N_NN मुझे\PR_PRP सीधे\JJ भंडारी\N_NNP जी\N_NNP के\PSP आवास\N_NN पर\PSP ले\V_VM गया\V_VAUX ।\RD_PUNC
+htd14867	यहाँ\DM_DMD पहुँच\V_VM कर\V_VAUX मुझे\PR_PRP लगा\V_VM कि\CC_CCS मैं\PR_PRP कुमाऊँ\N_NNP से\PSP बाहर\N_NST नहीं\RP_NEG हूँ\V_VM ।\RD_PUNC
+htd14868	घर\N_NN में\PSP कुमाउँनी\N_NN गानों\N_NN के\PSP कैसेट\N_NN लगे\V_VM थे\V_VAUX ।\RD_PUNC
+htd14869	सर्वत्र\QT_QTF भारतीयता\JJ थी\V_VM और\CC_CCD भोजन\N_NN बनाने\V_VM वाला\N_NN था\V_VM पहाड़पानी\N_NNP का\PSP एक\QT_QTC लड़का\N_NN ।\RD_PUNC
+htd14870	अगले\QT_QTF दिन\N_NN राष्‍ट्रीय\JJ संग्रहालय\N_NN गया\V_VM जो\PR_PRL बर्लेग्रिफिन\N_NNP झील\N_NNP के\PSP तट\N_NN पर\PSP येरामुंडी\N_NNP नामक\N_NN दर्शनीय\JJ स्थल\N_NN पर\PSP स्थित\N_NN था\V_VM ।\RD_PUNC
+htd14871	उन्होंने\PR_PRP संग्रहालय\N_NN कीपर\N_NN किम\N_NNP से\PSP मुझे\PR_PRP दस\QT_QTC कि.मी.\N_NN दूर\N_NN अवस्थित\N_NN गोदाम\N_NN दिखाने\V_VM को\PSP कहा\V_VM ।\RD_PUNC
+htd14872	यह\DM_DMD ऑस्ट्रेलिया\N_NNP का\PSP सबसे\RP_INTF बड़ा\JJ जनजातीय\JJ संग्रह\N_NN था\V_VM ,\RD_PUNC जहाँ\PR_PRL दो\QT_QTC लाख\N_NN वस्तुएँ\N_NN सुरक्षित\N_NN थी\V_VM ।\RD_PUNC
+htd14873	इनको\DM_DMD पिछले\QT_QTF 200\QT_QTC वर्षों\N_NN में\PSP मानवशास्त्रियों\N_NN ,\RD_PUNC पुराविदों\N_NN और\CC_CCD यात्रियों\N_NN ने\PSP जनजातीय\JJ ऑस्ट्रेलिया\N_NNP से\PSP इकट्‍ठा\N_NN किया\N_NNP था\V_VAUX ।\RD_PUNC
+htd14874	यहाँ\DM_DMD वृक्ष\N_NN पर\PSP बने\V_VM चित्रों\N_NN का\PSP बहुत\RP_INTF बड़ा\JJ भंडार\N_NN था\V_VM ।\RD_PUNC
+htd14875	युकिलिप्टस\N_NN प्रजाति\N_NN के\PSP एक\QT_QTC वृक्ष\N_NN विशेष\JJ की\PSP छाल\N_NN को\PSP निकाल\V_VM कर\V_VAUX उसे\PR_PRP सुखा\V_VM कर\V_VAUX आयताकार\JJ टुकड़ों\N_NN में\PSP काटा\V_VM जाता\V_VAUX है\V_VAUX फिर\CC_CCS उन\PR_PRP पर\PSP खनिज\N_NN रंगों\N_NN से\PSP कंगारू\N_NN ,\RD_PUNC इमू\N_NN ,\RD_PUNC बारामुंडी\JJ मछली\N_NN ,\RD_PUNC पौराणिक\JJ पुरुषों\N_NN ,\RD_PUNC बूमरेंग\N_NN आदि\N_NN अस्त्रों\N_NN और\CC_CCD ज्यामिती\JJ घुमावदार\JJ आलेखनों\N_NN को\PSP बारीकी\N_NN से\PSP बनाया\V_VM जाता\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14876	मृतक\JJ स्मृति\JJ स्तंभ\N_NN ,\RD_PUNC रेशे\N_NN से\PSP बनी\V_VM नित्योपयोगी\JJ वस्तुएँ\N_NN और\CC_CCD नाना\QT_QTF प्रकार\N_NN के\PSP बाजे\N_NN व\CC_CCD शस्त्रास्त्रों\N_NN का\PSP भी\RP_RPD विशाल\JJ संग्रह\N_NN है\V_VM ।\RD_PUNC
+htd14877	राष्‍ट्रीय\JJ संग्रहालय\N_NN ,\RD_PUNC जो\PR_PRL 88\QT_QTC हैक्टेयर\N_NN के\PSP परिसर\N_NN में\PSP निर्माणधीन\N_NN था\V_VM ,\RD_PUNC इस\DM_DMD संग्रह\N_NN को\PSP स्थायी\JJ रूप\N_NN से\PSP प्रदर्शित\N_NN करेगा\V_VM ,\RD_PUNC किंतु\CC_CCD गोदाम\N_NN में\PSP भी\RP_RPD सुरक्षा\N_NN की\PSP अच्छी\JJ व्यवस्था\N_NN की\V_VM गयी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14878	कैनबरा\N_NNP राष्‍ट्रीय\N_NNP विश्‍वविद्यालय\N_NNP के\PSP मानवशास्त्र\N_NN तथा\CC_CCD प्रागैतिहासिक\N_NN विभाग\N_NN के\PSP प्रमुख\N_NN प्रो.\N_NNP मलवाने\N_NNP मेरे\PR_PRP शोध\N_NN ग्रंथ\N_NN के\PSP परीक्षक\N_NN रह\V_VM चुके\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14879	इन्होंने\PR_PRP विभागीय\JJ पटल\N_NN पर\PSP भीमबेटका\N_NNP से\PSP अनुकृत\N_NN मेरे\N_NN 15\QT_QTC चित्र\N_NN स्थाई\JJ प्रदर्शन\N_NN हेतु\PSP लगाए\V_VM थे\V_VAUX ।\RD_PUNC
+htd14880	यहाँ\DM_DMD भेड़ों\N_NN को\PSP जंबक\N_NN ,\RD_PUNC झील\N_NN को\PSP विलालोंग\N_NN ,\RD_PUNC केतली\N_NN को\PSP विली\N_NN ,\RD_PUNC मुर्गी\N_NN को\PSP चूक\N_NN ,\RD_PUNC अंग्रेज\N_NN को\PSP पौम\N_NN ,\RD_PUNC आदमी\N_NN को\PSP ब्लोक\N_NN और\CC_CCD अनागरीय\JJ क्षेत्र\N_NN को\PSP बुश\N_NN पुकारते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14881	20\QT_QTC अक्टूबर\N_NNP को\PSP मैं\PR_PRP सिडनी\N_NNP पहुँच\V_VM गया\V_VAUX ।\RD_PUNC
+htd14882	आज\N_NST शनिवार\N_NNP था\V_VM ।\RD_PUNC
+htd14883	सप्‍ताहान्त\N_NN मनाने\N_NN लोग\N_NN बाहर\N_NST चले\V_VM गये\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14884	बाजार\N_NN में\PSP सुनसानी\N_NN थी\V_VM ।\RD_PUNC
+htd14885	शाम\N_NN को\PSP कहीं\DM_DMI भोजन\N_NN नहीं\RP_NEG मिला\V_VM ।\RD_PUNC
+htd14886	मैं\PR_PRP न्यू\N_NNP साउथवेल्स\N_NNP के\PSP संग्रहालय\N_NN और\CC_CCD कलादीर्घा\N_NN को\PSP पैदल\N_NN घूमते\V_VM चिन्हित\N_NN कर\V_VM आया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14887	रविवार\N_NNP को\PSP कलादीर्घा\N_NN दर्शकों\N_NN हेतु\PSP खुली\V_VM थी\V_VAUX किंतु\CC_CCD कोई\DM_DMI अधिकारी\N_NN नहीं\RP_NEG मिला\V_VM ।\RD_PUNC
+htd14888	समुद्र\N_NN तट\N_NN पर\PSP पार्कों\N_NN में\PSP ,\RD_PUNC तिकोनी\JJ पाँखुड़ियों\JJ सदृश\JJ आपेरा\N_NN हाउस\N_NN के\PSP आस-पास\N_NN अच्छी\JJ खासी\JJ भीड़\N_NN जमा\V_VM थी\V_VAUX ।\RD_PUNC
+htd14889	समुद्र\N_NN में\PSP अठखेलियाँ\N_NN करते\V_VM क्रूसे\N_NN ,\RD_PUNC फेरी\N_NN ,\RD_PUNC नावों\N_NN ,\RD_PUNC याटों\N_NN आदि\N_NN को\PSP ऊँचाई\N_NN से\PSP देखने\V_VM की\PSP ललक\N_NN से\PSP पुल\N_NN पर\PSP चढ़\V_VM गया\V_VAUX ।\RD_PUNC
+htd14890	23\N_NNP अगस्त\N_NNP की\PSP दोपहर\N_NN को\PSP डार्विन\N_NNP आ\V_VM गया\V_VAUX ।\RD_PUNC
+htd14891	दक्षिण\N_NNP को\PSP मेघाच्छादित\JJ ठंड\JJ से\PSP जब\PR_PRL धूप\N_NN में\PSP तपते\V_VM डार्विन\N_NNP के\PSP चकाचौंधी\JJ प्रकाश\N_NN में\PSP आया\V_VM तो\RP_RPD कपड़े\N_NN असहनीय\JJ लगने\V_VM लगे\V_VAUX ।\RD_PUNC
+htd14892	उत्तर\JJ भारत\N_NNP की\PSP जेठ\N_NN से\PSP तपती\JJ नगरी\N_NN सी\RP_RPD लगती\V_VM थी\V_VAUX डार्विन\N_NN ।\RD_PUNC
+htd14893	पर्यटक\JJ आवास\N_NN में\PSP मेरा\PR_PRP आरक्षण\N_NN था\V_VM ।\RD_PUNC
+htd14894	कुछ\QT_QTF ताजा\JJ होकर\V_VM सीधे\JJ बूफोर्ट\N_NNP सैंटर\N_NNP गया\V_VM विश्‍व\JJ सम्मेलन\N_NN के\PSP स्थल\N_NN पर\PSP ।\RD_PUNC
+htd14895	आयोजक\N_NN राबर्ट\N_NNP बैदनारिक\N_NNP से\PSP मिला\V_VM तो\RP_RPD सबसे\RP_INTF पहले\QT_QTO मुझे\PR_PRP बताया\V_VM गया\V_VAUX कि\CC_CCS सम्मेलन\N_NN पूर्व\N_NN के\PSP प्रस्तावित\N_NN भ्रमण\N_NN स्थगित\N_NN किए\V_VM जा\V_VAUX चुके\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14896	अत:\CC_CCD पपुआ\N_NNP न्यूगिनी\N_NNP जाने\V_VM की\PSP आवश्यकता\N_NN नहीं\RP_NEG ।\RD_PUNC
+htd14897	हाँ\RP_INJ सम्मेलन\N_NN के\PSP बाद\N_NN एक\QT_QTC ’\RD_PUNC ग्रैंड\JJ टूर\N_NN ’\RD_PUNC रखा\V_VM गया\V_VAUX है\V_VAUX ककाडू\N_NNP क्षेत्र\N_NN का\PSP ।\RD_PUNC
+htd14898	उसके\PR_PRP लिए\PSP आरक्षण\N_NN करवाना\V_VM होगा\V_VAUX ।\RD_PUNC
+htd14899	उसी\PR_PRP शाम\N_NN मैं\PR_PRP नादर्न\N_NNP टैरीटरी\N_NNP के\PSP कला\N_NN विज्ञान\N_NN संग्रहालय\N_NN में\PSP नृशास्त्री\N_NN व\CC_CCD गुफाकला\N_NN विशेषज्ञ\N_NN जार्ज\N_NNP चालुप्का\N_NNP ,\RD_PUNC जो\PR_PRL विश्‍व\JJ सम्मेलन\N_NN के\PSP सभापति\N_NN भी\RP_RPD थे\V_VM ,\RD_PUNC से\PSP मिला\V_VM ।\RD_PUNC
+htd14900	वे\PR_PRP महाभ्रमण\N_NN के\PSP प्रभारी\N_NN भी\RP_RPD थे\V_VM ।\RD_PUNC
+htd14901	उनसे\PR_PRP ककाडू\N_NNP भ्रमण\N_NN में\PSP सम्मिलित\N_NN कराने\V_VM का\PSP अनुरोध\N_NN किया\V_VM ।\RD_PUNC
+htd14902	नदी\JJ भ्रमण\N_NN के\PSP बाद\N_NN एल\N_NNP सेराना\N_NNP के\PSP गुफाचित्र\N_NN देखते\V_VM पाइन\N_NNP क्रीक\N_NNP मार्ग\N_NNP होते\V_VM हम\PR_PRP लोग\N_NN रात्रि\JJ विश्राम\N_NN हेतु\PSP इडिथ\N_NNP -\RD_PUNC फाल\N_NNP के\PSP तट\N_NN पर\PSP आए\V_VM ।\RD_PUNC
+htd14903	यह\DM_DMD अब\N_NST तक\PSP का\PSP सुंदरतम\JJ स्थल\N_NN था\V_VM ।\RD_PUNC
+htd14904	विशाल\JJ झरने\N_NN से\PSP बनी\V_VM झील\N_NN के\PSP पास\N_NN शिविर\N_NN व्यवस्था\N_NN के\PSP अलावा\N_NN पूर्णत:\QT_QTF प्रकृति\N_NN का\PSP राज\N_NN था\V_VM ।\RD_PUNC
+htd14905	हम\PR_PRP लोग\N_NN जमीन\N_NN पर\PSP झाड़ियों\N_NN के\PSP सहारे\N_NN मच्छरदानी\N_NN लगाकर\V_VM कुछ\QT_QTF देर\N_NN सुस्ताए\V_VM ।\RD_PUNC
+htd14906	झील\N_NN में\PSP नहाया\V_VM ।\RD_PUNC
+htd14907	फिर\CC_CCD भोजन\N_NN बनाने\V_VM में\PSP जुट\V_VM गये\V_VAUX ।\RD_PUNC
+htd14908	हमारे\PR_PRP छौंक\N_NN -\RD_PUNC बघार\N_NN व\CC_CCD मसालों\N_NN की\PSP सुगंध\N_NN से\PSP सभी\QT_QTF को\PSP पता\V_VM लग\V_VAUX जाता\V_VAUX कि\CC_CCS भारतीय\JJ व्यंजन\N_NN तैयार\N_NN होने\V_VM वाले\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14909	इंडिथफाल\N_NNP से\PSP हम\PR_PRP लोग\N_NN विक्टोरिया\N_NNP हाइवे\N_NNP द्वारा\PSP कैथरीन\N_NNP की\PSP ओर\N_NN बढ़े\V_VM ।\RD_PUNC
+htd14910	उस\PR_PRP दिन\N_NN इंगेलादी\N_NNP की\PSP गुफा\JJ कला\N_NN देखी\V_VM ।\RD_PUNC
+htd14911	वहीं\N_NN रात\N_NN बिताई\V_VM ,\RD_PUNC अगले\QT_QTF दिन\N_NN जार्लिटवॉग\N_NNP व\CC_CCD विक्टोरिया\N_NNP रिवर\N_NNP के\PSP चित्रित\N_NN शिलाश्रय\N_NN देखे\V_VM ।\RD_PUNC
+htd14912	रात्रि\JJ आवास\N_NN विक्टोरिया\N_NNP इन\PR_PRF में\PSP किया\V_VM 11\QT_QTC सितम्बर\N_NNP को\PSP टिम्बर\N_NN क्रीक\N_NN की\PSP ओर\N_NN उन्मुख\N_NN हुए\V_VM और\CC_CCD बूर्मियिनिउँग\N_NN व\CC_CCD रिवाल्वर\N_NN स्प्रिंग\N_NN की\PSP गुफाकला\N_NN देखी\V_VM ।\RD_PUNC
+htd14913	रात\N_NN कीप\N_NNP रिवर\N_NNP नेशनल\N_NNP पार्क\N_NNP में\PSP रह\V_VM अगले\QT_QTF दिन\N_NN पार्क\N_NN के\PSP समीपवर्ती\JJ शिलाश्रय\N_NN देखे\V_VM ,\RD_PUNC तब\N_NN कुत्रूनूरा\N_NNP के\PSP कलाकेंद्र\N_NN पर\PSP गये\V_VM ।\RD_PUNC
+htd14914	ककाडू\N_NNP क्षेत्र\N_NN की\PSP इस\DM_DMD यात्रा\N_NN में\PSP हमारे\PR_PRP लिए\PSP दीमकों\N_NN की\PSP पाँच\QT_QTC -\RD_PUNC छ:\QT_QTC मीटर\N_NN ऊँची\N_NN बाँबियाँ\N_NN देखना\V_VM अविस्मरणीय\JJ अनुभव\N_NN था\V_VM ।\RD_PUNC
+htd14915	जो\PR_PRL वानस्पतिक\JJ तथ्य\N_NN हाथ\N_NN लगा\V_VM वह\PR_PRP था\V_VAUX यूकेलिप्टस\N_NN या\CC_CCD सफेदा\N_NN के\PSP घातक\N_NN प्रभाव\N_NN का\PSP ।\RD_PUNC
+htd14916	ऑस्ट्रेलिया\N_NNP सफेदा\N_NN का\PSP मायका\N_NN है\V_VM जहाँ\PR_PRL इसकी\PR_PRP 500\QT_QTC प्रजातियाँ\N_NN पायी\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14917	इनमें\N_NN से\PSP कुछ\QT_QTF प्रजातियों\N_NN के\PSP वृक्ष\N_NN 90\QT_QTC मीटर\N_NN तक\PSP ऊँचे\V_VM होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14918	जारा\N_NN प्रजाति\N_NN की\PSP लकड़ी\N_NN कठोरतम\JJ होती\V_VM है\V_VAUX ।\RD_PUNC
+htd14919	कुछ\QT_QTF वृक्षों\N_NN का\PSP आकार\N_NN बरगद\N_NN ,\RD_PUNC जामुन\N_NN ,\RD_PUNC नीम\N_NN और\CC_CCD तुन\N_NN वृक्षों\N_NN सरीखा\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14920	सफेदा\N_NN बहुल\N_NN क्षेत्रों\N_NN में\PSP पशु\N_NN पक्षियों\N_NN का\PSP पूर्णत:\QT_QTF अभाव\N_NN दृष्‍टिगत\N_NN हुआ\V_VM जबकि\CC_CCD ऑस्ट्रेलिया\N_NNP में\PSP 230\QT_QTC प्रकार\N_NN के\PSP स्तनपायी\JJ ,\RD_PUNC इतने\DM_DMD ही\RP_RPD प्रकार\N_NN की\PSP गिरगिटें\N_NN ,\RD_PUNC 140\QT_QTC प्रकार\N_NN के\PSP साँप\N_NN ,\RD_PUNC डेढ़\QT_QTF दर्जन\N_NN किस्म\N_NN के\PSP कछुए\N_NN तथा\CC_CCD अनेकों\QT_QTF प्रकार\N_NN की\PSP मछलियाँ\N_NN पायी\V_VM जाती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14921	ये\DM_DMD सभी\QT_QTF जीव\N_NN अतिवृष्‍टि\JJ और\CC_CCD उपजाऊ\JJ क्षेत्रों\N_NN में\PSP ही\RP_RPD मिलते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14922	सफेदा\N_NN वाला\N_NN क्षेत्र\N_NN रेगिस्तान\N_NN सा\RP_RPD लगता\V_VM है\V_VAUX ।\RD_PUNC
+htd14923	यद्यपि\CC_CCS आज\N_NST तीन\QT_QTC चौथाई\QT_QTF ऑस्ट्रेलिया\N_NNP शुष्क\JJ है\V_VM और\CC_CCD सारी\QT_QTF की\PSP सारी\QT_QTF आबादी\N_NN समुद्रतटीय\JJ मैदानों\N_NN में\PSP रहती\V_VM है\V_VAUX किंतु\CC_CCD अतीत\N_NN में\PSP ऑस्ट्रेलिया\N_NNP कहीं\DM_DMI अधिक\QT_QTF सरस\JJ था\V_VM ,\RD_PUNC जैसा\CC_CCD कि\CC_CCS बड़े\JJ -\RD_PUNC बड़े\JJ सूखे\JJ तालाबों\N_NN के\PSP कंकालों\N_NN से\PSP ज्ञात\N_NN होता\V_VM है\V_VAUX ।\RD_PUNC
+htd14924	ऑस्ट्रेलिया\N_NNP प्रवास\N_NN के\PSP दौरान\PSP एक\QT_QTC सायं\N_NN डार्विन\N_NNP के\PSP भारतीयों\N_NNP से\PSP भी\RP_RPD मिले\V_VM ,\RD_PUNC जिन्होंने\PR_PRL हमे\PR_PRP रात्रि\JJ भोज\N_NN पर\PSP आमंत्रित\N_NN किया\V_VM था\V_VAUX ।\RD_PUNC
+htd14925	एक\QT_QTC दिन\N_NN मगरमच्छ\N_NN फार्म\N_NN भी\RP_RPD देखा\V_VM ।\RD_PUNC
+htd14926	हिंसक\JJ जन्तुओं\N_NN के\PSP नाम\N_NN पर\PSP इन\PR_PRP जलचारी\JJ दानवों\N_NN का\PSP ही\RP_RPD साम्राज्य\N_NN है\V_VM ऑस्ट्रेलिया\N_NNP की\PSP जल\N_NN संपदा\N_NN पर\PSP ।\RD_PUNC
+htd14927	ऑस्ट्रेलिया\N_NNP छोड़ने\V_VM से\PSP पूर्व\N_NN हम\PR_PRP लोगों\N_NN ने\PSP जनजातीय\JJ मासिक\JJ पत्र\N_NN ’\RD_PUNC लैंड\N_NNP राइट्‍स\N_NNP न्यूज\N_NNP ’\RD_PUNC की\PSP प्रतियाँ\N_NN खरीदी\V_VM थीं\V_VAUX ।\RD_PUNC
+htd14928	इनमें\DM_DMI मुखपृष्‍ठ\JJ पर\PSP सर्वोपरि\JJ ऑस्ट्रेलिया\N_NNP को\PSP काला\JJ ,\RD_PUNC लाल\JJ इन\PR_PRP दो\QT_QTC पट्‍टियों\N_NN में\PSP बाँट\V_VM कर\V_VAUX ,\RD_PUNC मध्य\N_NN में\PSP नारंगी\JJ तपता\V_VM हुआ\V_VAUX सूर्य\N_NNP दिखाया\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14929	यह\DM_DMD आदिवासी\JJ ध्वज\N_NN का\PSP प्रतीक\N_NN था\V_VM ।\RD_PUNC
+htd14930	नीचे\N_NST एक\QT_QTC ओर\N_NN काला\JJ ऑस्ट्रेलिया\N_NNP चित्रित\N_NN था\V_VM दूसरी\QT_QTO ओर\N_NN पूर्ण\QT_QTF सफेद\JJ ऑस्ट्रेलिया\N_NNP चित्रित\N_NN था\V_VM जिसको\PR_PRL नकारा\V_VM गया\V_VAUX था\V_VAUX ।\RD_PUNC
+htd14931	समाचार\N_NN पत्रों\N_NN में\PSP अभी\N_NST तक\PSP व्याप्‍त\N_NN भेदभाव\N_NN और\CC_CCD दमन\N_NN के\PSP समाचार\N_NN छापे\V_VM गये\V_VAUX थे\V_VAUX ।\RD_PUNC
+htd14932	एक\QT_QTC अश्‍वेत\JJ बहन\N_NN ने\PSP ’\RD_PUNC मेरी\N_NNP कहानी\N_NNP ’\RD_PUNC नाम\N_NN से\PSP उपनिवेशी\JJ दमन\N_NN का\PSP कच्चा\JJ चिट्‍ठा\N_NN अपनी\PR_PRF आत्मकथा\N_NN में\PSP खोला\V_VM था\V_VAUX ।\RD_PUNC
+htd14933	दूसरे\QT_QTO श्याम\JJ भाई\N_NN ने\PSP ’\RD_PUNC गोरा\N_NNP आदमी\N_NNP ’\RD_PUNC नाम\N_NN से\PSP फिल्म\N_NN बनाई\V_VM थी\V_VAUX जिसमें\PR_PRL यूरोपीय\JJ सभ्यता\N_NN की\PSP धज्जियाँ\N_NN उड़ाई\V_VM गयी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14934	एक\QT_QTC बार\N_NN दीवाली\N_NN की\PSP छुट्‍टियों\N_NN में\PSP मैं\PR_PRP बरमान\N_NNP घाट\N_NNP गया\V_VM था\V_VAUX ।\RD_PUNC
+htd14935	यह\DM_DMD नर्मदा\N_NNP तट\N_NN पर\PSP स्थित\N_NN एक\QT_QTC सुंदर\JJ तीर्थस्थान\N_NN है\V_VM ।\RD_PUNC
+htd14936	एक\QT_QTC दिन\N_NN एक\QT_QTC स्थानीय\JJ मित्र\N_NN को\PSP साथ\PSP लेकर\V_VM आसपास\N_NN के\PSP गाँव\N_NN घूमने\V_VM निकल\V_VM पड़ा\N_NN ।\RD_PUNC
+htd14937	एक\QT_QTC गाँव\N_NN में\PSP किसी\DM_DMI गोंड\N_NN राजा\N_NN की\PSP प्राचीन\JJ गढ़ी\N_NN थी\V_VM ।\RD_PUNC
+htd14938	उस\PR_PRP पर\PSP चढ़कर\V_VM गाँव\N_NN का\PSP स्केच\N_NN करने\V_VM लगा\V_VAUX ।\RD_PUNC
+htd14939	मैंने\PR_PRP देखा\V_VM कि\CC_CCS एक\QT_QTC ग्रामीण\N_NN मुझे\PR_PRP बड़ी\JJ शंका\N_NN की\PSP दृष्‍टि\N_NN से\PSP देख\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14940	थोड़ी\QT_QTF देर\N_NN में\PSP वह\PR_PRP चला\V_VM गया\V_VAUX ।\RD_PUNC
+htd14941	स्केच\N_NN पूरा\V_VM होने\V_VAUX पर\PSP हम\PR_PRP नीचे\N_NST उतरे\V_VM ।\RD_PUNC
+htd14942	गाँव\N_NN के\PSP छोर\N_NN तक\PSP पहुँचे\V_VM ही\RP_RPD थे\V_VAUX कि\CC_CCS एक\QT_QTC लठैत\N_NN को\PSP तेजी\RB से\PSP हमारी\PR_PRP ओर\N_NN आते\V_VM देखा\V_VAUX ।\RD_PUNC
+htd14943	मालगुजार\N_NN के\PSP घर\N_NN के\PSP बाहर\N_NST खासी\JJ भीड़\N_NN हो\V_VM गई\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14944	उसमें\PR_PRP वह\PR_PRP ग्रामीण\N_NN भी\RP_RPD था\V_VM ।\RD_PUNC
+htd14945	अपनी\PR_PRF कैफियत\N_NN देते\V_VM हुए\V_VAUX मैंने\PR_PRP कहा\V_VM ,\RD_PUNC ``\RD_PUNC मैं\PR_PRP एक\QT_QTC कलाकार\N_NN हूँ\V_VM ``।\N_NN
+htd14946	कला\N_NN का\PSP अध्यापक\N_NN हूँ\V_VM ।\RD_PUNC
+htd14947	लिखने\N_NN का\PSP भी\RP_RPD शौक\N_NN है\V_VM ।\RD_PUNC
+htd14948	छुट्‍टियों\N_NN में\PSP नर्मदा\N_NNP तट\N_NN पर\PSP घूमने\V_VM निकल\V_VM पड़ता\V_VAUX हूँ\V_VAUX ।\RD_PUNC
+htd14949	नर्मदा\N_NNP तट\N_NN के\PSP जनजीवन\N_NN के\PSP चित्र\N_NN बनाता\V_VM हूँ\V_VAUX ।\RD_PUNC
+htd14950	आखिर\N_NN एक\QT_QTC दिन\N_NN अपने\PR_PRF उसी\PR_PRP मित्र\N_NN को\PSP साथ\PSP लेकर\V_VM मैं\PR_PRP पुतलीखोह\N_NNP के\PSP लिए\PSP निकल\V_VM पड़ा\V_VAUX ।\RD_PUNC
+htd14951	साथ\PSP में\PSP एक\QT_QTC जानकार\N_NN को\PSP भी\RP_RPD लिया\V_VM ।\RD_PUNC
+htd14952	कभी\DM_DMI पहाड़\N_NN या\CC_CCD जंगल\N_NN में\PSP से\PSP ,\RD_PUNC कभी\DM_DMI ज्वार\N_NN -\RD_PUNC बाजरे\N_NN के\PSP खेतों\N_NN में\PSP से\PSP तो\RP_RPD कभी\DM_DMI नर्मदा\N_NNP की\PSP ऊँची\JJ कगारों\N_NN से\PSP होते\V_VM हुए\V_VAUX तीसरे\QT_QTO पहर\N_NN हम\PR_PRP लोग\N_NN केरपानी\N_NNP पहुँच\V_VM गये\V_VAUX ।\RD_PUNC
+htd14953	वहाँ\DM_DMD जाकर\V_VM पता\N_NN चला\V_VM कि\CC_CCS पुतलीखोह\N_NNP यहाँ\DM_DMD से\PSP छह\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC
+htd14954	लगभग\JJ बाईस\QT_QTC कि.मी.\N_NN पैदल\N_NN चलकर\V_VM आए\V_VM थे\V_VAUX ।\RD_PUNC
+htd14955	थके\N_NN थे\V_VM ही\RP_RPD ,\RD_PUNC भूख\N_NN अलग\N_NN सता\V_VM रही\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14956	पर\CC_CCD पुतलीखोह\N_NNP का\PSP आकर्षण\N_NN इतना\DM_DMI तीव्र\JJ था\V_VAUX कि\CC_CCS एक\QT_QTC स्थानीय\JJ जानकार\N_NN को\PSP साथ\PSP लेकर\V_VM निराहार\N_NN ही\RP_RPD चल\V_VM पड़े\V_VAUX ।\RD_PUNC
+htd14957	पुतलीखोह\N_NN ऐसे\N_NN दुर्गम\N_NN स्थान\N_NN में\PSP है\V_VAUX कि\CC_CCS अगर\CC_CCS खाने\N_NN के\PSP झंझट\N_NN में\PSP पड़ते\V_VM तो\RP_RPD उस\PR_PRP दिन\N_NN उसे\PR_PRP देख\V_VM न\RP_NEG पाते\V_VAUX ।\RD_PUNC
+htd14958	एक\QT_QTC पहाड़ी\JJ झरने\N_NN ने\PSP दो\QT_QTC पहाड़ों\N_NN के\PSP बीच\N_NN से\PSP अपना\PR_PRF रास्ता\N_NN बनाया\V_VM है\V_VAUX ।\RD_PUNC
+htd14959	इसी\DM_DMD झरने\N_NN में\PSP है\V_VM पुतलीखोह\N_NNP और\CC_CCD वहाँ\DM_DMD तक\PSP पहुँचने\V_VM का\PSP रास्ता\N_NN भी\RP_RPD यही\DM_DMD झरना\N_NN है\V_VM ।\RD_PUNC
+htd14960	आगे\N_NN जाकर\V_VM यह\DM_DMD झरना\N_NN सँकरा\JJ हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14961	दोनों\QT_QTO ओर\N_NN खड़ी\V_VM कगारें\N_NN ।\RD_PUNC
+htd14962	कभी\DM_DMI झरने\N_NN के\PSP बड़े\JJ -\RD_PUNC बड़े\JJ प्रस्तर\JJ खण्डों\N_NN पर\PSP से\PSP होते\V_VM हुए\V_VAUX तो\RP_RPD कभी\DM_DMQ छोटे\JJ -\RD_PUNC छोटे\JJ सुरम्य\JJ प्रपातों\N_NN के\PSP बाजू\N_NN से\PSP ऊपर\N_NST जाते\V_VM हुए\V_VAUX आखिर\N_NN हम\PR_PRP एक\QT_QTC ऐसे\JJ स्थान\N_NN आ\V_VM पहुँचे\V_VAUX ,\RD_PUNC जहाँ\PR_PRL झरना\N_NN हठात्\RB चौड़ा\JJ सा\RP_RPD हो\V_VM गया\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14963	यहाँ\DM_DMD वह\PR_PRP एकदम\RP_INTF सपाट\JJ चट्‍टानों\N_NN के\PSP बीच\N_NST में\PSP से\PSP बहता\V_VM है\V_VAUX ।\RD_PUNC
+htd14964	यहाँ\DM_DMD बारहों\QT_QTC महीने\N_NN ठंडा\JJ निर्मल\JJ जल\N_NN रहता\V_VM है\V_VAUX ।\RD_PUNC
+htd14965	झरने\N_NN की\PSP एक\QT_QTC ओर\N_NN प्राय:\QT_QTF 50\QT_QTC मीटर\N_NN ऊँची\JJ खड़ी\V_VM कगार\N_NN है\V_VM ।\RD_PUNC
+htd14966	यही\DM_DMD है\V_VM पुतलीखोह\N_NNP ।\RD_PUNC
+htd14967	झरने\N_NN के\PSP पानी\N_NN से\PSP उसने\PR_PRP अपना\PR_PRF अंगोछा\N_NN गीला\V_VM किया\V_VAUX ।\RD_PUNC
+htd14968	फिर\CC_CCD खड़ी\JJ कगार\N_NN की\PSP आड़ी\JJ पर्तदार\JJ चट्‍टानों\N_NN की\PSP ओर\N_NN निहारता\V_VM रहा\V_VAUX ।\RD_PUNC
+htd14969	फिर\CC_CCD गीले\JJ अंगोछे\N_NN को\PSP चट्‍टनों\N_NN पर\PSP फेरना\V_VM शुरू\N_NN किया\V_VM ।\RD_PUNC
+htd14970	मैं\PR_PRP विस्मय\N_NN -\RD_PUNC विमुग्ध\N_NN देखता\V_VM रहा\V_VAUX ।\RD_PUNC
+htd14971	एक\QT_QTC जगह\N_NN शिला\N_NN के\PSP गीला\JJ होते\V_VM ही\RP_RPD उसमें\PR_PRP अनेक\QT_QTF आकृतियाँ\N_NN उभरने\V_VM लगीं\V_VAUX ।\RD_PUNC
+htd14972	पास\N_NN जाकर\V_VM देखा\V_VM तो\RP_RPD मेरी\PR_PRP खुशी\N_NN का\PSP ठिकाना\N_NN न\RP_NEG रहा\V_VM ।\RD_PUNC
+htd14973	ये\DM_DMD तो\RP_RPD थे\V_VM आज\N_NST से\PSP कोई\DM_DMI 20,000\QT_QTC वर्ष\N_NN पूर्व\N_NN बने\V_VM शिलाचित्र\N_NN ।\RD_PUNC
+htd14974	धूप\N_NN ,\RD_PUNC वर्षा\N_NN और\CC_CCD हवा\N_NN के\PSP कारण\N_NN चित्र\N_NN मिट\V_VM से\PSP गये\V_VM हैं\V_VAUX किंतु\CC_CCD जब\PR_PRL इन\PR_PRP गीला\JJ कपड़ा\N_NN फेरा\V_VM जाता\V_VAUX है\V_VAUX तो\RP_RPD दिखने\V_VM लगते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14975	ये\DM_DMD चित्र\N_NN चट्‍टानों\N_NN की\PSP आड़ी\JJ पर्त\N_NN पर\PSP बने\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14976	पर्त\N_NN की\PSP चौड़ाई\N_NN आठ\QT_QTC या\CC_CCD नौ\QT_QTC इंच\N_NN है\V_VM ।\RD_PUNC
+htd14977	इसलिए\CC_CCD चित्रों\N_NN की\PSP ऊँचाई\N_NN छह\QT_QTC या\CC_CCD सात\QT_QTC इंच\N_NN है\V_VM ।\RD_PUNC
+htd14978	सभी\QT_QTF चित्र\N_NN हल्के\JJ गेरुए\JJ रंग\N_NN से\PSP बने\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14979	शिलचित्रों\N_NN में\PSP प्राय:\QT_QTF पशु\N_NN ,\RD_PUNC योद्धा\N_NN या\CC_CCD शिकार\N_NN के\PSP रेखांकन\N_NN होते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14980	यहाँ\DM_DMD के\PSP विषम\N_NN भिन्न\JJ हैं\V_VM ।\RD_PUNC
+htd14981	एक\QT_QTC -\RD_PUNC दूसरे\QT_QTO का\PSP हाथ\N_NN पकड़े\V_VM मानव\JJ आकृतियाँ\N_NN या\CC_CCD तो\RP_RPD नृत्य\N_NN कर\V_VM रही\V_VAUX हैं\V_VAUX या\CC_CCD कहीं\DM_DMI जा\V_VM रही\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14982	एक\QT_QTC जगह\N_NN 30\QT_QTC से\PSP भी\RP_RPD अधिक\QT_QTF आकृतियाँ\N_NN एक\QT_QTC ही\RP_RPD पंक्‍ति\N_NN में\PSP अंकित\N_NN की\PSP गयी\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14983	एक\QT_QTC पैनल\N_NN के\PSP रूप\N_NN में\PSP नृत्योल्लास\N_NN का\PSP ऐसा\JJ सरल\JJ ,\RD_PUNC सजीव\JJ और\CC_CCD अकृत्रिम\JJ चित्रण\N_NN अन्यत्र\QT_QTF शायद\JJ ही\RP_RPD मिले\V_VM ।\RD_PUNC
+htd14984	आकृतियाँ\N_NN दो\QT_QTC तरह\N_NN की\PSP हैं\V_VM -\RD_PUNC स्थूलकाय\JJ और\CC_CCD कृशकाय\JJ ।\RD_PUNC
+htd14985	स्थूलकाय\JJ आकृतियों\N_NN का\PSP काफिला\N_NN एक\QT_QTC के\PSP पीछे\N_NN एक\QT_QTC कहीं\DM_DMI जा\V_VM रहा\V_VAUX है\V_VAUX ।\RD_PUNC
+htd14986	यहाँ\DM_DMD के\PSP लोग\N_NN इसे\N_NN सेना\N_NN समझते\V_VM हैं\V_VAUX ।\RD_PUNC
+htd14987	कृशकाय\JJ आकृतियों\N_NN का\PSP आकार\N_NN डमरू\N_NN जैसा\JJ है\V_VM ।\RD_PUNC
+htd14988	उन्होंने\PR_PRP एक\QT_QTC -\RD_PUNC दूसरे\QT_QTO का\PSP हाथ\N_NN पकड़ा\V_VM है\V_VAUX ।\RD_PUNC
+htd14989	वे\PR_PRP नृत्य\N_NN करती\V_VM जान\V_VM पड़ती\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14990	दुर्भाग्य\N_NN से\PSP ऊपर\N_NST की\PSP चट्‍टानों\N_NN से\PSP पानी\N_NN रिसने\V_VM के\PSP कारण\N_NN प्राय:\QT_QTF सभी\QT_QTF आकृतियों\N_NN के\PSP सिर\N_NN मिट\V_VM गए\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14991	मैंने\PR_PRP कुछ\QT_QTF आकृतियाँ\N_NN की\V_VM ।\RD_PUNC
+htd14992	शाम\N_NN घिरने\V_VM वाली\RB थी\V_VM ,\RD_PUNC इसलिए\CC_CCD वापस\N_NN आ\V_VM गए\V_VAUX ।\RD_PUNC
+htd14993	सुबह\N_NN फिर\RB गए\V_VM ।\RD_PUNC
+htd14994	चित्रोंवाली\JJ कगार\N_NN धूप\N_NN से\PSP नहा\V_VM उठी\V_VAUX थी\V_VAUX ।\RD_PUNC
+htd14995	मैंने\PR_PRP कुछ\QT_QTF और\QT_QTF अनुकृतियाँ\N_NN कीं\V_VM ।\RD_PUNC
+htd14996	अधिकांश\QT_QTF चित्र\N_NN प्राय:\QT_QTF डेढ़\QT_QTF या\CC_CCD दो\QT_QTC मीटर\N_NN की\PSP ऊँचाई\N_NN पर\PSP हैं\V_VM इसलिए\CC_CCD आसानी\JJ से\PSP देखे\V_VM जा\V_VAUX सकते\V_VAUX हैं\V_VAUX ।\RD_PUNC
+htd14997	इन्हें\PR_PRP जी\N_NN भर\V_VM कर\V_VAUX देखने\V_VM के\PSP बाद\N_NN हम\PR_PRP लोग\N_NN वापस\N_NN बरमानघाट\N_NNP के\PSP लिए\PSP चल\V_VM दिए\V_VAUX ।\RD_PUNC
+htd14998	मैं\PR_PRP सोच\V_VM रहा\V_VAUX था\V_VAUX कि\CC_CCS प्रागैतिहासिक\JJ चित्रकला\N_NN के\PSP जितने\PR_PRL नमूने\N_NN मध्यप्रदेश\N_NNP में\PSP मिले\V_VM हैं\V_VAUX ,\RD_PUNC उतने\PR_PRL और\QT_QTF कहीं\DM_DMI नहीं\RP_NEG ।\RD_PUNC
+htd14999	मजे\N_NN की\PSP बात\N_NN यह\DM_DMD है\V_VM कि\CC_CCS ये\DM_DMD सभी\QT_QTF स्थान\N_NN नर्मदा\N_NNP घाटी\N_NN में\PSP हैं\V_VM या\CC_CCD नर्मदा\N_NNP के\PSP निकट\N_NN हैं\V_VM ।\RD_PUNC
+htd15000	पुतलीखोह\N_NNP तो\RP_RPD नर्मदा\N_NNP से\PSP केवल\QT_QTF छह\QT_QTC किलोमीटर\N_NN दूर\N_NN है\V_VM ।\RD_PUNC 
