@@ -36,19 +36,21 @@ def dump_matrix(lang_origin,lang_target):
     count = 0
     count_update = 0
     for i in db.hinglish.find({"lang":lang_origin}):
+        print i['words']
         hindi_sentence = db.hinglish.find_one({"identifier":i['identifier'],"lang":lang_target})
+        print hindi_sentence['words']
         bulk_vec = []
         for j in i["words"]:
-            vec_count = db.bilingualvec.count({"word":j})
+            vec_count = db.bilingualvec.count({"word":j.lower()})
             if vec_count > 0:
-                doc = db.bilingualvec.find_one({"word":j})
+                doc = db.bilingualvec.find_one({"word":j.lower()})
                 vec = doc["vec"]
                 for k in xrange(len(words)):
                     if words[k] in hindi_sentence["words"]:
                         vec[k] += 1
                 count_update += 1
-                print "INSERTS:"+str(count_update)
-                db.bilingualvec.update({"word":j},{"$set":{"vec":vec,"lang_origin":lang_origin,"lang_target":lang_target}})
+                #print "INSERTS:"+str(count_update)
+                db.bilingualvec.update({"word":j.lower()},{"$set":{"vec":vec,"lang_origin":lang_origin,"lang_target":lang_target}})
             else:
                 vec = []
                 for k in words:
@@ -57,10 +59,8 @@ def dump_matrix(lang_origin,lang_target):
                     else:
                         vec.append(0)
                 count += 1
-                db.bilingualvec.insert({"word":j,"vec":vec,"lang_origin":lang_origin,"lang_target":lang_target})
+                db.bilingualvec.insert({"word":j.lower(),"vec":vec,"lang_origin":lang_origin,"lang_target":lang_target})
                 print "NEW INSERTS:"+str(count)
-
-
 
 if __name__ == '__main__':
     dump_matrix("eng","hin")
