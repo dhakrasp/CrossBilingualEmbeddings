@@ -18,7 +18,11 @@ if __name__ == '__main__':
                 sentence = grams[1:]
                 words = sentence[::2]
                 pos_tags = sentence[1::2]
-                bulk_grams.append({"identifier":id,"words":words,"pos_tags":pos_tags})
+                if "eng" in filename:
+                    lang = "eng"
+                else:
+                    lang = "hin"
+                bulk_grams.append({"identifier":id,"lang":lang,"words":words,"pos_tags":pos_tags})
 
             count += len(bulk_grams)
             print 'Inserted '+str(count)
