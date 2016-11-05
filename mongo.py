@@ -1,8 +1,9 @@
-from pymongo import MongoClient
-from pymongo import UpdateOne
 import glob
 import os
 import re
+import numpy as np
+from pymongo import MongoClient
+from pymongo import UpdateOne
 
 def dump_sentences():
     client = MongoClient('localhost', 27017)
@@ -60,6 +61,18 @@ def dump_matrix(lang_origin,lang_target):
                 db.bilingualvec.insert({"word":j.lower(),"vec":vec,"lang_origin":lang_origin,"lang_target":lang_target})
                 print "NEW INSERTS:"+str(count)
 
+def translate_word(word,lang_target):
+    client = MongoClient("localhost", 27017)
+    db = client["nlprokz"]
+    elem = db.bilingualvec.find_one({"word":word})
+    elem_vec = np.array(elem["vec"])
+    max_index = elem_vec.argsort()[-5:][::-1]
+    for i in max_index:
+        words = sorted(db.hinglish.find({"lang":lang_target}).distinct("words"))
+        print words[i]
+
+
 if __name__ == '__main__':
-    dump_matrix("eng","hin")
+    translate_word("pitamah","hin")
+    #dump_matrix("eng","hin")
     #dump_sentences()
