@@ -7,7 +7,7 @@ import re
 def dump_sentences():
     client = MongoClient('localhost', 27017)
     db = client['nlprokz']
-    glove = db.hinglish
+    hinglish = db.hinglish
     count = 0
     for root, dirs, files in os.walk('Corpus/Hindi_English/'):
         for basename in files:
@@ -24,10 +24,10 @@ def dump_sentences():
                 else:
                     lang = "hin"
                 bulk_grams.append({"identifier":id,"lang":lang,"words":words,"pos_tags":pos_tags})
-
             count += len(bulk_grams)
             print 'Inserted '+str(count)
-            glove.insert_many(bulk_grams)
+            hinglish.insert_many(bulk_grams)
+    hinglish.remove({"identifier":"ID"})
 
 def dump_matrix(lang_origin,lang_target):
     client = MongoClient('localhost', 27017)
@@ -36,9 +36,7 @@ def dump_matrix(lang_origin,lang_target):
     count = 0
     count_update = 0
     for i in db.hinglish.find({"lang":lang_origin}):
-        print i['words']
         hindi_sentence = db.hinglish.find_one({"identifier":i['identifier'],"lang":lang_target})
-        print hindi_sentence['words']
         bulk_vec = []
         for j in i["words"]:
             vec_count = db.bilingualvec.count({"word":j.lower()})
@@ -64,3 +62,4 @@ def dump_matrix(lang_origin,lang_target):
 
 if __name__ == '__main__':
     dump_matrix("eng","hin")
+    #dump_sentences()
