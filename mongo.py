@@ -4,6 +4,7 @@ import re
 import numpy as np
 from pymongo import MongoClient
 from pymongo import UpdateOne
+from sklearn.metrics import pairwise_distances
 
 def dump_sentences():
     client = MongoClient('localhost', 27017)
@@ -72,7 +73,27 @@ def translate_word(word,lang_target):
         print words[i]
 
 
+def find_closest(lang_origin,lang_target):
+    client = MongoClient("localhost", 27017)
+    db = client["nlprokz"]
+    target_words = []
+    target_words_strings = []
+    for i in db.bilingualvec.find({"lang_origin":lang_target}):
+        target_words.append(i['vec'])
+        target_words_strings.append(i['word'])
+
+    target_words = np.array(hindi_words)
+
+    for i in db.bilingualvec.find({"lang_origin":lang_origin}):
+        origin_word = np.array(i['vec'])
+        dot_product = np.dot(origin_word,target_words)
+        max_similarity = np.argmax(dot_product)
+        print target_words[max_similarity]
+
+
+
 if __name__ == '__main__':
-    translate_word("pitamah","hin")
+    find_closest("eng","hin")
+    #translate_word("pitamah","hin")
     #dump_matrix("eng","hin")
     #dump_sentences()
