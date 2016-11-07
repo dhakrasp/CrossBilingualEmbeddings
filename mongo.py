@@ -82,19 +82,21 @@ def find_closest(lang_origin,lang_target):
         target_words.append(i['vec'])
         target_words_strings.append(i['word'])
 
-    target_words = np.transpose(np.array(target_words))
+    norm_vector = 1.0*np.sum(target_words,axis=0)
+    target_words =  target_words/ norm_vector
     target_words =  target_words/ np.linalg.norm(target_words)
+    target_words = np.transpose(np.array(target_words))
 
     for i in db.bilingualvec.find({"lang_origin":lang_origin}):
-        origin_word = np.array([i['vec']])/np.linalg.norm([i['vec']])
+        origin_word = np.array([i['vec']])/norm_vector
+        origin_word = origin_word/np.linalg.norm([i['vec']])
         dot_product = np.dot(origin_word,target_words)
         max_similarity = np.argmax(dot_product[0])
         print "STRING:"+i['word']+":"+target_words_strings[max_similarity]
 
-
-
 if __name__ == '__main__':
-    find_closest("eng","hin")
     #translate_word("pitamah","hin")
-    #dump_matrix("hin","hin")
-    #dump_sentences()
+    dump_sentences()
+    dump_matrix("eng","hin")
+    dump_matrix("hin","hin")
+    find_closest("eng","hin")
