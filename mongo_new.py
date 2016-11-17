@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 
 import numpy as np
+from nltk.corpus import stopwords
 
 def dump_glove_matrix(lang_origin,lang_target):
     client = MongoClient('localhost', 27017)
@@ -49,6 +50,71 @@ def dump_glove_matrix(lang_origin,lang_target):
                         count += 1
                         db.bilingual_glove_vec.insert({"word":j.lower(),"norm_count":norm,"vec":vec.tolist(),"lang_origin":lang_origin,"lang_target":lang_target})
 
+                    #print "NEW INSERTS:"+str(count)
+        except Exception as e:
+            print e
+
+def get_vectors():
+    vector = {}
+    with open('eng_vectors.txt', 'r') as f:
+        full_data = [line.rstrip().split(' ') for line in f]
+        for i in full_data:
+            vector[i[0]] = i[1:]
+    # with open('hin_vectors.txt', 'r') as f:
+    #     full_data = [line.rstrip().split(' ') for line in f]
+    #     for i in full_data:
+    #         vector[i[0]] = i[1:]
+    return vector
+
+def dump_err_glove_matrix(lang_origin,lang_target):
+    client = MongoClient('localhost', 27017)
+    db = client['nlprokz']
+    words = sorted(db.hinglish.find({"lang":lang_target}).distinct("words"))
+    count = 0
+    vector = get_vectors()
+    stop = set(stopwords.words('english'))
+    count_update = 0
+    for i in db.hinglish.find({"lang":lang_origin}):
+        try:
+            target_sentence = db.hinglish.find_one({"identifier":i['identifier'],"lang":lang_target})
+            bulk_vec = []
+            for j in i["words"]:
+                vec_count = db.bilingual_new_glove_vec.count({"word":j.lower()})
+                if vec_count > 0:
+                    doc = db.bilingual_new_glove_vec.find_one({"word":j.lower()})
+                    vec = np.array(doc["vec"])
+                    norm = doc['norm_count']
+                    flag = False
+                    for k in xrange(len(words)):
+                        if words[k] in target_sentence["words"]:
+                            glove = vector[words[k]]
+                            if glove is not None and words[k].lower() not in stop:
+                                glove_vec = [ float(t) for t in glove]
+                                vec += np.array(glove_vec)
+                                norm += 1
+                                flag = True
+
+                    if flag:
+                        count_update += 1
+                        db.bilingual_new_glove_vec.update({"word":j.lower()},{"$set":{"vec":vec.tolist(),"norm_count":norm,"lang_origin":lang_origin,"lang_target":lang_target}})
+
+                else:
+                    vec = np.zeros(100)
+                    norm = 0
+                    flag = False
+                    for k in words:
+                        if k in target_sentence["words"]:
+                            glove = vector[k]
+                            if glove is not None and k.lower() not in stop:
+                                glove_vec = [ float(t) for t in glove]
+                                vec += np.array(glove_vec)
+                                norm += 1
+                                flag = True
+
+                    if flag:
+                        count += 1
+                        db.bilingual_new_glove_vec.insert({"word":j.lower(),"norm_count":norm,"vec":vec.tolist(),"lang_origin":lang_origin,"lang_target":lang_target})
+
                     print "NEW INSERTS:"+str(count)
         except Exception as e:
             print e
@@ -58,7 +124,7 @@ def find_closest(lang_origin,lang_target):
     db = client["nlprokz"]
     target_words = []
     target_words_strings = []
-    for i in db.bilingual_glove_vec.find({"lang_origin":lang_target}):
+    for i in db.bilingual_new_glove_vec.find({"lang_origin":lang_target}):
         target_words.append(i['vec'])
         target_words_strings.append(i['word'])
 
@@ -68,7 +134,7 @@ def find_closest(lang_origin,lang_target):
     target_words =  target_words/ np.linalg.norm(target_words,axis = 0)
 
     count = 0
-    for i in db.bilingual_glove_vec.find({"lang_origin":lang_origin}):
+    for i in db.bilingual_new_glove_vec.find({"lang_origin":lang_origin}):
         origin_word = 1.0*np.array([i['vec']])
         origin_word = origin_word/np.linalg.norm([i['vec']])
 
@@ -77,7 +143,7 @@ def find_closest(lang_origin,lang_target):
         #     word_vec = np.transpose(word_vec)
         #     dist.append(euclidean(origin_word, word_vec))
         # max_similarity = np.argmax(dist[0])
-        # print "STRING:"+i['word']+":"+target_words_strings[max_similarity]
+        # #print "STRING:"+i['word']+":"+target_words_strings[max_similarity]
         # count += 1
         # if count > 10:
         #    break
@@ -87,11 +153,11 @@ def find_closest(lang_origin,lang_target):
         for j in max_index[0][-10:]:
            print "STRING %s: %s : %s" % (i['word'],target_words_strings[j],str(dot_product[0][j]))
         # max_similarity = np.argmax(dot_product[0])
-        # print "STRING:"+i['word']+":"+target_words_strings[max_similarity]+":"+str(dot_product[0][max_similarity])
+        #print "STRING:"+i['word']+":"+target_words_strings[max_similarity]+":"+str(dot_product[0][max_similarity])
         count += 1
-        if count > 10:
-           break
+        if count > 100:
+            break
 
 if __name__ == '__main__':
-    #dump_glove_matrix("eng","eng")
-    find_closest("hin","eng")
+    dump_err_glove_matrix("eng","eng")
+    # find_closest("hin","eng")
