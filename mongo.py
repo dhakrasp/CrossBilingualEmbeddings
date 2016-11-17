@@ -82,6 +82,9 @@ def translate_word(word,lang_target):
     
     elem = db.bilingualvec.find_one({"word":word})
     elem_vec = np.array(elem["vec"])/norm_vector
+    if elem_vec is None:
+        print("Word " + word + " not found!")
+        return
     max_index = elem_vec.argsort()[-10:][::-1]
     words = sorted(db.hinglish.find({"lang":lang_target}).distinct("words"))
     print(max_index)
@@ -103,15 +106,16 @@ def find_closest(lang_origin,lang_target):
     norm_vector = 1.0*np.sum(target_words,axis=0)
     target_words =  target_words/(norm_vector)
     target_words =  target_words/(norm_vector)
-    target_words =  target_words/ np.linalg.norm(target_words)
     target_words = np.transpose(np.array(target_words))
+    target_words =  target_words/ np.linalg.norm(target_words, axis=0)
+    
 
     count = 0
     for i in db.bilingualvec.find({"lang_origin":lang_origin}):
         origin_word = 1.0*np.array([i['vec']])
         origin_word = origin_word/np.sum(origin_word)
         origin_word = origin_word/norm_vector
-        origin_word = origin_word/np.linalg.norm([i['vec']])
+        origin_word = origin_word/np.linalg.norm([origin_word])
 
         # dist = []
         # for word_vec in target_words:
@@ -124,17 +128,49 @@ def find_closest(lang_origin,lang_target):
         #    break
 
         dot_product = np.dot(origin_word,target_words)
-        max_index = dot_product.argsort()[-1:][::-1]
-        for j in max_index[0][-10:]:
+        max_index = dot_product.argsort()[-5:][::-1]
+        for j in max_index[0][-5:]:
            print "STRING:"+i['word']+":"+target_words_strings[j]+":"+str(dot_product[0][j])
         # max_similarity = np.argmax(dot_product[0])
         # print "STRING:"+i['word']+":"+target_words_strings[max_similarity]+":"+str(dot_product[0][max_similarity])
         count += 1
-        if count > 10:
+        if count > 100:
            break
+
+def get_vector(word, lang_origin, lang_target):
+    client = MongoClient("localhost", 27017)
+    db = client["nlprokz"]
+    word_entry = db.bilingualvec.find_one({"lang_origin":lang_origin, "word":word, "lang_target":lang_target})
+    if word_entry is None:
+        return None
+    print(word)
+    vec = 1.0*np.array(word_entry['vec'])
+    return vec
+
+def get_sentence_vector(sentence, lang_origin, lang_target):
+    lang_origin = "eng"
+    lang_target = "hin"
+    sentence = ['Temples', 'in', 'India', 'are', 'very', 'beautiful', '.']
+    sent_vector = None
+    for word in sentence:
+        word_vector = get_vector(word.lower(), lang_origin, lang_target)
+        if word_vector is not None:
+            if sent_vector is None:
+                sent_vector = word_vector
+            else:
+                sent_vector += word_vector
+    return sent_vector
+
+
 if __name__ == '__main__':
     # dump_sentences()
     # dump_matrix("eng","hin")
     # dump_matrix("hin","hin")
     # find_closest("eng","hin")
-    translate_word("prays","hin")
+    # translate_word("hill","hin")
+    lang_origin = "eng"
+    lang_target = "hin"
+    sentence = ['Train', 'runs', 'fast', '.']
+    sent_vector = get_sentence_vector(sentence, lang_origin, lang_target)
+    print(sent_vector)
+    
