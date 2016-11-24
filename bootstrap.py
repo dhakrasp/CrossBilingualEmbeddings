@@ -137,9 +137,7 @@ def find_closest(lang_origin,lang_target):
 		if count > 100:
 		   break
 
-def get_vector(word, lang_origin, lang_target):
-	client = MongoClient("localhost", 27017)
-	db = client["nlprokz"]
+def get_vector(word, lang_origin, lang_target, db):
 	word_entry = db.bilingualvec.find_one({"lang_origin":lang_origin, "word":word, "lang_target":lang_target})
 	if word_entry is None:
 		return None
@@ -147,12 +145,10 @@ def get_vector(word, lang_origin, lang_target):
 	vec = vec/np.linalg.norm(vec)
 	return vec
 
-def get_sentence_vector(sentence, lang_origin, lang_target):
-	# lang_origin = "eng"
-	# lang_target = "hin"
+def get_sentence_vector(sentence, lang_origin, lang_target, db):
 	sent_vector = None
 	for word in sentence:
-		word_vector = get_vector(word.lower(), lang_origin, lang_target)
+		word_vector = get_vector(word.lower(), lang_origin, lang_target, db)
 		if word_vector is not None:
 			if sent_vector is None:
 				sent_vector = word_vector
@@ -180,18 +176,20 @@ def get_sentences(filename):
 	return sentences
 
 def get_sentence_matrix(sentences, lang_origin, lang_target):
+	client = MongoClient("localhost", 27017)
+	db = client["nlprokz"]
 	matrix = []
 	c = 0
 	for s in sentences:
-		sent_vector = get_sentence_vector(s, lang_origin, lang_target)
+		sent_vector = get_sentence_vector(s, lang_origin, lang_target, db)
 		if sent_vector is None:
 			print("Sentence vetor not found.")
 			print "%s"%" ".join(s)
 		else:
 			matrix.append(sent_vector)
 		c += 1
-		if c > 100:
-			break
+		# if c > 300:
+		# 	break
 	return matrix
 
 
@@ -217,61 +215,15 @@ def align_sentences(filename1, filename2):
 		if i == j:
 			acc += 1.0
 		print("%s"%" ".join(hs))
-		print('_'*30)
+		print(corr[i][j])
+		print('_'*60)
 	print(100*acc/l[1])
-
-	# for e in eng_sentences[1:]:
-	# 	best_sim =  0
-	# 	best_in = 0
-	# 	eng_sent_vec = get_sentence_vector(e, "eng", "hin")
-	# 	if eng_sent_vec is None:
-	# 		# print("English sentence vector not generated!")
-	# 		continue
-	# 	index = 0
-	# 	hin_mat = []
-	# 	for h in hin_sentences:
-	# 		hin_sent_vec = get_sentence_vector(h, "hin", "hin")
-	# 		if hin_sent_vec is not None:
-	# 			hin_mat.append(hin_sent_vec)
-
-	# 		dot_product = np.dot(eng_sent_vec,np.transpose(hin_sent_vec))
-	# 		if dot_product > best_sim:
-	# 			best_sim = dot_product
-	# 			best_in = index
-	# 		index += 1
-	# 	alignment.append(best_in)
-	# 	similarity.append(best_sim)
-	# 	print(e)
-	# 	print(hin_sentences[best_in])
-	# 	print("\n" + '-'*30 + "\n")
-	# 	count += 1
-	# 	if count > 2:
-	# 		break
-
-	# for i in xrange(len(eng_sentences)):
-	# 	print(eng_sentences[i])
-	# 	j = alignment[i]
-	# 	print(hin_sentences[j])
-
-
 
 if __name__ == '__main__':
 	# dump_sentences()
 	# dump_matrix("eng","hin")
 	# dump_matrix("hin","hin")
-	# find_closest("eng","hin")
-	# translate_word("hill","hin")
 
-	# lang_origin = "eng"
-	# lang_target = "hin"
-	# sentence = ['Train', 'runs', 'fast', '.']
-	# sent_vector = get_sentence_vector(sentence, lang_origin, lang_target)
-	# print(sent_vector)
-	filename1 = 'Corpus/test/eng_tourism_set03.txt'
-	filename2 = 'Corpus/test/hin_tourism_set03.txt'
+	filename1 = 'Corpus/test/eng_tourism_set04.txt'
+	filename2 = 'Corpus/test/hin_tourism_set04.txt'
 	align_sentences(filename1, filename2)
-	# hin_sentences = get_sentences(filename2)
-	# eng_sentences = get_sentences(filename1)
-	# hm = get_sentence_matrix(hin_sentences, "hin", "hin")
-	# em = get_sentence_matrix(eng_sentences, "eng", "hin")
-	# print(m)
