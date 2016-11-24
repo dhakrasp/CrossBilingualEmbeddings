@@ -1,0 +1,30 @@
+join files
+\\(\S+) remove every POS tags
+\\ remove excess \
+join both files to filej
+	$~/tools/cdec/corpus/paste-files.pl english hindi > en_hi
+randomize lines in filej
+	$python shuffle.py en_hi
+split filej into both lang file
+	$~/tools/cdec/corpus/cut-corpus.pl 1 <en_hi_reshuffled >corpus.en
+	$~/tools/cdec/corpus/cut-corpus.pl 2 <en_hi_reshuffled >corpus.hi
+get training and test data
+	$head -n 23000 corpus.en > train.en
+	$ head -n 23000 corpus.hi > train.hi
+	$ tail -n 2000 corpus.en > test.en
+	$ tail -n 2000 corpus.hi > test.hi
+get vector space for both languages-got vectors for words
+
+find the alignments between parallel training texts
+so given a word s it will be aligned to words t1,t2,t3... ( take top 5? words and make a table ( sort of phrase table but for word a piece) also get probability for this p1,p2,p3...)
+so structure will be sort of:
+[s]->[w1]+[p1]
+[s]->[w2]+[p2]
+[s]->[w3]+[p3]
+...
+so source word s goes to word w1 with prob p1
+[q] signify word-vector of q
+
+so now train a neural network 
+with input [s] ||| output [w1]+[p1] for full table
+test
