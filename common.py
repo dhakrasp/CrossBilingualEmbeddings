@@ -89,8 +89,13 @@ def dump_matrix(lang_origin,lang_target, sent_coll_name, vec_coll_name):
 
 if __name__ == '__main__':
 	sent_coll_name = "hinglish"
-	path = 'Corpus/small/'
 	vec_coll_name = "bilingualvec"
+	path = 'Corpus/Train/Hindi_Marathi'
 	dump_sentences(sent_coll_name, path)
+	
+	path = 'Corpus/Train/Hindi_English'
+	dump_sentences(sent_coll_name, path)
+
 	dump_matrix("eng","hin", sent_coll_name, vec_coll_name)
+	dump_matrix("mar","hin", sent_coll_name, vec_coll_name)
 	dump_matrix("hin","hin", sent_coll_name, vec_coll_name)

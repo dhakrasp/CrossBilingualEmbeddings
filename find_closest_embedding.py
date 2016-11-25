@@ -31,8 +31,8 @@ def find_closest(lang_origin,lang_target):
         for j in max_index[0][-5:]:
            print "STRING:"+i['word']+":"+target_words_strings[j]+":"+str(dot_product[0][j])
         count += 1
-        if count > 10:
+        if count > 100:
            break
 
 if __name__ == '__main__':
-    find_closest("eng","hin")
+    find_closest("mar","hin")

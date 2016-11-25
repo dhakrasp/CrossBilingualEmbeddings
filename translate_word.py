@@ -11,7 +11,7 @@ def translate_word(word,lang_target):
         target_words.append(i['vec'])
 
     target_words = np.array(target_words)
-    norm_vector = 1.0*np.sum(target_words,axis=0)    
+    norm_vector = 0.001+1.0*np.sum(target_words,axis=0)    
     
     elem = db.bilingualvec.find_one({"word":word})
     elem_vec = np.array(elem["vec"])/norm_vector
@@ -24,4 +24,4 @@ def translate_word(word,lang_target):
         print(words[i] + " " + str(i) + " " + str(elem_vec[i]))
 
 if __name__ == '__main__':
-    translate_word("fountain","hin")
+    translate_word("varanasi","mar")

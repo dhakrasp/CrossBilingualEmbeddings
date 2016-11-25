@@ -13,7 +13,7 @@ def get_word_vector(word, lang_origin, lang_target, collection):
 	if word_entry is None:
 		return None
 	vec = 1.0*np.array(word_entry['vec'])
-	vec = vec/np.linalg.norm(vec)
+	vec = vec/(np.linalg.norm(vec)+0.001)
 	return vec
 
 def get_sentence_vector(sentence, lang_origin, lang_target, collection):
@@ -27,7 +27,7 @@ def get_sentence_vector(sentence, lang_origin, lang_target, collection):
 				sent_vector += word_vector
 	if sent_vector is not None:
 		# print("Normalising...")
-		sent_vector = sent_vector/np.linalg.norm(sent_vector)
+		sent_vector = sent_vector/(np.linalg.norm(sent_vector)+0.001)
 	return sent_vector
 
 def get_sentences(filename):
@@ -74,9 +74,9 @@ def align_sentences(filename1, filename2, collection_name):
 
 	print(lang_origin+"----->"+lang_target)
 
-	target_mat = get_sentence_matrix(target_sents, lang_target, lang_target, coll)
+	target_mat = get_sentence_matrix(target_sents, lang_target, "hin", coll)
 	target_mat = np.transpose(target_mat)
-	orgin_mat = get_sentence_matrix(origin_sents, lang_origin, lang_target, coll)
+	orgin_mat = get_sentence_matrix(origin_sents, lang_origin, "hin", coll)
 	corr = np.dot(orgin_mat, target_mat)
 	l = corr.shape
 	acc = 0.0
@@ -91,6 +91,6 @@ def align_sentences(filename1, filename2, collection_name):
 	print(100*acc/l[1])
 
 if __name__ == '__main__':
-	filename1 = 'Corpus/test/eng_tourism_set04.txt'
-	filename2 = 'Corpus/test/hin_tourism_set04.txt'
-	align_sentences(filename1, filename2, 'bilingual_new_glove_vec')
+	filename1 = 'Corpus/Test/eng_tourism_set04.txt'
+	filename2 = 'Corpus/Test/hin_tourism_set04.txt'
+	align_sentences(filename1, filename2, 'bilingualvec')
