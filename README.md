@@ -1,6 +1,15 @@
 # CrossBilingualEmbeddings
 A NLP team project for finding the cross bilingual embeddings (dictionary) for English and Hindi.
 
+Hinton[4] gave a hint towards learning distributed representations for symbolic input which was explored in Bengio[5] paper to create neural network based probabilistic language model, this distributed representation led to word2vec[6]. These developments led to usage of vectors as representations for textual data. Word2vec, phrase2vec, doc2vec were all the resultant tools. In simple form word2vec model gives vector representations of words depending on their context in data (on which model is trained). Now this model creates a sort of complex multidimensional space for all vectors (words) of particular language.
+
+These are said to be feature embeddings of words in specific language. Now if we have some sort of vector space in which there are vector representations of two different languages. Than that is said to cross bilingual embeddings. One thing to note is that these embedding are not found directly by say training word2vec model on data containing data from both languages. Bilingual embeddings mean that feature vectors of words for both languages will exist in a certain meaningful way. 
+
+Examples for bilingual embeddings :
+Words like run and दौड़ना in bilingual embedding setting will have vector representations which will be very closed or these two vectors can be mapped to each other through some transformation function.
+Word like book can have vector in some place in between vector points of किताब and दर्ज in this bilingual settings.
+
+
 # References 
 
 [1] GloVe: Global Vectors for Word Representation -- Jeffrey Pennington,   Richard Socher,   Christopher D. Manning http://nlp.stanford.edu/projects/glove/
