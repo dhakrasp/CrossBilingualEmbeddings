@@ -1,7 +1,8 @@
 # CrossBilingualEmbeddings
 A NLP team project for finding the cross bilingual embeddings (dictionary) for English and Hindi.
 
-References 
+# References 
+
 [1] GloVe: Global Vectors for Word Representation -- Jeffrey Pennington,   Richard Socher,   Christopher D. Manning http://nlp.stanford.edu/projects/glove/
 
 
